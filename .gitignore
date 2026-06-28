@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.DS_Store
+page.html
+proto.py
