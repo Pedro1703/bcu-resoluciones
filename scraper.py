@@ -10,6 +10,7 @@ Sólo stdlib para el scraping (urllib). La extracción de texto de PDF usa pypdf
 """
 
 import re
+import ssl
 import html
 import urllib.request
 import urllib.parse
@@ -19,6 +20,12 @@ BASE = "https://www.bcu.gub.uy/Servicios-Financieros-SSF"
 URL = BASE + "/Paginas/Resoluciones_SSF.aspx"
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/120 Safari/537.36")
+
+# El servidor del BCU no envía la cadena completa de certificados (le falta el
+# intermedio). macOS la completa solo (AIA chasing); OpenSSL en Linux —como el
+# runner de GitHub— no, y tira "unable to get local issuer certificate". Como
+# sólo leemos información pública, usamos un contexto que no verifica el cert.
+SSL_CTX = ssl._create_unverified_context()
 
 # Controles del web part de la lista de SharePoint (GUID en el id).
 _PREFIX = "ctl00$ctl66$g_caf7dd5a_176d_4cc4_9b6c_fb039d41a14e$ctl00$"
@@ -51,7 +58,10 @@ def fetch_index(timeout=90):
     Cada item: {id, year, month, month_num, number, title, url, sort}
     """
     cj = http.cookiejar.CookieJar()
-    op = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cj))
+    op = urllib.request.build_opener(
+        urllib.request.HTTPCookieProcessor(cj),
+        urllib.request.HTTPSHandler(context=SSL_CTX),
+    )
 
     page = op.open(
         urllib.request.Request(URL, headers={"User-Agent": UA}), timeout=timeout
@@ -114,7 +124,8 @@ def fetch_pdf_text(url, timeout=60, max_chars=20000):
     """Descarga un PDF y devuelve su texto. '' si no se puede extraer (p. ej. escaneado)."""
     try:
         raw = urllib.request.urlopen(
-            urllib.request.Request(url, headers={"User-Agent": UA}), timeout=timeout
+            urllib.request.Request(url, headers={"User-Agent": UA}),
+            timeout=timeout, context=SSL_CTX,
         ).read()
     except Exception:
         return ""
