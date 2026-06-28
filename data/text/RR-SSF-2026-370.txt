@@ -1,0 +1,83 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La ampliación de denuncia presentada por un particular contra BROU
+por el desconocimiento de operaciones realizadas sobre su cuenta.
+RESULTANDO: 
+I) Que la denunciante fue víctima de una maniobra fraudulenta
+en diciembre de 2023, en la cual terceros la indujeron a error a los efectos de
+obtener un beneficio ilícito;
+II) Que  producto  de  dicha  maniobra,  la  denunciante  informa
+que se solicitaron dos préstamos por montos significativos, incompatibles con
+su perfil como cliente, a los cuales BROU exoneró el pago de intereses; 
+III) Que,  a  entender  de  la  denunciante,  la  aprobación  de
+préstamos de forma remota, por montos relevantes y en forma sucesiva, sin
+una verificación adicional de identidad o confirmación directa con su persona,
+evidencia una falla en los mecanismos de prevención y control que el Banco
+tiene el deber de aplicar para proteger a sus clientes;
+IV) Que la denunciante expresa que en febrero de 2026 solicitó
+a  BROU  una  revisión  integral  del  caso,  considerando  especialmente  su
+condición de víctima de fraude;
+V) Que  la  denunciante  brindó  la  copia  de  la  respuesta
+proporcionada por BROU en la cual se le informa que “Al no aportarse nuevos
+elementos, se mantiene la resolución adoptada, en función de la investigación
+realizada. La operativa no se originó en una vulneración de los sistemas de
+seguridad del Banco.”;
+VI) Que oportunamente, BROU informó a este Banco Central
+que  la  denunciante  brindó  sus  credenciales  y  el  segundo  factor  de
+autenticación para la realización de las transferencias salientes de su cuenta;
+VII) Que  con  fecha  5  de  abril  de  2024,  este  Banco  Central
+informó  a  la  denunciante  que,  en  virtud  de  que  BROU,  no  accedió  a  la
+devolución de los importes de las operaciones cuestionadas, corresponde que
+se dirigiera a la justicia competente. 
+CONSIDERANDO: 
+I) Que de acuerdo con el artículo 366 (Obligaciones de los
+Usuarios) de la Recopilación de Normas de Regulación y Control del Sistema
+Financiero  (RNRCSF), el usuario del instrumento electrónico deberá utilizarlo
+de  acuerdo  con  las  condiciones  del  contrato,  no  divulgar  el  código  de
+identificación personal u otro código a terceros, tomar las medidas adecuadas
+para  garantizar  la  seguridad  del  instrumento,  no  responder  a  intentos  de
+comunicación por medios y formas no acordados con el emisor; entre otras
+obligaciones allí establecidas;
+II) Que  de  acuerdo  con  el  artículo  366  literal  i
+(OBLIGACIONES  DEL EMISOR), vigente al momento  de  las transacciones
+RR-SSF-2026-370     Fecha: 11/06/2026 12:20:12
+cuestionadas, dispone que las transferencias o pagos a terceros realizados
+desde  una  cuenta  bancaria  requerirán  como  mínimo  un  doble  factor  de
+autenticación. Asimismo, deberán establecer medidas de monitoreo y control
+que permitan detectar hechos irregulares vinculados con el uso del instrumento
+o el sistema en el que opera, incluyendo los cambios e intentos de cambios de
+clave,  número  de  identificación  personal,  dirección,  teléfono  y  correo
+electrónico  de  contacto,  medios  establecidos  para  recibir  comunicaciones,
+entre otros;
+III) Que, al momento de  la ocurrencia de  las  transacciones
+cuestionadas, diciembre de 2023, no se encontraba vigente el artículo 364.1 –
+(Autenticación reforzada de clientes) que exige al emisor de un instrumento
+electrónico la existencia de un doble factor de autenticación para la concreción
+de una la solicitud de préstamos;
+IV) Que  de  los  elementos  aportados  surge  que  las
+transferencias de los fondos se realizaron con los elementos de seguridad
+referidos en el Considerando II;
+V) Que la resolución sobre la condonación de la deuda, así
+como  la  solicitud de la denunciante referida  a que el planteo realizado  se
+resuelva a favor de sus intereses, corresponde a un conflicto intersubjetivo de
+intereses entre particulares sobre el cual el Banco Central del Uruguay no tiene
+competencia, debiendo ser resuelto por la vía judicial.
+ATENTO  :   A lo dispuesto en los artículos 37 y 38 de la Ley N°16.696 del 30 de
+marzo de 1995 y modificativas, la Ley Nº 17.250 de fecha 11 de agosto de
+2000,  la  Recopilación  de  Normas  de  Regulación  y  Control  del  Sistema
+Financiero, a la Resolución R. Nº: SSF 785 - 2015 de 24 de noviembre de
+2015,  a  la  Resolución  N°:  D-19-2017  del  18  de  enero  de  2017  y  a  los
+antecedentes que lucen en el expediente N° 2026-50-1-00502.   
+LA JEFA DE DEPARTAMENTO DE CONDUCTAS DE MERCADO
+EN EJERCICIO DE ATRIBUCIONES DELEGADAS POR EL
+SUPERINTENDENTE DE SERVICIOS FINANCIEROS
+RESUELVE:
+1. Dar por concluidas las actuaciones, haciendo saber a la denunciante
+que compete al Poder Judicial dirimir su reclamo.
+2. Notificar a la denunciante y a BROU la resolución adoptada.
+                                                 VERONICA VILLETE
+                                                               Jefe de Departamento
+         Conductas de Mercado
+RR-SSF-2026-370     Fecha: 11/06/2026 12:20:12
+Exp. 2026-50-1-00502 
+ Publicable: Si - Firmante: VERÓNICA VILLETE BAROFFIO
