@@ -1,0 +1,143 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: Las  disposiciones  contenidas  en  los  artículos  173.2  y  173.3  de  la
+Recopilación  de  Normas  de  Regulación  y  Control  del  Sistema  Financiero
+incorporados por la Resolución comunicada por medio de la Circular 2.498 de 3
+de marzo de 2026.
+RESULTANDO: 
+I) Que el artículo 173.2 establece que como resultado del proceso de revisión
+y  evaluación  supervisora,  la  Superintendencia  de  Servicios  Financieros
+asignará  a  las  instituciones  una  calificación,  que  determinará  un
+requerimiento de capital en función de los activos y riesgos y compromisos
+contingentes ponderados por riesgo de crédito, de contraparte, de mercado
+y operacional.
+II) Que, en materia de concentración de riesgo de crédito en el sector no
+financiero, el artículo 173.3 incorpora un requerimiento por concentración
+individual y un requerimiento por concentración sectorial para los que se
+deberá calcular los respectivos índices de concentración, que determinarán
+el cargo de capital correspondiente como porcentaje de los activos y riesgos
+y compromisos contingentes ponderados por riesgo de crédito.
+CONSIDERANDO: 
+I) Que resulta necesario establecer los requerimientos de capital referidos en
+RESULTANDO  I)  asociados  a  las  calificaciones  de  las  instituciones  en
+función de la metodología CERT. 
+II) Que  resulta  necesario  establecer  la  forma  de  cálculo  del  índice  de
+concentración individual y del índice de concentración sectorial, así como
+establecer  las  escalas  para  los  respectivos  requerimientos  de  capital
+referidos en RESULTANDO II).
+ATENTO  :   A lo dispuesto en el literal A) del artículo 38 de la Ley Nro. 16.696 del
+30 de marzo de 1995 en la redacción dada por el artículo 2 de la Ley Nro.
+20.345  del  19  de  setiembre  de  2024  y  a  los  informes  emitidos  por  esta
+Superintendencia de Servicios Financieros.
+SE RESUELVE:
+Establecer  que  los  bancos, bancos  minoristas, bancos  de  inversión,  casas
+financieras, instituciones financieras externas, cooperativas de intermediación
+financiera y cooperativas de intermediación financiera minoristas, a efectos del
+cálculo de los requerimientos de capital derivado del proceso de revisión y
+evaluación supervisora y por concentración de riesgo de crédito en el sector no
+financiero, establecidos en los artículo 172.2 y 173.3 de la Recopilación de
+Normas  de  Regulación  y  Control  del  Sistema  Financiero  respectivamente,
+deberán ajustarse a las siguientes disposiciones:
+RR-SSF-2026-199     Fecha: 30/03/2026 14:09:08
+1. A efectos  de  la  determinación  del  requerimiento  de  capital  derivado  del
+proceso  de  revisión  y  evaluación  supervisora  será  aplicable  la  siguiente
+escala:
+Calificación –
+Metodología
+CERT
+% de los activos y
+riesgos y compromisos
+contingentes
+ponderados por riesgo
+de crédito, de
+contraparte, de
+mercado y operacional
+1 0
+1- 0
+2+ 0
+2 0,25
+2- 0,50
+3+ 0,75
+3 1
+3- 1,5
+4+ 2
+4 2,5
+4- 3
+5+ 3,5
+5 4
+2. A efectos  del  cálculo  del  requerimiento  de  capital  por  concentración  de
+riesgo  de  crédito  en  el  sector  no  financiero,  se  deberá  considerar  lo
+siguiente:
+A. CONCENTRACIÓN INDIVIDUAL
+Se deberá proceder al cálculo del Índice de Concentración Individual
+(ICI)  considerando  los  riesgos  directos  y  contingentes,  sin  deducir
+provisiones,  del  sector  no  financiero  residente  y  no  residente,
+excluyendo  al  Estado  como  persona  jurídica  (riesgos  asumidos  por
+Poderes  Ejecutivo,  Legislativo  y  Judicial,  los  Ministerios,  la  Corte
+Electoral,  el  Tribunal  de  Cuentas,  el  Tribunal  de  lo  Contencioso  –
+Administrativo y los entes de la enseñanza).
+Se tomará en cuenta los 1.000 mayores deudores sean éstos personas
+físicas  o  jurídicas,  considerando  a  estos  efectos  los  deudores  que
+conforman un conjunto económico como si fuera un único deudor. Si el
+número de deudores no supera el número de 1.000 el cálculo se hará
+sobre el conjunto total de los deudores.
+El cálculo del ICI es conforme la siguiente fórmula, donde X i  es el valor
+del riesgo directo más contingente de cada deudor:
+RR-SSF-2026-199     Fecha: 30/03/2026 14:09:08
+Será aplicable la siguiente escala para el requerimiento de capital según
+el valor obtenido del ICI. En caso que el valor del ICI se ubique entre dos
+de los valores de la escala, el requerimiento de capital se determina por
+interpolación lineal.
+ICI
+% de los activos y riesgos y
+compromisos  contingentes
+ponderados  por  riesgo  de
+crédito de los 1.000 mayores
+deudores
+0,1 0
+0,15 0,032
+0,3 0,136
+0,6 0,288
+1,2 0,496
+2,4 1,12
+4,8 2,408
+9,6 4,632
+>=42,8 20
+B. CONCENTRACIÓN SECTORIAL
+Se  deberá  proceder  al cálculo del  Índice de Concentración  Sectorial
+(ICS)  considerando  los  riesgos  directos  y  contingentes,  sin  deducir
+provisiones, del sector no financiero residente, exceptuando personas
+físicas (Sector Consumo y Vivienda), el Estado como persona jurídica
+(riesgos  asumidos  por   Poderes  Ejecutivo,  Legislativo  y  Judicial, los
+Ministerios, la Corte Electoral, el Tribunal de Cuentas, el Tribunal de lo
+Contencioso  –Administrativo  y  los  entes  de  la  enseñanza)  y  los
+Gobiernos Departamentales.
+Se agruparán los riesgos directos y contingentes entre los siguientes
+sectores y conforme la siguiente tabla:
+RR-SSF-2026-199     Fecha: 30/03/2026 14:09:08
+Si bien se excluyen para el cálculo del ICS los sectores 9 - Consumo y
+Vivienda y 10 -Estado y Gobiernos Departamentales, se los toma en
+cuenta  a  los  efectos  de  determinar  la  participación  relativa  de  cada
+sector.
+El cálculo de ICS es conforme la siguiente fórmula, donde X s es el valor
+de los riesgos directos y contingentes por sector, sin deducir provisiones.
+Será aplicable la siguiente escala para el requerimiento de capital según
+el valor obtenido del ICS:
+ICS
+% de los activos y riesgos y
+compromisos  contingentes
+ponderados  por  riesgo  de
+crédito
+0<ICS<=17 0
+17<ICS<=20 0,16
+20<ICS<=25 0,32
+25<ICS<=33 0,48
+33<ICS<=100 0,64
+1000<ICS 0,8
+VIGENCIA: Lo dispuesto precedentemente regirá a partir del 1 de enero de
+2027.
+JUAN PEDRO CANTERA
+Superintendente de Servicios Financieros
+RR-SSF-2026-199     Fecha: 30/03/2026 14:09:08
+Exp. 2025-50-1-02304 
+ Publicable: Si - Firmante: JUAN PEDRO CANTERA SENCIÓN

@@ -1,0 +1,66 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO:           La denuncia presentada por un particular con fecha 14 de
+octubre de 2025 contra Banco de la República Oriental del Uruguay, por el
+desconocimiento de una transferencia realizada desde su caja de ahorros a la
+cuenta de un tercero en dicha institución.
+RESULTANDO  :  
+I) Que la denunciante informó que el día 16 de setiembre del
+corriente constató un movimiento inusual en su caja de ahorros y señaló que el
+importe debitado por USD 3.450 y el posterior crédito parcial del mismo no fue
+realizado por ninguno de los titulares de la cuenta; 
+II) Que  BROU  expresó  que  la  transacción  cuestionada  se
+validó con la llave digital virtual asociada al usuario de la cliente;
+III)Que  BROU  señaló  que  la  operativa  del  fraude  no  se
+sustenta en una falla de seguridad del banco, y que se sospecha de un caso de
+phishing;
+IV) Que  BROU  manifestó  haber  realizado  gestiones  de
+recupero de los fondos; sin éxito. Señaló que el beneficiario de los fondos no
+autorizó  la  devolución  de  estos,  en  virtud  que,  de  acuerdo  con  su  relato,
+corresponde a la venta de celulares. Éste le informó que “primeramente iba a
+vender tres  celulares, pero luego solo vende dos, por lo que procedió a la
+devolución de USD 1000 a la cuenta de la denunciante.
+CONSIDERANDO  :  
+I) Que el artículo 365 - Responsabilidades del Emisor de la
+Recopilación  de  Normas  de  Regulación  y  Control  del  Sistema  Financiero
+(RNRCSF)  establece  que  el  emisor  de  un  instrumento  electrónico  será
+responsable frente al usuario de: “c) Todos los importes imputados en la cuenta
+del cliente que se originen por el mal funcionamiento del sistema o por fallas en
+su seguridad, y no sean atribuibles a incumplimientos de las obligaciones del
+usuario”; 
+II) Que de acuerdo con el artículo 366 (Obligaciones de los
+Usuarios) de la Recopilación de Normas de Regulación y Control del Sistema
+Financiero  (RNRCSF), el usuario del instrumento electrónico deberá utilizarlo
+de  acuerdo  con  las  condiciones  del  contrato,  no  divulgar  el  código  de
+identificación personal u otro código a terceros, tomar las medidas adecuadas
+para  garantizar  la  seguridad  del  instrumento,  no  responder  a  intentos  de
+RR-SSF-2026-78     Fecha: 03/02/2026 15:45:01
+comunicación por medios y formas no acordados con el emisor; entre otras
+obligaciones allí establecidas;
+III)Que de los elementos aportados no surge evidencia de que
+haya  existido  una  falla  del  sistema  de  seguridad  del  producto  o  servicio
+contratado  ya  que  las  operaciones  se  realizaron  con  los  elementos  de
+seguridad dispuestos;
+IV)  Que la resolución del presente conflicto, en lo que refiere a
+la  devolución  de  los  fondos  transferidos,  se  encuentra  más  allá  de  las
+competencias del Banco Central del Uruguay, por lo que el caso debe ser
+dilucidado por el Poder Judicial; 
+V) Que se ha realizado y culminado el análisis correspondiente.
+ATENTO  :    A lo dispuesto en los artículos 37 y 38 de la Ley N°16.696 del 30 de
+marzo de 1995, en la redacción dada por la Ley N° 20.345 de 19 de setiembre
+de 2024, la Ley Nº 17.250 de fecha 11 de agosto de 2000, a la Recopilación de
+Normas de Regulación y Control del Sistema Financiero,  a la Resolución R. Nº:
+SSF 785 - 2015 de 24 de noviembre de 2015, a la Resolución R. N°: D-19-2017
+del 18 de enero de 2017 y a los antecedentes que lucen en el expediente N°
+2025-50-1-01930. 
+LA JEFA DE DEPARTAMENTO DE CONDUCTAS DE MERCADO EN
+EJERCICIO DE ATRIBUCIONES DELEGADAS POR EL
+SUPERINTENDENTE DE SERVICIOS FINANCIEROS 
+RESUELVE:
+1) Dar por concluidas las actuaciones, haciéndole saber al denunciante que
+en relación con la devolución de los fondos que se reclaman compete al
+Poder Judicial dirimir su reclamo.
+2) Comunicar a la denunciante y a BROU la resolución adoptada.
+RR-SSF-2026-78     Fecha: 03/02/2026 15:45:01
+Exp. 2025-50-1-01930 
+ Publicable: Si - Firmante: VERÓNICA VILLETE BAROFFIO

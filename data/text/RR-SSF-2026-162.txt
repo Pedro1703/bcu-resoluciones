@@ -1,0 +1,286 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La  actuación  de  supervisión  realizada  en  GLOBAL  SECURITIES
+SERVICIOS Y MANDATOS AGENTE DE VALORES S.A. durante el año 2025.
+RESULTANDO: 
+I) Que el objetivo de la actuación a que refiere el VISTO, fue la realización de
+una  actuación enfocada  en la estructura  organizacional, tercerizaciones,
+aspectos vinculados a protección al inversor y al sistema de prevención de
+lavado de activos, financiamiento del terrorismo y proliferación de armas de
+destrucción masiva.
+II) Que  a  raíz  de  la  mencionada  actuación  se  detectaron  los  siguientes
+incumplimientos:
+a) En  una  muestra  de  12  carpetas,  en  5  casos  no  se  encontraba  el
+contrato.
+b) De una muestra analizada de 12 carpetas de clientes se detectaron 5
+casos en los que no se encontraba la ficha del cliente.
+c) Con relación a la tercerización de servicios con Amazon Com Services
+LLC.  se  omitió  solicitar  la  autorización  previa  de  precepto  para  la
+tercerización de servicios.
+d) Los  proveedores  de  servicios  de  debida  diligencia,  Boston  Advisory
+Group Limited, Kahn Advisors Td, Carta Financiera SA y Sucre Advisors
+LTD, se encuentran radicados en Islas Vírgenes Británicas, jurisdicción
+que a partir del 13 de junio de 2025 pasó a integrar la lista de países
+bajo mayor vigilancia por el Grupo de Acción Financiera Internacional
+(GAFI).
+e) No se mantiene en las oficinas del intermediario la declaración jurada de
+la capacitación del personal vinculado a las empresas donde se han
+tercerizado la debida diligencia.
+f) Se identificaron casos de clientes de alto riesgo o que manejan montos
+significativos que no presentan documentación de origen de fondos
+g) Debido a que la jurisdicción Islas Vírgenes Británicas pasó a integrar la
+lista de países bajo mayor vigilancia por GAFI, la entidad asignó mayor
+riesgo a aquellos clientes cuyo origen o residencia es dicha jurisdicción.
+Producto del cambio de categoría de riesgo mencionada, el sistema de
+monitoreo generó 42 alertas de quiebre de perfil, las cuales no fueron
+analizadas y fueron todas cerradas con la misma justificación.
+h) En materia del perfil inversor:
+RR-SSF-2026-162     Fecha: 18/03/2026 16:02:48
+i ) El formulario no prevé todos los factores requeridos.
+ii ) La entidad no cuenta con un procedimiento documentado para su
+definición.
+iii )En algunos de los casos examinados:
+ No se encontró el formulario
+ Algunos  clientes  clasificados  como  conservadores  o  muy
+conservadores, tuvieron operativa con fondos de inversión que
+incluyen instrumentos de riesgo.
+ Algunos clientes no poseen formulario firmado, sin embargo, han
+operado y en el inventario poseen perfil inversor agresivo.
+ Un cliente es a su vez asesor financiero, aunque se indica en el
+formulario que no tiene experiencia.
+ Se detectaron casos de clientes que operan con una estrategia
+más agresiva que su perfil y ello no se refleja como desvío en el
+control presentado por la entidad.
+i) No se cuenta con manuales de procedimientos documentados acordes
+al tamaño, naturaleza y complejidad de sus operaciones.
+j) Se ha verificado que, en las operaciones con valores de renta fija, el
+intermediario de valores cobra a los clientes un diferencial de precio que
+no es informado a los clientes como parte del costo de las transacciones
+realizadas por su cuenta y orden en los estados de cuenta.
+k) En materia de debida diligencia, en algunos de los casos examinados:
+i ) No se encontraban identificados los beneficiarios finales. 
+ii ) El  perfil  de  actividad  no  se  encontraba  definido  o  respaldado
+adecuadamente, para clientes de riesgo alto o que manejan montos
+significativos.
+iii )Respecto  de  clientes  de  riesgo  alto  o  que  manejan  montos
+significativos, no existía documentación respaldante del origen de
+fondos  y  se  advirtieron  faltantes  en  cuanto  a  la  justificación  de
+encontrarse al día con sus obligaciones tributarias.
+iv )No se contaba con formulario de conocimiento del cliente.
+v ) En 8 casos, el contacto personal realizado al cliente no se encuentra
+documentado adecuadamente
+vi )Algunas carpetas se encontraban desactualizadas.
+vii ) Si  bien  se  realiza  una  recopilación  de  información  pública  del
+cliente,  en  la  confección  de  los  informes  circunstanciados  no  se
+define ni justifica fundadamente el importe del perfil de actividad
+definido,  así  como  tampoco  es  respaldado  con  documentación
+relativa al origen de los fondos.
+RR-SSF-2026-162     Fecha: 18/03/2026 16:02:48
+l) El sistema de monitoreo presentaba problemas, tanto por la calidad de
+los comentarios de cierre de las alertas, como por la documentación
+requerida a la hora de respaldar los desvíos.
+m) Del  análisis  del  registro  de  operaciones  correspondiente  al  período
+enero  a  diciembre  de  2024  se  presentaban  operaciones  por  cuenta
+propia  registradas  en  forma  duplicada.  En  el  caso  de  operaciones
+realizadas para clientes por cuenta propia, se observó que se registraron
+en  tres  líneas  cuando  deberían  registrarse  únicamente  en  dos.
+Adicionalmente,  se  detectaron  operaciones  con  tipo  de  instrumento
+“OTROS”.
+III) Que los resultados de la actuación fueron aprobados por Resolución de la
+Superintendencia  de  Servicios  Financieros  N°  2025  –  631  de  17  de
+noviembre  de  2025  y  comunicados  al  intermediario  por  nota
+NE/4/2023/2146 de la misma fecha.
+IV) Que con fecha 2 de diciembre de 2025 se dio vista a la institución de las
+actuaciones,  el  11  de  diciembre  de  2025  solicitó  una  prórroga  para  su
+evacuación, la cual fue concedida, y el día 22 de diciembre de 2025 se
+presentó un escrito con descargos.
+V) Que en dichos descargos la institución expresa que:
+a) La contratación de Amazon Com Services LLC se encuentra incluida en
+las  autorizaciones  tácitas  de  conformidad  con  lo  previsto  en  la
+Comunicación 2022/254.
+b) Los contratos con Boston Advisory Group Limited y Kahn Advisors Td
+fueron  suscritos  en  el  año  2020,  antes  de  que  las  Islas  Vírgenes
+Británicas  fueran  incluidas  en  la  lista  gris  de  GAFI,  por  lo  que  el
+intermediario no ha incumplido con la normativa.
+c) El intermediario ha presentado con fecha 22 de diciembre de 2025 un
+plan de remediación.
+d) El  intermediario  entiende  que  la  sanción  propuesta  es  de  tal
+envergadura  que  viola  los  principios  del  derecho  administrativo
+sancionatorio.
+CONSIDERANDO: 
+I) Que  conforme  lo  previsto  en  el  artículo  2  de  la  Ley  17.613  de  27  de
+diciembre de 2003, requiere autorización previa la contratación por parte de
+las entidades supervisadas de la prestación en su favor por terceros de
+servicios de tal modo inherentes a su giro que, cuando son cumplidos por
+dependencias  de  la  propia  entidad,  están  sometidos  a  las  potestades
+normativas  y  control  del  Banco  Central  del  Uruguay,  encontrándose
+regulados en los artículos 67.1 y siguientes de la Recopilación de Normas
+de  Mercado  de  Valores,  las  exigencias  específicas  aplicables  a  los
+intermediarios de valores; destacándose que aunque a partir de la vigencia de
+Ley 20.446 de 16 de diciembre de 2024 el requisito de autorización previa ha
+dejado de ser exigible, los hechos infraccionales deben ser ponderados a la luz del
+marco normativo vigente al momento de su acaecimiento.
+RR-SSF-2026-162     Fecha: 18/03/2026 16:02:48
+II) Que el artículo 147.1 de la Recopilación de Normas de Mercado de Valores
+(RNMV)  establece  que  l os  intermediarios  de  valores  deberán  adoptar
+políticas, procedimientos y mecanismos de control que cumplan con las
+definiciones, principios y objetivos dispuestos en los Estándares Mínimos de
+Gestión definidos por la Superintendencia de Servicios Financieros  para
+intermediarios de valores aprobado en enero de 2021.
+III) Que el artículo 189 de la RNMV dispone que los intermediarios de valores
+deberán definir políticas y procedimientos de debida diligencia que deberán
+aplicarse a todos los nuevos clientes y, a los clientes existentes, que les
+permitan obtener un adecuado conocimiento de los mismos, así como del
+beneficiario final, prestando especial atención al volumen y a la índole de
+los negocios u otras actividades económicas que los clientes desarrollen.
+IV) Que  el  artículo  190.1  de  la  RNMV  establece  que  los  intermediarios  de
+valores y las administradoras de fondos de inversión deberán instrumentar
+los procedimientos que estimen más eficaces para verificar la identidad de
+sus clientes antes de establecer una relación definitiva con éstos, para lo
+cual deberán considerar el resultado de la evaluación de riesgo realizada, y
+exige  en  ciertos  casos  que  dicho  procedimiento  contemple  el  contacto
+personal.
+V) Que el artículo 190.2 de la RNMV dispone que los intermediarios de valores
+deberán recabar información para establecer y registrar por medios eficaces
+la identidad del beneficiario final, así como verificar su identidad.
+VI) Que el artículo 191 de la RNMV establece la información mínima que los
+intermediarios de valores deberán manejar en el registro de clientes.
+VII) Que el artículo 191.1 de la RNMV establece que l os intermediarios de
+valores deberán establecer procedimientos que permitan la actualización
+de la información que poseen sobre sus clientes.
+VIII) Que el artículo 193 de la RNMV dispone que l os intermediarios de valores
+deberán determinar el perfil de actividad de sus clientes a efectos de
+monitorear adecuadamente sus transacciones.
+IX) Que  el  artículo  194  de  la  RNMV  establece  que  l os  intermediarios  de
+valores deberán aplicar procedimientos de debida diligencia intensificada
+para  las  categorías  de  clientes,  relaciones  comerciales  u  operaciones
+consideradas de mayor riesgo.
+X) Que el literal b. del artículo 198 de la RNMV dispone que el tercero que
+preste el servicio tercerizado de debida diligencia deberá estar radicado
+en un país que no esté siendo objeto de medidas especiales por parte del
+Grupo de Acción Financiera Internacional (GAFI) y que no esté incluido en
+la lista de países que no cumplen con los criterios de transparencia y
+cooperación  en  materia  fiscal  emitida  por  la  Organización  para  la
+Cooperación y Desarrollo Económico (OCDE).
+XI) Que el literal d.1 del citado artículo 198 obliga a los intermediarios de
+valores  a  mantener  en  sus  oficinas  los  contratos  celebrados  con  la
+RR-SSF-2026-162     Fecha: 18/03/2026 16:02:48
+empresa en la que se tercerizaron los servicios de debida diligencia, así
+como información suficiente y  actualizada que  acredite la  idoneidad  y
+antecedentes del tercero contratado, así como una declaración del mismo
+acerca del personal que realizará la debida diligencia, que acredite que
+conoce  la  regulación  vigente  en  materia de prevención  del lavado de
+activos,  el  financiamiento  del  terrorismo  y  el  financiamiento  de  la
+proliferación de armas de destrucción masiva aplicable a la institución
+contratante y los procedimientos de debida diligencia a aplicar.
+XII) Que el artículo 200 de la RNMV dispone que los intermediarios de valores
+deberán prestar atención a aquellas transacciones que resulten inusuales
+o  complejas  o  de  gran  magnitud  y  dejar  constancia  escrita  de  los
+controles realizados y sus conclusiones.
+XIII) Que el artículo 208.10 de la RNMV establece que los servicios prestados
+por intermediarios de valores deberán estar precedidos por la celebración
+de un contrato escrito.
+XIV) Que  el  literal  a.  del  artículo  210  de  la  RNMV  dispone  que  los
+intermediarios  de  valores  deberán  proporcionar  a  los  inversores  que
+forman parte de su cartera de clientes la especificación de costos en que
+incurrirá  el  inversor  en  los  diferentes  tipos  de  operaciones  ofrecidas
+indicando concepto (cargos, gastos, comisiones, tarifas y otros importes
+aplicables), monto, periodicidad de cobro y carácter obligatorio u optativo
+de cada uno. En caso que alguno de los ítems anteriores pudiera cambiar,
+se deberán indicar las condiciones para su modificación y el medio y el
+plazo que se utilizará para el aviso previo al cliente, y en el caso de
+negociación de valores de la cartera propia, se deberá informar al cliente
+el diferencial de precio aplicado en relación con el precio de mercado del
+instrumento. Este diferencial podrá expresarse en términos absolutos o
+porcentuales.
+XV) Que el artículo 213 de la RNMV dispone que los intermediarios de valores
+deberán determinar las categorías en las cuales clasificarán a cada uno
+de  sus  clientes,  en  función  del  grado  de  riesgo,  sofisticación  y
+conocimiento de cada uno de ellos, con el propósito de identificar los
+diferentes productos y operaciones acordes con dichas categorías.
+XVI) Que el artículo 300 de la RNMV indica los registros que los intermediarios
+de valores deberán llevar, entre los que se encuentran los registros de
+clientes y de operaciones.
+XVII) Que la Comunicación 2023/006 contiene las disposiciones en materia de
+elaboración del registro de operaciones.
+XVIII) Que  los  descargos presentados  no son  de  recibo  por  las siguientes
+razones:
+a) Para el caso de Amazon Com Services LLC no se ha presentado un
+contrato que cumpla con las condiciones exigidas por la normativa
+para que su contratación sea considerada autorizada de forma tácita,
+en particular en lo relativo al acceso irrestricto a la información por
+parte de este Banco. En efecto, el contrato aportado no contiene las
+RR-SSF-2026-162     Fecha: 18/03/2026 16:02:48
+cláusulas exigidas por la normativa vigente, ni permite identificar con
+claridad el alcance de los servicios efectivamente prestados.
+b) El intermediario de valores no queda exento del cumplimiento del
+literal b. del artículo 198 de la RNMV dependiendo la fecha en que se
+haya firmado el contrato, por lo que quien preste en la actualidad
+dicho servicio, no puede estar alojado en este tipo de jurisdicciones.
+c) Las acciones implementadas por la entidad con posterioridad a la
+constatación de las infracciones no enervan su configuración ni la
+eximen de responsabilidad administrativa por tales hechos.
+d) En la especie se ha ejercido la facultad prevista en el artículo 351 de
+la RNMV invocada por la entidad en sus descargos, la cual habilita la
+morigeración  de  la  sanción  reglamentariamente  aplicable;  de  lo
+contrario  al  cúmulo  infraccional  detectado  -en  atención  a  su
+gravedad- le correspondería una sanción más gravosa.
+e) La  fijación  de  la  cuantía  de  la  sanción  constituye  una  potestad
+discrecional de la Administración, debiendo tener relación razonable
+con la gravedad de la infracción atribuida, verificándose en este caso
+varios quebrantamientos normativos de entidad.
+XIX) Que el literal c. del artículo 351 de la RNMV establece el elenco de
+sanciones a las que serán pasibles los intermediarios de valores  que
+infrinjan las normas legales o reglamentarias, o las normas generales e
+instrucciones particulares en la materia dictadas por el Banco Central del
+Uruguay.
+XX) Que  el  artículo  367  de  la  RNMV  dispone  que  las  instituciones
+supervisadas  que  incumplan  con  el  mantenimiento  de  los  registros
+previstos  en  la  normativa  vigente  serán  sancionadas  con  una  multa
+equivalente a diez veces la establecida en el artículo 357.
+XXI) Que  el  artículo  373  de  la  RNMV  dispone  que  l os  intermediarios  de
+valores que no cumplan con el sistema integral para prevenirse de ser
+utilizados en el lavado de activos, el financiamiento del terrorismo y el
+financiamiento de la proliferación de armas de destrucción masiva, serán
+sancionados con una multa equivalente a 50 veces la establecida en el
+artículo 357.
+XXII) Que  el  artículo  374.1  de  la  RNMV  establece  que  en  caso  que  la
+infracción  refiera  a  la  contratación  de  terceros  sin  autorización,  las
+instituciones  serán  sancionadas  con  una  multa  no  inferior  a  26
+(veintiséis) ni superior a 100 (cien) veces la establecida en el artículo
+357.
+XXIII) Que si bien las infracciones detectadas constituyen faltas administrativas
+autónomas  con  sus  respectivas  sanciones  ya  tasadas  en  el  cuerpo
+normativo,  en  virtud  de  que  previo  a  la  actuación  realizada  el
+administrado  no  registra  antecedentes  en  infracciones  de  estas
+características y atendiendo a que los incumplimientos en materia de
+prevención  del  lavado  de  activos  no  refleja  en  una  falla  integral  del
+RR-SSF-2026-162     Fecha: 18/03/2026 16:02:48
+sistema de prevención de dicho riesgo, se entiende razonable, en esta
+oportunidad, aplicar una multa global de UI 200.000.
+XXIV) Que  el  artículo  118  de  la  Ley  18.627  de  2  de  diciembre  de  2009
+establece  que  las  sanciones  dispuestas  por  el  Banco  Central  del
+Uruguay deberán ser publicadas.
+ATENTO  :   A lo dispuesto en el literal L) del artículo 38 de la Ley 16.696 de 30
+de marzo de 1995, en la redacción dada por el artículo 2 de la Ley 20.345 de
+19 de setiembre de 2024, el artículo 2 de la Ley 17.613 de 27 de diciembre de
+2002, los artículos 94, 98 y 118 de la Ley N° 18.627 de 2 de diciembre de 2009,
+los artículos 12, 14, 15 y 16 de la Ley 19.574 de 20 de diciembre de 2017, los
+artículos 67.1 y siguientes, 147.1, 189, 190.1, 190.2, 191, 191.1, 193, 194, 198,
+200, 208.10, 210, 213, 300, 351, 357, 367, 373 y 374.1 de la Recopilación de
+Normas del Mercado de Valores, la Comunicación 2023/006 de 10 de enero de
+2023, en el artículo 91 del Reglamento Administrativo del Banco Central del
+Uruguay, los Dictámenes 2025/517 y 2026/077 de la Asesoría Jurídica y las
+resultancias del expediente administrativo N° 2025- 50-1-02005.
+SE RESUELVE:
+1. Sancionar a GLOBAL SECURITIES SERVICIOS Y MANDATOS AGENTE
+DE VALORES S.A. con una multa de UI 200.000 (doscientas mil unidades
+indexadas)  por  los  incumplimientos  detectados  en  oportunidad  de  la
+actuación de supervisión realizada en el año 2025.
+2. Notificar al interesado. 
+3. Poner en conocimiento del mercado la resolución mediante Comunicación.
+JUAN PEDRO CANTERA
+Superintendente de Servicios Financieros
+RR-SSF-2026-162     Fecha: 18/03/2026 16:02:48
+Exp. 2025-50-1-02005 
+ Publicable: Si - Firmante: JUAN PEDRO CANTERA SENCIÓN

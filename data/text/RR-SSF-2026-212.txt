@@ -1,0 +1,285 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: Los procedimientos contables utilizados para reflejar las operaciones que se
+efectúan en la administración de los Subfondos de Ahorro Previsional previstos en la
+Comunicación 2000/101 y modificativas.
+RESULTANDO:  Que,  los  procedimientos  contables  referidos  en  el  VISTO  se
+encuentran contenidos en distintas Comunicaciones, lo que puede dificultar el acceso
+a los mismos y, por consiguiente, su correcta aplicación.
+CONSIDERANDO:  Que  resulta  necesaria  la  compilación  de  los  mencionados
+procedimientos contables en una única norma.
+ATENTO: A lo dispuesto en el artículo 38, literal I) de la Ley 16.696 del 30 de marzo de
+1995 en la redacción dada por el artículo 2 de la Ley 20.345 de 19 de setiembre de
+2024 y a los informes técnicos de la Superintendencia de Servicios Financieros en
+expediente 2026-50-1-00122.
+SE RESUELVE:
+1. Sustituir los procedimientos contables utilizados para reflejar las operaciones que
+se efectúan en la administración de los Subfondos de Ahorro Previsional previstos
+en la Comunicación 2000/101 y modificativas por los siguientes:
+PROCEDIMIENTOS CONTABLES 
+Las operaciones que se efectúan en la administración del Fondo de Ahorro Previsional con el
+concepto de valor cuota y la incorporación de la Reserva Especial, dan lugar a la siguiente
+redefinición de los procedimientos contables a utilizarse en cada una de ellas. 
+I. CRITERIOS GENERALES 
+1.  La  registración  contable  de  las  operaciones  del  total  del  Fondo  de  Ahorro  Previsional
+administrado se ha de efectuar en moneda nacional. Sin perjuicio de ello, las Administradoras
+que lo estimen pertinente podrán efectuar la contabilización en dos monedas, pesos y cuotas,
+como  si  la  cuota  fuese  una  moneda.  En  todos  los  casos  deberán  llevarse  registros
+extracontables por afiliado, en los que se deje constancia de los movimientos en pesos y en
+cuotas de las cuentas de ahorro individual.
+ 
+2. Todo aporte proveniente de los afiliados debe ingresar al FAP por el rubro Recaudación en
+Proceso  de  Acreditación,  salvo  la  acreditación  de  los  aportes  en  exceso  como  aportes
+voluntarios. Los recursos provenientes de la Administradora de Fondos de Ahorro Previsional
+para  la  Reserva  Especial  deben  ingresar  por  el  rubro  AFAP  –  Reserva  Especial.  Toda
+acreditación de rentabilidad debe ingresar por el rubro Rentabilidad a Distribuir.
+3. El valor de la cuota sólo se modificará por: - los movimientos en las cuentas de Rentabilidad
+a distribuir, - las transferencias desde y hacia el Fondo de Fluctuación en aplicación de los
+artículos 119 y 120 de la Ley Nº 16.713, excepto en el caso de disolución de la Administradora
+como consecuencia de una fusión (art. 3 del Decreto Nº 126/001), - la aplicación de Reserva
+Especial o las transferencias del Estado por aplicación de los Arts. 122°, 139° y 140° de la Ley
+16.713 en las cuentas de Reserva Especial. 
+4. El aumento de la cantidad de cuotas se producirá cuando ingresen fondos a los rubros
+Recaudaciones  en  Proceso  de  Acreditación  o  cuando  se  integre  Fondo  de  Fluctuación.
+También se producirá un aumento de cuotas cuando ingresen fondos, no provenientes de
+transferencias diarias de rentabilidad, a la cuenta AFAP – Reserva Especial La disminución de
+RR-SSF-2026-212     Fecha: 01/04/2026 17:33:00
+cuotas  se  producirá  cuando  se  traspasen  o  transfieran  afiliados,  se  aplique  Fondo  de
+Fluctuación (excepto en el caso de disolución de la Administradora como consecuencia de una
+fusión), o se paguen aportes en exceso.
+También se producirá una disminución de cuotas cuando se retire o aplique Reserva Especial. 
+5. El valor de los activos del FAP es el saldo en pesos de la suma del título 3.0.0.0.0.0.0.000
+PATRIMONIO más el título 2.0.0.0.0.0.0.000 PASIVO. En consecuencia siempre se cumple que
+el monto de los activos del FAP en pesos es igual al producto de la cantidad de cuotas totales
+por el valor de la cuota. Los aportes en exceso pendientes de entrega al afiliado, si bien no
+pertenecen al FAP, desde un punto de vista operativo se los considera incluidos en el mismo. 
+6. El valor de la cuota a utilizar en todas las transacciones que impliquen variaciones en el
+número de cuotas, será el formulado conforme al Art. 14 del Dto. 526/96, y se denominará valor
+cuota de cálculo. 7. Los fondos recibidos se convertirán a cuotas en su totalidad, al acreditarse
+en los rubros Recaudaciones en Proceso de Acreditación o AFAP - Reserva Especial, en el
+momento de su recepción, utilizando el valor cuota de cálculo. 8. Las deducciones admitidas al
+FAP  de  los  literales  A)  y  B)  del  Art.  114  de  la  Ley  16.713  se  efectuarán  aplicando  los
+porcentajes de comisiones vigentes, sobre la aportación que le dio origen en moneda nacional,
+en el momento de su débito en las cuentas de capitalización individual. Las deducciones del
+literal E) del mismo artículo se efectuarán aplicando el porcentaje correspondiente, sobre el
+saldo  de  las  cuentas individuales  al  último  día  del  mes  anterior.  En  cuotas,  el débito  se
+calculará utilizando el valor cuota de cálculo. 9. A los efectos de una correcta exposición, el
+crédito  que  se  efectúe  por  los  aportes  provenientes  del  BPS,  en  la  subcuenta  Aportes
+Obligatorios, no deberá incluir el aporte en exceso, el que se registrará en la subcuenta Aportes
+en Exceso. El cálculo del crédito se realizará utilizando el monto de aportación que le dio origen
+en moneda nacional. En cuotas, el crédito se calculará utilizando el valor cuota de cálculo.
+II. PROCEDIMIENTOS CONTABLES 
+1. Consideraciones generales 
+1.1.  Adecuación  de  los  estados  contables  al  sistema  de  valor  cuota  para  todas  las
+Administradoras  al  30  de  junio  de  1997  La  cantidad  de  cuotas  a  que  equivale  el  FAP
+administrado al 30 de junio de 1997 y su valor, constituye el punto de partida en la aplicación
+del sistema  instaurado  por el Decreto  N°  526/96.  Su  determinación  deberá  efectuarse  de
+acuerdo a lo establecido por el Decreto y conforme al procedimiento dispuesto por el Banco
+Central del Uruguay.
+1.2. Incorporación de la Reserva Especial en el Fondo de Ahorro Previsional De acuerdo al
+artículo 121 de la Ley N° 16.713 en la redacción dada por el artículo 54 de la Ley N° 17.243 de
+29 de junio de 2000, la Reserva Especial se debe representar en cuotas del Fondo de Ahorro
+Previsional. En tal sentido, se define el Fondo de Ahorro Previsional como el total del activo del
+Fondo  de  Ahorro  Previsional  deducida  la  Reserva  Especial.  La  Reserva  Especial  será
+considerada como Pasivo a todos los efectos que correspondan. Al 1 de agosto de 2000 los
+activos de la Reserva Especial incluidos en el portafolio de las Administradoras podrán ingresar
+al activo del FAP sobre la base de su valuación al 31 de julio de 2000, respetando los límites
+correspondientes.
+2.  Rentabilidad  Diaria.  La  registración  de  la  rentabilidad  diaria  es  el  último  paso  en  la
+contabilización de cada día y a partir del mismo se modifica el valor de la cuota. Diariamente se
+determinará la variación en la valuación de los activos del FAP, según las normas de valuación
+vigentes.
+Esta  registración  dará  lugar  a  un  débito  en  las  respectivas  cuentas  del  capítulo
+1.2.0.0.0.0.0.000 INVERSIONES y se acreditará la cuenta 3.5.1.0.0.0.0.000 RENTABILIDAD
+NETA. Si se produjeran pérdidas el asiento contable será en sentido inverso. 
+A continuación  se  efectuará  la  distribución  de  la  rentabilidad  calculada  precedentemente,
+debitando la cuenta 3.5.1.0.0.0.0.000 RENTABILIDAD NETA por igual importe y acreditando las
+cuentas:  3.1.5.0.0.0.0.000,  3.2.5.0.0.0.0.000,  3.3.5.0.0.0.0.000,  3.4.5.0.0.0.0.000,
+3.6.5.0.0.0.0.000,  3.7.5.0.0.0.0.000  y  2.1.5.0.0.0.0.000  RENTABILIDAD.  La  distribución  se
+efectuará prorrateando dicha partida de acuerdo a la participación de los saldos contabilizados
+en pesos de los capítulos contables, a los que pertenecen los rubros a acreditar dentro del
+Patrimonio del Fondo y la Reserva Especial.
+RR-SSF-2026-212     Fecha: 01/04/2026 17:33:00
+El nuevo valor de la cuota surgirá del resultado de dividir el nuevo saldo valuado de los activos
+del FAP en pesos por la cantidad total de cuotas, incluyendo tanto aquellas pertenecientes a los
+afiliados (Patrimonio) como las pertenecientes a la Reserva Especial (Pasivo), al cierre del día.
+Una  vez  distribuida  la  rentabilidad,  diariamente  se  transfiere  el  saldo  de  la  cuenta
+2.1.5.0.0.0.0.000 RENTABILIDAD, la que quedará saldada, a la cuenta 2.1.1.0.0.0.0.000 AFAP
+– RESERVA ESPECIAL.
+Los asientos tipo de este procedimiento son: 
+1.2.0.0.0.0.0.000 INVERSIONES yyy 
+3.5.1.0.0.0.0.000 RENTABILIDAD NETA yyy 
+por la rentabilidad del día
+3.5.1.0.0.0.0.000 RENTABILIDAD NETA yyy 
+3.1.5.0.0.0.0.000 RENTABILIDAD xxx 
+3.2.5.0.0.0.0.000 RENTABILIDAD xxx 
+3.3.5.0.0.0.0.000 RENTABILIDAD xxx 
+3.4.5.0.0.0.0.000 RENTABILIDAD xxx 
+3.6.5.0.0.0.0.000 RENTABILIDAD xxx 
+3.7.5.0.0.0.0.000 RENTABILIDAD xxx 
+2.1.5.0.0.0.0.000 RENTABILIDAD xxx 
+por la distribución de rentabilidad 
+2.1.5.0.0.0.0.000 RENTABILIDAD yyy 
+2.1.1.0.0.0.0.000 AFAP – RESERVA ESPECIAL yyy 
+por el cierre de la cuenta Rentabilidad
+3. Versión de Fondos por BPS. Cuando se reciben los fondos de BPS se debita la cuenta del
+capítulo  Disponibilidades  correspondiente  y  se  acredita  el  rubro  3.1.1.0.0.0.0.000
+RECAUDACIONES EN PROCESO DE ACREDITACIÓN.
+Por el importe acreditado se produce un incremento en la cantidad de cuotas equivalente al
+cociente entre dicho importe y el valor cuota de cálculo. 
+El asiento tipo de este procedimiento es: 
+1.1.0.0.0.0.0.000 DISPONIBILIDADES yyy 
+3.1.1.0.0.0.0.000 RECAUDACIONES EN PROCESO DE ACREDITACIÓN yyy 
+por la versión de fondos por BPS
+4. Recepción de Otros Fondos 
+4.1.  Recepción  de  Depósitos  Convenidos  y  Voluntarios.  La  Administradora  puede  recibir
+aportes por depósitos convenidos o voluntarios.
+Cuando ingresan los fondos se debita la cuenta del capítulo Disponibilidades correspondiente y
+se acredita el rubro 3.1.1.0.0.0.0.000 RECAUDACIONES EN PROCESO DE ACREDITACIÓN. 
+El procedimiento contable de registración de los aportes voluntarios originados en aportes en
+exceso, se describe en el numeral 6. Por el importe acreditado se produce un incremento en la
+cantidad de cuotas, equivalente al cociente entre dicho importe y el valor cuota de cálculo. 
+El asiento tipo de este procedimiento es: 
+1.1.0.0.0.0.0.000 DISPONIBILIDADES yyy 
+3.1.1.0.0.0.0.000 RECAUDACIONES EN PROCESO DE ACREDITACIÓN yyy 
+RR-SSF-2026-212     Fecha: 01/04/2026 17:33:00
+por los depósitos voluntarios o convenidos
+4.2. Reversión de Transferencias. El tratamiento contable de la recepción de las devoluciones
+de aportes transferidos a la Aseguradora es similar al de cualquier otro ingreso de fondos de
+afiliados.
+En  la  recepción  de  los  fondos  se  debita  algún  rubro  del  capítulo  1.1.0.0.0.0.0.000
+DISPONIBILIDADES  y  se  acredita  el  rubro  3.1.1.0.0.0.0.000  RECAUDACIONES  EN
+PROCESO DE ACREDITACIÓN.
+A continuación, dentro del mismo día se acredita en la cuenta de capitalización individual en el
+subrubro 3.x.2.7.0.0.0.000 TRANSFERENCIAS RECIBIDAS, por el monto correspondiente.
+El importe total del crédito dividido el valor cuota de cálculo, determina la cantidad de cuotas en
+que se incrementa el FAP . 
+Los asientos tipo de este procedimiento son los siguientes: 
+1.1.0.0.0.0.0.000 DISPONIBILIDADES yyy 
+3.1.1.0.0.0.0.000 RECAUDACIONES EN PROCESO DE ACREDITACIÓN yyy 
+por la recepción de fondos de la Aseguradora 
+3.1.1.0.0.0.0.000 RECAUDACIONES EN PROCESO DE ACREDITACIÓN yyy 
+3.x.2.7.0.0.0.000 TRANSFERENCIAS RECIBIDAS yyy 
+por la reversión de transferencias de las Aseguradoras 
+En este asiento la “x” puede corresponder a los dígitos 2, 4, 7
+4.3. Recepción de Otros Aportes. El tratamiento contable de aportes que no tengan definido un
+tratamiento específico será el descrito a continuación.
+En  la  recepción  de  los  fondos  se  debita  algún  rubro  del  capítulo  1.1.0.0.0.0.0.000
+DISPONIBILIDADES  y  se  acredita  el  rubro  3.1.1.0.0.0.0.000  RECAUDACIONES  EN
+PROCESO DE ACREDITACIÓN.
+A continuación, dentro del mismo día se acredita en los capítulos 3.2 Cuentas de Capitalización
+Individual, 3.4 Saldos a Traspasar y 3.7 Saldos a Transferir, las subcuentas 3.x.2.9.0.0.0.000
+Otros, por el monto correspondiente. Sobre estos importes no corresponderá la deducción de
+comisión de administración ni prima de seguro. 
+El importe total del crédito dividido el valor cuota de cálculo, determina la cantidad de cuotas en
+que se incrementa el FAP . 
+Los asientos tipo de este procedimiento son los siguientes: 
+1.1.0.0.0.0.0.000 DISPONIBILIDADES yyy 
+3.1.1.0.0.0.0.000 RECAUDACIONES EN PROCESO DE ACREDITACIÓN yyy 
+por la recepción de fondos
+3.1.1.0.0.0.0.000 RECAUDACIONES EN PROCESO DE ACREDITACIÓN yyy 
+3.x.2.9.0.0.0.000 OTROS yyy 
+por la acreditación de fondos a los afiliados 
+En este último asiento la “x” puede corresponder a los dígitos 2, 4 y 7.
+5. Acreditación de Aportes 
+5.1. Afiliados que permanecen en la Administradora. De acuerdo a lo establecido por el Art. 64°
+del Dto. 399/95 la Administradora dispone de un plazo de 48 hrs. hábiles para acreditar los
+fondos  recibidos  en  las  cuentas  de  ahorro  individual,  para  ello  se  debitan  los  rubros
+3.1.1.0.0.0.0.000 RECAUDACIONES EN PROCESO DE ACREDITACIÓN y 3.1.5.0.0.0.0.000
+RENTABILIDAD  por  los  fondos  percibidos  y  por  la  rentabilidad  de  éstos  por  el  tiempo
+RR-SSF-2026-212     Fecha: 01/04/2026 17:33:00
+transcurrido desde la recepción hasta la acreditación, de forma que el saldo de estos rubros
+quede en cero.
+Los  fondos  recibidos  se  acreditan  a  los  rubros  3.x.1.0.0.0.0.000  APORTES  BPS  o
+3.x.2.0.0.0.0.000 OTROS APORTES, según corresponda. 
+Los aportes provenientes de BPS deberán acreditarse discriminados en las subcuentas Aportes
+Obligatorios, Contribución Especial por Servicios Bonificados, Sanciones Pecuniarias y Aportes
+en Exceso. 
+De  existir  aportes  innominados,  se  acreditarán  las  partidas  correspondientes  al  rubro
+3.3.1.0.0.0.0.000 APORTES BPS. 
+La  rentabilidad  acreditada  en  el  rubro  3.1.5.0.0.0.0.000  RENTABILIDAD  se  prorrateará
+proporcionalmente a los importes acreditados en los respectivos capítulos y se acreditará en
+las respectivas cuentas de rentabilidad. 
+Por los movimientos de este procedimiento no se producen variaciones en la cantidad total de
+cuotas ni en su valor, sólo una redistribución de éstas. 
+El asiento tipo de este procedimiento es:
+3.1.1.0.0.0.0.000 RECAUDACIONES EN PROCESO DE ACREDITACIÓN yyy 
+3.1.5.0.0.0.0.000 RENTABILIDAD yyy 
+3.x.1.0.0.0.0.000 APORTES BPS xxx 
+3.x.5.0.0.0.0.000 RENTABILIDAD xxx 
+3.3.1.0.0.0.0.000 APORTES BPS xxx 
+3.3.5.0.0.0.0.000 RENTABILIDAD xxx 
+por la acreditación de fondos recibidos de BPS
+5.2. Afiliados Traspasados a otras Administradoras. Si los aportes vertidos corresponden a
+afiliados  traspasados  a  otras  Administradoras,  se  procederá  al  traspaso  de  los  fondos
+respectivos, siguiendo los procesos establecidos para los traspasos, en el mismo día en que se
+nominan, registrándose los mismos conforme a lo indicado en los puntos 10° y 11°, debiéndose
+efectuar necesariamente el pasaje por el capítulo de Fondos a Traspasar. 
+5.3. Afiliados Transferidos a la Aseguradora
+i. Si los aportes vertidos corresponden a afiliados transferidos a la Aseguradora se procederá a
+transferir los fondos respectivos, siguiendo los procesos establecidos para la transferencia, en
+el mismo día en que se nominan, registrándose los mismos conforme a lo indicado en los
+puntos 13° a 14°, debiéndose efectuar necesariamente el pasaje por el capítulo de Fondos a
+Transferir. 
+ii. Si hubiere aportes en exceso, los mismos deberán mantenerse en la Administradora, quien
+será responsable por su entrega al afiliado.
+El plazo previsto por el artículo 47 del Decreto Nº399/95 comenzará a correr a partir de la
+notificación al afiliado de la existencia de los aportes en exceso.
+En caso de fallecimiento del afiliado, los aportes en exceso desde el día de su deceso pasan a
+ser  bienes  sucesorios  siéndoles  de  aplicación  la  normativa  vigente  en  la  materia.  La
+Administradora  notificará  a  los  interesados  de  tal  situación.  En  esta  circunstancia,  la
+Administradora deberá mantener una cuenta a nombre del afiliado o de la sucesión del mismo,
+en el auxiliar extracontable de las cuentas de capitalización individual, mientras mantenga en
+su poder los aportes en exceso.
+La rentabilidad generada por estos aportes en exceso será, dependiendo del caso, transferida
+a la Aseguradora en el momento en que los aportes en exceso son retirados por el afiliado o
+junto con éstos al vencimiento del plazo del artículo 47 del Decreto Nº 399/1995, o acumulada
+al monto sucesorio.
+Los asientos tipo de este procedimiento son los siguientes: 
+RR-SSF-2026-212     Fecha: 01/04/2026 17:33:00
+3.7.8.0.0.0.0.000 AFECTACIÓN DE APORTES EN EXCESO yyy 
+1.1.0.0.0.0.0.000 DISPONIBILIDADES yyy 
+por el pago de los aportes en exceso al afiliado o a sus sucesores 
+3.7.5.0.0.0.0.000 RENTABILIDAD yyy 
+1.1.0.0.0.0.0.000 DISPONIBILIDADES yyy 
+por la transferencia de la rentabilidad de los aportes en exceso a la Aseguradora o a los sucesores 
+En el caso de que no se retiren los fondos por el afiliado, el asiento tipo de este procedimiento
+es: 
+3.7.8.0.0.0.0.000 AFECTACION DE APORTE EN EXCESO yyy 
+3.7.2.0.0.0.0.000 OTROS APORTES  yyy 
+por la imputación de los aportes en exceso 
+3.7.5.0.0.0.0.000 RENTABILIDAD yyy 
+3.7.2.0.0.0.0.000 OTROS APORTES yyy 
+1.1.0.0.0.0.0.000 DISPONIBILIDADES xxx 
+por la transferencia de los aportes en exceso y su rentabilidad a la Aseguradora
+6. Débito de Aportes en Exceso. Cuando se devuelven los aportes en exceso al afiliado, o se
+vuelcan a la cuenta de ahorro individual en aplicación del Art. 47° del Dto. 399/95 al cumplirse
+el plazo, el débito deberá efectuarse en el momento por el importe original en pesos.
+El asiento contable que se genera, debita el rubro 3.x.8.0.0.0.0.000 AFECTACION DE APORTE
+EN EXCESO y acredita algún rubro del capítulo 1.1.0.0.0.0.0.000 DISPONIBILIDADES, en el
+primero de los casos y al rubro 3.x.2.0.0.0.0.000 OTROS APORTES, en el otro.
+Únicamente si se entregan los fondos al afiliado se produce una disminución en la cantidad de
+cuotas del FAP, calculadas utilizando el valor cuota de cálculo, del día del efectivo pago. 
+El asiento tipo del primer caso de este procedimiento es:
+3.x.8.0.0.0.0.000 AFECTACION DE APORTE EN EXCESO yyy 
+1.1.0.0.0.0.0.000 DISPONIBILIDADES yyy 
+por el pago de los aportes en exceso 
+Si se acreditan en la cuenta de ahorro individual el asiento tipo es: 
+3.x.8.0.0.0.0.000 AFECTACION DE APORTE EN EXCESO yyy 
+3.x.2.0.0.0.0.000 OTROS APORTES yyy 
+por la acreditación en la cuenta de ahorro individual de los aportes en exceso 
+En este asiento "x" asume el mismo dígito en sus dos componentes.
+7. Débito de Comisión de Administración, Prima de Seguro y Comisión de Custodia 
+7.1. Comisión de Administración y Prima de Seguro. Una vez que se efectuó la acreditación de
+fondos, la Administradora tiene todos los elementos necesarios para deducir del fondo las
+comisiones  correspondientes,  el  cálculo  debe  efectuarse  sobre  el  aporte  neto,  que  es  el
+resultante de deducirle a la versión recibida, los aportes en exceso, ambas partidas expresadas
+en pesos. 
+Las comisiones podrán devengarse de los aportes obligatorios y de los depósitos voluntarios y
+convenidos. 
+El  débito  se  debe  realizar  a  los  rubros  3.x.3.0.0.0.0.000  PAGO  DE  COMISIONES  y
+3.x.4.0.0.0.0.000 PRIMAS DE SEGURO en la oportunidad en que efectivamente se pagan y se
+acredita en algún rubro del capítulo 1.1.0.0.0.0.0.000 DISPONIBILIDADES. 
+RR-SSF-2026-212     Fecha: 01/04/2026 17:33:00
+Esta operación genera una disminución en la cantidad de cuotas del FAP , la que se determina
+dividiendo el importe debitado en pesos, po
