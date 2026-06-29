@@ -86,7 +86,8 @@ def main():
     pending = [it for it in cands if it["id"] not in extracted_ids]
     upgrades = [it for it in cands if it["id"] in heuristic_ids] if have_key else []
     budget = BASELINE_EXTRACT if first_run else MAX_EXTRACT
-    todo = (pending + upgrades)[:budget]
+    # Mezclamos sin procesar + upgrades y priorizamos por recencia (lo más visible).
+    todo = sorted(pending + upgrades, key=lambda x: x.get("sort", 0), reverse=True)[:budget]
     new_count = len([it for it in catalog if it["id"] not in seen])
 
     print(f"· {new_count} nuevas · {len(pending)} sin procesar · "
