@@ -50,7 +50,7 @@ _SCHEMA = {
         "contraparte_normalizada": {"type": ["string", "null"], "description": "Nombre canónico corto de la contraparte, o null."},
         "porcentaje": {"type": ["number", "null"], "description": "Porcentaje accionario involucrado (0-100) si se menciona, o null."},
         "monto_valor": {"type": ["number", "null"], "description": "Valor numérico del monto principal (multa/capital) sin separadores, o null."},
-        "monto_moneda": {"type": ["string", "null"], "enum": ["UI", "UR", "USD", "UYU", None], "description": "Moneda del monto, o null."},
+        "monto_moneda": {"type": ["string", "null"], "description": "Moneda del monto: una de UI, UR, USD, UYU; o null si no hay monto."},
         "resultado": {"type": "string", "description": "Resultado en pocas palabras: 'autorizado', 'sancionado con multa', 'inscripción aprobada', 'recurso rechazado', etc."},
         "resumen": {"type": "string", "description": "Una o dos frases claras, en español rioplatense, de qué resolvió la SSF y por qué importa."},
         "relevancia": {"type": "string", "enum": ["alta", "media", "baja"], "description": "Relevancia estratégica/periodística: alta para M&A de bancos grandes, sanciones fuertes, salidas del mercado."},
