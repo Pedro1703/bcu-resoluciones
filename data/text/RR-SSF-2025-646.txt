@@ -1,0 +1,40 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La solicitud de autorización presentada por Banco Santander S.A. para
+la tercerización de servicios en Santander Global Technology & Operations S.L.
+(SGT&O),  Open  Digital  Services  S.L.  (ODS)  y  Amazon  Web  Services  Inc.
+(AWS) en el marco del proyecto “Banca Digital Individuos”
+RESULTANDO: 
+I) Que el proyecto referido en el Visto consiste en la implementación de una
+plataforma  digital  desarrollada  en  el  marco  de  la  estrategia  de
+digitalización  de  la  entidad,  la  que  permitirá  la  gestión  de  servicios
+bancarios a través de distintos canales y estará integrada a la estructura
+tecnológica del Grupo Santander.
+II) Que la prestación de ODS consiste en el mantenimiento y servicios en
+entornos  productivos,  mientras  que  SGT&O  brinda  servicios  de
+infraestructura,  previéndose  el  despliegue  y  operación  de  soluciones
+tecnológicas en la nube pública de AWS.
+CONSIDERANDO: 
+I) Que Banco Santander S.A. ha presentado la documentación requerida
+por la normativa vigente. 
+II) Que, analizadas las condiciones de la prestación, así como la información
+y  demás  documentación  presentada,  no  se  perciben  objeciones  para
+autorizar la tercerización de servicios solicitada.
+ATENTO  :   A lo dispuesto en el artículo 2 de la Ley 17.613 de fecha 27 de
+diciembre de 2002, en los artículos 35.1 y siguientes de la Recopilación de
+Normas de Regulación y Control del Sistema Financiero, a la Resolución SSF
+N° 785-2015 de fecha 24 de noviembre de 2015 y a los informes contenidos en
+el Expediente N° 2025-50-1-00059.
+LA INTENDENTE DE SUPERVISIÓN FINANCIERA 
+EN EJERCICIO DE ATRIBUCIONES DELEGADAS POR EL
+SUPERINTENDENTE DE SERVICIOS FINANCIEROS, 
+RESUELVE: 
+Autorizar a Banco Santander S.A. a tercerizar en Santander Global Technology
+& Operations S.L. (España), Open Digital Services S.L. (España) y Amazon
+Web  Services  Inc.  los  servicios  vinculados  al  proyecto  “Banca  Digital
+Individuos” en los términos informados mediante notas del 15 de enero, 18 de
+febrero, 28 de marzo, 11 de abril, 14 de julio, 5 de agosto y 17 de octubre de
+2025.
+RR-SSF-2025-646     Fecha: 24/11/2025 11:33:37
+Exp. 2025-50-1-00059 
+ Publicable: Si - Firmante: CRISTINA ROSARIO RIVERO MORES

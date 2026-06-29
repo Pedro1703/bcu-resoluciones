@@ -1,0 +1,118 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: el planteo recibido de la Asociación de Bancos Privados del Uruguay
+por nota del 14 de enero de 2026 con relación a la implementación de la
+comunicación previa de las tercerizaciones de servicios, así como consultas
+normativas recibidas de distintas entidades supervisadas.
+RESULTANDO:
+I) Que por el artículo 715 de la ley 20.446 del 16 de diciembre de 2025 se
+modificó el artículo 2 de la Ley N° 17.613 de 27 de diciembre de 2002,
+estableciéndose que requerirá comunicación previa a la Superintendencia
+de Servicios Financieros la contratación por las entidades sometidas a su
+control de la prestación en su favor por terceros de servicios de tal modo
+inherentes a su giro que, cuando son cumplidos por dependencias de la
+propia entidad, están sometidos a las potestades normativas y control del
+Banco Central del Uruguay, entidad que podrá reglamentar las condiciones
+que deberán cumplirse para la tercerización de los servicios comprendidos
+en esta previsión.
+II) Que  en  virtud  de  lo  expuesto  en  el  RESULTANDO  I)  esta
+Superintendencia emitió la Comunicación N° 2026/009 del 13 de enero de
+2026, en la cual se especifica que:
+ no se requerirá autorización para la tercerización de servicios inherentes
+al  giro,  siendo  suficiente  en  su  lugar,  la  comunicación  previa  a  la
+Superintendencia de Servicios Financieros.
+ los  contratos  de  tercerización  de  servicios  deberán  instrumentarse
+cumpliendo  las  condiciones  y  requisitos  establecidos  en  la
+reglamentación  bancocentralista  vigente  e  informarse  conforme  lo
+previsto  en  las  comunicaciones  correspondientes  a  las  distintas
+entidades supervisadas.
+CONSIDERANDO: 
+I) Que la modificación legal consiste en sustituir el régimen que preveía la
+autorización  de  tercerizaciones  inherentes  al  giro  de  las  entidades
+supervisados por parte del Banco Central del Uruguay, por otro que, en su
+lugar, establece solamente su comunicación previa. 
+II) Que  resulta  pertinente,  en  tanto  no  se  modifiquen  las  disposiciones
+establecidas en las Recopilaciones de Normas de los distintos mercados
+supervisados,  emitir  una  Comunicación  de  forma  de  dar  certeza  a  las
+entidades  supervisadas  sobre  el  mecanismo  mediante  el  cual  la
+Superintendencia  de  Servicios  Financieros  recibirá  las  comunicaciones
+sobre tercerizaciones de servicios.
+RR-SSF-2026-56     Fecha: 23/01/2026 12:00:49
+III) Que  la  comunicación  previa  no  resulta  posible  en  el  módulo  “Its”  del
+Sistema de envío centralizado (Sistema SEC-IDI) de la Superintendencia de
+Servicios  Financieros,  el  que  solamente  permite  cargar  contratos  ya
+firmados. 
+IV) Que hasta tanto se efectúen ajustes correspondientes a nivel regulatorio y
+operativo, es necesario establecer que, en forma previa a su registro en el
+módulo  “Its”  del  Sistema  SEC-IDI,  se  curse  la  comunicación  previa,
+atendiendo la ubicación o localizaciones de los proveedores, así como la
+criticidad de las distintas prestaciones.
+V) Que el aviso previo en un plazo prudencial permite mantener una capacidad
+de respuesta y actuación oportuna de esta Superintendencia.
+ATENTO  :   a lo dispuesto en el literal A) del artículo 38 de la Ley N° 16.696 de
+30 de marzo de 1995 en la redacción dada por el artículo 694 de la Ley N°
+20.446 de 16 de diciembre de 2025 y el artículo 2 de la Ley 17.613 en la
+redacción dada por el artículo 715 de la Ley N° 20.446 de 16 de diciembre de
+2025,  la  Comunicación  N°  2006/009  del  13  de  enero  de  2026  y  los
+antecedentes que obran en el Expediente 2026-50-1-00051.
+SE RESUELVE:
+1. Poner en conocimiento de las instituciones supervisadas que, en virtud de la
+modificación introducida por el artículo 715 de la Ley N° 20.446 de 16 de
+diciembre de 2025, al artículo 2 de la Ley N° 17.613 de 27 de diciembre de
+2002, no se requerirá autorización para la contratación por las entidades de
+la prestación en su favor por terceros de servicios de tal modo inherentes a
+su giro que, cuando son cumplidos por dependencias de la propia entidad,
+están sometidos a las potestades normativas y control del Banco Central del
+Uruguay, correspondiendo  en  su  lugar  la  comunicación  previa  a  la
+Superintendencia de Servicios Financieros (SSF).
+A los efectos de instrumentar dicha  comunicación previa  - hasta tanto se
+emita nueva regulación - se deberá proceder de acuerdo con los siguientes
+criterios:
+a. La comunicación previa de las tercerizaciones de servicios que bajo el
+marco  normativo  anterior  a  la  Ley  N°  20.446  requerían  autorización
+expresa,  deberá  realizarse  con  una  antelación  mínima  de  90  días
+previos a su contratación.
+b. La comunicación previa de las restantes tercerizaciones de servicios,
+deberá realizarse con una antelación mínima de 30 días previos a su
+contratación.
+A tal efecto, se deberá presentar una nota a través del Portal IDI . Para ello,
+se utilizará el  tipo de dato 153 - Comunicación previa tercerización  (en
+formato PDF), la cual deberá incluir -como mínimo- la siguiente información:
+- Razón social y domicilio del proveedor
+- Localización precisa desde donde se presta el servicio
+- Tipo de servicio (objeto y alcance detallado)
+RR-SSF-2026-56     Fecha: 23/01/2026 12:00:49
+- Indicar si se procesan datos (especificar si incluye datos de clientes)
+- Indicar  si  hay  subcontrataciones.  En  caso  afirmativo,  especificar  la
+nómina.
+Todo cambio en el alcance de los servicios o proveedores ya  registrados en
+el módulo “Its” también deberá ser notificado en la forma antes descrita.
+Una  vez  transcurridos  los  plazos  señalados  precedentemente  sin  que
+medien objeciones de esta Superintendencia - sin perjuicio del posterior
+ejercicio de las potestades de control y supervisión por parte de la SSF - las
+tercerizaciones de servicios inherentes al giro deberán registrarse conforme
+lo previsto en la Comunicación N° 2020/154 (Instituciones de Intermediación
+Financiera), Comunicación N° 2020/169 (Aseguradoras y Reaseguradoras),
+Comunicación N° 2020/217 (Empresas de Servicios Financieros, Casas de
+Cambio,  Empresas  Administradoras  de  Crédito,  Representaciones,
+Empresas  de  Transferencias  de  Fondos,  Empresas  de  Transporte  de
+Valores, Empresas prestadoras de servicios de arrendamiento y custodia de
+cofres  de  seguridad),  Comunicación  N°  2020/224  (Administradoras  de
+Fondos  de  Ahorro  Previsional),  Comunicación  N°  2020/240  (Bolsas  de
+Valores, Intermediarios de Valores, Administradoras de Fondos de Inversión,
+Fiduciarios Financieros, Asesores de Inversión, Gestores de Portafolios y
+Cajas de Valores) y Comunicación N° 2023/216 (Entidades Otorgantes de
+Crédito),seleccionando  el  tipo  de  contrato  TSAT  (tercerizaciones  de
+servicios con autorización tácita).
+En línea con la modificación legal referida, las tercerizaciones de servicios
+deberán  instrumentarse  cumpliendo  con  las  condiciones  y  requisitos
+establecidos en la reglamentación bancocentralista vigente.
+2. Dejar  sin  efecto  la  resolución  puesta  en  conocimiento  por  medio  de  la
+Comunicación N° 2026/009 del 13 de enero de 2026.
+3. Poner  en  conocimiento  la  resolución  mediante  la  emisión  de  una
+Comunicación.
+JUAN PEDRO CANTERA
+Superintendente de Servicios Financieros
+RR-SSF-2026-56     Fecha: 23/01/2026 12:00:49
+Exp. 2026-50-1-00051 
+ Publicable: Si - Firmante: JUAN PEDRO CANTERA SENCIÓN

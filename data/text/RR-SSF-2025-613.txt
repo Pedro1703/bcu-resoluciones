@@ -1,0 +1,122 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: Los recursos de revocación y jerárquico interpuestos por Floder S.A.
+contra  la  resolución  RR-SSF-2025-423  de  22  de  agosto  de  2025  de  la
+Superintendencia de Servicios Financieros.
+RESULTANDO:
+I) Que por la resolución mencionada en el VISTO se dispuso instruir a Floder
+S.A.:
+a) El  cese  de  la  utilización  de  la  modalidad  de  pago  automático  en  la
+operativa Pago Después, o cualquier otra, en donde la administradora de
+créditos inicia el pago de servicios prestados a clientes con tarjetas de
+débito o instrumentos de dinero electrónico de éstos, y
+b) La modificación de las cláusulas segunda y cuarta del documento de
+Términos  y  Condiciones  de  Uso  de  la  App  de  Pago  Después  por
+considerarse las mismas abusivas.
+II) Que Floder S.A. fue notificada de la resolución RR-SSF-2025-423 el día 26
+de agosto de 2025 y los recursos de revocación y jerárquico en subisidio
+ante el Directorio del Banco Central del Uruguay fueron interpuetos el 9 de
+setiembre de 2025.
+III) Que en virtud de nota de Floder S.A. de fecha 29 de agosto de 2025, en la
+que se solicita aclaraciones sobre el alcance de la resolución RR-SSF-
+2025-423 y plazo para su adecuada implementación, se adoptó resolución
+RR-SSF-2025-469 de 10 de setiembre de 2025, la que fuera notificada el
+día 11 de setiembre de 2025, en la que se dispuso hacer saber a la entidad
+lo siguiente:
+a) El numeral 1 de la resolución RR-SSF-2025-423 de 22 de agosto de
+2025 refiere al cese de una modalidad de cobro, por lo que la instrucción
+particular correspondiente aplica a la totalidad de los servicios de la
+administradora de crédito. En particular, en lo que refiere a la cobranza
+de cuotas de créditos otorgados, aplica tanto respecto de los efectuados
+con posterioridad a la fecha de su notificación como con anterioridad.
+b) El cumplimiento del numeral 2 de la resolución RR-SSF-2025- 423 de 22
+de  agosto  de  2025  será  objeto  de  verificación  en  actuaciones  de
+supervisión.
+IV) Que, asimismo, por resolución RR-SSF-2025-469 de 10 de setiembre de
+2025 se dispuso otorgar un plazo de 120 días hábiles desde la notificación
+de  la  resolución  RR-SSF-2025-423  de  22  de  agosto  de  2025  para  la
+implementación de la instrucción particular dispuesta en el numeral 1.
+RR-SSF-2025-613     Fecha: 10/11/2025 11:49:08
+V) Que, igualmente, en los recursos administrativos interpuestos Floder S.A.
+se solicita la suspensión del numeral 1 de la resolución RR-SSF- 2025-423.
+VI) Que  la  recurrente  esgrime  como  fundamentos  de  su  impugnación  lo
+siguiente:
+i) El uso del medio de pago en la forma que se realiza en el marco del
+producto Pago Después se funda en una autorización expresa, concreta,
+determinada, revocable y consentida por el cliente de Floder S.A., que
+además consta en un documento separado, independiente y fácilmente
+inteligible, de modo que no existen elementos de confusión – desde la
+perspectiva del cliente- respecto de la voluntad que está manifestando a
+los efectos de incorporar su tarjeta de débito como medio de pago, con
+el fin de cancelar las cuotas adeudas bajo las órdenes de compra.
+ii) Los datos del medio de pago no son proporcionados a, ni almacenados
+por, Floder S.A. ni por Riblinor S.A. (Handy), sino que son ingresados
+directamente por el cliente en la pasarela de pago de Red Visual S.A.
+(Plexo),  entidad  registrada  ante  el  Banco  Central  del  Uruguay  como
+proveedor de servicios de pago y cobranza, quien los almacena a través
+de un token que permite identificar a la persona y el medio de pago por
+ella registrado.
+iii)La prohibición que se instruye no tiene base alguna en el ordenamiento
+jurídico vigente, por lo que la resolución es infundada e ilegítima y se
+presenta como arbitraria.
+iv)En las normas legales citadas en las consideraciones de la resolución
+(artículo 1 de la Ley 19.731, artículo 2 y literal c del artículo 68 de la Ley
+19.210), no existe ningún elemento que excluya de su alcance el pago
+de determinados bienes y servicios, de modo que el pago del precio de
+cualquier  bien  o  servicio  (incluido  los  financieros,  como  lo  son  los
+créditos otorgados por Floder S.A.en el marco de Pago Después) puede
+ser abonado mediante una tarjeta de débito o instrumento de dinero
+electrónico.
+v) El numeral 2 de la resolución ya fue cumplido por la sociedad razón por
+la cual no cuenta con ninguna razón de ser.
+vi)La ejecución inmediata de la resolución resulta susceptible de ocasionar
+a Floder S.A. y a sus clientes daños de entidad grave, en la medida que
+afecta aspectos estructurales de las relaciones contractuales vigentes e
+implica un cambio sustancial en las modalidades operativas del producto
+Pago Después.
+vii) La  implementación  abrupta  de  la  instrucción  particular  implicará  el
+riesgo cierto y concreto a exponer a Floder S.A. a reclamos por parte
+de sus clientes fundados en incumplimientos contractuales, así como
+significativos costos tecnológicos, de tiempo y humanos.
+CONSIDERANDO:
+RR-SSF-2025-613     Fecha: 10/11/2025 11:49:08
+I) Que los recursos de revocación y jerárquico en subsidio fueron interpuestos
+conforme lo dispuesto por el artículo 317 de la Constitución de la República,
+los artículos 43 y 52 del Código de lo Contencioso Administrativo, artículo
+71 de la Ley N° 17.738 de 7 de enero de 2004 y artículos 144, 153, 155 y
+157 del Reglamento Administrativo del Banco Central del Uruguay.
+II) Que en la fundamentación de los recursos interpuestos por Floder S.A. se
+reiteran los argumentos utilizados al evacuar la vista de las actuaciones
+documentadas en el expediente N° 2024-50-1-02302, los que vuelven a ser
+analizados en Dictamen N° 2025/0485 de la Asesoría Jurídica y se agrega
+consulta evacuada por asesor letrado, en la que se desarrollan conceptos
+jurídicos generales que resultan de recibo, no así las conclusiones a las que
+se arriba sobre su aplicación al caso concreto.
+III) Que respecto de las razones alegadas contenidas en los literales v), vi) y
+vii) del RESULTANDO VI las mismas fueron contempladas en la resolución
+RR-SSF-2025-469 de 10 de setiembre de 2025 (RESULTANDO III y IV).
+IV) Que, por lo expuesto, los argumentos vertidos por Floder S.A. no logran
+conmover lo dispuesto en el acto impugnado, por lo que se procederá a
+mantener el mismo en todos sus términos, desestimando el recurso de
+revocación interpuesto.
+ATENTO: a lo dispuesto en el artículo 317 de la Constitución de la República,
+artículos  43  y  52  del  Código  de  lo  Contencioso  Administrativo,  la  Carta
+Orgánica del Banco Central del Uruguay (Ley N° 16.696 de 30 de marzo de
+1995 y modificativas), el artículo 6 de la Ley N° 18.212 de 5 de diciembre de
+2007, artículo 1 y concordantes de la Ley N° 19.731 de 28 de diciembre de
+2018, la Ley N° 19.210 de 29 de abril de 2014, a los Dictámenes de la Asesoría
+Jurídica N° 2025/0037, N° 2025/0166, N° 2025/0315, y N° 2025/0485 y a los
+informes y demás antecedentes contenidos en el expediente N° 2024-50-1-
+02302.
+SE RESUELVE
+1. Desestimar el recurso de revocación interpuesto por Floder S.A. contra la
+resolución de la Superintendencia de Servicios Financieros RR-SSF- 2025-
+423 de 22 de agosto de 2025.
+2. Franquear  ante  el  Directorio  del  Banco  Central  del  Uruguay  el  recurso
+jerárquico interpuesto en subsidio.
+3. Notificar a Floder S.A.
+JUAN PEDRO CANTERA
+Superintendente de Servicios Financieros
+RR-SSF-2025-613     Fecha: 10/11/2025 11:49:08
+Exp. 2025-50-1-01629 
+ Publicable: Si - Firmante: JUAN PEDRO CANTERA SENCIÓN

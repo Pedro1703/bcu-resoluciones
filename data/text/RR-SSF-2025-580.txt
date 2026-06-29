@@ -1,0 +1,53 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La solicitud de autorización presentada por Banco Santander S.A. para
+ceder a Credileads S.A. (F1rst) su posición contractual en el acuerdo celebrado
+oportunamente con Santander Global Technology and Operations S.L.- España
+(SGT&O), relativo al uso de productos y servicios de Microsoft.
+RESULTANDO: 
+I) Que por resolución RR-SSF-2024-423 del 3 de setiembre de 2024 se
+autorizó  a  Banco  Santander  S.A  a  tercerizar  en  Microsoft  Ireland
+Operations Limited los servicios de almacenamiento y procesamiento
+(utilización  de  la  nube  Azure)  en  el  marco  del  proyecto  Thetaray,
+servicios a los que accede mediante la contratación de SGT&O.
+II) Que con fecha 1° de setiembre de 2022 y adendas posteriores, el Banco
+suscribió un contrato marco de asesoramiento en transformación digital y
+desarrollo de productos digitales con la firma F1rst.
+III) Que  en  el  marco  de  la  tercerización  del  servicio  de  Banca  Digital
+Empresas  autorizada  por  resolución  RR-SSF-2024-519  del  12  de
+noviembre de 2024 se analizó el contenido del contrato referido en el
+Resultando  II),  habiéndose  verificando  que  el  mismo  cumple  con  la
+normativa vigente.
+IV) Que se suscribirá un nuevo anexo entre Banco Santander S.A y F1rst,
+que constituirá una adenda al contrato marco referido en el Resultando
+II).
+V) Que además de las tercerizaciones mencionadas en los Resultando I) y
+III), Banco Santander S.A cuenta con otros servicios autorizados que
+prevén utilizar la tecnología alojada en la nube de Microsoft Azure.
+CONSIDERANDO: 
+I) Que Banco Santander S.A. presentó la información y documentación
+requerida  a  efectos de  tramitar la  solicitud  de autorización para una
+modificación en la tercerización de servicios.
+II) Que,  analizadas  las  condiciones  de  los  servicios,  así  como  la
+información  y  demás  documentación  presentada,  no  se  perciben
+objeciones para autorizar la modificación solicitada.
+ATENTO: A lo dispuesto en el artículo 2 de la Ley 17.613 de fecha 27 de
+diciembre de 2002, a las atribuciones establecidas en los artículos 37 y 38 de la
+Carta Orgánica Ley Nº 16.696 de 30 de marzo de 1995 con las modificaciones
+introducidas por la Ley 20.345 del 19 de setiembre de 2024, en los artículos
+RR-SSF-2025-580     Fecha: 24/10/2025 16:57:20
+35.1 y siguientes de la Recopilación de Normas de Regulación y Control del
+Sistema Financiero, a la Resolución N° 785-2015 del 24 de noviembre de 2015
+y a los informes contenidos en el Expediente N° 2025-50-1-00939.
+LA INTENDENTE DE SUPERVISIÓN FINANCIERA
+EN EJERCICIO DE LAS ATRIBUCIONES DELEGADAS POR EL
+SUPERINTENDENTE DE SERVICIOS FINANCIEROS,
+RESUELVE:
+Autorizar a Banco Santander S.A. a ceder su posición contractual en relación a
+la utilización de los derechos de uso de los productos y servicios de Microsoft
+Ireland  Operations  Limited  a  través  de  Santander  Global  Technology  and
+Operations S.L. de España (SGT&O) a favor de Credileads S.A. (F1rst), en los
+términos de sus notas del 20 de mayo y 10 de setiembre de 2025.
+RR-SSF-2025-580     Fecha: 24/10/2025 16:57:20
+Exp. 2025-50-1-00939 
+ Publicable: Si - Firmante: CRISTINA ROSARIO RIVERO MORES

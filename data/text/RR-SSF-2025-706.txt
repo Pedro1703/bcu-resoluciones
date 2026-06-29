@@ -1,0 +1,325 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La Iniciativa “IO 9 – Bancos. Pilar II Basilea – Recomendaciones de la
+Asistencia Técnica” del plan de actividades de la Superintendencia de Servicios
+Financieros del año 2025.
+RESULTANDO: 
+I) Que, con el objetivo de dar cumplimiento a una de las actividades de la
+Iniciativa a que refiere el Visto, la Intendencia de Supervisión elaboró una
+propuesta  a  efectos  de  la  incorporación  de  requerimientos  de  capital
+adicionales en el marco del Pilar II de Basilea III.
+II) Que en el Plan de Regulaciones de 2025 se incluyó una iniciativa cuyo
+objetivo  es  la  emisión  de  una  regulación  que  incorpore  dichos
+requerimientos.  
+III) Que el proyecto elaborado introduce un requerimiento de capital por riesgos
+adicionales que será aplicable a los bancos, bancos minoristas, bancos de
+inversión, casas financieras, instituciones financieras externas, cooperativas
+de  intermediación  financiera  y  cooperativas  de  intermediación  financiera
+minoristas, el que será igual a la suma de los siguientes requerimientos:
+- Requerimiento de capital que surja del proceso de revisión y evaluación
+supervisora.
+- Requerimiento de capital por concentración de riesgo de crédito en el
+sector no financiero.
+- Requerimiento de capital por riesgo de tasa de interés estructural.
+- Requerimiento  de  capital  como  resultado  de  pruebas  de  tensión
+realizadas por la Superintendencia de Servicios Financieros
+IV) Que el proyecto establece que como resultado del  proceso de revisión y
+evaluación  supervisora,  la  Superintendencia  de  Servicios  Financieros
+asignará  a  las  instituciones  una  calificación,  que  determinará  un
+requerimiento de capital en función de los activos y riesgos y compromisos
+contingentes ponderados por riesgo de crédito, de contraparte, de mercado
+y operacional.
+V) Que, en materia de concentración de riesgo de crédito en el sector no
+financiero,  el  proyecto  incorpora  un  requerimiento  por  concentración
+individual y un requerimiento por concentración sectorial para los que se
+deberán  calcular  los  respectivos  índices  de  concentración,  que
+determinarán el cargo de capital correspondiente como porcentaje de los
+activos y riesgos y compromisos contingentes ponderados por riesgo de
+crédito.
+VI) Que para la determinación del requerimiento de capital por riesgo de tasa
+de  interés  estructural,  el  proyecto  establece  que  se  considerarán  los
+cambios en el valor actual neto de los flujos de activos menos pasivos
+RR-SSF-2025-706     Fecha: 17/12/2025 19:25:54
+denominados en cada moneda en un escenario de riesgo predefinido que
+representa un incremento de 200 puntos básicos en las curvas de tasas de
+interés, determinándose un requerimiento de capital cuando la variación en
+dicho valor actual neto supera el 15% de patrimonio neto esencial.
+VII) Que  el  proyecto  establece  que  la  Superintendencia  de  Servicios
+Financieros  podrá establecer un requerimiento de capital como resultado
+de las pruebas de tensión que esta defina en determinados escenarios. El
+resultado del impacto de dichos escenarios en el monto de los recursos
+propios  y en el  ratio  de  RPN sobre  los  activos ponderados  por  riesgo
+determinará el requerimiento de capital a exigir.
+VIII) Que, a efectos de cumplir con el requerimiento de capital por riesgos
+adicionales, el proyecto indica que las instituciones computarán al menos
+el 75% del requisito con patrimonio neto esencial, el que deberá estar
+integrado al menos con un 75% de capital común.
+IX) Que  se  extiende  la  multa  por  infracciones  a  las  normas  sobre
+responsabilidad patrimonial neta mínima - equivalente al 1 ‰ (uno por mil)
+de cada insuficiencia diaria incurrida -   al requerimiento de capital por
+riesgos adicionales.
+X) Que, adicionalmente y en forma complementaria, se promueven ajustes a
+los artículos 154.1 (Componentes de la responsabilidad patrimonial neta
+antes  de  deducciones),  158.2  (Colchón  de  capital  contracíclico),  166
+(Requerimiento  de  capital  por  riesgo  de  tipo  de  cambio  –  forma  de
+cálculo)  y  173  (Requerimiento  de  capital  por  riesgo  sistémico)  de  la
+Recopilación de Normas de Regulación y Control del Sistema Financiero.
+XI) Que la propuesta fue puesta a consulta de las instituciones supervisadas
+y del público en general con fecha 27 de agosto de 2025, venciendo el
+plazo para la recepción de los comentarios el 26 de setiembre ppdo.
+XII) Que se recibieron consultas y comentarios de la Asociación de Bancos
+Privados del Uruguay y del Banco de la República Oriental del Uruguay.
+XIII) Que las principales consultas y comentarios refirieron a los siguientes
+aspectos:  periodicidad  del  cálculo  y  cómputo  de  riesgos  para  el
+requerimiento  de capital  por concentración de  riesgo de  crédito  en el
+sector no financiero, a la forma de cálculo del requerimiento de capital por
+riesgo de tasa de interés estructural, a la explicitación de los escenarios
+de tensión a considerar a efectos del cálculo del requerimiento de capital
+como resultado de pruebas de tensión realizadas por la Superintendencia
+de Servicios Financieros, a la deducción de resultados acumulados y del
+ejercicio de la responsabilidad patrimonial neta, a los requisitos para el
+cumplimiento del requerimiento de capital por riesgos adicionales y a la
+multa por insuficiencia de capital por riesgos adicionales.
+CONSIDERANDO: 
+I) Que  los  comentarios  recibidos  de  la  industria  aportaron  elementos  que
+permitieron  clarificar  la  propuesta  original,  poniendo  de  manifiesto  la
+importancia del proceso de consulta. 
+RR-SSF-2025-706     Fecha: 17/12/2025 19:25:54
+II) Que,  considerando  los  comentarios  antedichos,  se  incorporaron  las
+siguientes modificaciones:
+- En el artículo 154.1 (Componentes de la responsabilidad patrimonial
+neta antes de deducciones),  se incorpora la definición de ratio de
+distribución de resultados, se aclara cómo debe calcularse el último
+ratio de distribución de resultados para el ejercicio en curso (t) y
+cómo debe calcularse el promedio de los últimos tres ratios para el
+referido ejercicio.
+- En  el  citado  artículo  154.1  se  aclara  que  es  de  aplicación  lo
+dispuesto  por  la  Circular  N°2400  a  efectos  de  cómputo  de  los
+instrumentos de deuda emitidos durante el año 2022 en el capital
+adicional.
+- En el artículo 166 (Requerimiento de capital por riesgo de tipo de
+cambio  –  forma  de  cálculo)  se  define  la  posición  estructural  en
+términos analíticos. 
+III) Que, asimismo, como  consecuencia  de  análisis  posteriores  se  entendió
+conveniente modificar el momento a partir del cual rige el requerimiento de
+capital por riesgo sistémico, pasando del 31 de diciembre del año t+1 al 1
+de enero del año t+2.
+ATENTO  :   A lo dispuesto en el literal A) del artículo 38 de la Ley Nro. 16.696 del
+30 de marzo de 1995 en la redacción dada por el artículo 2 de la Ley Nro.
+20.345  del  19  de  setiembre  de  2024  y  a  los  informes  emitidos  por  esta
+Superintendencia de Servicios Financieros.
+SE RESUELVE:
+1. SUSTITUIR en el Capítulo I – Responsabilidad patrimonial neta, del Título II
+– Responsabilidad patrimonial, del Libro II – Estabilidad y solvencia de la
+Recopilación de Normas de Regulación y Control del Sistema Financiero los
+artículos 154.1 y 154.5 por los siguientes:
+ARTÍCULO  154.1  (COMPONENTES  DE  LA  RESPONSABILIDAD
+PATRIMONIAL NETA ANTES DE DEDUCCIONES).
+Los  componentes  de  la  responsabilidad  patrimonial  neta  antes  de  las
+deducciones  a  que  refieren  los  artículos  154.3,  154.3.1  y  154.3.2
+comprenden los siguientes conceptos:
+1) El capital común incluye:
+a) Acciones  ordinarias  emitidas  por  la  institución  de  intermediación
+financiera  y  aportes  no  capitalizados  correspondientes  a  futuras
+emisiones de acciones ordinarias, así como el capital asignado por la
+casa  matriz  en  el  caso  de  sucursales  de  sociedades  extranjeras,
+siempre que cumplan las condiciones establecidas en el numeral 1)
+del artículo 154.2.
+RR-SSF-2025-706     Fecha: 17/12/2025 19:25:54
+b) Primas de emisión conexas a las acciones a que refiere el literal
+precedente.
+c) Capital social a que refiere el artículo 53 de la Ley N° 18.407 de 24 de
+octubre de 2008 (Ley de Cooperativas).
+d) Resultados acumulados y resultados del ejercicio, luego de deducir el
+saldo del rubro “Anticipos de resultados”. 
+No  podrá  computarse  aquella  parte  de  los  resultados  del
+ejercicio  en  curso  y  del  ejercicio  inmediato  anterior  que  la
+institución  razonablemente  estime  distribuir  como  dividendos
+-que ya no se hubieran adelantado- de acuerdo con el mayor
+valor entre: el ratio resultante de la política de distribución a que
+refiere  el  artículo  129,  el  último  ratio  de  distribución  de
+resultados  y  el  promedio  de  los  últimos  tres  ratios  de
+distribución de resultados. Cuando exista una decisión expresa
+de la Asamblea al respecto, se comenzará a computar lo que la
+misma haya decidido no distribuir. 
+Se  define  el  ratio  de  distribución  como  el  cociente  entre  la
+distribución de resultados (anticipos incluidos) y el resultado del
+ejercicio correspondiente. 
+Para el ejercicio en curso ( t) se considera como último ratio de
+distribución  de resultados al cociente entre la distribución  de
+resultados  del  penúltimo  ejercicio  (t-2)  sobre  el  resultado  de
+dicho  ejercicio,  con  un  máximo  de  100%.  En  caso  de  que  el
+resultado del ejercicio sea negativo o nulo, se considerará que el
+ratio de distribución de resultados es 0%.
+Asimismo, para el cálculo del promedio de los últimos tres ratios
+se considerarán los ratios de distribución correspondientes a ( t-
+2), (t-3) y (t-4) conforme la definición precedente.
+También  deberá  deducirse  aquella  parte  de  los  restantes
+resultados  acumulados  que  se  estime  o  se  haya  decidido
+distribuir.
+Los saldos netos positivos remanentes pasibles de ser computados
+-hasta tanto se reciba opinión favorable del auditor externo- lo harán
+por el 50% cuando, en al menos de uno de los 3 últimos dictámenes,
+no se haya contado con dicha posición favorable.
+e) Reservas  creadas  con  cargo  a  las  utilidades  netas  después  de
+impuestos, las que se computarán - hasta tanto se reciba opinión
+favorable del auditor externo sobre dichas utilidades - por el 50%
+cuando, en al menos uno de los 3 (tres) últimos dictámenes, no se
+haya contado con dicha opinión favorable.
+f) Ajustes por valoración. Los saldos netos positivos correspondientes a
+dichos ajustes por valoración se computarán - hasta tanto se reciba
+opinión  favorable  del  auditor  externo  -  por  el  50%  cuando,  en  al
+RR-SSF-2025-706     Fecha: 17/12/2025 19:25:54
+menos uno de los 3 (tres) últimos dictámenes, no se haya contado
+con dicha opinión favorable.
+g) Participación  no  controladora,  cuando  corresponda  determinar  la
+responsabilidad patrimonial neta en base a la situación consolidada,
+siempre que esté asociada a las acciones ordinarias descritas en el
+literal a) precedente y sujeto a las condiciones establecidas en el
+numeral 1) del artículo 154.2.
+Se  computará  la  participación  no  controladora  correspondiente  a
+instituciones  financieras  sujetas  a  regulación  y  supervisión,  cuya
+inversión por parte de la institución de intermediación financiera esté
+permitida por las normas legales y reglamentarias vigentes.
+Los elementos a que se refieren los literales d) a f) se reconocerán como
+capital  común  solo  cuando  puedan  ser  utilizados  inmediatamente  y  sin
+restricción por las instituciones para la cobertura de riesgos o de pérdidas en
+cuanto se produzcan.
+2) El capital adicional incluye:
+a) Acciones  preferidas  y  aportes  no  capitalizados  correspondientes  a
+futuras  emisiones  de  acciones  preferidas  y  otros  instrumentos
+financieros  emitidos  por  la  institución  de  intermediación  financiera,
+siempre que cumplan las condiciones establecidas en el numeral 2)
+del artículo 154.2.
+b) Primas de emisión conexas a los instrumentos a que refiere el literal
+precedente.
+c) Acciones cooperativas con interés emitidas al amparo de la Ley N°
+17.613 de 27 de diciembre de 2002.
+d) Instrumentos emitidos por subsidiarias en poder de terceros, cuando
+corresponda determinar la responsabilidad patrimonial neta en base a
+la situación consolidada, en las condiciones del literal a) precedente y
+sujeto a las condiciones establecidas en el numeral 2) del artículo
+154.2.
+Se computarán los instrumentos emitidos por instituciones financieras
+sujetas a regulación y supervisión, cuya inversión por parte de la
+institución de intermediación financiera esté permitida por las normas
+legales y reglamentarias vigentes.
+3) El patrimonio neto complementario comprende:
+a) Instrumentos emitidos por la institución de intermediación financiera,
+siempre que cumplan las condiciones establecidas en el numeral 3)
+del  artículo  154.2.  En  particular,  las  obligaciones  subordinadas
+deberán computarse según el plazo remanente, de acuerdo con la
+siguiente escala:
+- Más de 5 años: 100%
+- Más de 4 y hasta 5 años: 80%
+RR-SSF-2025-706     Fecha: 17/12/2025 19:25:54
+- Más de 3 y hasta 4 años: 60%
+- Más de 2 y hasta 3 años: 40%
+- Más de 1 y hasta 2 años: 20%
+- 1 año o menos: 0%
+b) Provisiones  generales  sobre  créditos  por  intermediación  financiera
+correspondientes  a  estimaciones  realizadas  por  la  empresa  para
+cubrir pérdidas futuras en la medida en que no estén adscritas a
+activos individualizados o a alguna categoría de ellos y que no reflejen
+una reducción en su valoración, con un límite del 1,25% del total de
+activos y riesgos y compromisos contingentes ponderados por riesgo
+de crédito a que refiere el artículo 160.
+c) Instrumentos emitidos por subsidiarias en poder de terceros, cuando
+corresponda determinar la responsabilidad patrimonial neta en base a
+la situación consolidada, y sujeto a las condiciones establecidas en el
+numeral  3)  del  artículo  154.2.  En  particular,  las  obligaciones
+subordinadas deberán computarse en las condiciones del literal a)
+precedente.
+Se computarán los instrumentos emitidos por instituciones financieras
+sujetas  a regulación y  supervisión, cuya inversión  por  parte  de la
+institución de intermediación financiera esté permitida por las normas
+legales y reglamentarias vigentes.
+Los elementos a que refieren los literales a) a f) del numeral 1), los literales
+a) a c) del numeral 2) y los literales a) y b) del numeral 3) surgen del estado
+de situación financiera individual, confeccionado de acuerdo con lo dispuesto
+en el artículo 507.
+DISPOSICIÓN  TRANSITORIA:  Las  condiciones  dispuestas
+precedentemente respecto a los literales a) y g) del numeral 1), a los
+literales a) y d) del numeral 2) y a los literales a) y c) del numeral 3)
+regirán para los instrumentos emitidos a partir del 1° de enero de 2023. 
+Por medio de la Circular N° 2400 de 15 de marzo de 2022 se resolvió
+admitir que los instrumentos de deuda que se emitieron durante el año
+2022 y que satisfacían las condiciones de elegibilidad establecidas en
+el  numeral  2)  del  artículo  154.2  de  la  Recopilación  de  Normas  de
+Regulación y Control del Sistema Financiero, en la redacción dada por
+la Resolución de la Superintendencia de Servicios Financieros de 10 de
+diciembre comunicada por medio de la Circular N° 2.397, se computen
+en el capital adicional siempre que cuenten con la autorización previa
+de la referida Superintendencia.
+VIGENCIA: Las modificaciones dispuestas precedentemente regirán a partir
+del 1 de enero de 2026.
+ARTÍCULO 154.5 (REQUISITOS MÍNIMOS PARA LA RESPONSABILIDAD
+PATRIMONIAL NETA).
+Las instituciones de intermediación financiera deberán, en todo momento, cumplir
+con los siguientes requisitos:
+1. Cuando la responsabilidad patrimonial neta mínima a que refiere el artículo
+158 sea equivalente al requerimiento de capital básico (o a una vez y media
+RR-SSF-2025-706     Fecha: 17/12/2025 19:25:54
+el  requerimiento  de  capital  por  riesgos,  según  corresponda)  o  al
+requerimiento de capital por activos y riesgos y compromisos contingentes:
+-  el capital adicional y el patrimonio neto complementario a computar en la
+determinación de la responsabilidad patrimonial neta no podrán superar,
+respectivamente, la tercera parte del capital común y la tercera parte del
+patrimonio neto esencial.
+-     la  suma  del  capital  común,  capital  adicional  y  patrimonio  neto
+complementario deberá - como mínimo - ser equivalente al requerimiento
+de capital básico (o a una vez y media el requerimiento de capital por
+riesgos, según corresponda) o al requerimiento de capital por activos y
+riesgos y compromisos contingentes, según sea el caso.
+2. Cuando la referida responsabilidad patrimonial neta mínima sea equivalente
+al requerimiento de capital por riesgos:
+a) A efectos de cumplir con el requerimiento de capital por riesgo de crédito
+definido en el artículo 160, el requerimiento de capital por riesgo de
+contraparte definido en el artículo 160.2, el requerimiento de capital por
+riesgo de  mercado  definido en  el artículo 162  y el requerimiento de
+capital por riesgo operacional definido en el artículo 172:
+- el capital común deberá - como mínimo - ser equivalente al 4,5%
+de los activos y riesgos y compromisos contingentes ponderados
+por riesgo de crédito, de contraparte, de mercado y operacional.
+Para los bancos minoristas a que refiere el literal b) del artículo 1 y
+las  cooperativas  de  intermediación  financiera  minoristas  a  que
+refiere  el  literal  g)  del  mencionado  artículo,  dicho  mínimo  será
+equivalente al 6,75%. Para los bancos de inversión, el porcentaje
+será del 8,5%.
+- el patrimonio neto complementario a computar en la determinación
+de la responsabilidad patrimonial neta deberá - como máximo - ser
+equivalente  al  2%  de  los  activos  y  riesgos  y  compromisos
+contingentes ponderados por riesgo de crédito, de contraparte, de
+mercado y operacional. Para los bancos minoristas a que refiere el
+literal  b)  del  artículo  1  y  las  cooperativas  de  intermediación
+financiera  minoristas  a  que  refiere  el  literal  g)  del  mencionado
+artículo, dicho máximo será equivalente al 3%. Para los bancos de
+inversión, el porcentaje será del 3,75%.
+- la  suma  del  capital  común,  capital  adicional  y  patrimonio  neto
+complementario deberá - como mínimo - ser equivalente al 8% de
+los activos y riesgos y compromisos contingentes ponderados por
+riesgo de crédito, de contraparte, de mercado y operacional. Para
+los bancos minoristas a que refiere el literal b) del artículo 1 y las
+cooperativas de intermediación financiera minoristas a que refiere
+el literal g) del mencionado artículo, dicho mínimo será equivalente
+al 12%. Para los bancos de inversión, el porcentaje será del 15%.
+Los activos y riesgos y compromisos contingentes ponderados por riesgo
+de crédito se determinarán según lo dispuesto en el artículo 160. En tanto
+los activos y riesgos y compromisos contingentes ponderados por riesgo
+de contraparte, mercado y operacional serán equivalentes a:
+RR-SSF-2025-706     Fecha: 17/12/2025 19:25:54
+1/X * ( Requerimiento de capital por riesgo de contraparte  + Requerimiento
+de capital por riesgo de mercado + Requerimiento de capital por riesgo
+operacional).
+Donde:
+“X” corresponde al porcentaje de requerimiento de capital por riesgo de
+crédito aplicable al tipo de institución de intermediación financiera, según lo
+establecido en el artículo 160.
+b) A efectos de cumplir con el requerimiento de capital por riesgo sistémico
+aplicable  a  bancos definido  en  el  artículo  173,  se  computará
+exclusivamente el capital común.
+c) A efectos de cumplir con el  requerimiento de capital por riesgos
+adicionales a que refiere el artículo 173.1 se computará al menos el
+75% del requisito con patrimonio neto esencial, el que deberá estar
+integrado al menos con un 75% de capital común.
+VIGENCIA: Las modificaciones dispuestas pre

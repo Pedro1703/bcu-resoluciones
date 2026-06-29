@@ -1,0 +1,473 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La normativa en materia de requerimientos de capital para empresas
+de seguros dispuesta en la Recopilación de Normas de Seguros y Reaseguros.
+RESULTANDO: 
+I) Que en diciembre de 2021 fue elaborada y publicada una hoja de
+ruta con el objetivo de implementar un modelo de capital por riesgos
+en las empresas de seguros.
+II) Que, en el marco de las tareas definidas en dicha hoja de ruta, en el
+año  2024  la  Intendencia  de  Supervisión  elaboró  una  propuesta
+preliminar  para  los  riesgos  técnicos  de  seguros  (iniciativa  M12  -
+Continuar con la alineación a estándares Internacionales – Seguros),
+estando prevista para  el  año  2025  la emisión de  la normativa  al
+respecto (iniciativa M10 - Realizar la regulación sobre capital por
+riesgo - empresas aseguradoras).
+III) Que la propuesta normativa preliminar se basó en los lineamientos
+de Solvencia II, con los ajustes que requiere la realidad local a partir
+de  información  de  las  empresas  aseguradoras  en  poder  de  la
+Superintendencia de Servicios Financieros y otra que fue requerida
+especialmente.
+IV) Que, en relación con los riesgos técnicos de seguros, la normativa
+distingue tres componentes: prima, reserva y eventos catastróficos,
+abarcando  tanto  seguros  patrimoniales  como  de  personas,  y
+contemplando si generan o no reservas matemáticas.
+V) Que la propuesta normativa antes mencionada fue puesta a consulta
+de las instituciones supervisadas y del público en general con fecha
+22 de agosto, venciendo el plazo para la recepción de comentarios el
+3 de octubre del corriente.
+VI) Que  se  recibieron  comentarios  y  consultas  de  la  Asociación
+Uruguaya  de  Empresas  Aseguradoras  (AUDEA)  y  del  Banco  de
+Seguros del Estado (BSE).
+VII) Que los principales comentarios refirieron a los siguientes aspectos:
+evaluación  de  impacto  y  cronograma  de  implementación,
+fundamentos técnicos y factores utilizados, consultas del cálculo del
+requerimiento  por  riesgo  de  reservas  y  primas  y  consideraciones
+relativas a los riesgos catastróficos y a los reaseguros. 
+RR-SSF-2025-745     Fecha: 29/12/2025 16:45:51
+CONSIDERANDO: 
+I) Que los comentarios recibidos de la industria aportaron elementos
+que permitieron mejorar la propuesta original, corroborando el valor
+que tiene para el regulador el proceso de consulta.
+II) Que,  considerando  los  comentarios  antedichos,  se  realizaron  los
+siguientes ajustes en la redacción de la normativa:
+- A efectos de calcular el requerimiento de capital por riesgo de prima
+se precisó que se deben considerar las primas por seguros directos,
+reaseguros  y  retrocesiones  activos,  emitidas  en  los  doce  meses
+anteriores al cierre del período considerado, netas de anulaciones
+(artículo 21.9.1.1 y 21.9.2.1 numeral 1).
+- En  el  requerimiento  de  capital  por  riesgo  catastrófico  de
+responsabilidad  civil  de  automóviles  se  clarificó  que  la  fórmula
+compara el número de vehículos asegurados con el límite máximo de
+vehículos  asegurados,  ambos  definidos  en  unidades  (artículo
+21.9.1.3).
+- Se ajusta la definición a efectos de precisar que en el cálculo del
+requerimiento de capital por riesgo catastrófico de accidente masivo
+se  debe  considerar  la  exposición  individual  de  cada  aseguradora
+(artículo 21.9.2.4, numeral 2). 
+ATENTO  :   A lo dispuesto en el literal A) del artículo 38 de la Ley Nro. 16.696 del
+30 de marzo de 1995 en la redacción dada por el artículo  2 de la Ley Nro.
+20.345 del 19 de setiembre de 2024, el Memorándum MM/2025/00464 de fecha
+18 de diciembre de 2025 y los informes emitidos por esta Superintendencia de
+Servicios Financieros.
+El SR. GERENTE DE LA UNIDAD DE INFORMACIÓN
+Y ANÁLISIS FINANCIERO EN EJERCICIO DE ATRIBUCIONES DELEGADAS
+Y ENCOMENDADAS COMO SUPERINTENDENTE DE SERVICIOS
+FINANCIEROS RESUELVE:
+1) SUSTITUIR en el Título I Bis – Capital Mínimo, del Libro II – Estabilidad y
+Solvencia de la Recopilación de Normas de Seguros y Reaseguros el artículo
+21 por el siguiente:
+RR-SSF-2025-745     Fecha: 29/12/2025 16:45:51
+ARTÍCULO 21 (REQUERIMIENTO DE CAPITAL POR RIESGOS). 
+El  capital  basado  en  riesgos  deberá  ser  suficiente  para  hacer  frente  a
+situaciones  de  pérdidas  inesperadas  en  las  empresas  aseguradoras  que
+puedan generarse por la materialización de los principales riesgos a los cuales
+están expuestas. Estos riesgos son:
+- Riesgo de mercado
+- Riesgo de contraparte
+- Riesgos técnicos de seguros
+- Riesgo operacional
+El  requerimiento  de  capital  por  riesgos  será  la  agregación  de  los
+requerimientos de capital por riesgo de mercado, contraparte y técnicos
+de seguros para daños patrimoniales y para las personas, considerando
+la  correlación  entre  los  mismos,  más  el  requerimiento  de  capital  por
+riesgo operacional.
+Para su cálculo, deberá aplicarse la siguiente fórmula:
+Donde,
+-
+  = requerimiento de capital por riesgos
+-
+ =  pares  ordenados  de  requerimientos  de  capital
+asociados a los distintos riesgos: 
+  RCRC
+-
+  = requerimiento de capital por riesgo operacional
+-
+  = correlación entre los riesgos 
+Siendo,
+-
+ = requerimiento de capital por riesgo de mercado
+-
+ = requerimiento de capital por riesgo de contraparte
+-
+ = requerimiento de capital por riesgos técnicos de seguros
+de daños patrimoniales 
+-
+ =  requerimiento  de  capital  por  riesgos  técnicos  de
+seguros para las personas
+Para la aplicación del primer término de la fórmula anterior se deberá
+considerar la siguiente matriz de correlaciones:
+RR-SSF-2025-745     Fecha: 29/12/2025 16:45:51
+Riesgos Mercado Contraparte Seguros
+para las
+personas
+Seguros de
+daños
+patrimoniales
+Mercado 1 0,25 0,25 0,25
+Contraparte 0,25 1 0,25 0,5
+Seguros para
+las personas 0,25 0,25 1 0
+Seguros de 
+daños 
+patrimoniales
+0,25 0,5 0 1
+2) INCORPORAR en el Título I Bis – Capital Mínimo, del Libro II – Estabilidad y
+Solvencia  de  la  Recopilación  de  Normas  de  Seguros  y  Reaseguros  los
+siguientes artículos: 
+ARTICULO 21.9 (REQUERIMIENTO DE CAPITAL POR RIESGOS TÉCNICOS
+DE SEGUROS) 
+El requerimiento de capital por riesgos técnicos de seguros busca contemplar
+la posibilidad de que se produzcan pérdidas por la venta de seguros, ya sea
+por  insuficiencia  de  primas  originadas  en  los  modelos  de  tarificación,
+inadecuada  suscripción  de  los  riesgos,  situaciones  de  siniestralidad
+excepcionalmente altas o por insuficiencia de las reservas técnicas constituidas
+para  responder  a  las  obligaciones  asumidas  con  los  asegurados.  Este
+requerimiento se divide en dos categorías: 
+- seguros de daños patrimoniales;
+- seguros para las personas.
+ARTICULO  21.9.1  (REQUERIMIENTO  DE  CAPITAL  POR  RIESGOS  DE
+SEGUROS DE DAÑOS PATRIMONIALES) 
+El requerimiento de capital por riesgos de seguros de daños patrimoniales debe
+reflejar  el  riesgo  derivado  de  las  obligaciones  de  los  seguros  distintos  de
+seguros para las personas, tanto para las obligaciones de seguro ya existentes,
+como para las nuevas actividades que se esperen realizar en los siguientes
+doce meses.
+A efectos del cálculo de los requerimientos de capital para la rama accidentes
+de  trabajo  y  enfermedades  profesionales,  se  aplicará  lo  dispuesto  en  los
+artículos 21.9.2.2 (requerimiento de capital por riesgo de mortalidad) y 21.9.2.3.
+(requerimiento de capital por riesgo de longevidad).  
+Para las restantes ramas de seguros de daños patrimoniales, se calcula como
+una  combinación  de  los  requerimientos  de  capital  correspondientes  a  los
+siguientes riesgos:
+- riesgo de prima;
+- riesgo de reserva;
+- riesgo catastrófico.
+RR-SSF-2025-745     Fecha: 29/12/2025 16:45:51
+El cálculo de dicho requerimiento de capital, será el resultado de aplicar la
+siguiente fórmula:
+Donde,
+-
+ = requerimiento de capital por riesgos de seguros de daños
+patrimoniales
+-
+ = pares ordenados de requerimientos de capital asociados
+a  los  distintos  riesgos  de  seguros  de  daños  patrimoniales:  
+-
+  = correlación entre los riesgos 
+Siendo,
+-
+ =  requerimiento  de  capital  por  riesgo  de  prima  de
+seguros de daños patrimoniales
+-
+ =  requerimiento de  capital por riesgo de reserva  de
+seguros de daños patrimoniales
+-
+ =  requerimiento  de  capital  por  riesgo  catastrófico  de
+seguros de daños patrimoniales
+Para la aplicación de la fórmula anterior se deberá considerar la siguiente
+matriz de correlaciones:
+Riesgo de prima
+de seguros de
+daños
+patrimoniales
+Riesgo de
+reserva de
+seguros de
+daños
+patrimoniales
+Riesgo
+catastrófico de
+seguros de daños
+patrimoniales
+Riesgo de prima 
+de seguros de 
+daños 
+patrimoniales
+1 0,5 0,25
+Riesgo de 
+reserva de 
+seguros de 
+daños 
+patrimoniales
+0,5 1 0,25
+Riesgo 
+catastrófico de 
+seguros de 
+daños 
+patrimoniales
+0,25 0,25 1
+ARTICULO  21.9.1.1  (REQUERIMIENTO  DE  CAPITAL  POR  RIESGO  DE
+PRIMA) 
+RR-SSF-2025-745     Fecha: 29/12/2025 16:45:51
+El  riesgo  de  prima  se  define  como  el  riesgo  de  que  las  primas  para  los
+próximos  doce  meses  no  sean  suficientes  para  afrontar  los  siniestros  que
+ocurran durante el período de cobertura, además de los gastos necesarios para
+la gestión del negocio. Esto puede deberse a una inadecuada tarificación, a
+variaciones no esperadas en la frecuencia y severidad de los siniestros en el
+tiempo, así como en el momento de su ocurrencia y en la volatilidad de los
+gastos.
+El  requerimiento  de  capital  por  riesgo  de  prima  de  seguros  de  daños
+patrimoniales se determinará de la siguiente forma: 
+Donde,
+-
+ = requerimiento de capital por riesgo de prima de seguros
+de daños patrimoniales
+-
+ = pares ordenados de requerimientos de capital asociados
+a los distintos 
+ por rama o subrama
+-
+  = correlación entre los riesgos 
+El  requerimiento  de  capital  por  riesgo  de  prima  de  seguros  de  daños
+patrimoniales para cada rama o subrama se determinará de la siguiente forma: 
+Donde,
+-
+ = requerimiento de capital por riesgo de prima de seguros
+de daños patrimoniales 
+-
+  =  desviación  típica  del  riesgo  de  prima  de  seguros  de  daños
+patrimoniales 
+-
+  = primas de seguros de daños patrimoniales devengadas netas de
+reaseguro  por  seguros  directos,  reaseguros  y  retrocesiones  activos,
+emitidas en los 12 meses anteriores al cierre del período considerado
+(netas de anulaciones). 
+Para  cada  rama  o  subrama,  se  deben  utilizar  las  desviaciones  típicas
+especificadas,  de  acuerdo  con  las  instrucciones  que  se  impartirán.  En  la
+consolidación de las ramas y subramas, se deben tener en consideración los
+coeficientes de correlación detallados en dichas instrucciones.
+Podrán considerarse los contratos de reaseguros no proporcionales de exceso
+de  pérdida  aplicando  los  factores  de  ajuste  (NP)  dispuestos  en  las
+instrucciones que se impartirán siempre y cuando cumplan con las condiciones
+dispuestas en dichas instrucciones.   
+ARTICULO  21.9.1.2  (REQUERIMIENTO  DE  CAPITAL  POR  RIESGO  DE
+RR-SSF-2025-745     Fecha: 29/12/2025 16:45:51
+RESERVA) 
+El  riesgo  de  reserva  se  define  como  la  posibilidad  de  que  se  produzcan
+modificaciones adversas en el valor de las responsabilidades de los seguros,
+por la variabilidad no esperada de la reserva de siniestros pendientes hasta su
+completa liquidación.
+El  requerimiento  de  capital  por riesgo  de  reserva  de  seguros  de  daños
+patrimoniales se determinará de la siguiente forma: 
+Donde,
+-
+ = requerimiento de capital por riesgo de reserva
+-
+ = pares ordenados de requerimientos de capital asociados
+a los distintos 
+ por rama o subrama
+-
+  = correlación entre los riesgos 
+El  requerimiento  de  capital  por  riesgo  de  reserva  de  seguros  de  daños
+patrimoniales para cada rama o subrama se determinará de la siguiente forma: 
+Donde,
+-
+  = requerimiento de capital por riesgo de reserva
+-
+  =  desviación  típica  del  riesgo  de  reserva  de  seguros  de  daños
+patrimoniales 
+-
+  = reservas de siniestros pendientes netas de reaseguros de seguros
+de daños patrimoniales 
+Para  cada  rama  o  subrama,  se  deben  utilizar  las  desviaciones  típicas
+especificadas,  de  acuerdo  con  las  instrucciones  que  se  impartirán.  En  la
+consolidación de las ramas y subramas, se debe tener en consideración los
+coeficientes de correlación detallados en dichas instrucciones. 
+ARTICULO  21.9.1.3  (REQUERIMIENTO  DE  CAPITAL  POR  RIESGO
+CATASTRÓFICO – DAÑOS PATRIMONIALES) 
+El  riesgo  catastrófico  es  el  riesgo  de  pérdidas  significativas  derivadas  de
+sucesos extremos o excepcionales, que generan modificaciones adversas en el
+valor  de  las  responsabilidades  derivadas  de  los  seguros,  debido  a  la
+incertidumbre en las hipótesis de tarificación y constitución de reservas. 
+El  riesgo  catastrófico  de  seguros  de  daños  patrimoniales  comprende  los
+siguientes riesgos:
+- riesgo catastrófico por eventos naturales; 
+RR-SSF-2025-745     Fecha: 29/12/2025 16:45:51
+- riesgo catastrófico provocado por el hombre. 
+Será igual a la siguiente fórmula: 
+Donde,
+-
+  = requerimiento de capital por riesgo catastrófico
+- 
+  =  requerimiento  de  capital  por  riesgo  catastrófico  por
+eventos naturales
+-
+  =  requerimiento  de  capital  por  riesgo  catastrófico
+provocado por el hombre
+1. REQUERIMIENTO DE CAPITAL POR RIESGO CATASTRÓFICO POR
+EVENTOS NATURALES
+El riesgo catastrófico por eventos naturales comprende los siguientes riesgos:
+- riesgo de tormenta de viento; 
+- riesgo de inundación; 
+- riesgo de granizo; 
+- riesgo de sequía. 
+Se calculará conforme la siguiente fórmula:
+Donde,
+-
+  =  requerimiento  de  capital  por  riesgo  catastrófico  por
+eventos naturales
+-
+  = requerimiento de capital para el riesgo-
+1.1 REQUERIMIENTO DE CAPITAL POR RIESGO CATASTRÓFICO 
+DE TORMENTA DE VIENTO
+El  riesgo  catastrófico  de  tormenta  de  viento  captura  el  riesgo  de  pérdidas
+significativas derivadas de un único evento relacionado con tormenta de viento
+(incluye  vientos  huracanados,  ciclones,  borrascas),  que  afecte  seguros  de
+vivienda, comercio, industria, agropecuarios y automóviles (si tienen cobertura
+contra fenómenos naturales).
+El requerimiento de capital por riesgo catastrófico de tormenta de viento será
+igual a lo siguiente:
+Donde,
+-
+  = requerimiento de capital por riesgo catastrófico de tormenta de
+viento
+RR-SSF-2025-745     Fecha: 29/12/2025 16:45:51
+-
+  =  factor  de  riesgo  de  tormenta  de  viento,  de  acuerdo  con  las
+instrucciones que se impartirán 
+-
+  = sumas aseguradas expuestas a tormenta de viento
+-
+  = recuperación por reaseguro
+1.2 REQUERIMIENTO DE CAPITAL POR RIESGO CATASTRÓFICO 
+DE INUNDACIÓN
+El  riesgo  catastrófico  de  inundación  considera  la  posibilidad  de  pérdidas
+importantes  provocadas  por  inundaciones  masivas  que  afecten  con  daños
+materiales  de  magnitud  a las  exposiciones  aseguradas, que pueden incluir
+viviendas, edificios comerciales, vehículos y terrenos agrícolas.
+El requerimiento de capital por riesgo catastrófico de inundación se calculará
+de la siguiente forma:
+Donde,
+-
+  = requerimiento de capital por riesgo catastrófico de inundación
+-
+  = factor de riesgo de inundación, de acuerdo con las instrucciones
+que se impartirán 
+-
+  = sumas aseguradas expuestas al riesgo de inundación
+-
+  = recuperación por reaseguro
+1.3 REQUERIMIENTO DE CAPITAL POR RIESGO CATASTRÓFICO 
+DE GRANIZO
+El riesgo catastrófico de granizo es el riesgo de que un evento meteorológico
+extremo,  caracterizado  por  una  tormenta  de  granizo,  cause  pérdidas
+significativas y concentradas en las carteras aseguradas.
+El requerimiento de capital por riesgo catastrófico de granizo se calculará de la
+siguiente forma:  
+Donde,
+-
+  = requerimiento de capital por riesgo catastrófico de granizo
+-
+  = factor de riesgo de granizo, de acuerdo con las instrucciones que
+se impartirán 
+-
+  = sumas aseguradas expuestas al riesgo de granizo
+-
+  = recuperación por reaseguro
+RR-SSF-2025-745     Fecha: 29/12/2025 16:45:51
+1.4 REQUERIMIENTO DE CAPITAL POR RIESGO CATASTRÓFICO 
+DE SEQUÍA
+El riesgo catastrófico de sequía es el riesgo de que un evento meteorológico
+extremo, caracterizado por una situación de escasez de agua debido a una
+disminución significativa de las precipitaciones, cause pérdidas significativas y
+concentradas en las carteras aseguradas.
+El requerimiento de capital por riesgo catastrófico de sequía se calculará de la
+siguiente forma:  
+Donde,
+-
+  = requerimiento de capital por riesgo catastrófico de sequía
+-
+  = factor de riesgo de sequía, de acuerdo con las instrucciones que se
+impartirán
+-
+  = sumas asegurada expuesta al riesgo de sequía
+-
+  = recuperación por reaseguro
+2. REQUERIMIENTO  DE  CAPITAL  POR  RIESGO  CATASTRÓFICO
+PROVOCADO POR EL HOMBRE
+El  riesgo  catastrófico  provocado  por  el  hombre  comprende  los  siguientes
+riesgos: 
+- riesgo de responsabilidad civil de automóviles; 
+- riesgo de aviación; 
+- riesgo de incendio; 
+- riesgo de responsabilidad civil; 
+- riesgo de crédito y caución.
+Se calculará conforme la siguiente fórmula:
+Donde,
+-
+  =  requerimiento  de  capital  por  riesgo  catastrófico
+provocado por el hombre
+-
+ requerimiento de capital para el riesgo-
+2.1  REQUERIMIENTO  DE  CAPITAL  POR  RIESGO  CATASTRÓFICO  DE
+RESPONSABILIDAD CIVIL DE AUTOMÓVILES
+El riesgo catastrófico de responsabilidad civil de automóviles se define como la
+posibilidad de incurrir en pérdidas excepcionales debido a la ocurrencia de
+eventos poco frecuentes, pero de gran impacto, que provocan un alto número
+RR-SSF-2025-745     Fecha: 29/12/2025 16:45:51
+de  reclamaciones  simultáneas  en  seguros  de  responsabilidad  civil  de
+automóviles.
+El requerimiento de capital por riesgo catastrófico de responsabilidad civil de
+automóviles  será  igual  a  la  pérdida  instantánea  que  sea  igual  al  siguiente
+importe:
+Donde,
+-
+  = requerimiento  de capital por riesgo catastrófico  de
+responsabilidad civil de automóviles
+-
+  = factor de riesgo de responsabilidad civil de automóviles
+-
+  = número máximo de vehículos asegurados
+-
+  = número de automóviles asegurados por la empresa de seguros en 
+las líneas de negocio responsabilidad civil de automóviles
+-
+  = recuperación por reaseguro
+2.2 REQUERIMIENTO DE CAPITAL POR RIESGO CATASTRÓFICO 
+DE AVIACIÓN
+El riesgo catastrófico de aviación captura el riesgo de una pérdida catastrófica
+derivada de un único evento relacionado con el transporte aéreo, que afecta a
+múltiples personas aseguradas o con altos valores asegurados involucrados.
+El requerimiento de capital por riesgo catastrófico de aviación será igual a la
+pérdida de fondos propios de las empresas de seguros que resultaría de la
+pérdida instantánea de un importe que sea igual a la siguiente fórmula:
+Donde,
+-
+  = requerimiento de capital por riesgo catastrófico de
+aviación
+-
+  = suma asegurada por la empresa de seguros respecto del seguro
+de casco de aeronave y el seguro de responsabilidad civil en relación
+con una aeronave
+  , tomando en consideración toda la cartera.
+-
+  = recuperación por reaseguro
+2.3 REQUERIMIENTO DE CAPITAL POR RIESGO CATASTRÓFICO
+POR CONCENTRACIÓN DE INCENDIO
+El riesgo catastrófico por concentración de incendio cubre el riesgo de que una
+única  ubicación  con  la  mayor  exposición  asegurada  sufra  una  pérdida
+significativa debido a un único evento de incendio. 
+RR-SSF-2025-745     Fecha: 29/12/2025 16:45:51
+La mayor concentración de riesgo de incendio de una empresa de seguros será
+el conjunto de edificios que represente la mayor suma asegurada neta y que
+cumpla las condiciones siguientes:
+(a)  que  la  empresa  de  seguros  tenga,  en  relación  con  cada  edificio,
+obligaciones de seguro que cubran los daños ocasionados por un incendio o
+explosión; 
+(b) que todos los edificios estén total o parcialmente ubicados en un radio de
+200 metros.
+A efectos de lo dispuesto el conjunto de edificios podrá estar cubierto por uno o
+varios contratos de seguro.
+El requerimiento de capital por riesgo catastrófico de incendio será igual a la
+pérdida de fondos propios de las empresas de seguros que resultaría de la

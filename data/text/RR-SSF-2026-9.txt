@@ -1,0 +1,276 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La normativa en materia de requerimientos de capital para empresas
+de seguros dispuesta en la Recopilación de Normas de Seguros y Reaseguros.
+RESULTANDO: 
+I) Que por medio de la Circular N° 2470, el día 30 de diciembre de 2024
+se  puso  en  conocimiento  del  mercado  la  resolución  de  la
+Superintendencia de Servicios Financieros de fecha 26 de diciembre
+de 2024 por la cual se introdujeron requerimientos de capital por
+riesgo de mercado y contraparte en empresas de seguro.
+II) Que  el  30  de  diciembre  de  2024  se  emitió  la  Comunicación  N°
+2024/271 que reglamenta los factores a aplicar para el cálculo de
+dichos requerimientos de capital. 
+III) Que, en el marco de la hoja de ruta prevista, en el presente año se
+elaboró una propuesta normativa que introduce requerimientos de
+capital por riesgos técnicos de seguros. 
+CONSIDERANDO: 
+I) Que resulta necesario incorporar a la Comunicación referida en el
+RESULTANDO II) los factores relativos a requerimientos de capital
+por riesgos técnicos de seguros. 
+II) Que no se incorporan en esta etapa los factores asociados a riesgos
+catastróficos ya que se continúa relevando y analizando información
+solicitada a las empresas aseguradoras para su calibración.
+ATENTO  :   A lo dispuesto en el literal A) del artículo 38 de la Ley Nro. 16.696 del
+30 de marzo de 1995 en la redacción dada por el artículo  2 de la Ley Nro.
+20.345 del 19 de setiembre de 2024, al Memorandum MM/2025/00465 de fecha
+18 de diciembre de 2025  y a los informes emitidos por esta Superintendencia
+de Servicios Financieros.
+RR-SSF-2026-9     Fecha: 05/01/2026 12:57:03
+LA INTENDENTE DE SUPERVISIÓN FINANCIERA EN EJERCICIO DE
+ATRIBUCIONES DELEGADAS Y ENCOMENDADAS POR EL
+SUPERINTENDENTE DE SERVICIOS FINANCIEROS,   RESUELVE:  
+Comunicar a las empresas de seguros que, a efectos del cálculo del
+requerimiento  de  capital  por  riesgos,  deberán  ajustarse  a  las
+siguientes disposiciones:
+1) Requerimiento  de  capital  por  riesgo  de  mercado  –
+Factores a aplicar
+T abla 1:
+Artículo Riesgo Nomenclatu
+ra
+Factor
+21.2 T asa de interés
+ 200 puntos
+básicos (*)
+21.3 Acciones 
+    49%
+21.4 Tipo de cambio
+ 30 %
+21.5 Reajuste
+ 9%
+21.6 Spread
+ 2 niveles
+21.7 Inmuebles
+ 25%
+(*) Cuando la tasa de interés esté por debajo del 2%, la tasa afectada por el
+shock en el escenario a la baja será igual al 0%. 
+2) Requerimiento  de  capital  por  riesgo  de  contraparte  –
+Factores a aplicar
+T abla 2:
+Artículo 21.8 – Numeral 1) 
+Contrapartes con
+calificación crediticia
+Calificación
+de riesgos
+(o
+equivalente
+)
+Probabilidad
+es de
+incumplimien
+to (bps)
+AAA 0,29
+AA+ 1,1
+AA 1,71
+AA- 2,65
+A+ 4,12
+A 6,39
+A- 9,92
+BBB+ 15,4
+BBB 23,89
+BBB- 37,04
+BB+ 57,39
+BB 88,82
+BB- 137,23
+RR-SSF-2026-9     Fecha: 05/01/2026 12:57:03
+B+ 211,46
+B 324,52
+B- 494,98
+CCC+ 748,06
+CCC 1.115,34
+CCC- 1.631,16
+CC 2.323,16
+C 4.217,99
+Las calificaciones de riesgo deberán ser emitidas por alguna entidad
+calificadora de riesgo reconocida por la SEC (Securities and Exchange
+Commission) de los Estados Unidos de América como “Organizaciones
+de  Clasificación  Estadística  Reconocidas  Nacionalmente”  (NRSRO  -
+Nationally Recognized Statistical Rating Organizations) e inscripta en
+el Registro del Mercado de Valores, en escala internacional.
+T abla 3:
+Artículo 21.8 – Numeral
+2) 
+Contrapartes sin
+calificación crediticia
+90%
+15%
+Según ratio de
+solvencia
+(T abla 4)
+(**) con i distinto de 1 o 2.
+T abla 4:
+Artículo 21.8 – Numeral 2) – Contraparte con empresas
+aseguradoras locales
+Ratio de
+Solvenci
+a (*)
+Superio
+r a
+196%
+175% 150
+%
+125% 122% 100% 95% Inferio
+r a
+75% 
+0,01% 0,05% 0,1% 0,2% 0,24% 0,5% 1,2% 4,2%
+(*) Ratio
+Cuando  el  ratio  de  solvencia  se  sitúe  entre  los  coeficientes  de
+solvencia especificados anteriormente, el valor de la probabilidad de
+impago  se  interpolará  linealmente  a  partir  de  los  coeficientes  de
+solvencia y probabilidades de impago más próximos especificados en
+la tabla anterior.
+RR-SSF-2026-9     Fecha: 05/01/2026 12:57:03
+3) Requerimiento  de  capital  por  riesgos  técnicos  de
+seguros - Factores a aplicar
+T abla 5:
+Desviaciones típicas del riesgo de prima y de reserva del
+seguro de daños patrimoniales
+Artículos 21.9.1.1 y 21.9.1.2
+Segmento (rama o
+subrama)
+Desviación
+típica del
+riesgo de
+prima (
+  
+Desviación
+típica del
+riesgo de
+reserva (
+ )
+1 Incendio 14% *NPi 15%
+2 Vehículos 5% *NPi 8%
+3 Hurto y riesgos similares 8% *NPi 9%
+4 Responsabilidad civil 9% *NPi 10%
+5 Caución 12%*NPi 15%
+6 Transporte 5%*NPi 6%
+7 Rurales 8%*NPi 9%
+8 Ingeniería 8%*NPi 9%
+9 T odo riesgo operativo 8%*NPi 13%
+10 Otros riesgos 10%*NPi 11%
+T abla 6:
+NPi  por rama y sub rama
+Segmento (Rama o sub 
+rama)
+NPi
+1 Incendio 0.8
+2 Vehículos 0.8
+3 Hurto y riesgos similares 0.8
+4 Responsabilidad civil 0.8
+5 Caución 1
+6 Transporte 1
+7 Rurales 1
+8 Ingeniería 1
+9 T odo riesgo operativo 1
+10 Otros riesgos 1
+FACTOR DE AJUSTE DE REASEGURO NO PROPORCIONAL (NP) –
+CONDICIONES
+Los  reaseguros  no  proporcionales  de  exceso  de  pérdida  para  una
+rama o sub-rama podrán ser considerados a efectos de aplicar el
+factor de ajuste de reaseguro no proporcional (NPi), si cumplen las
+siguientes condiciones:
+a) Proporcionan  una  completa  indemnización  por  pérdidas  que
+superen una retención específica con o sin límite.
+RR-SSF-2026-9     Fecha: 05/01/2026 12:57:03
+b) Cubren  todo  siniestro  asegurado  por  la  cedente  durante  los
+siguientes 12 meses. Adicionalmente, podrán ser considerados
+aquellos reaseguros que cubran al seguro directo cuyo período
+de vigencia remanente a la fecha de cálculo de capital basado
+en riesgos sea inferior a un año cuando:
+En  las  políticas  y  procedimientos  de  gestión  de  riesgo  de
+reaseguro, estén claramente establecidos los lineamientos de
+seguimiento y renovación de dichos contratos.
+i. La frecuencia de renovación de contratos de reaseguro no
+sea mayor a semestral.
+ii. La renovación del contrato de reaseguro no dependa de
+ningún hecho futuro ajeno al control de la compañía. Si
+esto  ocurriera,  deberán  documentarse  claramente  las
+condiciones  en  los  lineamientos  de  seguimiento  y
+renovación referidos en el punto i.
+iii. La renovación del contrato de reaseguro sea realista, lo
+que  la  compañía  deberá  demostrar  en  función  de  la
+historia de renovación que haya realizado anteriormente,
+y coherente con su plan de negocios y nivel de tolerancia
+al riesgo. 
+iv. El  riesgo  de  que  el  contrato  de  reaseguro  no  pueda
+renovarse debido a ausencia de liquidez en el mercado
+reasegurador no sea significativo. 
+c) Cuando el reaseguro contratado permita un número suficiente
+de reinstalaciones, es decir, que dadas las características del
+riesgo cubierto  (frecuencia  de  ocurrencia), permita cubrir  un
+año de exposición. La compañía deberá evaluar la suficiencia y
+tener a disposición de la SSF sus criterios de evaluación. 
+d) Cuando  el  reaseguro  contratado  se  aplique  a  los  siniestros
+brutos  o  netos  de  cobertura  por  contratos  de  reaseguro
+proporcional.
+T abla 7:
+Matriz de correlación del riesgo de prima y de reserva del
+seguro de daños patrimoniales
+Artículo 21.9.1.1 y Artículo 21.9.1.2
+1 2 3 4 5 6 7 8 9 10
+1 1 0.25 0.25 0.25 0.25 0.25 0.25 0.25 0.50 0.50
+2 0.25 1 0.5 0.50 0.25 0.50 0.25 0.25 0.25 0.50
+3 0.25 0.5 1 0.25 0.25 0.25 0.25 0.25 0.25 0.50
+4 0.25 0.50 0.25 1 0.50 0.25 0.25 0.25 0.25 0.50
+5 0.25 0.25 0.25 0.50 1 0.25 0.25 0.25 0.25 0.50
+6 0.25 0.25 0.50 0.25 0.25 1 0.25 0.25 0.25 0.50
+RR-SSF-2026-9     Fecha: 05/01/2026 12:57:03
+7 0.25 0.25 0.25 0.25 0.25 0.25 1 0.25 0.25 0.50
+8 0.25 0.25 0.25 0.25 0.25 0.25 0.25 1 0.50 0.50
+9 0.50 0.25 0.25 0.25 0.25 0.25 0.25 0.50 1 0.50
+10 0.50 0.50 0.50 0.50 0.50 0.50 0.50 0.50 0.50 1
+T abla 8:
+Desviaciones típicas del riesgo de prima y de reserva de los
+seguros para las personas que no generan reservas
+matemáticas
+Artículo 21.9.2.1 (numerales 1. y 2.)
+Segmento (rama o
+subrama)
+Desviación
+típica del
+riesgo de
+prima 
+Desviación
+típica del
+riesgo de
+reserva 
+1 Vida individual 11% 14%
+2 Vida colectivo 5% 10%
+3 Accidentes personales 5% 10%
+4 Salud 12% 15%
+5 Varios 12% 15%
+T abla 9:
+Matriz de correlación del riesgo de prima y de reserva de
+seguros para las personas que no generan reservas
+matemáticas
+T abla 10:
+Seguros para las personas
+Artículo Riesgo Factor
+21.9.2.2 Mortalidad 15%
+21.9.2.3 Longevidad 20%
+VIGENCIA: Las modificaciones dispuestas precedentemente regirán a
+partir del 1° de enero de 2028.
+Artículo 21.9.2.1 (numerales 1.
+y 2.)
+1 2 3 4 5
+1 1 0.50 0.25 0.50 0.50
+2 0.50 1 0.25 0.50 0.50
+3 0.25 0.25 1 0.25 0.50
+4 0.50 0.50 0.25 1 0.50
+5 0.50 0.50 0.50 0.50 1
+RR-SSF-2026-9     Fecha: 05/01/2026 12:57:03
+Se deja sin efecto la Comunicación N°2024/271 de 30 de enero de 
+2024.
+RR-SSF-2026-9     Fecha: 05/01/2026 12:57:03
+Exp. 2024-50-1-02366 
+ Publicable: Si - Firmante: PATRICIA FABIANA TUDISCO BASIGNANI

@@ -1,0 +1,223 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La Actuación Enfocada realizada a S.A. Cía. Club del Este.
+RESULTANDO:  Que la Actuación Enfocada referida en el Visto tuvo como
+objetivos evaluar la gestión diaria y operativa de la institución y el cumplimiento
+de la normativa sobre tasa de interés, así como los procedimientos de control
+implementados en el marco de la Ley N° 18.212.
+CONSIDERANDO: Que corresponde notificar a S.A. Cía. Club del Este  los
+resultados de la Actuación Enfocada, comunicando las observaciones y las
+instrucciones particulares.
+ATENTO  :   a lo establecido en los literales A) y K) del artículo 38 de la Ley
+16.696 de 30 de marzo de 1995, en la redacción dada por artículo 2 de la Ley
+20.345 de 19 de setiembre de 2024, la Recopilación de Normas de Regulación
+y  Control  del  Sistema  Financiero  (RNRCSF)  y  la  resolución  de  la
+Superintendencia de Servicios Financieros SSF 785-2015 de 24 de noviembre
+de 2015.
+LA INTENDENTE DE SUPERVISIÓN FINANCIERA
+EN EJERCICIO DE ATRIBUCIONES DELEGADAS POR EL
+SUPERINTENDENTE DE SERVICIOS FINANCIEROS,
+RESUELVE:
+1) Hacer saber a S.A. Cía. Club del Este las observaciones que se detallan a
+continuación: 
+1. Para  el  establecimiento  de  las  tasas  de  interés  activas  mensuales
+(compensatorias y moratorias), la institución toma en cuenta únicamente
+los topes establecidos para capitales menores a 10.000 UI y hasta 366
+días  (Familias-  Consumo),  sin  embargo,  se  constató  la  existencia  de
+operaciones por capitales mayores a 10.000 UI y a más de 366 días.
+2. Para  la  determinación  de  las  tasas  de  interés  implícitas  en  las
+operaciones  de  crédito  no  se  consideran  los  cargos  no  excluibles  de
+acuerdo con el Art. 14 de la Ley N°18.212 y el Art. 339 de la RNRCSF. 
+Por otra parte, los controles que la institución declara realizar en forma
+previa a la emisión de los Estados de Cuenta de los tarjetahabientes no
+son eficaces, en la medida que no permitieron detectar que desde el mes
+de enero de 2024 el sistema informático consideraba para el cálculo de
+los  intereses  moratorios  información  desde  una  tabla  no  vigente,
+resultando en la aplicación de tasas de interés moratorio superiores al
+tope.
+RR-SSF-2025-612     Fecha: 06/11/2025 12:29:43
+Por ende, los procedimientos de fijación y control de tasas de interés de la
+institución no permiten controlar la ocurrencia de excesos a los topes
+máximos reglamentarios establecidos por la Ley N° 18.212. 
+3. Los intereses compensatorios y moratorios se calculan en base 30/365
+días, lo que no se ajusta a lo establecido en el Art. 4 de la Ley N° 18.212.
+4. El cuadro de amortización de los préstamos en efectivo y por tanto, su
+contabilización, no se realiza por el método francés de amortización, sino
+que cada cuota fija se compone de un mismo importe de amortización de
+capital, intereses e IVA, lo cual no se ajusta al Marco Contable vigente
+(Comunicación N° 2025/057).
+2) Requerir a S.A. Cía. Club del Este la presentación, en un plazo de treinta
+días corridos y siguientes desde la notificación de la presente resolución, de
+un  plan  de  acción  para  atender  las  observaciones  formuladas
+precedentemente, detallando las soluciones propuestas, especificando los
+plazos para su cumplimiento y los responsables de su ejecución. 
+3) Impartir a S.A. Cía. Club del Este las siguientes instrucciones particulares
+(IP): 
+IP 1 De  la  muestra  seleccionada  sobre  la  operativa  de  préstamos,  se
+observó  que  se  configuró  exceso  al  tope  de  la  tasa  de  usura  en
+aquellas operaciones de planes generales donde el capital supera las
+10.000 UI. 
+Se  instruye  a  recalcular  los  intereses  para  la  totalidad  de  las
+operaciones de préstamos desde el 01.05.2025 a la fecha y proceder a
+la  devolución  inmediata  de  los  importes  cobrados  en  exceso  a  los
+clientes afectados, según lo establecido en la mencionada Ley. 
+IP 2 De la muestra seleccionada sobre la operativa de tarjeta de crédito, se
+constataron excesos al tope de la tasa de usura en todos los casos
+donde el saldo financiado supera un capital de 10.000 UI y en otros
+casos, donde si bien no se supera el referido monto de capital, el
+exceso surge debido a la fórmula de cálculo de los intereses y la no
+consideración  de  los  cargos  no  excluibles  de  acuerdo  con  lo
+establecido el Art. 14 de la Ley N°18.212 y el Art. 339 de la RNRCSF,
+entre  ellos,  el  gasto  de  renovación  de  tarjeta  y  el  costo  de
+administración de tarjeta con movimientos. 
+Se  instruye  a  recalcular  los  intereses  para  la  totalidad  de  las
+operaciones de tarjeta de crédito desde el 01.05.2025 a la fecha y
+proceder a la devolución inmediata de los importes cobrados en exceso
+a los clientes afectados, según lo establecido en el artículo 25 de la Ley
+N° 18.212. 
+IP 3 Se constató que la institución incurrió en exceso al tope de la tasa de
+usura  para  intereses  moratorios  aplicable  a  sus  operaciones.  Este
+exceso se produce en virtud de la utilización de una tabla no vigente,
+conforme la declaración de sus representantes, desde el mes de enero
+de 2024.
+RR-SSF-2025-612     Fecha: 06/11/2025 12:29:43
+Se instruye a recalcular los intereses moratorios para la totalidad de las
+operaciones desde el 01.01.2024 a la fecha y proceder a la devolución
+inmediata de los importes cobrados en exceso al tope de la tasa de
+usura a los clientes afectados, según lo establecido en el artículo 25 de
+la Ley N° 18.212. 
+IP4 El Art. 383 de la RNRCSF (Cartilla) establece que las instituciones
+deberán  entregar  una  cartilla  a  cada  cliente  antes  de  suscribir  el
+contrato,  en  la  que  se  señalen,  entre  otros,  lo  enumerado  a
+continuación:
+c) los cargos, gastos, comisiones, tarifas, seguros, multas, tributos y
+otros importes aplicables, indicando concepto, periodicidad de cobro y
+el carácter obligatorio u optativo de cada uno y la forma en la que el
+cliente puede informarse del monto vigente de las mismas.
+Sin  embargo,  se  constató  que  la  institución  no  expone  en  la
+información de la cartilla el cargo que denomina “Cargo por compras
+ágiles”.
+Se instruye a incluir en la cartilla que se entrega al cliente y que se
+encuentra  publicada  en  la  web  institucional  el  Cargo  por  compras
+ágiles.
+IP 5 El Art. 371 de la RNRCSF establece que deberán constar de manera
+preceptiva  requerimientos  mínimos  en  el  documento  de  adeudo
+suscrito.
+Los documentos de adeudo de la muestra de préstamos analizada no
+cumplen  con  las  formalidades  requeridas,  en  la  medida  en  que  el
+nombre del documento para el efectivo retirado en Club del Este se
+denomina “Boleta de depósito de cupones de venta” y los retirados en
+Abitab  “Adelantos  en  efectivo”,  lo  que  no  condice  con  la  operativa
+realizada.  Asimismo,  no  incluyen  la  totalidad  de  los  requisitos
+establecidos en el citado artículo:
+- la tasa de interés compensatorio (literal b),
+- la suma total a pagar incluyendo intereses y tributos (literal d),
+-  la  cantidad  de  cuotas  y  monto  respectivo  con  indicación  del
+vencimiento de cada una (literal e).
+Se instruye a modificar la referida documentación a efectos de dar
+cumplimiento a la normativa antes mencionada.
+IP 6 Los  estados  de  cuenta  de  tarjeta  de  crédito  no  cumplen  con
+determinados  contenidos  exigidos  reglamentariamente,  habiéndose
+constatado que:
+- no  se  da  difusión  a  la  posibilidad  de  trasladar  los  reclamos  a  la
+Superintendencia  de  Servicios  Financieros  del  Banco  Central  del
+Uruguay  en  caso  de  que  la  institución  no  dé  respuesta  a  dichos
+reclamos o que esta sea insatisfactoria (artículo 327 de la RNRCSF).
+RR-SSF-2025-612     Fecha: 06/11/2025 12:29:43
+- el importe expuesto como cuotas de préstamos no condice con el
+importe total correspondiente, sino que el IVA de los intereses de la
+misma se exponen dentro del monto global de IVA del estado de
+cuenta (literal c del art. 379 de la RNRCSF).
+- no se exponen todos los cargos pactados (literal e del art. 379 de la
+RNRCSF).  Al  respecto  se  observa  que  los  cargos  o  gastos  se
+incluyen agrupados, no discriminándose cada uno de los items que lo
+conforman. Asimismo, en el caso de cobro de comisiones por pagos
+de servicios en redes, dicho costo tampoco se discrimina del monto
+del servicio pagado.
+- no cuentan con detalle del importe de intereses que se devengan a la
+fecha de vencimiento del estado de cuenta en caso de que no se
+efectúe ningún pago (intereses bonificables- numeral iii, literal g) del
+art. 379 de la RNRCSF).
+- no se individualizan los tributos que aplican a cada concepto (literal f
+del art. 379 de la RNRCSF). 
+Como consecuencia de lo anterior y de otros aspectos, tales como la
+identificación  de  dos  importes  denominados  "Total"  que  refieren  a
+diferentes conceptos, los estados de cuenta no presentan información
+precisa e inequívoca de lo que se cobra al cliente.
+Se instruye a la entidad a regularizar los aspectos señalados conforme
+a lo dispuesto en los artículos 327 y 379 de la RNRCSF.
+IP 7 Se  detectaron  varios  incumplimientos  respecto  del  Marco  Contable
+vigente aplicable a empresas administradoras de crédito de mayores
+activos, lo que genera errores en la información reportada al supervisor
+(Estados Financieros y Central de Riesgos):
+- la categorización de riesgo utilizada no se condice con los rubros
+empleados para la registración contable. En particular, no siempre se
+utilizan los rubros contables que corresponden a los días de atraso
+que mantienen los deudores.
+- para los deudores con atraso mayor a 90 días no se devengan ni
+suspenden los intereses. De acuerdo con el Anexo 5 del referido
+Marco, corresponde devengar y suspender intereses para los clientes
+clasificados 3, 4 y 5. 
+- existen deudores con categoría mayor o igual a 3 para los cuales los
+intereses  devengados  reconocidos  como  ganancias  durante  el
+ejercicio no se extornan con crédito a intereses en suspenso. De
+acuerdo con el Anexo 5, los intereses devengados reconocidos como
+ganancias durante el ejercicio y no percibidos, deberán extornarse
+con  crédito  a  intereses  en  suspenso  cuando  el  deudor  deba
+clasificarse 3, 4 o 5. 
+RR-SSF-2025-612     Fecha: 06/11/2025 12:29:43
+- existen deudores cuyo saldo de intereses no se expone de forma
+separada  al  capital.  El  capital  e  interés  debe  ser  registrado
+contablemente en rubros separados. 
+- los  préstamos  concedidos  son  contabilizados  en  el  capítulo
+“Deudores  por  tarjeta  de  crédito  y  órdenes  de  compra”;  cuando
+corresponde  que  se  contabilicen  en  el  capítulo  “Préstamos
+Amortizables”.  Las  operaciones  deben  contabilizarse  teniendo  en
+cuenta la operativa a la que refiere.
+Se  instruye  a  regularizar  la  contabilización  de  acuerdo  con  lo
+establecido  en  las  Normas  Contables  para  la  elaboración  de  los
+Estados Financieros y Taxonomía XBRL vigentes (Comunicaciones N°
+2025/030, N° 2025/057 y N° 2025/063)
+IP 8 El Art. 327 de la RNRCSF, establece que las instituciones deberán
+publicar en el sitio de internet: 
+- Los formularios de reclamación.
+- La descripción del procedimiento de Atención de reclamos. 
+Si bien la institución cuenta con un procedimiento, al mismo no se le da
+una adecuada difusión, ya que fue incorporado dentro de la cartilla de
+contrato, en el siguiente enlace: https://www.clubdeleste.com.uy/club-
+del-este-tarjeta-de-credito-uruguay/
+Asimismo,  no  se  encuentra  disponible  en  la  web  institucional  el
+formulario para ingresar el reclamo. 
+Se  instruye  a  dar  cumplimiento  a  lo  establecido  en  el  mencionado
+artículo y exponer el procedimiento de atención de reclamos en el sitio
+web institucional de forma fácilmente accesible junto al formulario de
+reclamos.  
+IP.9 Si bien actualmente la tarjeta de crédito es exclusivamente de uso
+local, sigue informándose en la web institucional que es posible realizar
+compras en la República Argentina, lo cual se dejó sin efecto según lo
+declarado por sus representantes.
+Se  instruye  a  la  institución  a  adecuar  la  web  institucional  y  toda
+documentación  e  información  (incluido  el  estado  de  cuenta)
+proporcionada  al  cliente,  de  forma  de  no  inducir  a  equívocos  o
+confusiones,  de  acuerdo  con  lo  establecido  en  el  art.  476.1  de  la
+RNRCSF. 
+Respecto de las IP.1, IP.2 e IP.3 se requiere dentro de 30 días corridos y
+siguientes a la notificación de la presente resolución, la presentación de un
+informe de Contador Público independiente con opinión sobre el recálculo
+de los intereses y la efectiva devolución de los montos que excedan los
+topes de usura a los clientes afectados. 
+Para el cumplimiento de las instrucciones particulares IP.4 a IP.9 se concede
+un  plazo  de  60  días  corridos  y  siguientes  desde  la  notificación  de  la
+RR-SSF-2025-612     Fecha: 06/11/2025 12:29:43
+presente resolución. Vencido  el  mismo, S.A. Cía. Club del Este deberá
+presentar dentro de los diez días hábiles siguientes documentación que
+acredite fehacientemente el cumplimiento de cada una de ellas.
+4) Notificar a la firma de auditores externos de S.A Cía. Club del Este, Fabricio
+Introini  Lhéritier  (nombre  de  fantasía  Cr.  Marcelo  Introini  &  Asociados-
+Auditores-Consultores),  la  Instrucción  particular  IP.7  a  efectos  de  su
+consideración para el cumplimiento de lo dispuesto en el literal a) del Art.
+636 de la RNRCSF. 
+5) Notificar a S.A. Cía. Club del Este la presente resolución.
+RR-SSF-2025-612     Fecha: 06/11/2025 12:29:43
+Exp. 2025-50-1-02034 
+ Publicable: Si - Firmante: CRISTINA ROSARIO RIVERO MORES
