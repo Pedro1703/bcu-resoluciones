@@ -75,24 +75,32 @@ def main():
     state = _load(STATE, {})
     seen = set(state.get("seen", []))
     extracted_ids = set(state.get("extracted", []))
+    heuristic_ids = set(state.get("heuristic", []))
     first_run = not seen
+    have_key = bool(os.environ.get("ANTHROPIC_API_KEY"))
 
-    # Candidatos estratégicos aún no extraídos, de más nuevos a más viejos.
-    cand = [it for it in catalog
-            if extract.is_candidate(it) and it["id"] not in extracted_ids]
-    cand.sort(key=lambda x: x.get("sort", 0), reverse=True)
+    # Candidatos: primero los nunca extraídos (más nuevos primero); después, si ya
+    # hay API key, los que quedaron en heurística para upgradearlos a Claude.
+    cands = [it for it in catalog if extract.is_candidate(it)]
+    cands.sort(key=lambda x: x.get("sort", 0), reverse=True)
+    pending = [it for it in cands if it["id"] not in extracted_ids]
+    upgrades = [it for it in cands if it["id"] in heuristic_ids] if have_key else []
     budget = BASELINE_EXTRACT if first_run else MAX_EXTRACT
-    todo = cand[:budget]
+    todo = (pending + upgrades)[:budget]
     new_count = len([it for it in catalog if it["id"] not in seen])
 
-    print(f"· {new_count} resoluciones nuevas. "
-          f"Extrayendo {len(todo)} candidatos (de {len(cand)} pendientes)…")
+    print(f"· {new_count} nuevas · {len(pending)} sin procesar · "
+          f"{len(upgrades)} a upgradear. Extrayendo {len(todo)} (key={have_key})…")
     os.makedirs(EXTRACTED, exist_ok=True)
     for i, it in enumerate(todo, 1):
         text = _text_for(it)
         rec = extract.extract(it, text)
         _save(os.path.join(EXTRACTED, it["id"] + ".json"), rec)
         extracted_ids.add(it["id"])
+        if str(rec.get("_motor", "")).startswith("claude"):
+            heuristic_ids.discard(it["id"])
+        else:
+            heuristic_ids.add(it["id"])
         if i % 20 == 0 or i == len(todo):
             print(f"  extraídas {i}/{len(todo)}")
 
@@ -114,6 +122,7 @@ def main():
 
     state["seen"] = sorted(set(it["id"] for it in catalog))
     state["extracted"] = sorted(extracted_ids)
+    state["heuristic"] = sorted(heuristic_ids)
     _save(STATE, state)
 
     print(f"· Listo. M&A: {len(strategic['power_graph']['edges'])} · "
