@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BCU · Radar del Sistema Financiero</title>
+<link rel="preconnect" href="https://unpkg.com">
+<script src="https://unpkg.com/vis-network@9.1.9/standalone/umd/vis-network.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/marked@12.0.0/marked.min.js"></script>
+<style>
+  :root{
+    --navy:#0a3470; --navy2:#0d4a9e; --ink:#0c1726; --panel:#0f2138;
+    --panel2:#16304f; --line:#23456e; --txt:#e8eef7; --muted:#9bb3d1;
+    --gold:#f2b441; --teal:#37c2b8; --red:#ff6b6b; --green:#4cd07d;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:radial-gradient(1200px 600px at 70% -10%,#143a72 0%,var(--ink) 55%);
+    color:var(--txt);font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+  a{color:var(--teal);text-decoration:none}
+  a:hover{text-decoration:underline}
+  header{padding:22px 26px 10px;border-bottom:1px solid var(--line)}
+  .brand{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap}
+  .brand h1{font-size:23px;margin:0;letter-spacing:.2px}
+  .brand .sub{color:var(--muted);font-size:13px}
+  .chips{display:flex;gap:10px;flex-wrap:wrap;margin-top:12px}
+  .chip{background:var(--panel);border:1px solid var(--line);border-radius:999px;
+    padding:6px 13px;font-size:12.5px;color:var(--muted)}
+  .chip b{color:var(--txt)}
+  nav{display:flex;gap:4px;padding:12px 20px 0;flex-wrap:wrap}
+  nav button{background:transparent;border:0;color:var(--muted);padding:10px 16px;
+    font-size:14px;cursor:pointer;border-radius:9px 9px 0 0;border-bottom:2px solid transparent}
+  nav button:hover{color:var(--txt)}
+  nav button.active{color:#fff;background:var(--panel);border-bottom:2px solid var(--gold)}
+  main{padding:20px 26px 60px;max-width:1280px;margin:0 auto}
+  .view{display:none}
+  .view.active{display:block}
+  .lead{color:var(--muted);max-width:760px;margin:2px 0 18px}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:18px}
+  .grid{display:grid;gap:16px}
+  #net{height:600px;border-radius:14px;background:var(--panel);border:1px solid var(--line)}
+  .legend{display:flex;gap:14px;flex-wrap:wrap;margin:12px 0;font-size:12.5px;color:var(--muted)}
+  .legend span{display:inline-flex;align-items:center;gap:6px}
+  .dot{width:11px;height:11px;border-radius:50%;display:inline-block}
+  .split{display:grid;grid-template-columns:1fr 340px;gap:16px}
+  @media(max-width:880px){.split{grid-template-columns:1fr}#net{height:440px}}
+  .panel-side h3{margin:.2em 0 .6em;font-size:15px}
+  .ev{border-left:2px solid var(--line);padding:6px 0 6px 12px;margin:0 0 10px}
+  .ev .y{color:var(--gold);font-size:12px;font-weight:600}
+  .ev .t{font-size:13px;color:var(--txt)}
+  .ev .r{font-size:12.5px;color:var(--muted)}
+  table{width:100%;border-collapse:collapse;font-size:13.5px}
+  th,td{text-align:left;padding:9px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+  th{color:var(--muted);font-weight:600;font-size:12px;text-transform:uppercase;letter-spacing:.4px}
+  tr:hover td{background:rgba(255,255,255,.02)}
+  .badge{display:inline-block;padding:2px 8px;border-radius:999px;font-size:11.5px;font-weight:600}
+  .b-ma{background:rgba(55,194,184,.16);color:var(--teal)}
+  .b-sanc{background:rgba(255,107,107,.16);color:var(--red)}
+  .b-alta{background:rgba(76,208,125,.16);color:var(--green)}
+  .b-baja{background:rgba(242,180,65,.16);color:var(--gold)}
+  .stat{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin-bottom:18px}
+  .stat .card{padding:16px 18px}
+  .stat .n{font-size:26px;font-weight:700}
+  .stat .l{color:var(--muted);font-size:12.5px;margin-top:3px}
+  .money{color:var(--gold);font-weight:600;white-space:nowrap}
+  input[type=search]{width:100%;padding:11px 14px;border-radius:10px;border:1px solid var(--line);
+    background:var(--ink);color:var(--txt);font-size:14px;margin-bottom:14px}
+  .prose{max-width:820px}
+  .prose h2{font-size:22px;border-bottom:1px solid var(--line);padding-bottom:8px}
+  .prose h3{color:var(--gold);font-size:17px;margin-top:1.6em}
+  .prose code{background:var(--panel2);padding:1px 5px;border-radius:5px}
+  .muted{color:var(--muted)}
+  .row2{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+  @media(max-width:880px){.row2{grid-template-columns:1fr}}
+  canvas{max-height:300px}
+  footer{color:var(--muted);font-size:12px;text-align:center;padding:30px}
+</style>
+</head>
+<body>
+<header>
+  <div class="brand">
+    <h1>🏦 BCU · Radar del Sistema Financiero</h1>
+    <span class="sub">Resoluciones de la Superintendencia de Servicios Financieros · análisis estratégico</span>
+  </div>
+  <div class="chips" id="chips"></div>
+</header>
+<nav id="nav">
+  <button data-v="mapa" class="active">🗺️ Mapa de poder</button>
+  <button data-v="sanciones">⚖️ Sanciones</button>
+  <button data-v="altas">🔄 Altas y bajas</button>
+  <button data-v="informe">📰 Informe</button>
+  <button data-v="buscador">🔎 Buscador</button>
+</nav>
+<main>
+  <!-- MAPA -->
+  <section class="view active" id="v-mapa">
+    <p class="lead">Grafo de propiedad y control del sistema financiero uruguayo. Cada nodo es una
+      entidad; cada arista, una operación de M&amp;A, transferencia de acciones o cambio de control
+      detectada en las resoluciones. Clic en un nodo para ver su historia regulatoria.</p>
+    <div class="split">
+      <div>
+        <div id="net"></div>
+        <div class="legend" id="legend"></div>
+      </div>
+      <div class="card panel-side" id="side">
+        <h3>Seleccioná un nodo o arista</h3>
+        <p class="muted" style="font-size:13px">El detalle de cada movimiento aparece acá.</p>
+      </div>
+    </div>
+  </section>
+  <!-- SANCIONES -->
+  <section class="view" id="v-sanciones">
+    <p class="lead">Quién incumple: sanciones y multas aplicadas por la SSF, su evolución y los
+      reincidentes.</p>
+    <div class="stat" id="sanc-stat"></div>
+    <div class="row2">
+      <div class="card"><h3 style="margin-top:0">Sanciones por año</h3><canvas id="sancChart"></canvas></div>
+      <div class="card"><h3 style="margin-top:0">Top entidades sancionadas</h3>
+        <table id="sancRank"><tbody></tbody></table></div>
+    </div>
+    <div class="card" style="margin-top:16px">
+      <h3 style="margin-top:0">Detalle de sanciones</h3>
+      <table id="sancTable"><thead><tr><th>Año</th><th>Entidad</th><th>Monto</th><th>Resumen</th><th></th></tr></thead><tbody></tbody></table>
+    </div>
+  </section>
+  <!-- ALTAS/BAJAS -->
+  <section class="view" id="v-altas">
+    <p class="lead">El mapa de entradas y salidas: nuevas inscripciones (altas) frente a
+      cancelaciones y revocaciones (bajas) del mercado regulado.</p>
+    <div class="card"><h3 style="margin-top:0">Altas vs. bajas por año</h3><canvas id="abChart"></canvas></div>
+    <div class="row2" style="margin-top:16px">
+      <div class="card"><h3 style="margin-top:0">🟢 Altas recientes</h3><table id="altasT"><tbody></tbody></table></div>
+      <div class="card"><h3 style="margin-top:0">🟡 Bajas recientes</h3><table id="bajasT"><tbody></tbody></table></div>
+    </div>
+  </section>
+  <!-- INFORME -->
+  <section class="view" id="v-informe">
+    <div class="card prose" id="informe">Cargando informe…</div>
+  </section>
+  <!-- BUSCADOR -->
+  <section class="view" id="v-buscador">
+    <p class="lead">Las <b id="catN">…</b> resoluciones del catálogo, filtrables por texto.</p>
+    <input type="search" id="q" placeholder="Buscar por entidad, número, palabra clave…">
+    <div class="card"><table id="catTable"><thead><tr><th>Nº</th><th>Fecha</th><th>Título</th><th></th></tr></thead><tbody></tbody></table>
+      <p class="muted" id="catMore" style="font-size:12.5px"></p></div>
+  </section>
+</main>
+<footer>
+  Fuente: Banco Central del Uruguay (información pública). Generado automáticamente ·
+  <span id="footMeta"></span>
+</footer>
+<script>
+const TYPE_COLORS = {
+  banco:"#37c2b8", afap:"#f2b441", aseguradora:"#b388ff", cooperativa:"#4cd07d",
+  corredor_bolsa:"#ff9f6b", asesor_inversion:"#6bc1ff", casa_financiera:"#ff6b6b",
+  emisor_valores:"#e070c0", fondo:"#c0d060", fintech_pago:"#50d0e0",
+  casa_cambio:"#d0a060", persona:"#9bb3d1", otro:"#7f93b3"
+};
+const TYPE_LABEL = {
+  banco:"Banco", afap:"AFAP", aseguradora:"Aseguradora", cooperativa:"Cooperativa",
+  corredor_bolsa:"Corredor de bolsa", asesor_inversion:"Asesor de inversión",
+  casa_financiera:"Casa financiera", emisor_valores:"Emisor de valores",
+  fondo:"Fondo", fintech_pago:"Fintech/pago", casa_cambio:"Casa de cambio",
+  persona:"Persona", otro:"Otro"
+};
+const esc = s => (s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fmtN = n => (n==null?"":Number(n).toLocaleString("es-UY"));
+const money = (v,m) => (v&&m)?`${fmtN(v)} ${m}`:"";
+
+let STRAT=null, CAT=null, ENT={};
+
+async function boot(){
+  const [s,c,inf,meta] = await Promise.all([
+    fetch("./data/strategic.json").then(r=>r.json()),
+    fetch("./data/catalog.json").then(r=>r.json()),
+    fetch("./data/informe.json").then(r=>r.json()).catch(()=>({markdown:""})),
+    fetch("./data/meta.json").then(r=>r.json()).catch(()=>({})),
+  ]);
+  STRAT=s; CAT=c; ENT=s.entities||{};
+  renderChips(meta,s); renderGraph(s); renderSanciones(s);
+  renderAltas(s); renderInforme(inf); renderBuscador(c);
+  document.getElementById("footMeta").textContent =
+    `${meta.total_extracted||0} resoluciones analizadas · motor: ${meta.motor||"—"} · ${meta.generated||""}`;
+  if(location.hash) activate(location.hash.slice(1));
+}
+
+function renderChips(meta,s){
+  const c = document.getElementById("chips");
+  const chips = [
+    ["Catálogo", fmtN(meta.total_catalog)+" resoluciones"],
+    ["Analizadas", fmtN(meta.total_extracted)],
+    ["Operaciones M&A", fmtN(s.power_graph.edges.length)],
+    ["Sanciones", fmtN(s.sanciones.total)],
+    ["Actualizado", meta.fecha||meta.generated||"—"],
+  ];
+  c.innerHTML = chips.map(([k,v])=>`<span class="chip">${k}: <b>${esc(v)}</b></span>`).join("");
+}
+
+/* ---------- MAPA ---------- */
+let NET=null;
+function renderGraph(s){
+  const g=s.power_graph;
+  const nodes=g.nodes.map(n=>({
+    id:n.id, label:n.id, value:Math.max(1,n.events),
+    color:{background:TYPE_COLORS[n.type]||TYPE_COLORS.otro,border:"#0b1d33"},
+    font:{color:"#e8eef7",size:14}, shape:"dot",
+    title:`${n.id} · ${TYPE_LABEL[n.type]||"Otro"} · ${n.events} evento(s)`
+  }));
+  const seen=new Set(nodes.map(n=>n.id));
+  const edges=g.edges.filter(e=>e.target&&e.target!==e.source&&seen.has(e.source)&&seen.has(e.target))
+    .map((e,i)=>({
+      id:"e"+i, from:e.source, to:e.target, arrows:"to",
+      label:(e.pct?e.pct+"% ":"")+(e.accion||"").replace(/_/g," "),
+      font:{color:"#9bb3d1",size:11,strokeWidth:0,background:"#0f2138"},
+      color:{color:"#37c2b8",opacity:.7}, _data:e
+    }));
+  const data={nodes:new vis.DataSet(nodes),edges:new vis.DataSet(edges)};
+  NET=new vis.Network(document.getElementById("net"),data,{
+    physics:{stabilization:true,barnesHut:{gravitationalConstant:-9000,springLength:150}},
+    nodes:{scaling:{min:8,max:40}}, interaction:{hover:true,tooltipDelay:120}
+  });
+  const types=[...new Set(g.nodes.map(n=>n.type))];
+  document.getElementById("legend").innerHTML = types.map(t=>
+    `<span><i class="dot" style="background:${TYPE_COLORS[t]||TYPE_COLORS.otro}"></i>${TYPE_LABEL[t]||t}</span>`).join("");
+  NET.on("click",p=>{
+    if(p.nodes.length){ showEntity(p.nodes[0]); }
+    else if(p.edges.length){ const e=data.edges.get(p.edges[0]); if(e&&e._data) showEdge(e._data); }
+  });
+}
+function showEntity(id){
+  const e=ENT[id]; const side=document.getElementById("side");
+  if(!e){side.innerHTML=`<h3>${esc(id)}</h3><p class="muted">Sin detalle.</p>`;return;}
+  side.innerHTML=`<h3>${esc(id)}</h3>
+    <p class="muted" style="font-size:12.5px">${TYPE_LABEL[e.tipo_entidad]||"Otro"} ·
+      ${e.n} resolución(es) · ${e.ma} M&A · ${e.sanciones} sanción(es)</p>`+
+    e.eventos.slice(0,25).map(ev=>`<div class="ev"><div class="y">${ev.year} ${esc(ev.month)} · ${esc((ev.accion||"").replace(/_/g," "))}</div>
+      <div class="r">${esc(ev.resumen||ev.title)}</div>
+      <a href="${esc(ev.url)}" target="_blank" style="font-size:12px">PDF ↗</a></div>`).join("");
+}
+function showEdge(e){
+  document.getElementById("side").innerHTML=`<h3>${esc(e.source)} → ${esc(e.target)}</h3>
+    <p class="muted" style="font-size:12.5px">${e.year} ${esc(e.month)} · ${esc((e.accion||"").replace(/_/g," "))}${e.pct?` · ${e.pct}%`:""}</p>
+    <div class="ev"><div class="r">${esc(e.resumen||e.title)}</div>
+    <a href="${esc(e.url)}" target="_blank" style="font-size:12px">PDF ↗</a></div>`;
+}
+
+/* ---------- SANCIONES ---------- */
+function renderSanciones(s){
+  const sc=s.sanciones;
+  const tot=sc.items.length, conMonto=sc.items.filter(i=>i.monto_valor).length;
+  document.getElementById("sanc-stat").innerHTML=[
+    [tot,"sanciones / multas"],
+    [Object.keys(sc.by_year).length,"años con sanciones"],
+    [sc.ranking.length,"entidades sancionadas"],
+    [conMonto,"con monto detectado"],
+  ].map(([n,l])=>`<div class="card"><div class="n">${fmtN(n)}</div><div class="l">${l}</div></div>`).join("");
+
+  const years=Object.keys(sc.by_year).sort();
+  new Chart(document.getElementById("sancChart"),{type:"bar",
+    data:{labels:years,datasets:[{label:"Sanciones",data:years.map(y=>sc.by_year[y].count),
+      backgroundColor:"#ff6b6b"}]},
+    options:{plugins:{legend:{display:false}},scales:{x:{ticks:{color:"#9bb3d1"},grid:{display:false}},
+      y:{ticks:{color:"#9bb3d1"},grid:{color:"#23456e"}}}}});
+
+  document.querySelector("#sancRank tbody").innerHTML = sc.ranking.slice(0,15).map(e=>
+    `<tr><td><b>${esc(e.entidad)}</b></td><td>${e.count}</td><td class="money">${esc(e.montos_fmt||"")}</td></tr>`).join("")
+    || `<tr><td class="muted">Sin datos todavía.</td></tr>`;
+
+  document.querySelector("#sancTable tbody").innerHTML = sc.items.slice(0,150).map(i=>
+    `<tr><td>${i.year}</td><td><b>${esc(i.entidad)}</b></td>
+     <td class="money">${esc(money(i.monto_valor,i.monto_moneda))}</td>
+     <td>${esc(i.resumen||i.title)}</td>
+     <td><a href="${esc(i.url)}" target="_blank">PDF↗</a></td></tr>`).join("")
+    || `<tr><td colspan="5" class="muted">Sin sanciones extraídas todavía.</td></tr>`;
+}
+
+/* ---------- ALTAS/BAJAS ---------- */
+function renderAltas(s){
+  const ab=s.altas_bajas, years=Object.keys(ab.by_year).sort();
+  new Chart(document.getElementById("abChart"),{type:"bar",
+    data:{labels:years,datasets:[
+      {label:"Altas",data:years.map(y=>ab.by_year[y].altas),backgroundColor:"#4cd07d"},
+      {label:"Bajas",data:years.map(y=>ab.by_year[y].bajas),backgroundColor:"#f2b441"}]},
+    options:{plugins:{legend:{labels:{color:"#e8eef7"}}},scales:{x:{ticks:{color:"#9bb3d1"},grid:{display:false}},
+      y:{ticks:{color:"#9bb3d1"},grid:{color:"#23456e"}}}}});
+  const row=i=>`<tr><td style="white-space:nowrap"><span class="badge ${i._b}">${i.year}</span></td>
+    <td><b>${esc(i.entidad||"—")}</b><br><span class="muted" style="font-size:12px">${esc(i.resumen||i.title)}</span></td>
+    <td><a href="${esc(i.url)}" target="_blank">PDF↗</a></td></tr>`;
+  document.querySelector("#altasT tbody").innerHTML = ab.altas.slice(0,40).map(i=>row({...i,_b:"b-alta"})).join("")||`<tr><td class="muted">—</td></tr>`;
+  document.querySelector("#bajasT tbody").innerHTML = ab.bajas.slice(0,40).map(i=>row({...i,_b:"b-baja"})).join("")||`<tr><td class="muted">—</td></tr>`;
+}
+
+/* ---------- INFORME ---------- */
+function renderInforme(inf){
+  document.getElementById("informe").innerHTML =
+    (inf&&inf.markdown)? marked.parse(inf.markdown) : "<p class='muted'>Informe no disponible.</p>";
+}
+
+/* ---------- BUSCADOR ---------- */
+function renderBuscador(cat){
+  document.getElementById("catN").textContent=fmtN(cat.length);
+  const body=document.querySelector("#catTable tbody"), more=document.getElementById("catMore");
+  const draw=(list)=>{
+    body.innerHTML=list.slice(0,200).map(r=>
+      `<tr><td>${esc(r.number)}</td><td style="white-space:nowrap">${esc(r.month)} ${esc(r.year)}</td>
+       <td>${esc(r.title)}</td><td><a href="${esc(r.url)}" target="_blank">PDF↗</a></td></tr>`).join("");
+    more.textContent = list.length>200?`Mostrando 200 de ${fmtN(list.length)} resultados. Afiná la búsqueda.`:`${fmtN(list.length)} resultado(s).`;
+  };
+  draw(cat);
+  let t;
+  document.getElementById("q").addEventListener("input",e=>{
+    clearTimeout(t); const q=e.target.value.toLowerCase().trim();
+    t=setTimeout(()=>draw(q?cat.filter(r=>(r.title+" "+r.number+" "+r.year).toLowerCase().includes(q)):cat),120);
+  });
+}
+
+/* ---------- NAV ---------- */
+function activate(v){
+  const b=document.querySelector(`nav button[data-v="${v}"]`); if(!b)return;
+  document.querySelectorAll("nav button").forEach(x=>x.classList.toggle("active",x===b));
+  document.querySelectorAll(".view").forEach(x=>x.classList.remove("active"));
+  document.getElementById("v-"+v).classList.add("active");
+  if(location.hash!=="#"+v) history.replaceState(null,"","#"+v);
+  if(NET&&v==="mapa") NET.redraw();
+}
+document.getElementById("nav").addEventListener("click",e=>{
+  const b=e.target.closest("button"); if(b) activate(b.dataset.v);
+});
+window.addEventListener("hashchange",()=>activate(location.hash.slice(1)||"mapa"));
+
+boot().catch(err=>{document.querySelector("main").innerHTML="<p class='lead'>No se pudieron cargar los datos: "+esc(String(err))+"</p>";});
+</script>
+</body>
+</html>

@@ -4,18 +4,22 @@ on:
   schedule:
     # 11:30 UTC = 08:30 en Uruguay (UTC-3). Todos los días.
     - cron: "30 11 * * *"
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      baseline_extract:
+        description: "Cuántos candidatos extraer en esta corrida"
+        required: false
+        default: ""
 
 permissions:
   contents: write
-  issues: write
 
 concurrency:
   group: bcu-resoluciones
   cancel-in-progress: false
 
 jobs:
-  watch:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -27,27 +31,23 @@ jobs:
       - name: Instalar dependencias
         run: pip install -r requirements.txt
 
-      - name: Scrapear y analizar
+      - name: Scrapear, extraer y construir el sitio
         env:
-          GITHUB_TOKEN: ${{ github.token }}
-          # Opcional: si cargás este secret, Claude redacta el briefing periodístico.
+          # Recomendado: activa la extracción estructurada y el informe con Claude.
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          # Opcional: email HTML.
-          SMTP_HOST: ${{ secrets.SMTP_HOST }}
-          SMTP_PORT: ${{ secrets.SMTP_PORT }}
-          SMTP_USER: ${{ secrets.SMTP_USER }}
-          SMTP_PASS: ${{ secrets.SMTP_PASS }}
-          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          # Permite forzar el tamaño de tanda desde "Run workflow".
+          BASELINE_EXTRACT: ${{ github.event.inputs.baseline_extract }}
+          MAX_EXTRACT: ${{ vars.MAX_EXTRACT }}
         run: python run.py
 
-      - name: Guardar dataset, textos y reporte
+      - name: Commitear dataset y sitio
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/ reports/ || true
+          git add data/ docs/ || true
           if git diff --cached --quiet; then
             echo "Sin cambios para commitear."
           else
-            git commit -m "BCU: actualizar dataset y reporte [skip ci]"
+            git commit -m "BCU: actualizar dataset y sitio [skip ci]"
             git push
           fi
