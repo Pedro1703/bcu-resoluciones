@@ -12,7 +12,7 @@
 "resultado": "",
 "resumen": "GMA CAPITAL URUGUAY S.A. - SOLICITUD DE DEVOLUCIÓN DE LA MULTA ABONADA POR ENVÍO CON ATRASO DE LA INFORMACIÓN “REGISTRO DE INSTRUCCIONES”. Exoneración",
 "relevancia": "alta",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcXmQUmSGMcckJerVkZRy'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcZWzJaUWbhHAamZpgKt9'})",
 "id": "RR-SSF-2025-574",
 "year": "2025",
 "month": "Octubre",

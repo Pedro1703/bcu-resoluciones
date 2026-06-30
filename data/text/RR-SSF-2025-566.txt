@@ -1,0 +1,148 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: Los recursos de revocación y jerárquico contra la Resolución de la
+Superintendencia de Servicios Financieros N° RR-SSF-2025-197 de 8 de mayo
+de 2025, interpuestos el 22 de mayo de 2025 por FAR Compañía de Seguros
+S.A. (FAR).
+RESULTANDO: 
+I) Que  la  Superintendencia  de  Servicios  Financieros  a  través  de  la
+Resolución mencionada en el Visto ha denegado la solicitud de prórroga
+especial presentada por FAR, en la que solicitaba 15 días, para el envío
+de informaciones periódicas relativas al período marzo 2025, detalladas
+en su nota del 24 de abril de 2025, así como también las solicitadas por
+el sistema de envío centralizado (IDI) el 30 de abril de 2025.
+II) Que  por  razones  estatutarias  FAR  requiere  dos  firmas  para  enviar
+información al BCU, lo que ocasionó retrasos e incumplimientos en la
+presentación  de  la  información  por  la  ausencia  de  la  firma  de  su
+Presidente, según se indica a continuación: 
+a) presentación  diciembre-2024  a  enero-2025:  se  concedieron
+prórrogas para los envíos de Estados Contables correspondientes a
+diciembre 2024 y para el informe de Acreditación de Patrimonio Neto,
+13 y 14 días respectivamente. Este problema se origina porque FAR
+no había tramitado en tiempo y forma la firma digital de su nuevo
+Presidente (Oscar Gonzalo Dourado) ante el Banco Central. 
+b) presentación marzo-2025: mediante correo del día 22 de abril, FAR
+trasmite a ABITAB que el certificado se perdió, el titular se encuentra
+fuera del país y tienen vencimientos próximos. En esa oportunidad,
+FAR solicitó dos días seguidos prórrogas de 1 día hábil para el envío
+de  la  información  correspondiente  a  marzo  2025,  las  que  fueron
+otorgadas por esta Superintendencia.
+III) Que se le notificó a FAR la resolución impugnada con fecha 09 de mayo
+de  2025,  interponiendo  los  recursos  de  revocación  y  jerárquico  en
+tiempo y forma con fecha 22 de mayo de 2025. 
+IV) Que, FAR manifiesta los siguientes agravios en su recurrencia:
+RR-SSF-2025-566     Fecha: 22/10/2025 17:44:58
+a)  “El Sr. Gonzalo Dourado ya poseía y había utilizado su firma
+digital y tuvo un problema informático posterior”.
+b) “un problema técnico e informático que implicó que el archivo se
+corrompiera, inhabilitando la firma”  correspondiente al Presidente
+de FAR, el Sr. Oscar Gonzalo Dourado y que esta circunstancia
+“a los efectos de ABITAB se considera un extravío del certificado
+instalado  en  la  Token,  lo  que  implica  que  deba  solicitarse
+nuevamente”.
+c) FAR no pudo solicitar un nuevo certificado ya que el Sr. Dourado
+se  encontraba  fuera  del  país  a  la  fecha  que  se  corrompió  el
+archivo digital (extravío de certificado en la token). En efecto,
+según la información aportada por la entidad (pasajes emitidos en
+junio 2024) el Sr. Dourado estaría de viaje entre el 18 de abril y el
+4 de mayo de 2025.
+d) Desde  enero  de  2025  se  encuentran  a  la  espera  de  la
+declaratoria del Registro Público de Comercio, debido a dicha
+demora no han podido registrar y habilitar una tercera firma, la
+correspondiente  al  Sr.  Gustavo  Dourado,  ya  que  el  BCU  no
+autoriza  la  firma  digital  hasta  que  el  mencionado  Registro  no
+expida el Certificado de Declaratoria de Autoridades.
+e) Manifiesta su voluntad de cumplir con el envío de la información
+requerida  en  tiempo  y  forma,  remitiendo  la  documentación
+correspondiente a marzo de 2025 en formato simple y la misma
+información en formato digital que contaba con la firma sólo del
+Sr. Fernando Pena.
+f) los problemas de firmas que tuvieron en el período diciembre
+2024 - enero 2025 y que derivaron en solicitudes de prórroga que
+fueron otorgadas por esta Superintendencia, no son los mismos
+que acontecieron en abril de 2025.
+g) Que  la  Superintendencia  de  Servicios  Financieros  deniega  la
+solicitud  de  prórroga  en  mérito  a  una  supuesta  desidia
+negligencia  de  la  Compañía  en  obtener  las  firmas  habilitadas
+para poder cumplir con el envío de información, como lo exige la
+Recopilación de Normas de Seguros y Reaseguros.
+h) Resulta de aplicación a la situación acaecida los principios de
+finalismo e informalismo en favor del administrado.
+V) Que  la  recurrente  se  agravia  por  el  cálculo  de  los  días  de
+incumplimiento, indica que no deben computarse como tales los días en
+la que la Superintendencia de Servicios Financieros no le dio respuesta
+a  su  solicitud  de  prórroga  presentada  el  30/04/2025  y  otorgada  el
+09/05/2025, indicando  además, que  de  haber  conocido  la  resolución
+antes  del  quinto  día  hábil  no  hubiera  permitido  que  trascurriera  el
+incumplimiento más allá de ese límite, evitando la duplicación de las
+multas como prevé el artículo 161 de la Recopilación de Normas de
+Seguros y Reaseguros.
+CONSIDERANDO: 
+RR-SSF-2025-566     Fecha: 22/10/2025 17:44:58
+I) Que los recursos fueron interpuestos en tiempo y forma en cumplimiento
+con lo dispuesto en el artículo 317 de la Constitución de la República, el
+artículo 4 de la Ley N° 15.869 de 22 de junio de 1987 y el artículo 145 y
+siguientes del Reglamento Administrativo del Banco Central del Uruguay.
+II) Que, la resolución impugnada, se fundamentó en los inconvenientes que
+tuvo FAR, detallados en el Resultando II), para dar cumplimiento a los
+requerimientos  de  información  a  través  del  Sistema  de  Envío  de
+Información (IDI).
+III) Que la Superintendencia no utilizó los términos desidia o negligencia en
+la resolución, sino que se relataron los hechos y las consecuencias por
+no contar la recurrente con las dos firmas digitales requeridas por su
+estatuto, y así cumplir con el envío de la documentación periódica al
+BCU.
+ 
+IV) Que según lo expresa ABITAB en correo electrónico dirigido a FAR y
+proporcionado por ésta como prueba, el problema técnico con la firma
+digital padecido en febrero de 2025 pudo ser solucionado en aplicación
+de una excepción en su normativa interna, la cual no estaba habilitada
+para su uso en abril; en esta oportunidad la recomposición de la firma
+digital sin presencia del titular es la contingencia cubierta por un seguro
+que FAR no contrató oportunamente.
+V) Que las circunstancias de hechos que imposibilitaron cumplir con los
+envíos de información con las formalidades requeridas, no constituyen
+impedimentos  de  fuerza  mayor  ni  revisten  la  nota  de  imposibilidad
+objetiva en tanto la ausencia de uno de los representantes estatutarios
+para  dicho  período  era  conocida  desde  junio  de  2024,  pudiendo  la
+empresa adoptar con anticipación diversas acciones para cumplir con
+los envíos en tiempo y forma.
+VI) Que  por  lo  que  viene  de  decirse  no  se  consideran  de  recibo  los
+argumentos que FAR expone en su escrito.
+VII) Que a los efectos de la determinación de la multa se considera como
+atenuantes el envío de la información por correo electrónico, aunque
+este es un medio inhábil para tales propósitos, evidenció la posibilidad y
+voluntad  de  cumplir  con  la  normativa,  atendiendo  al  principio  de
+finalismo e informalismo a favor del administrado.
+VIII) Que, por lo expresado en el Considerando anterior, no se aplicará la
+duplicación  del  monto  de  la  multa  que  prevé  el  artículo  161  de  la
+Recopilación de Normas de Seguros y Reaseguros.
+RR-SSF-2025-566     Fecha: 22/10/2025 17:44:58
+IX) Que, en definitiva, los argumentos de hechos y derechos invocados no 
+resultan de recibo para revocar la Resolución SSF-2025-197 de 8 de 
+mayo de 2025, sin perjuicio de abatir el quantum sancionatorio. 
+ATENTO: A lo dispuesto en los 317 y 318 de la Constitución de la República, a
+los artículos 42 a 47 y 50 de la Ley N° 20.333 de 11 de setiembre de 2024, en
+los artículos 37 y 38 de la Ley Nº 16.696 de 30.03.1995, con las modificaciones
+introducidas por la Ley Nº 20.345 de 19.09.2024 - Carta Orgánica del Banco
+Central del Uruguay-, en los artículos 144 a146, 149, 150 y 157 del Reglamento
+Administrativo del Banco Central del Uruguay, a los artículos 128, 129, 143 y
+161 de la Recopilación de Normas de Seguros y Reaseguros, a los Dictámenes
+de la Asesoría Jurídica N° 2025/0266  y 2025/0400, en el Memorándum N°
+MM/2025/388 de 14 de octubre de 2025 y a los antecedentes incorporados en
+el Expediente Nº 2025-50-1-00869.
+LA INTENDENTE DE REGULACION FINANCIERA EN EJERCICIO DE
+ATRIBUCIONES DELEGADAS Y ENCOMENDADAS COMO
+SUPERINTENDENTE DE SERVICIOS FINANCIEROS RESUELVE:
+1) No hacer lugar al recurso de revocación interpuesto por FAR Compañía de
+Seguros S.A. (FAR).
+2) Hacer  lugar a la petición subsidiaria presentada por  FAR  Compañía  de
+Seguros S.A., respecto a la revisión del monto de las multas, accediendo a
+no aplicar la duplicación de los montos, de acuerdo con lo dispuesto en el
+inciso final del artículo 161 de la Recopilación de Normas de Seguros y
+Reaseguros.
+3)  Franquear  para  ante  el  Directorio  el  recurso  jerárquico  interpuesto  en
+subsidio.
+RR-SSF-2025-566     Fecha: 22/10/2025 17:44:58
+Exp. 2025-50-1-00869 
+ Publicable: Si - Firmante: PATRICIA FABIANA TUDISCO BASIGNANI

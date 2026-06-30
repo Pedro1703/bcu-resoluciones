@@ -1,0 +1,325 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La Resolución de la Superintendencia de Servicios Financieros RR-
+SSF- 2025-258 de 5 de junio de 2025.
+RESULTANDO: 
+I) Que  mediante  la Resolución  referida  en  el Visto  se  dio  respuesta  a  la
+Asociación  de  Bancos  Privados  del  Uruguay  (ABPU)  a  las  dudas  que
+planteó en relación con la Circular N° 2468 de 30 de diciembre de 2024, que
+introdujo  cambios  en  el  artículo  161  de  la  Recopilación  de  Normas  de
+Regulación  y  Control  del  Sistema  Financiero  (RNRCSF)  que  refiere  al
+cálculo del equivalente de riesgo de crédito de instrumentos financieros
+derivados,  admitiendo  la  posibilidad  de  compensar  en  forma  bilateral
+operaciones con derivados.
+II) Que en el Considerando VI) de la Resolución antes mencionada se indica
+que,  a  efectos  de  clarificar  los  criterios  que  deben  adoptarse,
+oportunamente  se  harán  los  ajustes  a  la  Recopilación  de  Normas  de
+Regulación y Control del Sistema Financiero, los que serán comunicados
+mediante Circular.
+III) Que lo dispuesto en el Considerando II) de dicha Resolución relativo al
+criterio a considerar a efectos del cálculo del tope de riesgos crediticios ya
+fue contemplado en la RR-SSF-2025-402 de fecha 19 de agosto de 2025,
+comunicada por medio de la Circular N°2485 de 21 de agosto de 2025.
+IV) Que resta por realizar los ajustes a que refieren los Considerandos III) a V),
+relativos  al  requerimiento  de  capital  por  riesgo  de  contraparte  y
+requerimiento de capital por riesgo de ajuste de valuación del crédito, así
+como corregir un error que padece la fórmula de cálculo para el equivalente
+de crédito de instrumentos financieros derivados lineales y opciones de
+compra  adquiridas  dispuesta  en  la  citada  Circular  N°2468  de  30  de
+diciembre de 2024. 
+CONSIDERANDO: 
+I) Que para el cálculo del requerimiento de capital por riesgo de contraparte
+(8% del equivalente de crédito de los instrumentos ponderados por riesgo
+de crédito) es necesario aclarar que para el caso de que bajo un acuerdo
+marco de compensación bilateral se incluyan contratos con distintos plazos
+con el sector financiero, el ponderador a utilizar será el correspondiente a la
+operación de mayor plazo.
+II) Que, para el cálculo del requerimiento de capital por riesgo de ajuste de
+valuación del crédito, corresponde incluir un criterio específico para el caso
+de acuerdos celebrados bajo un acuerdo marco de compensación bilateral.
+RR-SSF-2025-531     Fecha: 13/10/2025 10:42:39
+III) Que corresponde ajustar la fórmula de cálculo para el equivalente de crédito
+de  instrumentos  financieros  derivados  lineales  y  opciones  de  compra
+adquiridas que fue dispuesta en la Circular N° 2468 de 30 de diciembre de
+2024 que padeció un error al haberse omitido un paréntesis.
+ATENTO  :   A lo dispuesto en el literal A) del artículo 38 de la Ley Nro. 16.696 del
+30 de marzo de 1995 en la redacción dada por el artículo 2 de la Ley Nro.
+20.345  del  19  de  setiembre  de  2024 , a  los  informes  emitidos  por  esta
+Superintendencia de Servicios Financieros, la opinión de la Comisión Asesora
+de Normas a que refiere el artículo 84 del Reglamento Administrativo del Banco
+Central del Uruguay en su Acta 2025/7 y los antecedentes en expediente 2025-
+50-1-01985.
+SE RESUELVE:
+1. SUSTITUIR en el Capítulo II – Responsabilidad Patrimonial Neta Mínima, del
+Título II – Responsabilidad Patrimonial, del Libro II – Estabilidad y Solvencia,
+los artículos 160.2, 161 y 161.1 por los siguientes:
+ARTÍCULO  160.2  (REQUERIMIENTO  DE  CAPITAL  POR  RIESGO  DE
+CRÉDITO DE CONTRAPARTE).
+El requerimiento de capital por riesgo de crédito de contraparte aplica a los
+instrumentos financieros derivados lineales y las opciones adquiridas y los
+préstamos en valores (incluso los sujetos a requerimientos de capital por
+riesgo  de  mercado),  así  como  los  activos  originados  en  operaciones
+pendientes de liquidación que impliquen el intercambio de valores, oro y
+moneda extranjera por efectivo. Cuando la institución tenga cuotapartes en
+fondos de inversión que integren la cartera de negociación de acuerdo con lo
+establecido en el artículo 162, los activos sujetos a riesgo de contraparte en
+los que invierta el fondo se tratarán como si fueran exposiciones directas,
+teniendo en cuenta la cuotaparte que la institución posea en el total del
+fondo  de  inversión. Dichos  activos  se  considerarán  en  conjunto  con  las
+demás exposiciones mantenidas por la institución y, a efectos del cálculo del
+requerimiento de capital, se aplicará lo dispuesto en el presente artículo.
+En lo que respecta a los instrumentos financieros derivados lineales y las
+opciones adquiridas contabilizadas en el activo y en el pasivo, según el
+estado de situación financiera individual confeccionado de acuerdo con lo
+dispuesto en el artículo 507, el requerimiento de capital por riesgo de crédito
+de contraparte es la suma de:
+- el requerimiento de capital por riesgo de contraparte. Este requerimiento
+será  igual  al  8%  del  equivalente  de  crédito  de  dichos  instrumentos
+ponderados  por  riesgo  de  crédito.  Para  los  bancos  minoristas  a que
+refiere el literal b) del artículo 1 y las cooperativas de intermediación
+financiera minoristas a que refiere el literal g) del mencionado artículo,
+dicho  requerimiento  será  equivalente  al  12%.  Para  los  bancos  de
+inversión, el porcentaje será del 15%.
+El  equivalente  de  crédito  se  determinará  según  lo  establecido  en  el
+artículo 161. A efectos de las ponderaciones, se considerará lo dispuesto
+en el artículo 160.1 según quien sea la contraparte. En el caso de que
+bajo  un  acuerdo  marco  de  compensación  bilateral  se  incluyan
+RR-SSF-2025-531     Fecha: 13/10/2025 10:42:39
+contratos  con  distintos  plazos  con  el  sector  financiero,  el
+ponderador  a  utilizar  será  el  correspondiente  a  la  operación  de
+mayor plazo.
+- el  requerimiento de  capital  por  el riesgo  de ajustes de  valuación  del
+crédito que se determinará según lo dispuesto en el artículo 161.1.
+Para los préstamos en valores que surjan del estado de situación financiera
+individual confeccionado de acuerdo con lo dispuesto en el artículo 507, el
+requerimiento de capital por riesgo de crédito de contraparte es el 8% del
+activo ponderado por riesgo de crédito de acuerdo con lo dispuesto en el
+artículo 160.1 según quien sea la contraparte. Para los bancos minoristas a
+que refiere el literal b) del artículo 1 y las cooperativas de intermediación
+financiera minoristas a que refiere el literal g) del mencionado artículo, dicho
+requerimiento será equivalente al 12%. Para los bancos de inversión, el
+porcentaje será del 15%.
+El  requerimiento  de  capital  por  riesgo  de  crédito  de  contraparte  de
+operaciones pendientes de liquidación se determinará según lo dispuesto en
+el artículo 160.3.
+ARTÍCULO  161  (EQUIVALENTE  DE  CRÉDITO  DE  INSTRUMENTOS
+FINANCIEROS  DERIVADOS  LINEALES  Y  OPCIONES  DE  COMPRA
+ADQUIRIDAS). 
+1. Criterio general  
+El  equivalente  de  crédito  de  los  instrumentos  financieros  derivados
+lineales  y opciones  adquiridas se calculará  –siguiendo  el método de
+exposición  actual  –  como  el  máximo  entre  el  valor  razonable  del
+instrumento financiero y cero, más un monto adicional. Dicho adicional
+se determinará aplicando un factor de conversión –que dependerá del
+subyacente y del plazo de vencimiento residual del instrumento – sobre
+el monto nocional del contrato. En este marco, el equivalente de crédito
+del instrumento-i estará dado por:
+Donde,
+-
+  = equivalente de crédito del instrumento-i.
+-
+  = valor razonable del instrumento-i.
+-
+  = monto adicional correspondiente al instrumento-i.
+-
+  =  factor  de  conversión  aplicable  al  monto  nocional  del
+instrumento-i.
+-
+  = monto nocional del instrumento-i.
+El factor de conversión aplicable 
+ , en cada caso, se determinará 
+según la tabla 1.
+RR-SSF-2025-531     Fecha: 13/10/2025 10:42:39
+Tabla 1:
+Vencimiento
+residual (x)
+en años
+Factor de conversión (%)
+Tasas de
+interés
+Monedas
+criterio 1
+(*)
+Monedas
+criterio 2
+(**)
+Acciones Mercancías
+x ≤ 1 0 1 1,5 6 10
+1< x ≤ 5 0,5 5 7,5 8 12
+x > 5 1,5 7,5 15 10 15
+(*) Criterio 1 = ambas monedas de países con calificación ≥ AA, euro u oro.
+(**) Criterio 2 = al menos una moneda no corresponde a países con calificación ≥
+AA, euro u oro.
+Deberán tenerse en cuenta las siguientes consideraciones:
+a. Instrumentos negociados en bolsas de valores sujetos a liquidación
+diaria: 
+ .
+b. Contratos  de intercambio de tasas de interés  fluctuantes en una
+misma moneda y aquellos que obliguen a liquidar diariamente los
+ajustes de valor de mercado: 
+ .
+c. Contratos con amortización de capital en distintas fechas: el monto
+adicional corresponderá a la suma de cada monto de amortización
+ponderado  por  el  factor  de  conversión  correspondiente  al  plazo
+residual de cada una de esas amortizaciones.
+d. Contratos que establezcan la obligación de liquidar en ciertas fechas
+el ajuste de valor de mercado que se haya acumulado durante un
+período determinado: se considera como un contrato que tiene un
+vencimiento igual a la fecha de la próxima liquidación.
+e. Contratos que contengan una cláusula que le otorgue a la institución
+la opción de terminarlo en una fecha específica y el derecho a recibir
+o a pagar integralmente el ajuste de valor de mercado acumulado
+hasta  esa  fecha:  se  considera  como  un  contrato  que  tiene  un
+vencimiento igual al período que resta hasta la próxima fecha en que
+se pueda ejercer ese derecho.
+f. Cuando la institución tenga cuotapartes en fondos de inversión que
+integren la cartera de negociación de acuerdo con lo establecido en
+el  artículo  162,  los  instrumentos  financieros  derivados  lineales  y
+opciones adquiridas en los que invierta el fondo se tratarán como si
+fueran exposiciones directas, teniendo en cuenta la cuotaparte que
+la  institución  posea  en  el  total  del  fondo  de  inversión.  Dichos
+instrumentos  se  considerarán  en  conjunto  con  las  demás
+exposiciones mantenidas por la institución y, a efectos del cálculo del
+RR-SSF-2025-531     Fecha: 13/10/2025 10:42:39
+equivalente  de  crédito,  se  aplicará  lo  dispuesto  en  el  presente
+artículo.
+2. Criterio específico: acuerdos marco de compensación bilateral  
+Cuando un conjunto de contratos, con una misma contraparte, hayan
+sido celebrados bajo un acuerdo marco de compensación bilateral –de
+aquellos reconocidos por la Superintendencia de Servicios Financieros
+en  las  instrucciones  impartidas–  el  efecto  mitigador  en  el  riesgo  de
+contraparte podrá ser tomado en cuenta en el cálculo del equivalente de
+crédito.
+En este marco, el equivalente de crédito de los instrumentos-i con una
+misma contraparte-j, bajo un acuerdo marco-j, será calculado como:
+Donde,
+-
+  = equivalente de crédito del acuerdo-j.
+-
+  = valor razonable del instrumento-i.
+-
+  =  colateral  neto  (colateral  recibido  de  la  contraparte  neto  del
+colateral constituido por la institución a favor de la contraparte en el
+marco del acuerdo-j). 
+-
+  = monto adicional correspondiente al acuerdo-j.
+-
+  = monto adicional correspondiente al instrumento-i.
+-
+  =  factor  de  conversión  aplicable  al  monto  nocional  del
+instrumento-i.
+-
+  = monto nocional del instrumento-i.
+-
+  = “net to gross ratio” correspondiente al acuerdo-j.
+Los siguientes instrumentos son admisibles como colateral:
+(a) Efectivo y certificados de depósito emitidos por bancos locales o
+bancos del exterior calificados en una categoría igual o superior a
+AA- en moneda nacional, moneda extranjera de países calificados
+en una categoría igual o superior a AA- o en Euros.
+ 
+(b) Valores:
+RR-SSF-2025-531     Fecha: 13/10/2025 10:42:39
+(b.1) públicos nacionales en moneda nacional;
+(b.2) públicos no nacionales calificados en una categoría igual o
+superior a AA- o equivalente emitidos por gobiernos centrales
+y bancos centrales.
+Las instituciones deberán mantener a disposición de la Superintendencia
+de  Servicios  Financieros  la  documentación  que  respalde  la
+determinación  del  equivalente  de  crédito  (en  particular,  los  acuerdos
+marco que posibiliten el cálculo del equivalente de acuerdo con el caso
+específico).
+ARTÍCULO  161.1  (REQUERIMIENTO  DE  CAPITAL  POR  RIESGO  DE
+CRÉDITO  DE  CONTRAPARTE  -  AJUSTES  DE  VALUACIÓN  DEL
+CRÉDITO).
+El requerimiento de capital por el riesgo de ajustes en la valuación a precios
+de mercado del total de operaciones con derivados con una contraparte,
+aplica a los instrumentos financieros derivados lineales y opciones que se
+transen  en  mercados  extrabursátiles.  Cuando  la  institución  tenga
+cuotapartes en fondos de inversión que integren la cartera de negociación
+de acuerdo con lo establecido en el artículo 162, los instrumentos financieros
+derivados lineales y opciones que se transen en mercados extrabursátiles en
+los que invierta el fondo se tratarán como si fueran exposiciones directas,
+teniendo en cuenta la cuotaparte que la institución posea en el total del
+fondo de inversión. Dichos instrumentos se considerarán en conjunto con las
+demás exposiciones mantenidas por la institución y, a efectos del cálculo del
+requerimiento de capital, se aplicará lo dispuesto en el presente artículo.
+A estos efectos, el requerimiento de capital se calculará con arreglo a las
+siguientes fórmulas:
+Donde,
+-
+  = 0,5
+-
+   = requerimiento de capital de la contraparte-c
+1. Criterio general  
+Donde,
+RR-SSF-2025-531     Fecha: 13/10/2025 10:42:39
+-
+  = requerimiento de capital de la contraparte-c considerada en
+forma individual, en función de la cantidad de operaciones-i que se
+tengan con la contraparte-c
+-
+  =  ponderador  por  riesgo  de  volatilidad  del  diferencial  de
+rendimiento de la contraparte-c, según se indica a continuación:
+Tabla 1:
+Contraparte
+Calificación de riesgo
+A< >=BBB- o
+equivalente
+< BBB- o
+equivalente
+Wc (%)
+Emisores  soberanos,
+incluidos bancos centrales 0,5 3
+Bancos Multilaterales 1 4
+Sector Público No Nacional
+No Financiero 1,5 5
+Sector Público Nacional no
+Financiero 2 4
+Sector Financiero Público y
+Privado  Nacional  y  No
+Nacional
+5 12
+Otros sectores 6 14
+A  efectos  de  considerar  las  calificaciones  de  riesgo,  serán  de
+aplicación los criterios dispuestos en el numeral 1 del artículo 160.1.
+-
+  =  vencimiento  residual  efectivo  -  en  años  -  de  la  operación-i
+efectuada con la contraparte-c, calculado como el promedio de los t
+vencimientos que tenga la operación-i ponderado por la importancia
+de cada pago (CF) que deba hacerse en el momento t.  
+-
+  =  equivalente  de  riesgo  de  crédito  de  contraparte  de  la
+operación-i con la contraparte-c que surge del artículo 161.
+-
+ = factor de descuento para la operación-i con la contraparte-c 
+2. Criterio específico: acuerdos marco de compensación bilateral  
+En  el  caso  de  operaciones  celebradas  bajo  un  acuerdo  marco  de
+compensación  bilateral,  el  requerimiento  de  capital  del  acuerdo  se
+calculará de la siguiente forma:
+RR-SSF-2025-531     Fecha: 13/10/2025 10:42:39
+Donde,
+-
+ = requerimiento de capital de cada acuerdo 
+-
+  =  ponderador  por  riesgo  de  volatilidad  del  diferencial  de
+rendimiento  de  la  contraparte-c,  de  acuerdo  con  la  Tabla  1
+precedente.
+-
+  =  vencimiento  efectivo  del  acuerdo,  calculado  como  el
+vencimiento promedio ponderado de las operaciones incluidas en
+dicho acuerdo. El importe nocional de cada operación debe utilizarse
+para ponderar el vencimiento. 
+-
+  =  equivalente  de  riesgo  de  crédito  de  contraparte  de  cada
+acuerdo que surge del artículo 161.
+-
+  = factor de descuento de cada acuerdo
+2. VIGENCIA: Lo dispuesto en el numeral precedente regirá a partir del 1 de
+enero del 2026.
+3. COMUNICAR lo resuelto mediante Circular.
+JUAN PEDRO CANTERA
+Superintendente de Servicios Financieros
+RR-SSF-2025-531     Fecha: 13/10/2025 10:42:39
+Exp. 2024-50-1-01985 
+ Publicable: Si - Firmante: JUAN PEDRO CANTERA SENCIÓN

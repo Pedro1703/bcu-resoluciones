@@ -1,0 +1,128 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La actuación de seguimiento llevada a cabo en BANCO SANTANDER S.A.
+en el año 2024.
+RESULTANDO: 
+I) Que  en  el  marco  de  la  actuación de  supervisión  referida  en el  VISTO  se
+detectaron distintos incumplimientos relacionados con la gestión del trámite de
+autorización de la tercerización de servicios contratados, así como errores y
+omisiones en la información presentada ante la Superintendencia de Servicios
+Financieros.
+II) Que en materia de tercerización de servicios los incumplimientos encontrados
+son los siguientes:
+a) Si  bien la tercerización de servicios  en Santander Global Technology  &
+Operations  SL  ( thetaray y  soporte  operativo),  Snowflake  Computing
+Netherlands  B.V.  ( data  lake)  y  Microsoft  «Ireland  Operations  Limited
+(servicios  en la nube de Azure) fue autorizada por la Resolución de la
+Superintendencia de Servicios Financieros 2024 – 423 de 3 de setiembre
+de 2024, se constató que BANCO SANTANDER S.A. desde unos meses
+antes  ya  cargaba  información  en  data  lake,  haciendo  uso  parcial  del
+servicio.
+b) A su  vez,  la  institución  obtuvo  la  autorización  para  la  tercerización  de
+servicios de alojamiento de datos en la nube de Microsoft Azure - proyecto
+banca digital mediante la Resolución de la Superintendencia de Servicios
+Financieros 2024 – 519 de 12 de noviembre de 2024, aunque ya se estaba
+cargando información en la nube de forma previa.
+III) Que en relación a los errores y omisiones de información, se detectaron los
+siguientes incumplimientos:
+a) Errores en la información y documentación presentada en distintos trámites
+de autorizaciones originadas en los años 2023 y 2024, como por ejemplo,
+contratos y anexos faltantes o con equivocaciones.
+b) Errores  y  omisiones  en  la  información  enviada  a  efectos  de  efectuar
+correcciones en Central de Riesgos.
+c) No se reportó un número importante de cuentas a la base de datos de
+clientes y productos.
+d) Errores en la información mensual de tasas de interés para las operaciones
+activas.
+e) Presentación, en distintas oportunidades, de información con errores en el
+reporte de transacciones financieras.
+RR-SSF-2025-431     Fecha: 26/08/2025 16:21:36
+IV) Que los mencionados incumplimientos fueron comunicados a la institución con
+fecha 3 de octubre de 2024 mediante la nota NE/4/2024/2766, informando
+además que se daría inicio a un proceso sancionatorio.
+V) Que con fecha 31 de octubre de 2024, por nota NR/4/2024/2311, la institución
+presentó el plan de acción con las soluciones propuestas a las observaciones
+realizadas,  informándosele  mediante  la  nota  NE/4/2024/3262  de  10  de
+diciembre de 2024 que la implementación de las medidas propuestas, así como
+su efectividad para solucionar las debilidades detectadas, será evaluada en
+futuras actuaciones.
+VI) Que  con  fecha  23  de  abril  de  2025  se  dio  vista  a  la  institución  de  las
+actuaciones y el día 8 de mayo de 2025 se presentó un escrito con descargos.
+VII) Que en dichos descargos la institución expresa que:
+a) La carga de información al data lake se realizó con información histórica de
+los clientes, de forma tal de poder ir trabajando en la construcción y diseño
+de la herramienta, no tratándose de información productiva.
+b) Sobre la carga de la información para la banca digital de empresas, dado
+los tiempos de puesta en producción y las necesidades del negocio, resultó
+necesario comenzar la migración de clientes a la nueva banca empresa, lo
+cual se realizó siguiendo criterios discrecionales, dotados de razonabilidad.
+c) Los errores y omisiones de información han sido solucionados.
+CONSIDERANDO: 
+I) Que en virtud de lo dispuesto por el artículo 2 de la Ley 17.613 de 27 de
+diciembre  de  2002  y  el  artículo  35.1  de  la  Recopilación  de  Normas  de
+Regulación  y  Control  del  Sistema  Financiero  (RNRCSF)  las  instituciones
+deberán  solicitar  la  autorización  de  la  Superintendencia  de  Servicios
+Financieros para la contratación de terceros para la prestación en su favor de
+aquellos servicios de tal modo inherentes a su giro que, cuando son cumplidos
+por sus propias dependencias, se encuentran sometidos a las potestades de
+regulación y control de la referida Superintendencia.
+II) Que  el  artículo  532  de  la  RNRCSF  dispone  que  las  instituciones  deberán
+proporcionar mensualmente a la Superintendencia de Servicios Financieros, de
+acuerdo con las instrucciones que se impartirán, información para la central de
+riesgos  dentro  de  los  primeros  ocho  días  hábiles  siguientes  a  la  fecha
+informada.
+III) Que  el  artículo  550  de  la  RNRCSF  establece  que  las  instituciones  de
+intermediación  financiera,  deberán  comunicar  a  la  Superintendencia  de
+Servicios Financieros información sobre las personas físicas o jurídicas que
+efectúen determinadas transacciones detalladas en este artículo.
+IV) Que  el  artículo  550.2  de  la  RNRCSF  establece  que  las  instituciones  de
+intermediación financiera deberán informar a la Superintendencia de Servicios
+Financieros las altas y bajas de cuentas, productos o servicios vinculados a
+clientes,  incluyendo  datos  de  los  titulares,  apoderados  y  autorizados  para
+RR-SSF-2025-431     Fecha: 26/08/2025 16:21:36
+operar en nombre del cliente frente a la institución relacionados a productos
+detallados en este artículo.
+V) Que  el  artículo  556  de  la  RNRCSF  dispone  que  las  instituciones  deberán
+suministrar información sobre las tasas de interés activas por las operaciones
+pactadas en cada mes.
+VI) Que los descargos presentados por la institución no se entienden de recibo por
+las siguientes razones:
+a) Aunque fuera de forma parcial e incluso sin producción de resultados, o por
+las  demás  las  razones  expresadas  por  la  entidad,  la  utilización  de  las
+mencionadas herramientas se efectuó de forma previa a la autorización de
+precepto.
+b) Las  acciones  implementadas  por  la  entidad  con  posterioridad  a  la
+constatación de las infracciones no enervan su configuración ni la eximen
+de responsabilidad administrativa por tales hechos.
+VII) Que el artículo 674 de la RNRCSF dispone que las instituciones que presenten
+con errores las informaciones requeridas, serán sancionadas con una multa
+equivalente a 0,00018 de la responsabilidad patrimonial básica para bancos,
+que equivale a UI 23.400.
+VIII) Que el artículo 684.1 de la RNRCSF establece que l as instituciones que
+incumplan  con  las  normas  sobre  tercerización  de  servicios  serán
+sancionadas  con  una  multa  no  inferior  al  1/10.000  (uno  por  diez  mil)  ni
+superior al 2/1.000 (dos por mil) de la responsabilidad patrimonial básica para
+bancos, equivalente a UI 13.000 y UI 260.000 respectivamente.
+IX) Que se entiende razonable, en esta oportunidad aplicar una multa global de UI
+50.000 por el total de incumplimientos detectados.
+ATENTO  :   A lo dispuesto en el artículo 20 del Decreto – Ley 15.322 del 17 de
+setiembre de 1982, en la redacción dada por el artículo 2 de la Ley 16.327 de 11
+de noviembre de 1992 y el artículo 6 de la Ley 17.613 de 27 de diciembre de 2002,
+el artículo 2 de la citada Ley 17.613, en el literal L) del artículo 38 de la Ley16.696
+de 30 de marzo de 1995, en la redacción dada por el artículo 2 de la Ley 20.345 de
+19 de setiembre de 2024, los artículos 35.1, 532, 550, 550.2, 556, 674 y 684.1 de
+la Recopilación de Normas de Regulación y Control del Sistema Financiero, las
+Comunicaciones  2019/278  y  2018/278  y  en  el  artículo  91  del  Reglamento
+Administrativo  del  Banco  Central  del  Uruguay,  los  Dictámenes  2025/083  y
+2025/223 de la Asesoría Jurídica y las resultancias del expediente administrativo
+N° 2024-50-1-02454.
+SE RESUELVE:
+1. Sancionar al BANCO SANTANDER S.A. con una multa de UI 50.000 (cincuenta
+mil  unidades  indexadas)  por  incumplimientos  relevados  en  ocasión  de  la
+actuación de seguimiento llevada a cabo en el año 2024.
+2. Notificar al interesado.
+JUAN PEDRO CANTERA
+Superintendente de Servicios Financieros
+RR-SSF-2025-431     Fecha: 26/08/2025 16:21:36
+Exp. 2024-50-1-02454 
+ Publicable: Si - Firmante: JUAN PEDRO CANTERA SENCIÓN

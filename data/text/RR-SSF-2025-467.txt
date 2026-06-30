@@ -1,0 +1,42 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La nota presentada por Banco Bilbao Vizcaya Argentaria Uruguay S.A.
+por la cual informa cambios en la tercerización de la ingesta y procesamiento
+de datos en Amazon Web Services Inc. 
+RESULTANDO:
+I) Que  por  resolución  RR-SSF-2024-121  de  4  de  marzo  de  2024  se
+autorizó a Banco Bilbao Vizcaya Argentaria Uruguay S.A. a recibir la
+prestación  de la ingesta y  procesamiento de datos en  Amazon  Web
+Services Inc., a la que se accedía mediante la gestión y administración
+del proveedor BBVA Axial Tech S.A. de C.V. (México), entidad que a su
+vez subcontrataba servicios en Kyndryl México S.R.L. de C.V.
+II) Que el banco informó un cambio en la estructura de los proveedores
+involucrados en la prestación, sin afectarse el alcance de los servicios,
+por cuanto: 
+i) el nombre del proveedor cambió, pasando a denominarse BBVA
+Technology América S.A. de C.V (México).
+ii) se  creó  una  alianza  o  “joint  venture”  entre  el  proveedor  y  su
+subcontratista, el que se denomina Alfa Tech Core Services S.R.L
+de C.V (México).
+iii) los servicios subcontratados pasan a prestarse por parte de Alfa
+Tech Core Services S.R.L de C.V (México).
+CONSIDERANDO: Que, analizada la información presentada, no se perciben
+objeciones para autorizar la tercerización.
+ATENTO:     A lo dispuesto en el artículo 2 de la Ley 17.613 de fecha 27 de
+diciembre de 2002, en los artículos 35.1 y siguientes de la Recopilación de
+Normas de Regulación y Control del Sistema Financiero, al Memorándum N°
+MM/2025/00340 del 5 de setiembre de 2025 y a los informes contenidos en el
+expediente N° 2023-50-1-02426.
+LA INTENDENTE DE SUPERVISIÓN FINANCIERA
+EN EJERCICIO DE ATRIBUCIONES DELEGADAS Y ENCOMENDADAS
+COMO SUPERINTENDENTE DE SERVICIOS FINANCIEROS
+RESUELVE
+1) Autorizar a Banco Bilbao Vizcaya Argentaria Uruguay S.A. los cambios en
+los  proveedores  involucrados  en  la  tercerización  de  la  ingesta  y
+procesamiento de datos, en los términos informados en su nota de 9 de
+mayo de 2025.
+2) Notificar  a  Banco  Bilbao  Vizcaya  Argentaria  Uruguay  S.A.  la  presente
+resolución.
+RR-SSF-2025-467     Fecha: 10/09/2025 14:23:26
+Exp. 2023-50-1-02426 
+ Publicable: Si - Firmante: CRISTINA ROSARIO RIVERO MORES

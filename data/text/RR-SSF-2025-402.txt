@@ -1,0 +1,300 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La reglamentación en materia de tope de riesgos crediticios establecida en
+los artículos 204 a 218 de la Recopilación de Normas de Regulación y Control del
+Sistema Financiero.
+RESULTANDO: 
+I) Que, en el marco de las tareas definidas en el Plan de Regulaciones para el
+año  2025,  se  elaboró  un  proyecto  cuyo  objetivo  es  la  adecuación  de  la
+normativa relativa al tope de riesgos crediticios atendiendo a las revisiones
+introducidas  por el  Comité de Supervisión Bancaria de Basilea (CSBB) en
+2014.
+II) Que,  para  la  elaboración  de  la  propuesta  se  partió  de  un  análisis
+pormenorizado  de  la  normativa  vigente  en  materia  de  tope  de  riesgos
+crediticios y del estándar internacional al respecto a efectos de identificar las
+brechas entre ambos.
+III) Que  se  propone  realizar  un  reordenamiento  de  la  normativa  vigente
+estableciéndose, en primer lugar, las definiciones de riesgos comprendidos,
+riesgos no comprendidos, vinculaciones y gran exposición. A continuación, se
+introduce un único artículo en materia de tope de riesgos crediticios que incluye
+el criterio general, excepciones y límites agregados (sector público no nacional,
+riesgo país y tope global).
+IV) Que dicho proyecto modifica el tratamiento de las garantías admitidas a efectos
+del cálculo del tope de riesgos crediticios, estableciendo que cuando se haya
+aplicado  una  técnica  de  mitigación  de  riesgo  admisible  a  efectos  del
+requerimiento de capital por riesgo de crédito (artículo 160.1.1), la institución
+deberá  reducir  el  valor  de  la  exposición  frente  a  la  contraparte  inicial  y
+reconocer la exposición frente al proveedor de la garantía o el emisor del valor
+admitido como colateral.
+V) Que, en lo que respecta a los riesgos y compromisos contingentes se establece
+que  se  convertirán  en  equivalentes  de  crédito  mediante  la  utilización  de
+factores de conversión de crédito conforme lo dispuesto en el artículo 160.1,
+con un límite mínimo de 10%.
+VI) Que, en materia del cómputo de instrumentos financieros derivados se propone
+aclarar  que,  en  el  caso  de  que  bajo  un  acuerdo  marco  de  compensación
+bilateral se incluyan contratos con distintos plazos con el sector financiero, a
+efectos del cálculo del tope se tomará el correspondiente a la operación de
+mayor plazo.
+VII) Que dicho proyecto incorpora los valores emitidos por el Gobierno Nacional y
+los riesgos crediticios asumidos por el Estado como persona jurídica como
+riesgos excluidos de la regulación de tope de riesgos crediticios.
+RR-SSF-2025-402     Fecha: 19/08/2025 16:23:17
+VIII) Que la propuesta normativa incorpora un tope diferencial para los bancos y
+cooperativas  de  intermediación  financiera  minoristas  cuando  otorguen
+créditos mediante la modalidad de retención de haberes.
+IX) Que la propuesta fue puesta a consulta de las instituciones supervisadas y
+del público en general con fecha 6 de junio de 2025, venciendo el plazo para
+la recepción de comentarios el 18 de julio ppdo.
+X) Que  se  recibieron  consultas  y  comentarios  de  la  Asociación  de  Bancos
+Privados del Uruguay, del Banco de la República Oriental del Uruguay y del
+Banco Bandes.
+XI) Que  las  principales  consultas  y  comentarios  refirieron  a  los  siguientes
+aspectos: riesgos comprendidos y no comprendidos, cálculo de la base de
+capital admisible, tope de riesgos crediticios con el sector financiero privado,
+tope de riesgos crediticios con el sector público no nacional y tope de riesgos
+crediticios con los integrantes del sector público distintos al Estado como
+persona jurídica.
+CONSIDERANDO: 
+I) Que  los  comentarios  recibidos  de  la  industria  aportaron  elementos  que
+permitieron mejorar la propuesta original, corroborando el valor que tiene para
+el regulador el proceso de consulta, motivando las siguientes modificaciones:
+- Se mantiene el criterio actualmente vigente por el cual se admite que  los
+riesgos crediticios asumidos con instituciones financieras calificadas en una
+categoría no inferior a BBB+ o equivalente podrán ser de hasta el 25% de la
+base de capital admisible. Si se tratase de un conjunto económico en el cual
+al  menos  un  integrante  del  mismo  esté  calificado  en  una  categoría  no
+inferior a BBB+ o equivalente, el tope para dicho conjunto será de hasta el
+25%, debiéndose respetar los límites individuales para cada institución que
+conforma el mismo.
+- Se aclara que las instituciones podrán asumir riesgos crediticios con cada
+uno  de  los  integrantes  del  sector  público  que  no  integren  el  Estado
+considerado como persona jurídica hasta el 20% de su base de capital
+admisible.
+II) Que se entiende conveniente incorporar un requerimiento de información en
+materia de declaración trimestral de cumplimiento de topes de riesgo, para el
+que se otorgará un plazo de 15 días hábiles siguientes al periodo informado.
+ATENTO: A lo dispuesto en el literal A) del artículo 38 de la Ley Nro. 16.696 del 30
+de marzo de 1995 en la redacción dada por el artículo 2 de la Ley Nro. 20.345 del
+19 de setiembre de 2024 y a los informes emitidos por esta Superintendencia de
+Servicios Financieros.
+SE RESUELVE:
+1. INCOPORAR la Sección I - Topes de inmovilizaciones de gestión, radicación de
+activos en el país, posición en moneda extranjera, posición  de operaciones
+activas  y  pasivas  a  plazos  mayores  a  tres  años  y  tope  a  los  sobregiros
+transitorios en el Capítulo I - Relaciones técnicas para bancos, casas financieras
+y cooperativas de intermediación financiera, del Título V – Relaciones técnicas,
+del  Libro  II  –  Estabilidad  y  Solvencia  de  la  Recopilación  de  Normas  de
+RR-SSF-2025-402     Fecha: 19/08/2025 16:23:17
+Regulación y Control del Sistema Financiero, la que contendrá los artículos 198
+a 204.
+2. SUSTITUIR en la Sección I - Topes de inmovilizaciones de gestión, radicación
+de activos en el país, posición en moneda extranjera, posición de operaciones
+activas  y  pasivas  a  plazos  mayores  a  tres  años  y  tope  a  los  sobregiros
+transitorios del Capítulo I - Relaciones técnicas para bancos, casas financieras y
+cooperativas de intermediación financiera, del Título V – Relaciones técnicas,
+del  Libro  II  –  Estabilidad  y  Solvencia  de  la  Recopilación  de  Normas  de
+Regulación y Control del Sistema Financiero los artículos 198 y 204 por  los
+siguientes:
+ARTÍCULO 198 (TOPE DE INMOVILIZACIONES DE GESTIÓN).
+El monto de las inmovilizaciones de gestión de los bancos, casas financieras y
+cooperativas  de  intermediación  financiera  no  podrá  superar  el  100%  del
+patrimonio contable.
+Se consideran inmovilizaciones de gestión las siguientes partidas que surgen
+del estado de situación financiera individual confeccionado de acuerdo con el
+artículo 507:
+- El saldo - neto de  provisiones - de los créditos morosos con más de dos
+años de vencidos.
+- Los activos no corrientes en venta.
+- Las participaciones en subsidiarias.
+- Las inversiones en acciones que se adquieran con el objetivo de acceder a
+servicios necesarios para llevar a cabo las operaciones que la institución
+está autorizada a realizar con habitualidad.
+- La propiedad, planta y equipo.
+- Los activos por derecho de uso.
+A los efectos de determinar el monto de las inmovilizaciones de gestión, las
+partidas en moneda extranjera se computarán, hasta el penúltimo día del mes,
+al tipo de cambio y arbitrajes del último día del mes anterior.
+ARTÍCULO 204 (TOPE A LOS SOBREGIROS TRANSITORIOS).
+Los sobregiros transitorios en cuentas corrientes originados en órdenes de pago
+libradas por el cliente mediante cheques, según lo establecido en el literal a. del
+artículo 397, no podrán exceder el 0,5 o/oo de la responsabilidad patrimonial
+básica  para  bancos  o  el  25%  del  crédito  autorizado  al  respectivo
+cuentacorrentista  para  girar  en  descubierto,  ni  podrán  concederse  por  un
+período mayor de diez días hábiles.
+Los  sobregiros  transitorios  en  cuentas  corrientes  originados  en  conceptos
+diferentes a los establecidos en el párrafo precedente, deberán cancelarse en
+un plazo que no podrá exceder treinta días.
+Aquellos sobregiros que superen el monto máximo previsto para las órdenes de
+pago  libradas  mediante  cheques,  deberán  estar  fundamentados  en  análisis
+previos del cliente y requerirán contar con toda la información exigida por el
+artículo  269.  Estos  sobregiros  sólo  podrán  beneficiar  a  riesgos  crediticios
+categorizados como "Deudores con capacidad de pago fuerte", "Deudores
+con capacidad de pago adecuada" y “Deudores con capacidad de pago
+con problemas potenciales”.
+RR-SSF-2025-402     Fecha: 19/08/2025 16:23:17
+3. INCORPORAR la Sección II – Tope de riesgos crediticios en el Capítulo I -
+Relaciones  técnicas  para  bancos,  casas  financieras  y  cooperativas  de
+intermediación financiera, del  Título V  – Relaciones  técnicas,  del  Libro  II –
+Estabilidad y Solvencia de la Recopilación de Normas de Regulación y Control
+del Sistema Financiero, la que contendrá los artículos 205 a 218.
+4. SUSTITUIR  en  la  Sección  II  –  Tope  de  riesgos  crediticios  del  Capítulo  I  -
+Relaciones  técnicas  para  bancos,  casas  financieras  y  cooperativas  de
+intermediación financiera, del  Título V  – Relaciones  técnicas,  del  Libro  II –
+Estabilidad y Solvencia de la Recopilación de Normas de Regulación y Control
+del Sistema Financiero los artículos 205, 206, 207,208, 209 por los siguientes:
+ARTÍCULO 205 (RIESGOS COMPRENDIDOS).
+Estarán sujetos a los topes dispuestos en el artículo 209 los riesgos asumidos con
+los  sectores  financiero,  no  financiero,  partes  vinculadas  y  sector  público  por
+colocaciones en instituciones financieras, créditos directos, riesgos y compromisos
+contingentes  e  inversiones  en  valores,  netos  de  provisiones  para  riesgos
+crediticios.
+Asimismo, se deberán contemplar los límites con el sector público no nacional, con
+terceros países y el tope global dispuesto en el citado artículo 209.
+Los riesgos y compromisos contingentes se convertirán en equivalentes de crédito
+mediante la utilización de factores de conversión de crédito (FCC) conforme lo
+dispuesto en el artículo 160.1, con un límite mínimo de 10%.
+Se incluirá en el riesgo computable el total de operaciones en las que el cliente
+figure como deudor o codeudor. 
+Cuando se haya aplicado una técnica de mitigación de riesgo admisible a efectos
+del requerimiento de capital por riesgo de crédito (artículo 160.1.1), la institución
+deberá reducir el valor de la exposición frente a la contraparte inicial y reconocer la
+exposición frente a los:
+- proveedores de garantías,
+- emisores de valores admitidos como colateral.
+Para cuantificar el riesgo total a asumir por cada persona física o jurídica o por
+cada conjunto económico se incluirán todas las operaciones en moneda nacional y
+extranjera. Las  operaciones  en  moneda  extranjera  se  valuarán  en  moneda
+nacional, en la forma prevista en el artículo 514, al tipo de cambio del último día del
+mes anterior.
+Cuando la institución tenga cuotapartes en fondos de inversión que integren la
+cartera de negociación de acuerdo con lo establecido en el artículo 162, los activos
+en los que invierta dicho fondo se tratarán como si fueran exposiciones directas
+siempre que se trate de riesgos computables a efectos de los topes de riesgos
+crediticios, teniendo en cuenta la cuotaparte que la institución posea en el total del
+fondo de inversión.
+Los instrumentos financieros derivados se computarán por el equivalente de riesgo
+de crédito de acuerdo con lo establecido en el artículo 161. En el caso de que bajo
+un acuerdo marco de compensación bilateral se incluyan contratos con distintos
+plazos con el sector financiero, a efectos del cálculo del tope se considerará el
+correspondiente a la operación de mayor plazo.
+RR-SSF-2025-402     Fecha: 19/08/2025 16:23:17
+Las instituciones que deban presentar estados financieros consolidados podrán
+asumir por cada persona física o jurídica o por cada conjunto económico, según la
+definición  dada  por  el  artículo  271,  riesgos  crediticios  consolidados  con  sus
+subsidiarias, de acuerdo con los límites establecidos para cada tipo de exposición.
+A efectos de considerar las calificaciones de riesgo referidas al tope de riesgos
+crediticios, serán de aplicación los criterios dispuestos en el artículo 160.1. 
+         
+ARTÍCULO 206 (RIESGOS NO COMPRENDIDOS). 
+Quedarán excluidos de la regulación de tope de riesgos crediticios: 
+1) Los riesgos con el Banco Central del Uruguay, los valores emitidos por el
+Gobierno Nacional, los riesgos crediticios asumidos por el Estado como
+persona jurídica y con los entes de la enseñanza.
+Se consideran riesgos crediticios con el Estado como persona jurídica a la
+suma  de  aquellos  asumidos  con  los  Poderes  Ejecutivo,  Legislativo  y
+Judicial,  los  Ministerios, la Corte  Electoral,  el  Tribunal  de  Cuentas  y  el
+Tribunal de lo Contencioso – Administrativo. Similares conceptos deberán
+utilizarse para considerar al sector público no nacional, independientemente
+del nombre que se adopte en cada país para designar a los integrantes de
+dicho sector.
+2) Las partidas activas con la casa matriz y las dependencias de ésta en el
+exterior originadas en movimientos de fondos, excluidas las operaciones
+con reembolso automático correspondientes a descuento de instrumentos
+derivados de operaciones comerciales emitidos o avalados por instituciones
+autorizadas  a  operar  a  través  de  los  convenios  de  pagos  y  créditos
+recíprocos suscritos por los Bancos Centrales de los países miembros de la
+ALADI, República Dominicana y Cuba.
+3) Los créditos por la parte garantizada por depósitos en dinero prendados en
+forma  expresa  e  irrevocable  en  la  propia  institución  de  intermediación
+financiera y siempre que el crédito haya sido otorgado en la misma moneda,
+excepto en los casos de depósitos nominados en monedas de países con
+calificación igual o superior a AA o en Euros.
+4) Los créditos documentarios irrevocables o letras de cambio que amparen
+préstamos  para  financiamiento  de  exportaciones  cuyos  embarques  o
+servicios  ya se  hubieran  cumplido  y  cuenten  con  código  de  reembolso
+debidamente  verificado  a  través  de  los  convenios  de  pagos  y  créditos
+recíprocos suscritos por los Bancos Centrales de los países miembros de la
+ALADI, República Dominicana y Cuba.
+5) Los créditos documentarios irrevocables correspondientes a exportaciones
+cuyos  embarques  o  servicios  ya  se  hubieran  cumplido  emitidos  o
+confirmados por bancos del exterior calificados en una categoría no inferior
+a BBB+ o equivalente.
+6) Las letras de cambio correspondientes a exportaciones cuyos embarques o
+servicios  ya  se  hubieran  cumplido  avaladas  por  bancos  del  exterior
+calificados en una categoría no inferior a BBB+ o equivalente.
+RR-SSF-2025-402     Fecha: 19/08/2025 16:23:17
+7) Las garantías a favor de empresas de transporte internacional relacionadas
+con la legítima propiedad de mercadería importada al amparo de un crédito
+documentario irrevocable o de una cobranza avalada.
+ARTÍCULO 207 (DEFINICIÓN DE VINCULACIÓN). 
+Se considerará como un solo riesgo a la suma de los asumidos con: 
+a)  el  personal  superior  a  que  refiere  el  artículo  261  y  las  personas  físicas  y
+jurídicas vinculadas al mismo, conjuntamente consideradas y siempre que se trate
+de riesgos no comprendidos en la prohibición del artículo 257, 
+b) la casa matriz y sus dependencias (excepto en el caso de partidas originadas en
+movimientos de fondos) o los accionistas cuya participación individual supere el
+10% del capital integrado de la institución de intermediación financiera, según sea
+el caso, y las personas físicas o jurídicas que formen conjunto económico con
+ellos, 
+c) las personas físicas y jurídicas vinculadas a los mencionados accionistas.
+No serán tratados como un solo riesgo los asumidos por las operaciones y en las
+condiciones que a continuación se detallan, pudiéndose aplicar los topes en forma
+independiente, para cada institución financiera vinculada:
+- Confirmaciones  o  compras  sin  recurso  de  créditos  documentarios
+irrevocables y letras de cambio avaladas correspondientes a exportaciones
+cuyos embarques o servicios ya se hubieran cumplido, que cuenten con
+código de reembolso debidamente verificado a través de los convenios de
+pagos  y  créditos  recíprocos  suscritos  por  los  Bancos  Centrales  de  los
+países miembros de ALADI, República Dominicana y Cuba.
+- Confirmaciones  o  compras  sin  recurso  de  créditos  documentarios
+irrevocables y letras de cambio avaladas por bancos calificados en una
+categoría  no  inferior  a  BBB+  o  equivalente,  correspondientes  a
+exportaciones cuyos embarques o servicios ya se hubieran cumplido. 
+- Garantías emitidas por bancos del exterior, incluida la casa matriz y sus
+dependencias, o por bancos multilaterales de desarrollo, calificados en una
+categoría no inferior a BBB+ o equivalente. 
+A efectos de determinar las situaciones en que se configura la vinculación a que
+refieren los literales a) y c) precedentes, se deberá considerar que existe vínculo
+relevante  del  personal  superior  y  de  los  accionistas  de  la  empresa  de
+intermediación financiera con personas físicas o jurídicas cuando: 
+a) En el caso de personas físicas: 
+Existe relacionamiento familiar por tratarse del cónyuge o concubino, de los
+hijos o de los hijos del cónyuge o concubino. 
+b) En el caso de personas jurídicas: 
+RR-SSF-2025-402     Fecha: 19/08/2025 16:23:17
+i) Poseen una participación mayor al 10% del capital o desempeñan
+cargos  con  autoridad  y  responsabilidad  en  las  actividades  de
+planeación, dirección y control. 
+ii) Sus cónyuges o concubinos, hijos o hijos del cónyuge o concubino
+poseen una participación mayor al 10% del capital o desempeñan
+cargos  con  autoridad  y  responsabilidad  en  las  actividades  de
+planeación, dirección y control. 
+Se  entiende  por  cargos  con  autoridad  y  responsabilidad  en  las
+actividades de planeación, dirección y control aquellos a los que
+refiere el artículo 261. 
+Cuando las personas físicas intervinientes en el vínculo desempeñen cargos en los
+términos  precedentes  en  instituciones  reguladas  y  supervisadas  por  el  Banco
+Central del Uruguay, la Superintendencia de Servicios Financieros podrá declarar
+en forma expresa que no se configura vínculo relevante en base a criterios de
+valoración objetiva que permitan fundar que no se da una situación susceptible de
+afectar la independencia en la apreciación de los riesgos en las operaciones de
+crédito.
+ARTÍCULO 208 (DEFINICIÓN DE GRAN EXPOSICIÓN). 
+Los riesgos asumidos por una institución con una persona física o jurídica o con un
+grupo de personas físicas o jurídicas vinculadas entre sí, se considerará “gran
+exposición” cuando su valor sea igual o superior al 10% de  su base de capital
+admisible definida en el artículo 209. 
+ARTÍCULO 209 (TOPE DE RIESGOS CREDITICIOS).
+Las instituciones podrán asumir por cada persona física o jurídica o por cada
+conjunto  económico,  según  la  definición  dada  por  el  artículo  271,  riesgos
+crediticios por hasta el 20% de su base de capital admisible.
+Dicha base corresponde al patrimonio neto esencial definido en el artículo 154 que
+cumple las condiciones de elegibilidad dispuestas en los numerales 1) y 2) del
+artículo 154.2. al último día del mes inmediato precedente.
+Quedan exceptuados de la aplicación del tope antes mencionado:
+- Los riesgos asumidos con el Grupo del Banco Mundial ( Banco Internacional
+de Reconstrucción y Desarrollo, la Corporación Financiera Internacional, la
+Agencia Multilateral de Garantía de Inversión y la Asociación Internacional
+de Fomento), Banco Asiático de Desarrollo, Banco Africano de Desarrollo,
+Banco Europeo de Reconstrucción y Desarrollo, Banco Interamericano de
+Desarrollo, Banco Europeo de Inversiones, Fondo Europeo de In
