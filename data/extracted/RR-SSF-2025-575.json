@@ -12,7 +12,7 @@
 "resultado": "",
 "resumen": "SCOTIA URUGUAY HOLDINGS S.A. - DESIGNACIÓN VICEPRESIDENTE DE LA INSTITUCIÓN. No objeción",
 "relevancia": "media",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcZWzHYxNL5GPUeo1udQw'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcbT1HJeBbMaB1Lr22mEb'})",
 "id": "RR-SSF-2025-575",
 "year": "2025",
 "month": "Octubre",

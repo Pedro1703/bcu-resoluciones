@@ -12,7 +12,7 @@
 "resultado": "",
 "resumen": "MOLYGER S.A. - TRANSFERENCIA DE ACCIONES. Autorización",
 "relevancia": "media",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcZX5kbYBNZ8ZiK1N8eda'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcbT2HLetzWaFMbuEP1dE'})",
 "id": "RR-SSF-2025-410",
 "year": "2025",
 "month": "Agosto",

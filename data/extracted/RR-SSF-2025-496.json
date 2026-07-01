@@ -12,7 +12,7 @@
 "resultado": "",
 "resumen": "DIEGO FELDMAN SAMIK Y NORBERTO FELDMAN SAMNIK - REGISTRO DE AUDITORES EXTERNOS. Cancelar la inscripción",
 "relevancia": "alta",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcZX2a8uc2fMQf34evqx2'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcbT1iwWB4XzZU8akqE7U'})",
 "id": "RR-SSF-2025-496",
 "year": "2025",
 "month": "Setiembre",

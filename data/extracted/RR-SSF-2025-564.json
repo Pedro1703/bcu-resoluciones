@@ -12,7 +12,7 @@
 "resultado": "",
 "resumen": "INFRACTORES A LA LEY DE CHEQUES. Clausura cuentas corrientes o extensión de la misma a dos años",
 "relevancia": "alta",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcZWzdRoAefCUkg7nPfpU'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcbT1Ru55jH5Sxb6ZMuad'})",
 "id": "RR-SSF-2025-564",
 "year": "2025",
 "month": "Octubre",
