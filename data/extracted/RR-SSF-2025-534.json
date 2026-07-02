@@ -12,7 +12,7 @@
 "resultado": "",
 "resumen": "EF ASSET MANAGEMENT ADMINISTRADORA DE FONDOS DE INVERSIÓN S.A. - INCUMPLIMIENTO DEL ARTÍCULO 16 DE LA LEY 17.703 DE 27 DE OCTUBRE DE 2003. Sanción",
 "relevancia": "alta",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcbT1Z7uWLuJazEL3YrFs'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcdJG2kusRb2rHEPVUun4'})",
 "id": "RR-SSF-2025-534",
 "year": "2025",
 "month": "Octubre",
