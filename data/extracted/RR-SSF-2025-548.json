@@ -12,7 +12,7 @@
 "resultado": "",
 "resumen": "PROMESA DE DESEMBOLSO DE FONDOS CONTRA ENTREGA PREVIA DE DINERO Y USO DEL ISO-LOGOTIPO BANCO CENTRAL DEL URUGUAY. ADVERTENCIA SOBRE ACTIVIDAD NO REALIZADA POR EL BANCO CENTRAL DEL URUGUAY. Emisión de Comunicación",
 "relevancia": "media",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcdJFzawPR9nrVqRV8j7R'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcfCFAr7aiZ5dL1NgpjEj'})",
 "id": "RR-SSF-2025-548",
 "year": "2025",
 "month": "Octubre",

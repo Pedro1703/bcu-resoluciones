@@ -12,7 +12,7 @@
 "resultado": "",
 "resumen": "COMPAÑíA COOPERATIVA DE SEGUROS SURCO - DESIGNACIÓN MIEMBRO TITULAR DEL CONSEJO DIRECTIVO. No objeción",
 "relevancia": "media",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcdJGKZTEHC8AWD4QQVYF'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcfCFWBTT7VoWVeCBeFsX'})",
 "id": "RR-SSF-2025-481",
 "year": "2025",
 "month": "Setiembre",

@@ -12,7 +12,7 @@
 "resultado": "",
 "resumen": "COOPERATIVA DE AHORRO Y CRÉDITO FUCEREP - DESIGNACIÓN SECRETARIO DEL CONSEJO DIRECTIVO DE LA INSTITUCIÓN. No objeción",
 "relevancia": "media",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcdJGWsM5CPewqxXm21Lp'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcfCFgtP5SHqnSTVZABct'})",
 "id": "RR-SSF-2025-455",
 "year": "2025",
 "month": "Setiembre",

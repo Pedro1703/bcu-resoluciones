@@ -12,7 +12,7 @@
 "resultado": "",
 "resumen": "MONELAR S.A. - OBSERVACIÓN POR INCUMPLIR EL ARTÍCULO 109 DE LA RECOPILACIÓN DE NORMAS DE REGULACIÓN Y CONTROL DEL SISTEMA FINANCIERO. Sanción",
 "relevancia": "alta",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcdJGTaQXdmr6zxR9Hk9N'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcfCFdh9Qmm9oqPxXrv9s'})",
 "id": "RR-SSF-2025-459",
 "year": "2025",
 "month": "Setiembre",
