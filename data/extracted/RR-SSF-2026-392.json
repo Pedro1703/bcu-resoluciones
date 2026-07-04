@@ -12,7 +12,7 @@
 "resultado": "",
 "resumen": "AFAP SURA S.A. - MULTA POR VIOLAR EL LÍMITE ESTABLECIDO POR EL ARTÍCULO 77 DE LA RECOPILACIÓN DE NORMAS DE CONTROL DE FONDOS PREVISIONALES. Sanción",
 "relevancia": "alta",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcfCEmiKf4Qb7GvTPatWm'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cch3KVjV9GxP4SZYdcjr6'})",
 "id": "RR-SSF-2026-392",
 "year": "2026",
 "month": "Junio",

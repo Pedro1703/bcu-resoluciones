@@ -12,7 +12,7 @@
 "resultado": "",
 "resumen": "GANDERYL S.A. - APERTURA DE UN COFRE FORT ARRENDADO POR UN CLIENTE EL CUAL SE ENCONTRABA BLOQUEADO JUDICIALMENTE. Sanción",
 "relevancia": "alta",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcfCFiWs7km27fFUG8dYE'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cch3LFC9fhupbdxWT9XGA'})",
 "id": "RR-SSF-2025-449",
 "year": "2025",
 "month": "Setiembre",

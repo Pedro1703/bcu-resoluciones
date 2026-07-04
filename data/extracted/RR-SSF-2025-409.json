@@ -12,7 +12,7 @@
 "resultado": "",
 "resumen": "LUYNOCK S.A. - SOLICITUD DE AUTORIZACIÓN PARA FUNCIONAR COMO GESTOR DE PORTAFOLIOS. Autorización",
 "relevancia": "media",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcfCG3tvw2ULm9pWznreY'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cch3LdiyfVtPfaNLEkXmD'})",
 "id": "RR-SSF-2025-409",
 "year": "2025",
 "month": "Agosto",

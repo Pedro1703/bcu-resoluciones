@@ -12,7 +12,7 @@
 "resultado": "",
 "resumen": "COMPAÑÍA DE SEGUROS SURA S.A. - DESIGNACIÓN DIRECTOR. No objeción",
 "relevancia": "media",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcfCFRBKXKGu75AHy1PMx'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cch3Ky1KTKFPyqgTKnXc8'})",
 "id": "RR-SSF-2025-499",
 "year": "2025",
 "month": "Setiembre",

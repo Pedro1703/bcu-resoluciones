@@ -12,7 +12,7 @@
 "resultado": "",
 "resumen": "BROU - FALTA DE ACREDITACIÓN DE LA DEVOLUCIÓN CORRESPONDIENTE A UNA COMPRA QUE FUE CANCELADA. Denuncia de un particular",
 "relevancia": "alta",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcfCDtZnveuHgQAV5Gg2s'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cch3K2W8hr2PHvhya74gc'})",
 "id": "RR-SSF-2026-410",
 "year": "2026",
 "month": "Junio",

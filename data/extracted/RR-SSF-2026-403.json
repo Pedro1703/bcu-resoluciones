@@ -12,7 +12,7 @@
 "resultado": "",
 "resumen": "ECONSTAR S.A. (PREX) - NO ACREDITACIÓN DE UNA TRANSFERENCIA A SU CUENTA. Denuncia de un particular",
 "relevancia": "media",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcfCE9iNXK4rk3F8cJUrr'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cch3K4MFuzxL83AByoFNs'})",
 "id": "RR-SSF-2026-403",
 "year": "2026",
 "month": "Junio",
