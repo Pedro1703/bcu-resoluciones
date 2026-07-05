@@ -12,7 +12,7 @@
 "resultado": "",
 "resumen": "COOPERATIVA DE AHORRO Y CRÉDITO FUCEREP - INCUMPLIMIENTOS DETECTADOS EN LA ACTUACIÓN DE SEGUIMIENTO LLEVADA A CABO DURANTE EL AÑO 2024. Sanción",
 "relevancia": "alta",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cch3KcBBmGk3zNuFjPDb7'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CciwSFoLsc2tXbGhGCjp1'})",
 "id": "RR-SSF-2025-578",
 "year": "2025",
 "month": "Octubre",

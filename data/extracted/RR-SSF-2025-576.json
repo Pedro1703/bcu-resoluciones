@@ -12,7 +12,7 @@
 "resultado": "",
 "resumen": "SCOTIABANK URUGUAY S.A. - DESIGNACIÓN GERENTE GENERAL Y VICEPRESIDENTE DE LA INSTITUCIÓN. No objeción",
 "relevancia": "media",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cch3KctbXekxxpcSZheZJ'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CciwSGJ7Lgo5zzaYnn9bX'})",
 "id": "RR-SSF-2025-576",
 "year": "2025",
 "month": "Octubre",

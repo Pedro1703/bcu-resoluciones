@@ -12,7 +12,7 @@
 "resultado": "",
 "resumen": "ECONSTAR S.A. (PREX) - DESCONOCIMIENTO DE UN PRÉSTAMO Y TRANSFERENCIAS REALIZADAS DESDE SU INSTRUMENTO DE DINERO ELECTRÓNICO. Denuncia de un particular",
 "relevancia": "alta",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cch3K6q5rDjEFaWYLwWKu'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CciwS6YEEHGvomSW5AKEE'})",
 "id": "RR-SSF-2026-402",
 "year": "2026",
 "month": "Junio",

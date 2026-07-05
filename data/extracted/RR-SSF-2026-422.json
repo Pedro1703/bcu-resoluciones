@@ -12,7 +12,7 @@
 "resultado": "",
 "resumen": "CORPORACIÓN NACIONAL FINANCIERA ADMINISTRADORA DE FONDOS DE INVERSIÓN S.A.-CONTRATACIÓN DELOITTE S.C. AUDITOR EXTERNO DE SÍ Y DE “FIDEICOMISO FINANCIERO CORPORACIÓN VIAL DEL URUGUAY I”-“FIDEICOMISO FINANCIERO CORPORACIÓN VIAL DEL URUGUAY III”.Autorización",
 "relevancia": "media",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cch3Jwt59d7ZtsAxPQgBA'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CciwRxxZhnwYuBUWFLpsd'})",
 "id": "RR-SSF-2026-422",
 "year": "2026",
 "month": "Junio",

@@ -12,7 +12,7 @@
 "resultado": "",
 "resumen": "SEGURAL S.A. - INCUMPLIMIENTO DEL ARTÍCULO 606.1 DE LA RECOPILACIÓN DE NORMAS DE REGULACIÓN Y CONTROL DEL SISTEMA FINANCIERO. Sanción",
 "relevancia": "alta",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cch3LT7W8RVEDHvC87syu'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CciwSs5syJbtiwQJQkrh5'})",
 "id": "RR-SSF-2025-437",
 "year": "2025",
 "month": "Agosto",

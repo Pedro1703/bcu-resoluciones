@@ -12,7 +12,7 @@
 "resultado": "",
 "resumen": "ASOCIACIÓN NACIONAL DE AFILIADOS - NUMERAL 1) DE LA RESOLUCIÓN DE LA SUPERINTENDENCIA DE SERVICIOS FINANCIEROS RR-SSF2026-240 DE 13 DE ABRIL DE 2026. Sanción complementaria",
 "relevancia": "alta",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cch3KWFF9Kmr57PD531ZM'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CciwSAKgY9xSXbS2kZvCp'})",
 "id": "RR-SSF-2026-385",
 "year": "2026",
 "month": "Junio",

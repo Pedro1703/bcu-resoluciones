@@ -12,7 +12,7 @@
 "resultado": "",
 "resumen": "BANCO ITAÚ URUGUAY S.A. - RECURSOS DE REVOCACIÓN Y JERÁRQUICO INTERPUESTOS CONTRA LA RESOLUCIÓN SSF-2025-116 DE 21 DE MARZO DE 2025, INCORPORADA EN EL ANEXO DE LA COMUNICACIÓN N°2025/040 DE IGUAL FECHA. Desestimación y franqueo",
 "relevancia": "media",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cch3Ks4tLCwNs3dPxygAL'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CciwSVizb9sKfPZmkyDot'})",
 "id": "RR-SSF-2025-517",
 "year": "2025",
 "month": "Octubre",
