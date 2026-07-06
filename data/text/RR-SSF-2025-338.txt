@@ -1,0 +1,411 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN 
+ 
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS 
+ 
+VISTO: La normativa relativa a las empresas administradoras de plataformas 
+de financiamiento colectivo incorporada por la Circular 2377 de 28 de diciembre 
+de 2020. 
+  
+RESULTANDO:  
+ 
+I) Que la Superintendencia de Servicios Financieros incluyó en el Plan Anual 
+de Regulaciones para los años 2024 y 2025 una iniciativa con el objetivo de 
+revisar la regulación vigente en materia de plataformas de financiamiento 
+colectivo a los efectos de introducir modificaciones que fomenten su 
+utilización por parte de las pequeñas y medianas empresas, procurando 
+mantener un adecuado balance con la protección de los intereses de los 
+inversores. 
+ 
+II) Que, a estos efectos, se elaboró una propuesta normativa que prevé 
+aumentar los umbrales de emisión a través de las mismas, así como los 
+límites de inversión tanto a nivel individual como en cada plataforma, 
+manteniendo la relación original entre ambas variables. 
+ 
+III) Que, asimismo, la propuesta normativa incorpora la posibilidad de la 
+emisión de valores representativos de deuda de fideicomisos financieros, de 
+certificados de participación y de títulos mixtos en régimen simplificado, así 
+como a través de plataformas de financiamiento colectivo dis poniéndose 
+que, en estos casos, aplicarán los límites de emisión e inversión previstos 
+en la normativa y que los límites de emisión serán exigidos respecto del 
+fideicomitente.  
+ 
+IV) Que, para los casos citados precedentemente, el proyecto determina las 
+condiciones de inscripción de los emisores y de los valores, así como el 
+régimen informativo específico para estas situaciones. 
+ 
+V) Que el proyecto establece que las empresas administradoras de 
+plataformas de financiamiento colectivo pueden asumir - directa o 
+indirectamente o a través de su personal superior - el carácter de inversores 
+en alguna de las emisiones publicadas por su intermedio, siempre y cuando 
+su participación no exceda el 10 % de cada proyecto, que dicha financiación 
+sólo se instrumente mediante la em isión de valores representativos de 
+deuda y que haga pública su participación en su sitio web. 
+ 
+VI) Que, se entendió adecuado - en lo que respecta a la revelación de 
+información a emisores e inversores - incorporar el requerimiento de 
+divulgar la metodología y  los criterios a aplicar por la empresa 
+administradora de plataformas de financiamiento colectivo para el análisis, 
+selección y publicación de los emisores y de los proyectos, los cuales 
+deberán ser objetivos, razonables, no discriminatorios y mantenerse 
+actualizados. 
+ 
+RR-SSF-2025-338     Fecha: 07/07/2025 16:01:49
+ 
+ 
+VII) Que se consideró adecuado - en materia de separación de fondos - 
+reforzar el concepto de mantener en un fideicomiso creado a tales efectos 
+aquellos fondos de clientes correspondientes a operaciones del mercado 
+primario, y mantener la restricc ión de las 48 horas para los fondos de 
+clientes mantenidos en cuentas bancarias o instrumentos de dinero 
+electrónico independientes correspondientes a operaciones del mercado 
+secundario. 
+ 
+VIII) Que se eliminó la restricción que impedía a las empresas emitir valores de 
+oferta pública en régimen simplificado en tanto tuvieren emisiones 
+vigentes en el régimen general.  
+ 
+IX) Que, no obstante, y con objeto de mantener un adecuado nivel de 
+protección a los inversores, se dispuso que aquellas sociedades que 
+tengan emisiones  vigentes en el régimen general y en el régimen 
+simplificado deban presentar la información contable y de gestión 
+correspondiente al régimen más gravoso. 
+ 
+X) Que la propuesta normativa antes mencionada fue puesta a consulta 
+pública con fecha  5 de diciembre de  2024, otorgándose un plazo para 
+formular comentarios que venció el 31 de diciembre de 2024.  
+ 
+XI) Que se recibieron comentarios de Ferrere, Corporación Nacional para el 
+Desarrollo, Banco de la República Oriental del Uruguay, Bolsa Electrónica 
+de Valores del U ruguay S.A., Corporación Nacional Financiera 
+Administradora de Fondos de Inversión S.A., Valores Administradora de 
+Fondos de Inversión y Fideicomisos, Pilay Uruguay Administradora de 
+Fondos de Inversión S.A. (a través del Estudio Legal, Fiscal y contable 
+Castellán) y Crowder. 
+ 
+XII) Que la Ley 18.627 de 2 de diciembre de 2009 no admite la posibilidad de 
+que las asociaciones civiles sean emisores de valores. 
+ 
+CONSIDERANDO:  
+ 
+I) Que las plataformas de financiamiento colectivo tienen por objeto promover 
+proyectos de capitales emprendedores, facilitando su financiamiento 
+mediante la captación de fondos provenientes de un gran número de 
+personas que contribuyen, con inversiones relativamente pequeñas, a 
+través de un sistema de información públicamente accesible. 
+ 
+II) Que, atento a los objetivos perseguidos por los artículos 49 y 50 de la Ley 
+N° 19.820 de 18 de setiembre de 2019, corresponde seguir fo mentando 
+esta fuente alternativa de financiación como complemento de las fuentes 
+tradicionales, especialmente para empresas que se encuentran en sus 
+primeros estadios de desarrollo. 
+ 
+III) Que, conforme el mercado va generando experiencia e incorporando 
+interesados en las diferentes operativas, compete al regulador mantener 
+actualizada la normativa que las rige y continuar implementando medidas 
+para dinamizar el diseño de estas estructuras de financiación según las 
+necesidades de cada proyecto.  
+ 
+RR-SSF-2025-338     Fecha: 07/07/2025 16:01:49
+ 
+ 
+IV) Que los comentarios surgidos en el ámbito de la Mesa de Innovación y de la 
+Comisión de Promoción del Mercado de Valores, así como la tendencia 
+observada producto del análisis de la normativa comparada,  han sido 
+determinantes para la introducción de mejoras en la normativa vigente. 
+ 
+V) Que los comentarios recibidos de la industria aportaron elementos que 
+permitieron mejorar la propuesta original, corroborando el valor que tiene 
+para el regulador el proceso de consulta. 
+ 
+VI) Que en función de lo expuesto en RESULTANDO XII), corresponde ajustar 
+la redacción de los artículos 2 0, 22 y 23 de la Recopilación de Normas de 
+Mercado de Valores y eliminar el artículo 21 de la misma Recopilación. 
+ 
+ATENTO: A lo dispuesto en el artículo 38 de la Ley N° 16 .696 de 30 de marzo 
+de 1995 en la redacción dada por el artículo 2 de la Ley N° 20.345 de 19 de 
+setiembre de 2024 , en la Ley N°18.627 de 2 de diciembre de 2009, en los 
+artículos 49 y 50 de la Ley N° 19.820 de 18 de setiembre de 2019  y la 
+consideración de la Comisión Asesora de Normas a que refiere el artículo 84 
+del Reglamento Administrativo del Banco Central del Uruguay, en acta de 
+2025/5.  
+ 
+SE RESUELVE: 
+ 
+ 
+1. SUSTITUIR en la SECCIÓN II - INSCRIPCIÓN DE EMISORES DE 
+VALORES DE OFERTA PÚBLICA EN RÉGIMEN SIMPLIFICADO  del 
+CAPÍTULO II - INSCRIPCIÓN DE EMISORES DE VALORES DE OFERTA 
+PÚBLICA del TÍTULO I - EMISORES Y VALORES del LIBRO I - 
+Autorizaciones y Registros de la Recop ilación de Normas del Mercado de 
+Valores, el artículo 8.1.1 por el siguiente: 
+ 
+ARTÍCULO 8.1.1 (EMISIONES SIMPLIFICADAS - REQUISITOS 
+APLICABLES A EMISORES E INVERSORES).  
+La emisión de valores de oferta pública bajo el régimen de emisiones 
+simplificadas pod rá realizarse por sociedades comerciales residentes de 
+acuerdo con los límites establecidos en el artículo 215.5. 
+ 
+Las sociedades con ventas anuales (excluido el impuesto al valor agregado) 
+superiores a 75:000.000 UI (setenta y cinco millones de unidades i ndexadas) o 
+su equivalente en el último ejercicio económico sólo podrán realizar 
+emisiones de valores representativos de deuda. 
+ 
+En el caso de sociedades que pertenezcan a un conjunto económico, de 
+acuerdo con la definición dada por el artículo 271 de la R ecopilación de 
+Normas de Regulación y Control del Sistema Financiero, a los efectos de 
+evaluar el cumplimiento del límite precedente se considerará la suma de las 
+ventas de las sociedades pertenecientes a dicho conjunto. 
+ 
+ 
+2. SUSTITUIR en la SUBSECCIÓN 1 - INSCRIPCIÓN SOLICITADA POR 
+EL EMISOR ANTE LA EMPRESA ADMINISTRADORA DE 
+PLATAFORMAS DE FINANCIAMIENTO COLECTIVO de la SECCIÓN III 
+- INSCRIPCIÓN DE EMISORES DE VALORES DE OFERTA PÚBLICA 
+RR-SSF-2025-338     Fecha: 07/07/2025 16:01:49
+ 
+ 
+QUE EMITAN A TRAVÉS DE PLATAFORMAS DE FINANCIAMIENTO 
+COLECTIVO del CAPÍTUL O II - INSCRIPCIÓN DE EMISORES DE 
+VALORES DE OFERTA PÚBLICA del TÍTULO I - EMISORES Y 
+VALORES del LIBRO I - Autorizaciones y Registros de la Recopilación 
+de Normas del Mercado de Valores, el artículo 8.3 por el siguiente: 
+ 
+ARTÍCULO 8.3 (REQUISITOS APLICABLES A EMISORES).   
+La emisión de valores de oferta pública a través de plataformas de 
+financiamiento colectivo podrá realizarse por empresas residentes y no 
+residentes, con ventas anuales (excluido el impuesto al valor agregado) que no 
+superen el equivalent e a 75:000.000 UI (setenta y cinco millones de unidades 
+indexadas) en el último ejercicio económico.   
+ 
+No obstante, no podrán emitir valores de oferta pública a través de estas 
+empresas quienes tengan emisiones vigentes en régimen general o en 
+régimen simplificado.  
+ 
+En el caso de empresas que pertenezcan a un conjunto económico, de acuerdo 
+con la definición dada por el artículo 271 de la Recopilación de Normas de 
+Regulación y Control del Sistema Financiero, a los efectos de evaluar el 
+cumplimiento del límite establecido en el párrafo precedente, se considerará la 
+suma de las ventas de las empresas pertenecientes a dicho conjunto.  
+ 
+Las empresas que, luego de emitir a través de plataformas de financiamiento 
+colectivo, excedan el límite de facturación, no te ndrán ningún tipo de obligación 
+adicional en lo que respecta a dicha emisión.    
+ 
+La financiación podrá instrumentarse mediante la emisión de valores 
+representativos de capital, de deuda o títulos mixtos. 
+ 
+ 
+3. RENOMBRAR en el CAPÍTULO III - INSCRIPCIÓN DE VALO RES DE 
+OFERTA PÚBLICA del TÍTULO I - EMISORES Y VALORES del LIBRO I - 
+Autorizaciones y Registros de la Recopilación de Normas del Mercado de 
+Valores, la SECCIÓN IV - INSCRIPCIÓN DE VALORES EMITIDOS POR 
+ENTES AUTÓNOMOS, SERVICIOS DESCENTRALIZADOS, PERSONAS 
+PÚBLICAS NO ESTATALES Y ASOCIACIONES CIVILES, la que pasará a 
+denominarse SECCIÓN IV - INSCRIPCIÓN DE VALORES EMITIDOS POR 
+ENTES AUTÓNOMOS, SERVICIOS DESCENTRALIZADOS Y 
+PERSONAS PÚBLICAS NO ESTATALES.  
+ 
+ 
+4. SUSTITUIR en la SECCIÓN IV - INSCRIPCIÓN DE VALORES EMITIDOS 
+POR ENTES AUTÓNOMOS, SERVICIOS DESCENTRALIZADOS Y 
+PERSONAS PÚBLICAS NO ESTATALES d el CAPÍTULO III - 
+INSCRIPCIÓN DE VALORES DE OFERTA PÚBLICA del TÍTULO I - 
+EMISORES Y VALORES del LIBRO I - Autorizaciones y Registros de la 
+Recopilación de Normas de l Mercado de Valores, el artículo 20 por el 
+siguiente:  
+ 
+ARTÍCULO 20 (ÁMBITO DE APLICACIÓN).  
+La emisión de valores por parte de Entes Autónomos y Servicios 
+Descentralizados del dominio industrial y comercial del Estado, la Corporación 
+RR-SSF-2025-338     Fecha: 07/07/2025 16:01:49
+ 
+ 
+Nacional para el Des arrollo y las personas públicas no estatales se realizará 
+conforme a las normas generales que rigen la emisión de valores de oferta 
+pública.   
+ 
+ 
+5. DEROGAR en la SECCIÓN IV - INSCRIPCIÓN DE VALORES EMITIDOS 
+POR ENTES AUTÓNOMOS, SERVICIOS DESCENTRALIZADOS Y 
+PERSONAS PÚBLICAS NO ESTATALES d el CAPÍTULO III - 
+INSCRIPCIÓN DE VALORES DE OFERTA PÚBLICA del TÍTULO I - 
+EMISORES Y VALORES del LIBRO I - Autorizaciones y Registros de la 
+Recopilación de Normas del Mercado de Valores, el artículo 21. 
+ 
+ 
+6. SUSTITUIR en la SECCIÓN IV - INSCRIPCIÓN DE VALORES EMITIDOS 
+POR ENTES AUTÓNOMOS, SERVICIOS DESCENTRALIZADOS Y 
+PERSONAS PÚBLICAS NO ESTATALES d el CAPÍTULO III - 
+INSCRIPCIÓN DE VALORES DE OFERTA PÚBLICA del TÍTULO I - 
+EMISORES Y VALORES del LIBRO I - Autorizaciones y Registros de la 
+Recopilación de Normas del Mercado de Valores, los artículos 22 y 23 por 
+los siguientes:  
+ 
+ARTÍCULO 22 (TRÁMITE A SEGUIR).  
+La presentación de la totalidad de la información pertinente, es requisito previo 
+a la elaboración del informe del Banco Centr al del Uruguay requerido por el 
+Poder Ejecutivo para la autorización por parte de éste de las emisiones de los 
+Entes Autónomos, Servicios Descentralizados del dominio industrial y 
+comercial del Estado, la Corporación Nacional para el Desarrollo y las 
+personas públicas no estatales.  
+ 
+A efectos de la elaboración de tal informe por el Banco Central del Uruguay la 
+institución deberá presentar la solicitud de autorización de la emisión en la 
+forma indicada en esta Recopilación, cumpliendo con todos los recaudos  
+previstos para la emisión de valores de oferta pública, en lo pertinente, con la 
+excepción de lo indicado con relación a la antigüedad de la información 
+contable y la calificación de riesgo.   
+ 
+ARTÍCULO 23 (CONTINUACIÓN DEL TRÁMITE).  
+Una vez otorgada la autorización del Poder Ejecutivo, los Entes Autónomos y 
+los Servicios Descentralizados del dominio industrial o comercial del Estado, la 
+Corporación Nacional para el Desarrollo y las personas públicas no estatales 
+estarán habilitados para continuar el trám ite, siendo además de aplicación lo 
+dispuesto con relación a la antigüedad de la información contable y la 
+calificación de riesgo. 
+ 
+ 
+7. SUSTITUIR en el CAPÍTULO I - DEFINICIÓN, NATURALEZA JURÍDICA Y 
+RÉGIMEN APLICABLE del TÍTULO III BIS - EMPRESAS 
+ADMINISTRADORAS DE PLATAFORMAS DE FINANCIAMIENTO 
+COLECTIVO del LIBRO I - Autorizaciones y Registros de la Recopilación 
+de Normas del Mercado de Valores, los artículos 59.4 y 59.7 por los 
+siguientes: 
+ 
+RR-SSF-2025-338     Fecha: 07/07/2025 16:01:49
+ 
+ 
+ARTÍCULO 59.4 (OBJETO). 
+Las empresas administradoras de plataformas de financiamiento colectivo 
+tendrán como objeto exclusivo poner en contacto, de manera profesional y 
+habitual, a través de portales web u otros medios análogos, a una pluralidad de 
+personas físicas o jurídicas que ofrecen financiamiento (inversores) con 
+empresas que solicitan financiamiento a través de la emisión de valores de 
+oferta pública (emisores). 
+ 
+A tales efectos, podrán brindar a los emisores capacitación y asistencia para la 
+estructuración de la emisión. 
+ 
+En forma adicional, actuarán como: 
+ 
+ representantes de los tenedores de valores durante la vigencia de la 
+emisión y hasta su total cancelación debiendo dar cumplimiento con lo 
+dispuesto en el artículo 16.9; 
+ 
+ agente de pago; 
+ 
+ entidad registrante en los términos dispuestos en los artículos 23 y 
+siguientes de la Ley N° 18.627 de 2 de diciembre de 2009, debiendo 
+dar cumplimiento a lo establecido en los artículos 34 y siguientes 
+de esta Recopilación. 
+ 
+ARTÍCULO 59.7 (PROHIBICIONES).  
+Las empresas administradoras de plataformas de financiamiento colectivo no 
+podrán:  
+ 
+a) Actuar en calidad de emisores de valores de oferta pública en las 
+plataformas de financiamiento colectivo que administran. Dicha prohibición 
+abarcará a sus accionistas, su personal y las personas físicas o jurídicas 
+vinculadas a los mismos. A efectos de determinar las situaciones en que se 
+configura vinculación, se considerarán las definiciones del artículo 210.1 de 
+la Recopilación de Normas de Regulación y Control del Sistema 
+Financiero. 
+ 
+b) Destacar o emitir juicios de valor acerca de los emisore s o emisiones 
+inscriptos en la plataforma de financiamiento colectivo. Su publicación en la 
+plataforma deberá realizarse atendiendo a criterios objetivos.  
+ 
+c) Prestar al inversor servicios de asesoramiento, recepción, canalización o 
+ejecución de órdenes de clientes para la concertación de operaciones.  
+ 
+d) Asegurar al inversor el retorno o rendimiento de las inversiones efectuadas 
+ni la suscripción total de la emisión al emisor.  
+ 
+e) Recibir fondos por cuenta de inversores o de emisores, salvo la potestad 
+que resulte de su responsabilidad como agente de pago o en los casos de 
+movimientos de fondos relacionados con operaciones de mercado.  
+ 
+f) Otorgar préstamos, créditos o cualquier otro tipo de financiamiento a los 
+emisores o inversores.  No obstante, podrán asumir - directa o 
+indirectamente o a través de su personal superior - el carácter de 
+RR-SSF-2025-338     Fecha: 07/07/2025 16:01:49
+ 
+ 
+inversores en alguna de las emisiones realizadas a través de las 
+plataformas de financiamiento colectivo que administran, por montos 
+inferiores al 10% (diez por ciento) de cada emisión.  
+La financiación sólo podrá instrumentarse mediante la emisión de 
+valores representativos de deuda, debiendo hacerla pública en su sitio 
+web y asegurando que dichas inversiones se hagan con arreglo a las 
+mismas condiciones que las de los demás inversores. 
+ 
+ 
+8. SUSTITUIR en el CAPÍTULO II - AUTORIZACIÓN PARA FUNCIONAR del 
+TÍTULO III BIS -  EMPRESAS ADMINISTRADORAS DE PLATAFORMAS 
+DE FINANCIAMIENTO COLECTIVO del LIBRO I - Autorizaciones y 
+Registros de la Recopilación de Normas del Mercado de Valores, el artículo 
+59.12 por el que sigue: 
+ 
+ARTÍCULO 59.12 (SEPARACIÓN DE FONDOS PROPIOS Y DE CLIENTES).  
+Las empresas administradoras de plataformas de financiamiento colectivo 
+deberán garantizar una adecuada separación de los movimientos de su 
+patrimonio y los de sus clientes.  
+ 
+Los fondos de los clientes correspondientes a operaciones del mercado 
+primario deberán mantenerse en un fideicomiso creado a tales efectos, en 
+el cual la empresa administradora de plataformas de financiamiento 
+colectivo no podrá actuar en calidad de fiduciario. 
+ 
+En el caso de operaciones del mercado secundario, los fondos de clientes 
+podrán permanecer en su poder en cuentas bancarias o instrumentos de 
+dinero electrónico independientes por un plazo máximo de 48 horas. Este 
+plazo podrá ser mayor siempre que existan instrucciones específicas para 
+ello y que no impliquen desvirtuar la operativa  a juicio de la 
+Superintendencia de Servicios Financieros.  
+ 
+ 
+9. SUSTITUIR en la SECCIÓN III - OFERTA PÚBLICA DE FIDEICOMISOS 
+FINANCIEROS del CAPÍTULO IV - REGISTRO DE FIDEICOMISOS 
+FINANCIEROS del TÍTULO VI - FIDUCIARIOS Y FIDEICOMISOS del  
+LIBRO I - Autorizaciones y Registros de la Recopilación de Normas del 
+Mercado de Valores, los artículos 111, 112, 115, 117, 118 y 119 por los que 
+siguen: 
+ 
+ARTÍCULO 111 (PROCEDIMIENTO DE AUTORIZACIÓN).  
+La solicitud de autorización para la emisión de valores de oferta pública 
+deberá ser presentada por el fiduciario, en representación del fideicomiso por él 
+administrado. Dicha emisión podrá realizarse en cualquiera de los 
+siguientes regímenes: 
+ 
+a. Una emisión en régimen general de valores representativos de deuda, de 
+certificados de participación o de títulos mixtos, de acuerdo con lo 
+establecido en los artículos 112 a 123.1. 
+ 
+b. Una emisión en régimen simplificado de valores representativ os de 
+deuda, de certificados de participación o de títulos mixtos, que se 
+regirá por lo dispuesto en los artículos 112 a 123.1. En el caso de 
+RR-SSF-2025-338     Fecha: 07/07/2025 16:01:49
+ 
+ 
+certificados de participación y de títulos mixtos sólo podrán ser 
+emitidos cuando el patrimonio del fideicomiso sea menor a 75:000.000 
+UI (setenta y cinco millones de unidades indexadas) o su equivalente.  
+ 
+c. Una emisión a través de plataformas de financiamiento colectivo de 
+valores representativos de deuda, de certificados de participación o 
+de títulos mixtos, que se regirá por lo establecido en los artículos 117 
+a 123.12.  
+ 
+En el caso de los literales b. y c. serán de aplicación los límites de 
+emisión e inversión previstos en los artículos 215.4 y 215.5, según 
+corresponda. Los límites de emisión serán exigidos respecto  del 
+fideicomitente.  
+ 
+ARTÍCULO 112 (DOCUMENTACIÓN).  
+A efectos de proceder a la oferta pública de los valores a ser emitidos, el 
+fiduciario deberá presentar la solicitud de autorización de oferta pública, 
+adjuntando la siguiente información y documentación: 
+ 
+i. Copia autenticada de las resoluciones del órgano competente del 
+fideicomitente en virtud de las cuales se autoriza la transferencia de los 
+bienes y 

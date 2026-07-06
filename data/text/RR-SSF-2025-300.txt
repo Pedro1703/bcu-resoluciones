@@ -1,0 +1,36 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La solicitud presentada por Banco Bilbao Vizcaya Argentaria Uruguay
+S.A. con motivo de la regularización del contrato de tercerización de servicios
+de autenticación de transacciones de comercio electrónico (tarjeta de débito y
+crédito) en la empresa ALIGNET S.A.C. (Perú).
+RESULTANDO: 
+I) Que por Resolución RR-SSF-2022-312 del 12 de mayo de 2022 se autorizó
+a  contratar  a  ALIGNET  S.A.C.  para  la  prestación  del  servicio  de
+autenticación de transacciones de comercio electrónico de sus clientes.
+II) Que  se  informó  la  suscripción  de  un  nuevo  contrato  con  el  proveedor,
+sustitutivo del anterior, pero sin cambios en el alcance de los servicios, así
+como  el  subcontrato  con  la  empresa  Rackspace  Technology  Inc.,
+distribuidora de los servicios de nube brindados por Amazon Web Services
+(Estados Unidos).
+CONSIDERANDO: Que, analizados los textos de los contratos, así como la
+información adicional presentada, no se perciben objeciones para autorizar la
+tercerización.
+ATENTO: A lo dispuesto en el artículo 2 de la Ley 17.613 de fecha 27 de
+diciembre de 2002, en los artículos 35.1 y siguientes de la Recopilación de
+Normas de Regulación y Control del Sistema Financiero, a la Resolución SSF
+No. 785-2015 de fecha 24 de noviembre de 2015 y a los informes contenidos
+en el Expediente N° 2021-50-1-02048. 
+SE RESUELVE:
+Autorizar a Banco Bilbao Vizcaya Argentaria Uruguay S.A. la tercerización de
+los servicios de autenticación de transacciones de comercio electrónico (tarjeta
+de débito y crédito) en ALIGNET S.A.C. (Perú), en los términos informados en
+sus notas del 25 de octubre de 2024, 20 de noviembre 2024 y 30 de mayo
+2025.  La  tercerización  comprende  la  subcontratación  de  Rackspace
+Technology,  Inc.  como  distribuidor  de  los  servicios  de  nube  provistos  por
+Amazon Web Services (Estados Unidos).
+JUAN PEDRO CANTERA
+Superintendente de Servicios Financieros
+RR-SSF-2025-300     Fecha: 18/06/2025 10:31:40
+Exp. 2021-50-1-02048 
+ Publicable: Si - Firmante: JUAN PEDRO CANTERA SENCIÓN

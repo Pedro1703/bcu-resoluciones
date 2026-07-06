@@ -1,0 +1,426 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La reglamentación en materia de requerimiento de capital por riesgo de
+crédito establecida en los artículos 160 y 160.1 de la Recopilación de Normas
+de Regulación y Control del Sistema Financiero.
+RESULTANDO: 
+I) Que, en el marco de las tareas definidas en el Plan de Regulaciones para el
+año 2023, se elaboró un proyecto que se enmarca en la iniciativa estratégica
+M11  denominada  “alineación  a  estándares  internacionales  de  bancos  y
+seguros”, que continua en el año 2024 en el marco de la IE18 – Continuar
+con la alineación a estándares internacionales - Bancos, subiniciativa 18.3 -
+Basilea III - Ajustes al requerimiento de capital por riesgo de crédito, que
+comprende modificaciones al requerimiento de capital por riesgo de crédito
+aplicable a las instituciones de intermediación financiera.
+II) Que,  para  la  elaboración  de  la  propuesta  se  partió  de  un  análisis
+pormenorizado  de  la  normativa  vigente  en  materia  de  requerimiento  de
+capital  por  riesgo  de  crédito  y  del  estándar  internacional  al  respecto  a
+efectos de identificar las brechas entre ambos.
+III) Que  dicho  proyecto  modifica  algunos  ponderadores  relativos  a  las
+exposiciones  con  gobiernos  centrales,  bancos  centrales,  empresas  del
+sector público, organismos multilaterales e instituciones de intermediación
+financiera del país y bancos del exterior.
+IV) Que se propone que las exposiciones frente a empresas pasen a tener un
+tratamiento  granular  por  riesgo,  diferenciando  entre  financiación
+especializada  de  proyectos  de  inversión,  exposiciones  generales  y
+exposiciones minoristas.
+V) Que, en lo que respecta a la financiación especializada de proyectos de
+inversión, se explicita que el reembolso y respaldo del préstamo dependen
+significativamente de las rentas generadas por el proyecto financiado y se
+establecen ponderadores específicos según la etapa y calidad del proyecto.
+VI) Que se propone que  las exposiciones  generales frente a empresas  se
+ponderen en función de la existencia o no de calificación de riesgo en
+escala internacional.
+VII) Que, asimismo, el proyecto contempla ponderadores específicos para las
+exposiciones  minoristas  (prestatarios  personas  físicas  o  MIPYMES  sin
+calificación de riesgo).
+RR-SSF-2024-312     Fecha: 10/07/2024 10:45:51
+VIII) Que  la  propuesta  normativa  incorpora  un  tratamiento  diferencial  para
+exposiciones garantizadas con bienes inmuebles, ya sea que se trate de
+exposiciones  garantizadas  con  bienes  inmuebles  residenciales,
+exposiciones  garantizadas  con  bienes  inmuebles  comerciales  y
+exposiciones a la adquisición de terrenos y construcción, estableciendo
+para las dos primeras que el ponderador aplicable dependerá del ratio
+loan-to-value  (LTV),  calculado  como  el  monto  pendiente  del  préstamo
+dividido el valor del bien inmueble.
+IX) Que, asimismo, se propone la aplicación de un multiplicador sobre el
+ponderador por riesgo de crédito –igual a 1,5 y con un tope de 150%
+sobre  el  ponderador  resultante–  cuando  se  trate  de  exposiciones  en
+moneda extranjera (potencial descalce de monedas) frente a personas
+físicas  y  empresas  del  sector  no  financiero,  excepto  en  el  caso  de
+empresas pertenecientes a los sectores agropecuario, comercio agrícola
+e industria manufacturera.
+X) Que el proyecto modifica el tratamiento de los riesgos y compromisos
+contingentes, adoptando el uso de “factores de conversión del crédito”
+(FCC), que reflejan la probabilidad de que dichos riesgos y compromisos
+contingentes se conviertan en posiciones dentro de balance, para luego
+aplicar el ponderador por riesgo de crédito según la contraparte de que se
+trate, y adapta las categorías consideradas conforme lo dispuesto por el
+estándar.
+XI) Que  la  propuesta  normativa  diferencia  dos  categorías  de  técnicas  de
+mitigación  de  riesgo:  las  operaciones  con  colateral  y  las  garantías,
+estableciendo para el primer caso que se adopta el enfoque simple (se
+reemplaza la ponderación por riesgo de la contraparte por la ponderación
+del colateral para el tramo colateralizado de la exposición, sujeto a una
+ponderación  mínima  de  20%  salvo  excepciones  y  se  introduce  un
+tratamiento  específico  para  operaciones  de  compra  de  valores  con
+compromiso irrevocable de venta), mientras que para el segundo caso
+también se adopta el enfoque simple, ampliándose la gama de garantes
+admitidos.
+XII) Que la propuesta normativa antes mencionada fue puesta a consulta de
+las instituciones supervisadas y del público en general con fecha 12 de
+diciembre de 2023, venciendo el plazo para la recepción de comentarios
+el 8 de marzo de 2024.
+XIII) Que se recibieron comentarios de la Asociación de Bancos Privados del
+Uruguay (ABPU), del Banco de la República Oriental del Uruguay (BROU)
+y del estudio jurídico Hughes & Hughes.
+XIV) Que  los  principales  comentarios  refirieron  a  los  siguientes  aspectos:
+exposiciones frente a empresas (generales, financiación de proyectos de
+inversión y minoristas), exposiciones garantizadas con bienes inmuebles
+(cálculo  del  ratio  LTV,  impacto  de  la  garantía  para  exposiciones
+garantizadas con bienes inmuebles comerciales en los casos en que el
+repago  del  crédito  no  depende  de  la  explotación  del  inmueble)  y
+multiplicador para exposiciones en moneda extranjera.
+RR-SSF-2024-312     Fecha: 10/07/2024 10:45:51
+CONSIDERANDO: 
+I) Que los comentarios recibidos de la industria aportaron elementos que
+permitieron mejorar la propuesta original, corroborando el valor que tiene
+para el regulador el proceso de consulta.
+II) Que,  considerando  los  comentarios  antedichos,  se  incorporaron  las
+siguientes modificaciones:
+- En lo que respecta al cálculo del LTV, se admite que se utilice el valor
+neto  estimado  de  venta  en  remate  público  del  inmueble  actualizado
+conforme  las  disposiciones  reglamentarias  vigentes  del  artículo  269
+(Carpeta de deudores) y se considerará como fecha de originación del
+crédito la fecha de constitución de la hipoteca en el caso que existan
+desembolsos periódicos.
+- En relación al tratamiento de las exposiciones garantizadas con bienes
+inmuebles  comerciales,  en  los  casos  en  que  la  amortización  del
+préstamo no depende sustancialmente de los flujos de caja generados
+por el inmueble, las instituciones aplicarán una ponderación por riesgo
+de 60% o la ponderación por riesgo de la contraparte, si fuera inferior, a
+la  parte  de  la  exposición  hasta  el  55%  del  valor  del  inmueble,  y  la
+ponderación por riesgo de la contraparte al resto de la exposición.
+- Se admitirá que las empresas que cuenten con calificación de riesgo a
+escala  internacional  queden  exoneradas  de  la  aplicación  del
+multiplicador pues ya ha sido contemplado el riesgo de descalce en
+dicha calificación.
+- También  se  admitirá  dicha  exoneración  a  las  exposiciones  frente  a
+empresas de determinados sectores de actividad (según se defina en la
+reglamentación) y a las exposiciones frente a empresas que cuenten con
+coberturas financieras frente al riesgo de tipo de cambio procedente del
+descalce de monedas entre la moneda del préstamo y la de los ingresos
+del prestatario.
+ATENTO  :    A lo dispuesto en el literal A) del artículo 38 de la Ley Nro. 16.696 del
+30 de marzo de 1995 en la redacción dada por el artículo 11 de la Ley Nro.
+18.401 del 24 de octubre de 2008 y en el Memorándum N° MM/2024/295 del 28
+de junio de 2024.
+LA INTENDENTE DE SUPERVISIÓN FINANCIERA EN EJERCICIO DE
+ATRIBUCIONES DELEGADAS Y ENCOMENDADAS COMO
+SUPERINTENDENTE DE SERVICIOS FINANCIEROS RESUELVE:
+1. SUSTITUIR en el Capítulo II – Responsabilidad Patrimonial Neta Mínima, del
+Título II – Responsabilidad Patrimonial, del Libro II – Estabilidad y Solvencia,
+los artículos 160 y 160.1 por los siguientes:
+RR-SSF-2024-312     Fecha: 10/07/2024 10:45:51
+ARTÍCULO 160 (REQUERIMIENTO DE CAPITAL POR RIESGO DE CRÉDITO
+– EXPOSICIONES ALCANZADAS Y FORMA DE CÁLCULO). 
+Exposiciones alcanzadas:
+Las  exposiciones  sujetas  a  requerimiento  de  capital  por  riesgo  de  crédito
+comprenden aquellos activos y riesgos y compromisos contingentes –netos de
+provisiones– que  surjan  del  estado  de  situación  financiera  individual  y  sus
+anexos,  confeccionados  de  acuerdo  con  lo  dispuesto  en  el  artículo  507,
+excluidos los activos que se deducen para el cálculo de la responsabilidad
+patrimonial neta por el importe deducido.
+Se excluirán, asimismo, los instrumentos financieros derivados lineales y las
+opciones  adquiridas,  los  préstamos  en  valores  y  los  activos  originados  en
+operaciones pendientes de liquidación que impliquen el intercambio de valores,
+oro y moneda extranjera por efectivo, los que estarán sujetos al riesgo de
+crédito de contraparte según se indica en el artículo 160.2. Por su parte, los
+instrumentos a que refieren los artículos 163 y 167 incluidos en la cartera de
+negociación  y  aquellos  a  que  refiere  el  artículo  169, no  estarán  sujetos  a
+requerimientos de capital por riesgo de crédito.
+Forma de cálculo:
+El  requerimiento  de  capital  por  riesgo  de  crédito  se  calculará  conforme  al
+método  estándar,  según  el  cual  se  asignan  ponderaciones  por  riesgo
+considerando el tipo de exposición de que se trate.
+El  requerimiento  aplicable  a  bancos,  casas  financieras,  cooperativas  de
+intermediación  financiera,  administradoras  de  grupos  de  ahorro  previo  e
+instituciones financieras externas es equivalente al 8% de los activos y riesgos
+y compromisos contingentes ponderados por riesgo de crédito, mientras que
+dicho guarismo será de 12% para los bancos minoristas y cooperativas de
+intermediación financiera minoristas y de 15% para los bancos de inversión.
+En suma, el requerimiento de capital por riesgo de crédito de la institución-i (
+)  resultará  de  aplicar  un  porcentaje  x  (
+ )  sobre  la  suma  de  las
+exposiciones de la institución-i (
+ ) calculadas según el ponderador por riesgo
+de crédito (
+ ) que resulte aplicable, según se expresa a continuación:
+Donde, según lo dispuesto precedentemente, 
+ARTÍCULO  160.1  (REQUERIMIENTO  DE  CAPITAL  POR  RIESGO  DE
+CRÉDITO – PONDERADORES EXIGIDOS). 
+RR-SSF-2024-312     Fecha: 10/07/2024 10:45:51
+Los  ponderadores  por  riesgo  de  crédito  aplicables  dependerán  del  tipo  de
+exposición, según  se establece  en los numerales  1) a  12) a  continuación,
+teniendo en cuenta las siguientes consideraciones:
+(a) Las exposiciones –sin importar de qué tipo sean– que estén garantizadas
+con  bienes  inmuebles,  y  cumplan  determinadas  condiciones,  se
+ponderarán de acuerdo a lo establecido en el numeral 7).
+(b) Las  exposiciones  en  moneda  extranjera  –frente  a  personas  físicas  y
+empresas de determinados sectores–  tendrán un ponderador por riesgo
+que  surge  de  aplicar  un  multiplicador  de  1,5  al  ponderador  original
+previsto, según se dispone en el numeral 8).
+(c) Todas las exposiciones –sin importar de qué tipo sean– en situación de
+incumplimiento se ponderarán de acuerdo a lo establecido en el numeral
+10).
+(d) Las exposiciones a riesgos y compromisos contingentes se regirán por lo
+dispuesto en el numeral 9).
+(e) Cuando las instituciones apliquen técnicas de mitigación de riesgo, se
+podrán  reemplazar  los  ponderadores  por  riesgo  de  la  contraparte,
+previstos  en  el  presente  artículo,  por  la  ponderación  del  colateral  o
+garante, según lo dispuesto en el artículo 160.1.1.
+Cuando  la  determinación  del  ponderador  exigible  se  base  en  el  uso  de
+calificaciones  de  riesgo,  deberán  tenerse  en  cuenta  las  siguientes
+consideraciones:
+ Se utilizará la calificación en escala internacional.
+ Dichas calificaciones deberán ser emitidas por una entidad calificadora
+de riesgo reconocida por la SEC ( Securities and Exchange Commission)
+de  los  Estados  Unidos  de  América  como  NRSRO  ( Nationally
+Recognized Statistical Rating Organizations ) e inscripta en el Registro
+del Mercado de Valores del Banco Central del Uruguay.
+ La calificación deberá estar referida al instrumento. En caso de que este
+no tenga calificación, se deberá utilizar la calificación del emisor para el
+largo plazo y en moneda extranjera. La calificación del instrumento no
+podrá utilizarse como calificación del emisor. Cuando las entidades que
+estén  organizadas  como  sucursales  no  cuenten  con  calificación  de
+riesgo, se utilizará la calificación de riesgo de su casa matriz, limitada
+por la calificación de riesgo del país donde las mismas se encuentren
+instaladas.  Las  calificaciones  deberán  revisarse  como  mínimo
+mensualmente.
+ Si un instrumento o emisor estuviera calificado por más de una entidad
+calificadora  de  riesgo,  deberán  atenderse  las  siguientes
+consideraciones:
+- Cuando existan calificaciones asociadas a dos ponderaciones por
+riesgo  diferentes,  se  utilizará  la  calificación  correspondiente  a  la
+ponderación por riesgo más alta.
+RR-SSF-2024-312     Fecha: 10/07/2024 10:45:51
+- Cuando  existan  calificaciones  relacionadas  con  tres  o  más
+ponderaciones por riesgo diferentes, se tomarán las calificaciones
+asociadas  a  las  dos  ponderaciones  por  riesgo  más  bajas  y  se
+utilizará la correspondiente a la ponderación por riesgo más alta de
+estas dos.
+- En  todos  los  casos,  cuando  para  la  ponderación  de  riesgo
+seleccionada existan distintas calificaciones asociadas, se utilizará la
+segunda mejor calificación.
+Cuando de la aplicación de los criterios antes señalados se puedan determinar
+diferentes  calificaciones  para  un  mismo  emisor,  se  utilizará  la  calificación
+asociada a la ponderación por riesgo que corresponda o hubiera correspondido
+para  los  activos  a  plazos  superiores  a  90  días,  aun  cuando  no  se  hayan
+asumido tales riesgos.
+ 
+1) Exposiciones con gobiernos centrales y bancos centrales.
+a. Gobierno Nacional y Banco Central del Uruguay.  
+Tabla 1:
+Moneda
+Institución Nacional Extranjera
+Gobierno
+Nacional 0% 20%
+Banco
+Central del
+Uruguay
+0% 0%
+b. Gobiernos y bancos centrales extranjeros.  
+Tabla 2:
+Calificación de riesgo
+AAA
+hasta
+AA-
+A+
+hasta A-
+BBB+
+hasta
+BBB-
+BB+
+hasta
+B-
+Inferior
+a B-
+Sin
+calificar
+0% 20% 50% 100% 150% 100%
+2) Exposiciones con empresas del sector público.
+Las  exposiciones  frente  a  empresas  del  sector  público  (ESP)  no
+pertenecientes  al  gobierno  central,  excepto  frente  a  ESP  nacionales
+financieras  que  se  regirán  según  lo  dispuesto  en  el  numeral  4),  se
+ponderarán según se establece a continuación.
+RR-SSF-2024-312     Fecha: 10/07/2024 10:45:51
+a. ESP nacionales no financieras.  
+Tabla 3:
+Moneda
+Nacional Extranjera
+20% 50%
+b. ESP no nacionales.  
+Tabla 4:
+Calificación de riesgo
+AAA
+hasta
+AA-
+A+
+hasta
+BBB-
+BB+
+hasta B-
+Inferior
+a B-
+Sin
+calificar
+20% 50% 100% 150% 100%
+3) Exposiciones con organismos multilaterales.
+a. Bancos multilaterales de desarrollo.  
+Tabla 5:
+Calificación de riesgo
+AAA
+hasta AA-
+A+ hasta
+A-
+BBB+
+hasta
+BBB-
+BB+
+hasta B-
+Inferior a
+B-
+Sin
+calificar
+20% 30% 50% 100% 150% 100%
+Las exposiciones frente a los bancos multilaterales de desarrollo listados a
+continuación tendrán una ponderación por riesgo de 0%:
+- Grupo del Banco Mundial (Banco Internacional de Reconstrucción
+y Desarrollo, la Corporación Financiera Internacional, la Agencia
+Multilateral de Garantía de Inversión y la Asociación Internacional
+de Fomento).
+- Banco Asiático de Desarrollo.
+- Banco Africano de Desarrollo.
+- Banco Europeo de Reconstrucción y Desarrollo.
+- Banco Interamericano de Desarrollo.
+- Banco Europeo de Inversiones.
+- Fondo Europeo de Inversiones.
+- Banco Nórdico de Inversiones.
+- Banco de Desarrollo del Caribe.
+- Banco Islámico de Desarrollo.
+- Banco de Desarrollo del Consejo de Europa.
+RR-SSF-2024-312     Fecha: 10/07/2024 10:45:51
+- Facilidad Financiera Internacional para la Vacunación.
+- Banco Asiático de Inversión en Infraestructura.
+b. Otros organismos multilaterales.  
+Las  exposiciones  frente  al  Banco  de  Pagos  Internacionales,  el  Fondo
+Monetario Internacional, el Banco Central Europeo, la Unión Europea, el
+Mecanismo Europeo de Estabilidad y la Facilidad de Estabilidad Financiera
+Europea recibirán una ponderación por riesgo de 0%.
+4) Exposiciones con instituciones de intermediación financiera del país y
+bancos del exterior.
+Las exposiciones en moneda nacional con instituciones de intermediación
+financiera del país tendrán una ponderación por riesgo de crédito de 20%.
+Cuando las mismas sean en moneda extranjera o con instituciones del
+exterior se aplicarán los ponderadores que correspondan según la tabla 6.
+Tabla 6:
+Plazo
+Calificación de riesgo
+AAA
+hasta
+AA-
+A+
+hasta
+A-
+BBB+
+hasta
+BBB-
+BB+
+hasta
+B-
+Inferior
+a B-
+Sin
+calificar
+> 90
+días 20% 30% 50% 100% 150% 100%
+≤ 90
+días 20% 20% 20% 50% 150% 100%
+5) Exposiciones frente a empresas.
+Las exposiciones frente a empresas del sector no financiero privado se
+dividen en las categorías que se detallan a continuación.
+a. Financiación especializada de proyectos de inversión.  
+Se considera “financiación especializada de proyectos de inversión” a
+aquella  exposición  en  que  el  reembolso  y  respaldo  del  préstamo
+depende  significativamente  de  las  rentas  generadas  por  el  proyecto
+financiado,  más  que  de  la  capacidad  independiente  de  repago  del
+prestatario.
+Este  tipo  de  financiación  se  utiliza  habitualmente  para  instalaciones
+grandes, complejas y costosas. Puede consistir en la financiación de la
+construcción de una nueva instalación productiva o en la refinanciación
+de una instalación ya existente, con o sin mejoras.
+RR-SSF-2024-312     Fecha: 10/07/2024 10:45:51
+Cuando  se  disponga  de  calificación  de  riesgo  del  proyecto,  las
+ponderaciones por riesgo de crédito se basarán en la tabla 8. En caso
+contrario, se aplicarán ponderaciones de acuerdo a la tabla 7.
+Tabla 7:
+Tipología Ponderador
+Proyectos
+Fase
+operativa
+Alta
+calidad 80%
+Resto 100%
+Fase preoperativa 130%
+A dichos efectos, deberán considerarse las siguientes definiciones:
+- Fase operativa:   aquella fase en que existe un flujo de caja neto
+positivo  suficiente  para  cubrir  las  obligaciones  contractuales
+pendientes, así como una deuda de largo plazo decreciente.
+- Proyecto  de  alta  calidad:   aquel  proyecto  en  que  la  entidad
+ejecutora o administradora del  proyecto  posee  capacidad sólida
+para hacer frente a sus compromisos financieros, aun cuando se
+produzcan  cambios  adversos  de  las  condiciones  económicas.
+Deberán cumplirse, a su vez, las siguientes condiciones:
+(i) La  entidad  tendrá  limitada  su  capacidad  de  actuar  en
+detrimento de los acreedores (por ejemplo, no podrá emitir
+deuda  adicional  sin  el  consentimiento  de  los  acreedores
+originales).
+(ii) La  entidad  deberá  contar  con  recursos  o  mecanismos
+financieros  suficientes  para  cubrir  los  requisitos  de
+financiación contingente y el capital de trabajo necesario.
+(iii) La  rentabilidad  del  proyecto  deberá  estar  establecida
+contractualmente (asegurándola, por ejemplo, un contrato de
+compra obligatoria).
+(iv) Las rentas deberán depender principalmente de un gobierno
+central, una ESP o una empresa con una ponderación por
+riesgo de hasta 75%.
+(v) Las disposiciones contractuales deberán prever una elevada
+protección de los acreedores en caso de incumplimiento o
+cancelación del proyecto, cubriéndolos de las pérdidas que
+se deriven.
+(vi) Todos los activos y contratos necesarios para la explotación
+del proyecto deberán haberse afectado en garantía en favor
+de la institución.
+RR-SSF-2024-312     Fecha: 10/07/2024 10:45:51
+b. Exposiciones generales.  
+Las  exposiciones  frente  a  empresas  no  contempladas  en  el  literal
+anterior se ponderarán de acuerdo a la tabla 8.
+Tabla 8:
+Calificación de riesgo
+AAA
+hasta
+AA-
+A+
+hasta A-
+BBB+
+hasta
+BBB-
+BB+
+hasta
+BB-
+Inferior
+a BB-
+Sin
+calificar
+20% 50% 75% 100% 150% 100%
+En el caso de las micro, pequeñas y

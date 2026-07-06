@@ -1,0 +1,159 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: Los recursos de revocación y jerárquico interpuestos por BANCO DE
+LA NACIÓN ARGENTINA (SUCURSAL URUGUAY) contra la Resolución de la
+Superintendencia de Servicios Financieros Nº 2024 - 365 de 7 de agosto de
+2024.
+RESULTANDO: 
+I) Que  mediante  la  Resolución  referida  en  el  VISTO  se  sancionó  a  la
+institución  con  una  multa  de  UI  650.000  (seiscientas  cincuenta  mil
+unidades indexadas).
+II) Que la citada Resolución fue notificada a la institución bancaria con fecha
+8 de agosto de 2024 y recurrida el día 19 de agosto de 2024.
+III) Que la institución complementó sus fundamentos en su nota de 15 de
+octubre de 2024.
+IV) Que la recurrente expresa los siguientes agravios: 
+a) Entiende que no se le brindaron las garantías del debido proceso
+porque: i) se incorporó documentación que incluye datos personales
+y confidenciales al expediente administrativo obtenido a través de
+imágenes capturadas con dispositivos personales, lo que no asegura
+su  integridad  ni  confidencialidad;  ii)  se  omitió  labrar  acta  de  las
+reuniones mantenidas con el personal superior de la institución; iii)
+en  el  procedimiento  sancionatorio  se  advierte  una  falta  de
+congruencia  en  la  motivación  del  acto;  iv)  la  sanción  impuesta
+carece  de  proporcionalidad  y  razonabilidad  en  relación  con  la
+infracción imputada; v) la infracción incurrida carece del cariz de
+severa requerida en el expediente 2006-50-1-0930 para fundar la
+multa impuesta. 
+b) No  incurrió  en  falta  administrativa  ya  que:  i)  la  institución  se
+encontraba habilitada aceptar al cliente puesto que no se encontraba
+en ninguna de las listas internacionales que la normativa impone
+verificación, ni se encontraba procesado ni condenado por delitos
+precedentes  del  lavado  de  activos,  a  pesar  de  aparecer  en  la
+herramienta  WorldCompliance;  ii)  no  se  recabó  prueba  de  los
+controles  y  seguimientos  realizados  por  la  institución;  iii)  la
+asignación de un perfil de USD 10.000 y las indagatorias y análisis
+RR-SSF-2024-573     Fecha: 13/12/2024 09:15:48
+realizado respecto a la transferencia de USD 700.000, acreditan que
+el sistema de control del banco actuó adecuadamente descartando
+la  necesidad  de  reportar  la  operación  como  sospechosa;  iv)  se
+acreditó que se implementaron acciones adicionales para asegurar
+un control continuo y riguroso de la cuenta; v) se probó que se había
+recabado la acreditación de los ingresos del cliente; vi) previo a
+archivar  el  alerta  se  solicitó  al  cliente  la  declaración  jurada  de
+impuestos en el que surgía que contaba con dinero suficiente en el
+exterior, resultando a su criterio una información fundamental para
+descartar cualquier sospecha sobre el origen de los fondos en los
+términos propuestos por el Grupo de Acción Financiera Internacional
+(GAFI).
+c) El acto administrativo no debió ser calificado como publicable porque
+vulnera  el  principio  de  confidencialidad  inherente  a  las
+investigaciones  de  naturaleza  financiera,  sino  que  además
+compromete  la  integridad  del  proceso  investigativo  y  porque  el
+documento de “Mejores prácticas para el adecuado tratamiento de
+reportes de operaciones sospechosas” hace especial énfasis en la
+confidencialidad del contenido de un ROS.
+CONSIDERANDO: 
+I) Que la impugnación se realizó en forma y dentro del plazo de diez días
+previsto en los artículos 317 de la Constitución de la República, 4 de la
+Ley  N°  15.869  de  22  de  junio  de  1987  y  145  del  Reglamento
+Administrativo del Banco Central del Uruguay.
+II) Que la herramienta “WorldCompliance” al ser mencionada en el Manual
+de Prevención del Lavado de Activos y Financiamiento del Terrorismo
+aprobado por la institución integra el marco normativo vinculante en la
+materia.
+III) Que el Formulario al que hace referencia la institución es establecido por
+la Comunicación 2018/039, por lo que forma parte de la normativa en
+materia  de  prevención  del  lavado  de  activos  y  financiamiento  del
+terrorismo.
+IV) Que la información obtenida fue en el marco de una actuación inspectiva
+amparada en el literal H) del artículo 38 de la Ley 16.696 de 30 de marzo
+de 1995, en la redacción dada por el artículo 11 de la Ley 18.401 de 24 de
+octubre de 2008, y en el artículo 15 del Decreto – Ley 15.322 de 17 de
+setiembre  de  1982,  manteniéndose  la  reserva  requerida  para  estas
+circunstancias.
+V) Que de toda la información con la que el Banco Central del Uruguay se
+basó  para  dictar  la  Resolución  de  la  Superintendencia  de  Servicios
+RR-SSF-2024-573     Fecha: 13/12/2024 09:15:48
+Financieros N° 2024- 365 se dio vista a la institución, la que, en el marco
+del debido proceso administrativo, tuvo la oportunidad de presentar sus
+descargos.
+VI) Que la infracción que se le imputa a la institución es la de no haber
+enviado  un  reporte  de  transacción  sospechosa  en  el  momento  que
+saltaron las alertas en relación al cliente en cuestión, no la intensidad y
+eficacia del seguimiento posterior de su operativa.
+VII) Que si bien no se deben agotar todos los documentos mencionados en el
+citado artículo 299, se debe recurrir a los suficientes como para justificar
+fehacientemente  el  origen  de  los  fondos.  En  cambio,  al  momento  de
+recibir  la  transferencia  de  los  USD  700.000,  la  institución  dio  por
+suficientes  determinados  documentos  que  no  permitían  concluir  con
+certeza sobre el mencionado origen.
+VIII) Que  las  transacciones  que  se  desvían  del  perfil  habitual  del  cliente
+requieren una evaluación de la acreditación del origen legítimo de los
+fondos. Que tal acreditación se considera insuficiente en virtud de los
+ingresos anuales declarados, la finalidad informada para la apertura de
+cuenta y la justificación del origen legítimo de los fondos fundada en un
+estado de cuenta de un banco extranjero y una declaración jurada ante la
+AFIP de la República Argentina.
+IX) Que la actuación inspectiva es llevada adelante por un servicio de la
+Superintendencia de Servicios Financieros distinto al que lleva a cabo el
+proceso sancionatorio, que, además de ser independiente del primero,
+analiza otros elementos, además de contar con asesoramiento jurídico,
+con el que no se contaba al momento de la actuación inspectiva.
+X) Que la motivación del acto se encuentra correctamente justificada en el
+capítulo CONSIDERANDOS de la Resolución de la Superintendencia de
+Servicios Financieros N° 2024- 365.
+XI) Que  la  fijación  de  la  cuantía  de  la  sanción  constituye  una  potestad
+discrecional de la Administración, debiendo tener relación razonable con
+la  gravedad  de  la  infracción  atribuida,  verificándose  en  este  caso  un
+quebrantamiento normativo de entidad.
+XII) Que el monto de la multa está dentro de los límites establecidos en el
+artículo 20 del Decreto – Ley 15.322 de 17 de setiembre de 1982, en la
+redacción dada por el artículo 2 de la Ley 16.327 de 11 de noviembre de
+1992 y el artículo 6 de la Ley 17.613 de 27 de diciembre de 2002. Los
+RR-SSF-2024-573     Fecha: 13/12/2024 09:15:48
+criterios establecidos en el citado expediente 2006-50-1-00930 son una
+guía a efectos de graduar el monto de las multas de acuerdo al nivel de
+gravedad de la infracción cometida.
+XIII) Que en el caso en cuestión se configuró una “omisión seria de parte de la
+institución” en los términos del mencionado expediente 2006-50-1-00930,
+por lo que la infracción debe considerarse como severa.
+XIV) Que en la redacción de la citada Resolución de la Superintendencia de
+Servicios  Financieros  N°  2024-  365,  se  tuvo  especial  atención  de  no
+identificar los datos personales del cliente. Sin perjuicio de lo anterior, la
+referida Resolución no es una publicación de datos de un ROS, pues la
+sanción se basa precisamente en la ausencia del mismo.
+XV) Que en consecuencia, no se advierten razones de mérito ni de legitimidad
+que ameriten la revisión de la sanción aplicada, por lo que corresponde
+mantener  la  resolución  impugnada,  desestimando  el  recurso  de
+revocación y franqueando el recurso jerárquico para ante el Directorio del
+Banco Central del Uruguay. 
+ATENTO  :   A lo dispuesto en el artículo 317 de la Constitución de la República,
+los artículos 4 a 7 y 10 de la Ley Nº 15.869 de 22 de junio de 1987, los artículos
+15 y 20 del Decreto – Ley 15.322 de 17 de setiembre de 1982, en la redacción
+dada por el artículo 2 de la Ley 16.327 de 11 de noviembre de 1992  y el
+artículo 6 de la Ley 17.613 de 27 de diciembre de 2002, los literales L) y T) del
+artículo 38 de la ley 16.696 de 30 de marzo de 1995, en la redacción dada por
+la Ley 18.401 de 24 de octubre de 2008, los artículos 12, 14, 15, 16 y 19 de la
+Ley  19.574  de  20  de  diciembre  de  2017,  los  artículos  313  y  664  de  la
+Recopilación de Normas de Regulación y Control del Sistema Financiero, los
+artículos 145 y siguientes del Reglamento Administrativo del Banco Central del
+Uruguay, así como a lo informado por los servicios de la Superintendencia de
+Servicios Financieros, a los Dictámenes de  la  Asesoría  Jurídica  del Banco
+Central del Uruguay, al Memorándum Nº MM/2024/590 de 2 de diciembre de
+2024  y  demás  antecedentes  que  lucen  obrados  en  los  expedientes
+administrativos 2023-50-1-01537 y 2024-50-1-01588.
+LA  INTENDENTE DE REGULACION FINANCIERA EN EJERCICIO DE
+ATRIBUCIONES DELEGADAS Y ENCOMENDADAS COMO SUPERINTENDENTE
+DE SERVICIOS FINANCIEROS RESUELVE:
+1. No hacer lugar al recurso de revocación interpuesto por BANCO DE LA
+NACIÓN ARGENTINA (SUCURSAL URUGUAY)  contra la Resolución de
+la  Superintendencia  de  Servicios  Financieros  Nº  2024  -  365  de  7  de
+agosto de 2024.
+RR-SSF-2024-573     Fecha: 13/12/2024 09:15:48
+2. Notificar al recurrente de la presente Resolución.
+3. Franquear  para  ante el Directorio  el recurso jerárquico interpuesto  en
+subsidio.
+RR-SSF-2024-573     Fecha: 13/12/2024 09:15:48
+Exp. 2024-50-1-01588 
+ Publicable: Si - Firmante: Patricia Fabiana Tudisco Basignani

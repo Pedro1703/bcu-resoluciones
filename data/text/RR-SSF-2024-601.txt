@@ -1,0 +1,87 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La  información  sobre  el  personal  superior  presentada  por  PORTO
+SEGURO  SEGUROS  DEL  URUGUAY  S.A.  en  el  Sistema  de  Envío
+Centralizado (IDI Manager).
+RESULTANDO: 
+I) Que surge del módulo de personal superior del Sistema de Envíos
+Centralizados (IDI Manager) el ingreso del Sr. Lucio Alves con
+fecha 5 de marzo de 2024, constatándose que su ingreso al cargo
+de Director Independiente acaeció el 22 de enero de 2024.
+II) Que la empresa no había informado con anterioridad, a través de
+otro medio, la referida modificación de su personal superior.
+III) Que  con  fecha  15  de  octubre  de  2024  PORTO  SEGURO
+SEGUROS  DEL URUGUAY  S.A.  tomó  vista  de  las  presentes
+actuaciones.
+IV) Que  en  dichos  descargos  la  empresa  expresa  que  una  vez
+obtenida la no objeción por parte del Banco Central del Uruguay,
+la empresa procedió a recabar la aceptación del cargo del nuevo
+Director, lo que sucedió el 22 de enero de 2024. Al día siguiente
+se procedió a cargar el Portal IDI los datos del nuevo personal
+superior, recibiendo por parte del sistema el siguiente mensaje:
+“El cargo de ‘Director Independiente’ se modificó con éxito”. Días
+más tarde, al ingresar al sitio del regulador, la empresa advierte
+que no se encontraba pública la designación del nuevo Director,
+por  lo  que  se  procedió  inmediatamente  a  realizar  la  carga
+nuevamente. Esto evidencia, que no existió intención de ocultar
+información o de no informar, por lo que la multa impuesta viola
+los principios de razonabilidad y proporcionalidad.
+CONSIDERANDO: 
+I) Que el artículo 146 de la Recopilación de Normas de Seguros y
+Reaseguros  establece  que  las  incorporaciones,  bajas  o
+modificaciones del personal superior deberán ser informadas a la
+RR-SSF-2024-601     Fecha: 26/12/2024 16:17:48
+Superintendencia de Servicios Financieros en un plazo máximo
+de 5 días hábiles de ocurridas.
+II) Que  la  Comunicación  2018/186  de  18  de  setiembre  de  2018
+dispone que la forma de enviar la mencionada información es a
+través del IDI Manager.
+III) Que  el mensaje de éxito en la carga al que hace referencia la
+empresa,  fue  por  el  paso  que  correspondía  a  la  carga  en  la
+interfaz de la institución, que deja la información en un estado de
+borrador.  Al  no  continuar  con  los  siguientes  pasos  del
+procedimiento,  PORTO  SEGURO  SEGUROS  DEL  URUGUAY
+S.A. no terminó de enviar los datos del personal superior al Banco
+Central del Uruguay el 23 de enero de 2024.
+IV) Que  en  consecuencia,  la  empresa  no  dio  cumplimiento  a  lo
+exigido  por  el  citado  artículo  146  en  los  plazos  estipulados,
+registrando un retraso de 24 días hábiles.
+V) Que el artículo 161 de la mencionada Recopilación establece que
+el  atraso en la  entrega  de  las informaciones que no  sean  de
+presentación  periódica  se  sancionará  con  una  multa  diaria,
+dependiendo que la  presentación en tiempo  y forma de dicha
+información sea considerada relevante o no, de UI 3.900 o UI
+1.300, respectivamente, con un máximo de treinta días de multa
+diaria.
+VI) Que de acuerdo a la Comunicación 2010/048 de 4 de marzo de
+2010,  la  información  sobre  personal  superior  de  empresas  de
+seguros es considerada relevante.
+VII) Que  si  bien  la información  no  fue  recibida  en  tiempo  y
+forma por parte del regulador - por lo que la infracción se ha
+configurado -, se entiende razonable tomar como atenuante la
+prueba aportada que  evidencia la intención  de  la empresa  de
+enviar los datos del nuevo Director al día siguiente a la toma de
+posesión, lo que no se concretó por un mal manejo del sistema de
+envío de información. En consecuencia, se morigerará la multa
+proyectada en un 50%.
+ATENTO  :   A lo dispuesto en el literal L) del artículo 38 de la Ley 16.696 de 30
+de marzo de 1995, en la redacción dada por el artículo 11 de la Ley 18.401 de
+24 de octubre de 2008, los artículos 146 y 161 de la Recopilación de Normas
+de Seguros y Reaseguros, las Comunicaciones 2010/048  de 4 de marzo de
+2010 y 2018/186 de 18 de setiembre de 2018, en el artículo 94 del Reglamento
+Administrativo del Banco Central del Uruguay, a los Dictámenes 2024/294 y
+RR-SSF-2024-601     Fecha: 26/12/2024 16:17:48
+2024/442 de la Asesoría Jurídica, al Memorándum MM/2024/00606 de 20 de
+diciembre de 2024 y las resultancias del expediente administrativo N° 2024-50-
+1-00541.
+LA INTENDENTA DE REGULACIÓN FINANCIERA EN EJERCICIO DE
+ATRIBUCIONES DELEGADAS Y ENCOMENDADAS COMO
+SUPERINTENDENTE DE SERVICIOS FINANCIEROS RESUELVE:
+1. Sancionar a PORTO SEGURO SEGUROS DEL URUGUAY S.A. con una
+multa  de  UI  46.800  (cuarenta  y  seis  mil  ochocientas  unidades
+indexadas) por incumplir el artículo 146 de la Recopilación de Normas
+de Seguros y Reaseguros.
+2. Notificar al interesado.
+RR-SSF-2024-601     Fecha: 26/12/2024 16:17:48
+Exp. 2024-50-1-00541 
+ Publicable: Si - Firmante: Patricia Fabiana Tudisco Basignani

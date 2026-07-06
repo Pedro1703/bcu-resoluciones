@@ -12,7 +12,7 @@
 "resultado": "",
 "resumen": "AFAP ITAÚ S.A., REPÚBLICA AFAP S.A., INTEGRACION AFAP S.A. Y AFAP SURA S.A. – FIRMA DE COMPROMISOS DE INTEGRACIÓN EN FECHAS FUTURAS - “FIDEICOMISO FINANCIERO FORESTAL BOSQUES DE LAS SERRANÍAS II”. Autorización",
 "relevancia": "media",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CciwS8YHMnL6MErdJUsd2'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcjtEctBFTX7gdxEa8pTL'})",
 "id": "RR-SSF-2026-395",
 "year": "2026",
 "month": "Junio",

@@ -1,0 +1,434 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO:  La normativa en materia de requerimientos de capital para empresas
+de seguros dispuesta en la Recopilación de Normas de Seguros y Reaseguros.
+RESULTANDO: 
+I) Que en diciembre de 2021 fue elaborada y publicada una hoja de
+ruta con el objetivo de implementar un modelo de capital por riesgos
+en las empresas de seguros.
+II) Que, en el marco de las tareas definidas, en el año 2023 se elaboró
+una propuesta preliminar para los riesgos de contraparte y mercado
+(iniciativa M11 - Alineación a estándares internacionales de bancos y
+seguros)  con  el  apoyo  de  un  consultor  internacional,  estando
+prevista para el año 2024 la emisión de la normativa al respecto
+(iniciativa  M12  -  Continuar  con  la  alineación  a  estándares
+Internacionales – Seguros).
+III) Que  la  propuesta  preliminar  en  la  que  se  basó  la  normativa  fue
+elaborada  por  el  consultor  Rodolfo  Wehrham  y  se  basa  en  los
+lineamientos de Solvencia II, con los ajustes que requiere la realidad
+local a partir de información de las empresas aseguradoras en poder
+de  la  Superintendencia  de  Servicios  Financieros  y  otra  que  fue
+requerida especialmente.
+IV) Que, en lo referente a riesgo de mercado la propuesta detalla los
+siguientes  riesgos:  acciones,  tasa  de  interés,  tipo  de  cambio,
+reajuste, spread y bienes inmuebles.
+V) Que,  en  relación  con  el  riesgo  de  contraparte  se  establece  un
+tratamiento diferencial para exposiciones con contrapartes con y sin
+calificación crediticia.
+VI) Que la propuesta normativa antes mencionada fue puesta a consulta
+de las instituciones supervisadas y del público en general con fecha
+RR-SSF-2024-603     Fecha: 26/12/2024 17:19:57
+24  de  setiembre,  venciendo  el  plazo  para  la  recepción  de
+comentarios el 5 de noviembre del corriente.
+VII) Que  se  recibieron  comentarios  de  la  Asociación  Uruguaya  de
+Empresas  Aseguradoras  (AUDEA)  y  del  Banco  de  Seguros  del
+Estado (BSE).
+VIII) Que los principales comentarios refirieron a los siguientes aspectos:
+conveniencia  de  emisión  de  una  Circular,  duplicaciones  de
+requerimientos,  correlación  entre  riesgos,  utilización  de  un  único
+factor para distintos tipos de acciones y shocks de tasas de interés,
+calificaciones  de  riesgo y  tratamiento  de  fondos  de  inversión  y
+fideicomisos. 
+CONSIDERANDO: 
+I) Que los comentarios recibidos de la industria aportaron elementos que
+permitieron mejorar la propuesta original, corroborando el valor que tiene
+para el regulador el proceso de consulta.
+II) Que,  considerando  los  comentarios  antedichos,  se  incorporaron  las
+siguientes modificaciones:
+- Se admite que los instrumentos financieros que se consideren en el
+requerimiento por riesgo de spread sean excluidos requerimiento por
+riesgo de contraparte y que se excluyan, asimismo, de éste último
+riesgo a los valores  emitidos por el gobierno uruguayo o el Banco
+Central del Uruguay.
+- Las empresas aseguradoras podrán aplicar el enfoque “look-through”
+que implica que para efectos de los cálculos de los requerimientos
+por  riesgo  de  mercado  se  consideren  las  exposiciones  indirectas
+como si fueran exposiciones directas. 
+- Se admitirá que las calificaciones de riesgo sean emitidas tanto por
+entidades calificadoras reconocidas por la SEC como por aquellas
+inscritas  en  el  Registro  del  Mercado  de  Valores.  En  el  caso  de
+valores  emitidos  localmente  que  no  cuenten  con  calificación  en
+escala internacional, se aceptará la utilización de calificaciones en
+escala local.
+ATENTO  :   A lo dispuesto en el literal A) del artículo 38 de la Ley Nro. 16.696 del
+30 de marzo de 1995 en la redacción dada por el artículo 11 de la Ley Nro.
+18.401 del 24 de octubre de 2008 y al Memorandum MM/2024/606 de 20 de
+diciembre de 2024.
+RR-SSF-2024-603     Fecha: 26/12/2024 17:19:57
+LA INTENDENTE DE REGULACION FINANCIERA EN EJERCICIO DE
+ATRIBUCIONES DELEGADAS Y ENCOMENDADAS COMO
+SUPERINTENDENTE DE SERVICIOS FINANCIEROS RESUELVE:
+1) SUSTITUIR en el Título I Bis – Capital Mínimo, del Libro II – Estabilidad y
+Solvencia de la Recopilación de Normas de Seguros y Reaseguros los artículos
+19, 20 y 21 por los siguientes:
+ARTÍCULO 19 (CAPITAL MÍNIMO). 
+El capital mínimo de las empresas de seguros  será el equivalente al mayor
+valor que resulte de la comparación entre el requerimiento de capital básico y el
+requerimiento de capital por riesgos. 
+A aquellas empresas cuyo saldo de primas retenidas netas devengadas al
+cierre  del  ejercicio  económico  anterior,  sea  inferior  al  equivalente  a  UI
+180.000.000  (ciento ochenta  millones de unidades  indexadas), cotizadas  al
+valor de la fecha de dicho cierre, les aplicará únicamente el requerimiento de
+capital básico.
+ARTÍCULO 20 (REQUERIMIENTO DE CAPITAL BÁSICO). 
+1) Grupo I
+El capital básico será el equivalente en moneda nacional a UI 10.000.000
+(diez millones de unidades indexadas). A las empresas aseguradoras que
+operen en la rama caución, se les requerirá un capital de UI 12.000.000
+(doce millones de unidades indexadas). Este requerimiento adicional no
+comprende  a  las  empresas  que  operen  exclusivamente  en  la  subrama
+garantía de alquiler.
+Adicionalmente, a las empresas que operen en más de una rama, se les
+exigirá  un  capital  de  UI  1.700.000  (un  millón  setecientas  mil  unidades
+indexadas) por cada rama adicional hasta completar siete ramas. 
+Las empresas aseguradoras en funcionamiento que comiencen a operar en
+la rama caución, deberán completar el capital básico requerido para esa
+rama  y  aportar  el  capital  por  rama  dispuesto  en  el  inciso  anterior.  No
+corresponderá aportar el capital adicional por rama cuando se hubieran
+completado siete ramas. 
+2) Grupo II
+RR-SSF-2024-603     Fecha: 26/12/2024 17:19:57
+El capital básico será una cantidad equivalente al capital básico para una
+rama, determinado en el numeral anterior. 
+Las  empresas  aseguradoras  que  deseen  suscribir  contratos  de  seguro
+colectivo de invalidez y muerte y de rentas previsionales para el pago de las
+prestaciones del régimen de ahorro individual obligatorio (artículos 56, 57 y
+59 de la Ley N° 16.713 de 3 de setiembre de 1995 y modificativas) deberán
+acreditar un capital básico adicional que será el equivalente en moneda
+nacional  a  UI  6.400.000  (seis  millones  cuatrocientas  mil  unidades
+indexadas).
+El  requerimiento  de  capital  básico  para  poder  funcionar  en  las  actividades
+aseguradoras de los Grupos I y II conjuntamente, será la suma de sus capitales
+básicos determinados según lo establecido precedentemente.
+Los equivalentes en moneda nacional de los referidos montos en unidades
+indexadas se actualizarán al fin de cada trimestre calendario.
+ARTÍCULO 21 (REQUERIMIENTO DE CAPITAL POR RIESGOS). 
+El  capital  basado  en  riesgos  deberá  ser  suficiente  para  hacer  frente  a
+situaciones de pérdidas inesperadas en las empresas que puedan generarse
+por la materialización de los principales riesgos a los cuales están expuestas.
+Estos riesgos son:
+- Riesgo de mercado
+- Riesgo de contraparte
+- Riesgos técnicos de seguros
+- Riesgo operacional
+2) INCORPORAR en el Título I Bis – Capital Mínimo, del Libro II – Estabilidad y
+Solvencia  de  la  Recopilación  de  Normas  de  Seguros  y  Reaseguros  los
+siguientes artículos: 
+ARTÍCULO  21.1  (REQUERIMIENTO  DE  CAPITAL  POR  RIESGO  DE
+MERCADO).
+El riesgo de mercado se define como la posibilidad de que las empresas sufran
+pérdidas producto de movimientos adversos en variables de mercado tales
+como el precio de las acciones, tasas de interés, tipos de cambio, reajuste,
+spread y valor de los bienes inmuebles. 
+El requerimiento de capital por riesgo de mercado (RCRM) se determinará por
+la agregación de los siguientes requerimientos, reconociendo beneficios por
+diversificación, de acuerdo con la siguiente fórmula:
+RR-SSF-2024-603     Fecha: 26/12/2024 17:19:57
+Donde,
+-
+ = requerimiento de capital por riesgo de mercado
+-
+ =  corresponden  a  los  pares  ordenados  de
+requerimientos de capital asociados a los distintos riesgos de mercado: 
+Siendo,
+-
+ = requerimiento de capital por riesgo de acciones
+-
+ = requerimiento de capital por riesgo de tasa de interés
+-
+  = requerimiento de capital por riesgo de tipo de cambio
+-
+  = requerimiento de capital por riesgo de reajuste
+-
+  = requerimiento de capital por riesgo de spread
+-
+  = requerimiento de capital por riesgo de bienes inmuebles
+Para la aplicación de la fórmula anterior se deberá considerar la siguiente
+matriz de correlaciones:
+ Riesgo
+de tasa
+de
+interés
+Riesgo
+de
+accione
+s
+Riesgo
+de
+spread
+Riesgo
+de tipo de
+cambio 
+Riesgo
+de
+reajuste
+Riesgo
+de bienes
+inmueble
+s
+Riesgo 
+de tasa 
+de interés
+1
+Riesgo 
+de 
+acciones
+0 1
+Riesgo 
+de 
+spread
+0.25 0.25 1
+Riesgo 
+de tipo de
+cambio 
+0.25 0.25 0.25 1
+Riesgo 
+de 
+reajuste
+0.25 0.25 0.25 0.25 1
+Riesgo 
+de bienes
+inmueble
+s
+0.5 0.75 0.25 0.25 0.25 1
+RR-SSF-2024-603     Fecha: 26/12/2024 17:19:57
+Las  empresas  aseguradoras  podrán  aplicar  el  enfoque  “look-through” que
+implica que para efectos de los cálculos de los requerimientos por riesgo de
+mercado se consideren las exposiciones indirectas (tales como, cuotapartes de
+fondos  de  inversión  o  participaciones  en  fideicomisos  financieros)  como  si
+fueran exposiciones directas. Para ello, deberán remitir el detalle de dichos
+instrumentos conforme las instrucciones que se impartirán. 
+En el caso de no aplicar el citado enfoque, las inversiones estarán sujetas al
+requerimiento dispuesto en el artículo 21.3 para el riesgo de acciones.
+ARTÍCULO 21.2 (REQUERIMIENTO DE CAPITAL POR RIESGO DE TASA
+DE INTERÉS). 
+El riesgo de tasa de interés se define como la posibilidad de que la empresa
+aseguradora experimente pérdidas como consecuencia de movimientos en las
+tasas de interés.
+A efectos de la determinación del requerimiento de capital se considerarán los
+cambios en el valor neto de los flujos de activos menos pasivos denominados
+en cada moneda en dos escenarios de riesgo predefinidos, que representan un
+riesgo  de  incremento  o  caída  de  las  tasas  de  interés  libres  de  riesgo  por
+encima del nivel base.
+Los activos deberán valorizarse a valor de mercado y se agruparán en activos y
+pasivos en pesos, unidades indexadas (UI), unidades reajustables (UR), pesos
+nominales reajustables por el Índice Medio de Salarios Nominales, unidades
+previsionales (UP) y dólares americanos, los que serán asignados a bandas
+temporales conforme las instrucciones que se impartirán.
+Las tasas a aplicar se obtendrán de acuerdo con la siguiente fórmula:
+Donde,
+-
+  =  tasa  de  interés  libre  de  riesgo  ajustada  al  alza  o  baja,
+correspondiente a la moneda-i y al plazo-t.
+-
+  = tasa de interés libre de riesgo correspondiente a la moneda-i y al
+plazo-t.
+-
+  = shock aplicable sobre la tasa de interés de la curva libre de riesgo
+base correspondiente a la moneda-i y al plazo-t.
+El shock de las tasas de interés al alza y a la baja, así como las tasas libres de
+riesgos, serán comunicadas en las instrucciones que se impartirán. 
+En este sentido, el requerimiento de capital por riesgo de tasa de interés para
+cada moneda o unidad de cuenta vendrá dado, conforme la siguiente fórmula:
+Donde, 
+RR-SSF-2024-603     Fecha: 26/12/2024 17:19:57
+-
+  = requerimiento de capital por riesgo de tasa de interés
+-
+  = Cambio en el valor neto de los flujos de activos menos pasivos
+asociados a un/a aumento/caída de las tasas de interés libres de riesgo
+correspondientes a la moneda-i.
+Específicamente,
+Donde,
+-
+  = requerimiento de capital asociado a un incremento de las
+tasas de interés libres de riesgo, para la moneda i 
+-
+ = requerimiento de capital asociado a una caída de las tasas
+de interés libres de riesgo, para la moneda i 
+-
+ = valor neto de flujos de activos menos pasivos mediante la
+utilización de la curva libre de riesgo correspondiente a la moneda-i
+-
+ = valor neto del flujo de activos menos pasivos mediante la
+utilización de la curva libre de riesgo asociada al alza correspondiente a
+la moneda-i.
+-
+ = valor neto del flujo de activos menos pasivos mediante la
+utilización  de  la  curva  libre  de  riesgo  asociada  a  la  caída
+correspondiente a la moneda-i
+Finalmente se deben agregar los requerimientos de capital en pesos, unidades
+indexadas  (UI),  dólares  americanos  (USD),  y  la  agregación  de  unidades
+reajustables  (UR),  pesos  nominales  ajustados  por  IMSN  y  unidades
+previsionales (UP):
+ARTÍCULO  21.3  (REQUERIMIENTO  DE  CAPITAL  POR  RIESGO  DE
+ACCIONES). 
+El  riesgo  de  acciones  se  define  como  la  posibilidad  de  que  una  empresa
+aseguradora experimente pérdidas como consecuencia de cambios en el nivel
+o la volatilidad de los precios de mercado de los instrumentos de renta variable.
+El  requerimiento  de  capital  por  riesgo  de  acciones  se  determinará  de  la
+siguiente forma:
+Donde,
+RR-SSF-2024-603     Fecha: 26/12/2024 17:19:57
+-
+  = requerimiento de capital por riesgo de acciones
+-
+  = valor de mercado del instrumento-i
+-
+ = factor de requerimiento de capital, de acuerdo con las instrucciones 
+que se impartirán
+ARTÍCULO 21.4 (REQUERIMIENTO DE CAPITAL POR RIESGO DE TIPO DE
+CAMBIO). 
+El riesgo de tipo de cambio se define como la pérdida potencial que puede
+experimentar una empresa aseguradora como consecuencia de las variaciones
+en los tipos de cambio entre divisas.
+El requerimiento de capital por riesgo de tipo de cambio se determinará de la
+siguiente forma:
+Donde,
+-
+  = requerimiento de capital por riesgo de tipo de cambio
+-
+  = posición neta en la moneda-i. Corresponde al valor absoluto
+de la diferencia entre activos y pasivos en moneda extranjera netos de
+posiciones en derivados u otros instrumentos de cobertura de riesgo de
+monedas
+-
+ = factor de requerimiento de capital, de acuerdo con las instrucciones
+que se impartirán
+ARTÍCULO  21.5  (REQUERIMIENTO  DE  CAPITAL  POR  RIESGO  DE
+REAJUSTE). 
+El riesgo de reajuste se define como el riesgo de que se generen pérdidas por
+movimientos en el valor de las unidades de cuenta en moneda nacional.
+El  requerimiento  de  capital  por  riesgo  de  reajuste  se  determinará  de  la
+siguiente forma:
+Donde,
+-
+  = requerimiento de capital por riesgo de reajuste
+-
+  = mínimo entre 0 y la diferencia entre la suma de activos en
+unidades  reajustables  (UR),  unidades  previsionales  (UP)  y  pesos
+nominales ajustados por el Índice Medio de Salarios Nominales y la
+suma de pasivos en las referidas unidades de cuenta
+-
+ = factor de requerimiento de capital, de acuerdo con las instrucciones
+que se impartirán
+ARTÍCULO  21.6  (REQUERIMIENTO  DE  CAPITAL  POR  RIESGO  DE
+SPREAD). 
+RR-SSF-2024-603     Fecha: 26/12/2024 17:19:57
+El riesgo de spread refiere al impacto en el valor de los instrumentos de renta
+fija originado en los cambios en su calificación crediticia. 
+No se deberán incluir en el cálculo las exposiciones en instrumentos emitidos
+por el gobierno uruguayo o el Banco Central del Uruguay, con independencia
+de la moneda en que estén nominados.
+El requerimiento de capital por riesgo de spread se determinará de la siguiente
+forma:
+Donde,
+-
+  = valor de mercado del instrumento-i
+-
+  = duración modificada del instrumento-i
+-
+  = factor de de requerimiento de capital del valor-i, suponiendo una
+caída de las calificaciones crediticias actuales del nivel dispuesto en las
+instrucciones que se impartirán.
+A efectos de la determinación del requerimiento de capital, los activos de las
+aseguradoras  deberán  valuarse  a  valor  de  mercado  y  se  utilizarán  las
+probabilidades  de  incumplimiento  implícitas  en  las  calificaciones  crediticias
+dispuestas en las instrucciones antes mencionadas
+El factor de requerimiento de capital se calculará deduciendo a la probabilidad
+de incumplimiento luego de la caída en la calificación crediticia la probabilidad
+de incumplimiento que corresponda a la calificación actual.
+ARTÍCULO 21.7 (REQUERIMIENTO DE CAPITAL POR RIESGO DE BIENES
+INMUEBLES). 
+El  riesgo  de  bienes  inmuebles  se  define  como  la  posibilidad  de  que  se
+experimenten pérdidas como consecuencia de una caída en el valor de los
+inmuebles que mantiene. A los efectos del cálculo del requerimiento de capital
+por riesgo de inmuebles se deberán incluir:
+1. los inmuebles asiento de la empresa;
+2. los terrenos, edificios y los derechos sobre bienes inmuebles que no han
+sido destinados al asiento de la empresa.
+El  requerimiento  de  capital  por  riesgo  de  inmuebles  se  determinará  de  la
+siguiente forma:
+Donde, 
+-
+  = requerimiento de capital por riesgo de inmuebles
+-
+  = valor del inmueble-i
+-
+  =  factor  de requerimiento  de  capital ,  de  acuerdo  con  las
+RR-SSF-2024-603     Fecha: 26/12/2024 17:19:57
+instrucciones que se impartirán
+Los bienes inmuebles se valuarán conforme lo dispuesto en el artículo 38.
+ARTÍCULO  21.8  (REQUERIMIENTO  DE  CAPITAL  POR  RIESGO  DE
+CONTRAPARTE). 
+El riesgo de contraparte se define como la posibilidad de que las empresas
+sufran pérdidas debido a la incapacidad de las contrapartes de cumplir con los
+términos originalmente pactados. 
+Comprende las exposiciones a instrumentos financieros – excepto los que se
+consideren en el requerimiento por riesgo de spread  y  los  emitidos por el
+gobierno uruguayo o el Banco Central del Uruguay, con independencia de la
+moneda en que estén nominados -  y a cuentas a cobrar a asegurados, otras
+empresas aseguradoras, reaseguradoras e intermediarios de seguros. 
+Para la determinación de los capitales requeridos para exposiciones con y sin
+calificación de crédito se deberá considerar la siguiente fórmula: 
+Donde,
+-
+  requerimiento de capital por riesgo de contraparte
+-
+  requerimiento de capital por exposiciones con contrapartes
+con calificación crediticia
+-
+  requerimiento de capital por exposiciones con contrapartes sin
+calificación crediticia
+1) Exposiciones con contrapartes con calificación crediticia. 
+Para los instrumentos financieros y activos con contrapartes con calificación
+crediticia, el requerimiento se determinará de la siguiente forma:
+Donde,
+-
+  requerimiento  de  capital  por  riesgo  de  contraparte  en
+contrapartes con calificación crediticia
+-
+  exposición  a  la  contraparte-i  valuada  según  lo  dispuesto  en  el
+artículo 38, excepto en el caso de activos con reaseguradoras, en cuyo
+caso  la  exposición  será  la  suma  de  las  reservas  a  cargo  del
+reasegurador y el saldo en la cuenta corriente.
+-
+  factor  de  requerimiento  de  capital  dada  la  probabilidad  de
+incumplimiento implícita en la calificación crediticia actual del activo-i,
+determinado de acuerdo con las instrucciones que se impartirán. 
+RR-SSF-2024-603     Fecha: 26/12/2024 17:19:57
+2) Exposiciones con contrapartes sin calificación crediticia
+El riesgo de contraparte asociado a las cuentas a cobrar con asegurados e
+intermediarios sin calificación crediticia, se determinará de la siguiente manera:
+Donde,
+-
+  requerimiento  de  capital  por  riesgo  de  contraparte  en
+contrapartes sin calificación crediticia
+-
+  exposición a la contraparte-i
+o i=1,  corresponde  a  cuentas  a  cobrar  a  intermediarios  y  a
+asegurados con atrasos mayores a 60 días, netas de previsiones.
+o i=2,  corresponde  al  resto  de  las  exposiciones  con  atrasos
+mayores a 60 días, netas de previsiones.
+-
+  factor de requerimiento de capital de la contraparte-i, determinado
+de acuerdo con las instrucciones que se impartirán con:
+o i=1 para cuentas a cobrar a intermediarios y a asegurados con
+atrasos mayores a 60 días, netas de previsiones.
+o i= 2 para el resto de las exposiciones con atrasos mayores a 60
+días, netas de previsiones
+Para  la  determinación  del  riesgo  de  contraparte  asociado  a  empresas
+aseguradoras locales, se utilizarán los factores que dependen del margen de
+solvencia de la empresa aseguradora contraparte al cierre del año anterior, de
+acuerdo con las instrucciones que se impartirán.
+Para la determinación del riesgo de las restantes co

@@ -1,0 +1,129 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La  adenda  presentada  por  HSBC  URUGUAY  S.A.  al  contrato  de
+servicios  tercerizados  que  fuera  autorizado  por  la  Resolución  de  la
+Superintendencia de Servicios Financieros 2022 – 872 de 27.12.2022.
+RESULTANDO: 
+I) Que  por  la  Resolución  referida  en  el  VISTO,  se  autorizó  a  HSBC
+(URUGUAY)  S.A.  a  tercerizar  servicios  relativos  a  conciliaciones  de
+corresponsales del Banco en la compañía Electronic Data Process S.A.,
+sujeto  a  la  incorporación  de  una  remisión  expresa  al  artículo  25  del
+Decreto – Ley 15.322 de 17.09.1982 (secreto profesional) en la cláusula
+de confidencialidad.
+II) Que HSBC (URUGUAY) S.A. presentó a la Superintendencia de Servicios
+Financieros una adenda firmada el 1.08.2023.
+III) Que  luego  del  análisis  realizado, se  identificó  que  la  adenda  firmada
+contenía las siguientes modificaciones sustantivas al texto del contrato
+presentado a los efectos de la autorización referida en el VISTO:
+a) La adenda fue firmada con un proveedor diferente al que se había
+autorizado. 
+b) La  descripción  del  objeto  o  detalle  del  servicio  era  distinta  a  la
+presentada  originalmente,  así  como  el  enunciado  de  las  distintas
+cláusulas de la adenda, que también fue modificado.
+c) En el documento no se incluyó la referencia exigida al artículo sobre
+secreto profesional, ni se brindaron explicaciones al respecto. 
+d) En  la  adenda  se  incorporó  un  servicio  adicional  (contratación  de
+Microsoft  365),  para  el  cual  no  estaban  dadas  las  condiciones  de
+autorización tácita.
+IV) Que  el  25.09.2023  se  envió  una  nota  solicitando  a  la  institución
+explicación de tales modificaciones. 
+V) Que mediante notas de 13.10.2023 y 14.11.2023 la institución envió las
+siguientes respuestas: 
+a) Respecto al cambio en el proveedor, el banco explicó que los servicios
+de conciliaciones pasarían a ser prestados en el marco del contrato
+RR-SSF-2024-425     Fecha: 04/09/2024 17:13:23
+Intra Group Service Agreement N° SA0000163 (“IGSA”) celebrado con
+HSBC Global Services (UK) Limited. 
+b) En cuanto a la descripción del servicio, la entidad expresó que quien
+redactó el detalle del servicio en la nota presentada inicialmente, fue el
+equipo del banco local, sin embargo, al momento de la firma de la
+adenda, desde el Grupo HSBC se instruyó al banco local a adoptar la
+descripción global que se usa para cada servicio que es prestado a
+cualquier miembro del Grupo HSBC, conforme a un catálogo interno. 
+c) En relación a la mención expresa del artículo sobre secreto profesional,
+la institución indicó que, conforme a políticas del Grupo HSBC, en los
+formatos  prestablecidos  de  adenda,  no  se  permite  incluir  cláusulas
+adicionales, y que, precisamente, en los Términos y Condiciones de las
+Normas o Estándares de Servicios Intragrupo se incluyen en general
+los  requerimientos  de  cláusulas  mínimas  que  deben  contener  los
+contratos de tercerización según la normativa de cada jurisdicción; los
+que forman parte del contrato marco. En su nota de 14.11.2023 la
+institución  presenta  la  versión  de  los  Estándares  de  Servicio  Intra
+Grupo (versión 9C, en inglés, correspondiente a noviembre de 2022) en
+la que se pudo corroborar la referencia expresa al citado artículo 25 del
+Decreto – Ley 15.322. 
+d) Por último, respecto a la inclusión del servicio de Microsoft 365, la
+institución comunicó que “no se está recibiendo actualmente, ni se va a
+recibir hasta tanto no se implemente y se valide el punto de acceso
+requerido por la normativa bancocentralista”. 
+VI) Que  con  fecha  28.11.2023  se  adoptó  la  Resolución  de  la
+Superintendencia de Servicios Financieros 2023 – 608, en la que se dejó
+sin efecto la mencionada Resolución 2022 – 872 y se autorizó a HSBC
+(URUGUAY)  S.A.  a  tercerizar  servicios  relativos  a  conciliaciones  de
+corresponsales en la compañía HSBC Global Services (UK) Limited.
+VII) Que con fecha 17 de junio de 2024 se dio vista a la institución de las
+actuaciones y el día 1  de  julio de  2024 se presentó  un escrito  con
+descargos.
+VIII) Que en dichos descargos la institución expresa que:
+a) No se configuran en el caso las condiciones exigidas por la norma para
+atribuir  una  conducta  infraccional,  pues  no  existieron  cambios  al
+alcance o a las condiciones de la solicitud original, sólo que la entidad
+que en principio sería la empresa tercerizada, dejó de serlo, pasando a
+prestar los servicios en forma indirecta.
+b) Se  vulneran  los  principios  de  razonabilidad  y  proporcionalidad  que
+deben guiar la actuación de la Administración.
+CONSIDERANDO: 
+I) Que el numeral 1) del artículo 35.1.1 de la Recopilación de Normas de
+Regulación y Control del Sistema Financiero establece que “Todo cambio
+RR-SSF-2024-425     Fecha: 04/09/2024 17:13:23
+posterior al alcance o a las condiciones sobre cuya base se otorgó la
+autorización  original,  deberá  ser  objeto  de  una  nueva  solicitud.  La
+autorización  concedida  podrá  ser  revocada  en  caso  de  observarse
+desviaciones de lo indicado, sin perjuicio de otras sanciones que pudieren
+aplicarse  a  la  institución  por  el  incumplimiento  de  las  instrucciones
+impartidas por la Superintendencia de Servicios Financieros.”.
+II) Que las modificaciones descritas en el contrato firmado originalmente,
+como la sustitución del proveedor o la inclusión de un servicio, por más
+que no estuviera operativo, evidencian que debió solicitarse una nueva
+autorización  por  parte  de  HSBC  (URUGUAY)  S.A.  a  efectos  de  dar
+cumplimento con el referido artículo 35.1.1.
+III) Que el cambio del proveedor del servicio tercerizado es una condición
+sustancial  de  un  contrato  de  tercerización  a  evaluar  por  parte  de  la
+Superintendencia de Servicios Financieros, por lo que su modificación sin
+previa autorización del supervisor configura un incumplimiento del citado
+artículo 35.1.1.
+IV) Que  el  artículo  684.1  de  la  citada  Recopilación  establece  que  las
+instituciones  que  incumplan  con  las  normas  sobre  tercerización  de
+servicios serán sancionadas con una multa no inferior al 1/10.000 (uno
+por diez mil) ni superior al 2/1.000 (dos por mil) de la responsabilidad
+patrimonial básica para bancos.
+V) Que  en  virtud  de  lo  dispuesto  en  el  mencionado  artículo  684.1,  el
+incumplimiento a las normas sobre tercerización de servicios se sanciona
+con una multa mínima de UI 13.000, por lo que la sanción impuesta,
+siendo la mínima establecida para este tipo de infracción, se encuentra
+ajustada a Derecho, además de ajustarse razonablemente a la infracción
+cometida.
+VI) Que HSBC (URUGUAY) S.A. no registra antecedentes respecto a este
+tipo de infracciones.
+ATENTO  :   A lo dispuesto en el artículo 20 del Decreto – Ley 15.322 de 17 de
+setiembre de 1982, en la redacción dada por el artículo 6 de la Ley 17.613 de
+27 de diciembre de 2002, el literal L) del artículo 38 de la ley 16.696 de 30 de
+marzo de 1995, en la redacción dada por la Ley 18.401 de 24 de octubre de
+2008, el artículo 2 de la Ley  N°  17.613 de 27  de  diciembre de 2022, los
+artículos 35.1, 35.1.1, 664 y 684.1 de la Recopilación de Normas de Regulación
+y Control del Sistema  Financiero, el artículo 94 del Reglamento Administrativo
+del Banco Central del Uruguay, a los Dictámenes 2024/176 y 2024/275 de la
+Asesoría Jurídica, en el Memorándum N° MM/2024/377 de 27 de agosto de
+2024  y a las resultancias del expedientes administrativo N° 2023-50-1-02636.
+LA INTENDENTE DE REGULACION FINANCIERA EN EJERCICIO DE
+RR-SSF-2024-425     Fecha: 04/09/2024 17:13:23
+ATRIBUCIONES DELEGADAS Y ENCOMENDADAS COMO
+SUPERINTENDENTE DE SERVICIOS FINANCIEROS RESUELVE:
+:
+1. Sancionar a HSBC (URUGUAY) S.A. con una multa de UI 13.000 (trece
+mil unidades indexadas) por incumplir las normas sobre tercerización de
+servicios.
+2. Notificar al interesado.
+RR-SSF-2024-425     Fecha: 04/09/2024 17:13:23
+Exp. 2023-50-1-02636 
+ Publicable: Si - Firmante: Patricia Fabiana Tudisco Basignani

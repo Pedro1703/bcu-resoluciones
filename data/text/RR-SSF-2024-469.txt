@@ -1,0 +1,360 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La reglamentación en materia de ramas de seguros y capital básico
+para seguros patrimoniales, dispuesta en los artículos 1 y 2, y en literal A. del
+artículo 19 de la Recopilación de Normas de Seguros y Reaseguros (RNSR),
+respectivamente.
+RESULTANDO: 
+I) Que en el marco de la hoja de ruta para implementar requerimientos de
+capital por riesgos a las empresas aseguradoras, se previó la realización de
+una revisión de las ramas de seguros y su impacto en el capital básico.
+II) Que el proyecto normativo puesto a consulta pública propuso la creación de
+las ramas  accidentes de trabajo y enfermedades profesionales  y seguros
+rurales  así  como  la  incorporación  de  las  subramas  seguros  agrícolas,
+seguros pecuarios y seguros forestales, previendo además la asimilación de
+la cobertura garantía de alquiler dentro de la rama otros.
+III) Que en lo que refiere al capital básico, el proyecto normativo dispuso un
+mayor requerimiento de capital para la rama caución.
+IV) Que la propuesta normativa antes mencionada fue puesta a consideración
+de las instituciones supervisadas y del público general el 4 de julio de 2024,
+recibiéndose  comentarios  de  la  Asociación  Uruguaya  de  Empresas
+Aseguradoras (AUDEA) y del Banco de Seguros del Estado (BSE).
+V) Que los comentarios refirieron a los siguientes aspectos: el posible impacto
+tributario de incluir la cobertura garantía de alquiler en la rama otros y la
+necesidad de que dicha cobertura constituya una subrama en sí misma para
+una adecuada divulgación del resultado técnico del producto. 
+CONSIDERANDO: 
+I) Que  dado  que  las  subramas  accidentes  de  trabajo  y  enfermedades
+profesionales y  seguros  rurales,  incluidas  en  la  rama  otros,  han  visto
+incrementada su participación relativa en el mercado de seguros local en los
+últimos años, se entiende conveniente su tratamiento como ramas.
+II) Que del análisis de la normativa comparada no se advirtió la necesidad de
+modificar  el  diseño  vigente  del  capital  básico,  pero  resulta  conveniente
+establecer un número máximo de ramas por las cuales requerir capital y un
+requerimiento  diferencial  para  ramas  más  riesgosas,  como  es  la  rama
+caución.
+III) Que,  sin  embargo,  no  se  advierte  la  necesidad  de  establecer  un
+requerimiento diferencial en el caso de empresas que dentro de la rama
+caución operen exclusivamente el producto garantía de alquiler, en atención
+al menor riesgo relativo involucrado.
+RR-SSF-2024-469     Fecha: 11/10/2024 18:25:41
+IV) Que  los  comentarios  recibidos  de  la  industria  aportaron  elementos  que
+permitieron mejorar la propuesta original, corroborando el valor que tiene
+para el regulador el proceso de consulta.
+V) Que en atención a los comentarios realizados y dado que la propuesta
+normativa no pretende generar un impacto a nivel impositivo, se mantendrá
+la cobertura garantía de alquiler formando parte de la rama caución, bajo la
+forma de una nueva subrama. 
+ATENTO: A lo dispuesto en el literal A) del artículo 38 de  la Ley Nro. 16.696 de
+30 de marzo de 1995 en la redacción dada por el artículo 11 de la Ley Nro.
+18.401 de 24 de octubre de 2008, en el artículo 7 literal D de la Ley 16.426 y a
+los informes emitidos por esta Superintendencia de Servicios Financieros.
+SE RESUELVE:
+1) SUSTITUIR  en el Capítulo I – Grupos y ramas de seguros, del Título I –
+Empresas de seguros y reaseguros, del Libro I – Autorizaciones y registros,
+de la Recopilación de Normas de Seguros y Reaseguros, los artículos 1 y 2
+por los siguientes:
+ARTÍCULO 1 (GRUPOS Y RAMAS DE SEGUROS). 
+La actividad aseguradora que desarrollen las instituciones públicas o privadas,
+comprendidas en las disposiciones de la Ley No. 16.426 de 14 de octubre de
+1993 se dividirá en dos grupos:
+I. Seguros de Daños Patrimoniales: Se aseguran los riesgos de pérdida o daño
+en los bienes o el patrimonio. Se distinguirán las siguientes ramas:
+- Incendio:  Corresponde  a  todas  aquellas  coberturas  de  seguros  que
+garantizan  una  indemnización  en  caso  de  daños  en  los  bienes
+asegurados derivados de un incendio, con excepción de los daños de
+esta especie que se encuentren cubiertos por contratos clasificados en
+las demás ramas de seguros.
+- Vehículos  automotores  y  remolcados:  Corresponde  a  aquellas
+coberturas  de  seguros  que  indemnizan  por  daños  causados  a  los
+vehículos automotores y remolcados asegurados y sus ocupantes, así
+como por los daños producidos a terceras personas con motivo de su
+uso.  Se  excluye  la  responsabilidad  civil  emergente  del  transporte
+terrestre  colectivo  de  personas,  en  lo  que  refiere  a  los  pasajeros
+transportados  o  terceros,  la  que  deberá  imputarse  a  la  rama
+Responsabilidad civil.  
+- Hurto y riesgos similares: Corresponde a todas aquellas coberturas de
+seguros que indemnizan por el daño o pérdida de los bienes asegurados
+derivado de su sustracción ilegítima, incluyendo los causados a otros
+objetos en oportunidad de la comisión del ilícito. Se exceptúan los daños
+de esta especie que se encuentren cubiertos por contratos clasificados
+en las demás ramas de seguros.
+RR-SSF-2024-469     Fecha: 11/10/2024 18:25:41
+- Responsabilidad  civil:  Incluye  aquellas  coberturas  de  seguros  que
+garantizan  la  responsabilidad  por  daños  y  perjuicios  causados  a
+terceros, con excepción de los daños de esta especie que se encuentren
+cubiertos por contratos clasificados en las demás ramas de seguros. 
+- Caución:  Corresponde  incluir  aquellas  coberturas  de  seguros  que
+garantizan al asegurado una indemnización por daños patrimoniales que
+un  tercero  pueda  causarle  en  ocasión  del  incumplimiento  de  las
+obligaciones contraídas.
+- Transporte: Corresponde a las coberturas de seguros que garantizan
+una  indemnización  en  caso  de  daño  o  pérdida  en  la  mercadería
+transportada por cualquier medio, inclusive la responsabilidad civil del
+transportista por daños en la carga transportada. Asimismo, incluye la
+indemnización  en  caso  de  daño  en  el  casco  marítimo  o  aéreo
+asegurado,  incluyendo  la  cobertura  de  responsabilidad  civil  por  los
+daños producidos a terceros por su utilización, así como la cobertura de
+accidentes personales de su tripulación y sus ocupantes.
+- Accidentes de trabajo y enfermedades profesionales: Corresponde
+a las coberturas  de seguros previstas en la Ley N° 16.074 de 10 de
+octubre de 1989.
+- Rurales:  Corresponde  a  aquellas  coberturas  de  seguros  que
+garantizan  una  indemnización  ante  pérdidas  o  daños  en  la
+producción agrícola, pecuaria y forestal, incluyendo los producidos
+en el predio e instalaciones en las que se desarrolla la actividad. 
+- Otros: Corresponde incluir cualquier otra cobertura de seguros de daños
+patrimoniales, no señalada anteriormente. 
+II. Seguros para las Personas: Se aseguran los riesgos que pueden afectar la
+existencia, integridad corporal o salud del asegurado, con excepción de los
+riesgos  de  esta  especie  que  se  encuentren  cubiertos  por  contratos
+clasificados en las demás ramas de seguros.
+     Se distinguirán:
+- Seguros previsionales: Comprende los contratos de seguro colectivo
+de invalidez y muerte y de rentas previsionales (artículos 56, 57 y 59
+de la Ley N° 16.713 de 3 de setiembre de 1995 y modificativas). 
+- Seguros  no  previsionales:  Corresponde  incluir  las  restantes
+coberturas de seguros para las personas. 
+ARTÍCULO 2 (APERTURA DE LAS RAMAS Y ASIMILACIONES).
+1) Apertura de las ramas
+Las siguientes ramas se dividirán como se detalla a continuación:
+a) Caución  
+RR-SSF-2024-469     Fecha: 11/10/2024 18:25:41
+- Seguros de crédito: Corresponde a aquellas coberturas de seguros que
+garantizan una indemnización ante el incumplimiento de la obligación de
+pago de un crédito otorgado.
+- Seguros de cauciones: Corresponde incluir las coberturas de la rama
+Caución distintas de los seguros de crédito.
+- Garantía  de  alquiler:  Corresponde  a  aquellas  coberturas  que
+garantizan a los propietarios de inmuebles ante las obligaciones
+contraídas por los inquilinos. 
+b) Rurales
+- Seguros agrícolas: Corresponde a aquellas coberturas de seguros
+que  garantizan una  indemnización  ante pérdidas  en los  cultivos
+asegurados. Se podrá incluir otras coberturas vinculadas a riesgos
+relacionados directamente con la producción o comercialización de
+productos agrícolas.
+- Seguros pecuarios: Corresponde a aquellas coberturas de seguros
+que garantizan una indemnización ante pérdidas que se produzcan
+en explotaciones ganaderas y otros emprendimientos relacionados
+con la cría de animales.
+- Seguros forestales: Corresponde a aquellas coberturas de seguros
+que  garantizan  una  indemnización  ante  pérdidas  en  las
+plantaciones forestales aseguradas.
+c) Otros
+- Seguros de ingeniería: Corresponde a aquellas coberturas de seguros
+que garantizan una indemnización por los riesgos derivados de trabajos
+de  construcción  e  ingeniería  civil.  Asimismo,  corresponde  incluir  las
+coberturas por pérdida o daño en maquinaria de cualquier índole.
+- Seguros de todo riesgo operativo: Corresponde a aquellas coberturas de
+seguros que respaldan en forma integral los riesgos asociados a las
+operaciones comerciales o industriales.
+- Otros riesgos: Corresponde incluir cualquier otra cobertura de seguros
+de la rama Otros no incluida en las anteriores.
+ 
+d) Seguros previsionales 
+- Seguro colectivo de invalidez y muerte: Corresponde incluir los contratos
+del seguro colectivo de invalidez y muerte previsto por los artículos 57 y
+59 de la Ley N° 16.713 de 3 de setiembre de 1995 y modificativas.
+Comprende el subsidio transitorio por incapacidad parcial y la cobertura
+por insuficiencia de saldo de la cuenta de ahorro previsional.
+- Seguro de rentas  previsionales: Corresponde incluir los contratos  de
+seguros a través de los cuales la empresa aseguradora se compromete
+al pago de una renta mensual al asegurado con causal jubilatoria común
+RR-SSF-2024-469     Fecha: 11/10/2024 18:25:41
+o por edad avanzada (de acuerdo a lo establecido por los artículos 51 y
+55 de la Ley N° 16.713), al asegurado al cual se le ha acreditado la
+existencia de incapacidad total y absoluta para todo trabajo (conforme lo
+establecido en los artículos 19 y 59 de dicha Ley) o a los beneficiarios
+indicados en los artículos 55, 60 y 61 de la Ley N° 20.130, ya sea por el
+fallecimiento del jubilado, del afiliado en actividad o del afiliado en goce
+del subsidio transitorio por incapacidad parcial.
+e) Seguros no previsionales 
+Seguros no previsionales que generan reservas matemáticas:
+- Vida: Corresponde a aquellas coberturas de seguros que garantizan al
+asegurado o sus beneficiarios una indemnización en caso de muerte,
+supervivencia  o  ambos  conjuntamente.  Incluye  las  coberturas  que
+combinan protección y ahorro. Se deberán incluir las coberturas de vida
+que generan reservas matemáticas. 
+Comprende  tanto  los  seguros  contratados  en  forma  individual  como
+colectivamente.
+Seguros no previsionales que no generan reservas matemáticas:
+- Vida:  Incluye  las  coberturas  de  vida  que  no  generan  reservas
+matemáticas y comprende los seguros contratados en forma individual y
+colectivamente.
+- Accidentes personales: Corresponde incluir todas aquellas coberturas de
+seguros que cubren los daños corporales que pueda sufrir el asegurado
+a causa de un accidente, incluida la muerte, cuando ello esté estipulado
+en las condiciones generales de la póliza. Se entiende por accidente
+todo suceso imprevisto, involuntario, repentino y fortuito. Se excluye la
+cobertura prevista en la Ley N° 16.074 de 10 de octubre de 1989, la que
+deberá imputarse a Seguros de accidentes de trabajo y enfermedades
+profesionales. 
+- Salud: Corresponde incluir todas aquellas coberturas de seguros que
+comprenden  las  prestaciones  brindadas  con  el  fin  de  prevenir
+enfermedades o restaurar la salud o integridad física de los individuos,
+sea  que  se  otorguen  a  través  de  un  centro  asistencial  o  mediante
+reembolso de los gastos incurridos.
+- Varios:  Corresponde  incluir  cualquier  otra  cobertura  de  seguros  no
+previsionales no incluida en las anteriores.
+En  el  caso  de  contratos  de  seguros  que  integren  coberturas  de  distinta
+naturaleza se deberá asignar cada una en función de su participación en el
+total de la prima, considerando las aperturas que se detallan en los artículos 1 y
+2, salvo que dichas disposiciones ya prevean la inclusión de una parte o todas
+las  coberturas  en  cuestión,  en  cuyo  caso  se  deberá  seguir  el  criterio  allí
+establecido. 
+Se deberá proceder de igual forma con las coberturas adicionales previstas en
+el contrato de seguros.
+RR-SSF-2024-469     Fecha: 11/10/2024 18:25:41
+2) Asimilaciones
+Las coberturas que se indican a continuación se asimilarán de la siguiente
+forma:
+a) Incendio 
+Daños materiales sobre inmuebles causados por:
+- Huracanes,  tornados,  tempestades,  granizo  y  otros  fenómenos  de  la
+naturaleza.
+- Precipitación de aviones
+- Embestida de vehículos
+- Tumultos, alborotos populares, huelgas
+- Daños materiales maliciosos
+- Explosión
+- Desperfectos eléctricos o electrónicos
+- Inundaciones
+- Humo
+- Terremoto
+- Rotura de cañerías o desbordamientos 
+Otros daños derivados del incendio o sus asimilados:
+- Pérdida de beneficios
+- Gastos por alquileres y/o arrendamientos
+- Cese de frío
+- Remoción de escombros
+- Desmantelamiento de maquinaria o limpieza de mercadería
+- Accidentes personales del asegurado
+- Responsabilidad civil
+- Seguro obligatorio de propiedad horizontal
+b) Vehículos automotores y remolcados 
+- Hurto
+- Incendio
+- Cristales
+c) Hurto y riesgos similares 
+    
+- Protección de compra
+- Combinado hogar
+- Combinado comercio
+d) Transporte 
+- Hurto del casco marítimo y aéreo
+- Incendio del casco marítimo y aéreo
+e) Otros / Seguros de ingeniería
+RR-SSF-2024-469     Fecha: 11/10/2024 18:25:41
+- Todo riesgo construcción y montaje
+f) Otros / Otros riesgos
+ 
+- Coberturas de mascotas
+- Cristales,  salvo  los  correspondientes  a  vehículos  automotores  y
+remolcados
+- Bienes o equipos de uso personal o profesional (por ejemplo, obras de arte,
+drones, notebooks, teléfonos celulares)
+- Desempleo 
+- Extensión de garantía de equipos eléctricos, electrónicos o mecánicos
+- Fidelidad
+g) Seguros no previsionales / Varios 
+- Asistencia en viaje
+- Invalidez
+2) SUSTITUIR en el Título I BIS – Capital mínimo, del Libro II – Estabilidad y
+solvencia, de  la  Recopilación  de  Normas  de  Seguros  y  Reaseguros, el
+artículo 19 por el siguiente:
+ARTÍCULO 19 (CAPITAL MÍNIMO - GRUPO I).
+El capital mínimo, para poder funcionar en la actividad aseguradora del Grupo
+I, se fija en el mayor de los dos parámetros que se determinan a continuación:
+A. Capital básico
+El capital básico será el equivalente en moneda nacional a UI 10.000.000 (diez
+millones de unidades indexadas). A las empresas aseguradoras que operen
+en la rama caución, se les requerirá un capital de UI 12.000.000 (doce
+millones  de  unidades  indexadas).  Este  requerimiento  adicional  no
+comprende a las empresas que operen exclusivamente en la subrama
+garantía de alquiler.
+Adicionalmente, a las empresas que operen en más de una rama, se les exigirá
+un capital de UI 1.700.000 (un millón setecientas mil unidades indexadas) por
+cada rama adicional hasta completar siete ramas. 
+Las empresas aseguradoras en funcionamiento que comiencen a operar
+en la rama caución, deberán completar el capital básico requerido para
+esa rama y aportar el capital por rama dispuesto en el inciso anterior. 
+No  corresponderá  aportar  el  capital  adicional  por  rama  cuando  se
+hubieran completado siete ramas. 
+Los equivalentes en moneda nacional de los referidos montos en unidades
+indexadas se actualizarán al fin de cada trimestre calendario.
+B. Margen de solvencia 
+El margen de solvencia, será el mayor de los siguientes montos:
+RR-SSF-2024-469     Fecha: 11/10/2024 18:25:41
+i. Monto en función de las primas
+a. Se tomarán las primas por seguros directos, reaseguros y retrocesiones
+activos, emitidas en los 12 (doce) meses anteriores al cierre del período
+considerado  (netas  de  anulaciones).  El  importe  de  cada  mes  se
+actualizará al cierre del período en función de la variación del Índice de
+Precios al Consumo elaborado por el Instituto Nacional de Estadística.
+b. Al monto determinado en a. del presente literal, hasta el equivalente a 10
+(diez)  veces  el  capital  básico  para  una  rama,  se  aplicará  el  18%
+(dieciocho por ciento) y al exceso, si lo hubiere, el 16% (dieciséis por
+ciento), sumándose ambos resultados.
+c. El monto obtenido en b. se multiplicará por el porcentaje resultante de
+comparar  los  siniestros  y  gastos  de  liquidación  pagados  netos  de
+recuperos y/o salvatajes y reaseguros pasivos, de los 36 (treinta y seis)
+meses  anteriores  al  cierre  del  respectivo  período,  con  los  mismos
+conceptos excepto la deducción por reaseguros pasivos. A estos efectos
+se  considerarán  los  siniestros  y  gastos  de  liquidación  por  seguros
+directos, reaseguros y retrocesiones activos. El importe de cada mes se
+actualizará al cierre del período, de acuerdo con la evolución del Índice de
+Precios al Consumo elaborado por el Instituto Nacional de Estadística.
+Este porcentaje no podrá ser inferior al 50% (cincuenta por ciento).
+ii. Monto en función de los siniestros
+a. Se sumarán los siniestros pagados (sin deducir los reaseguros pasivos)
+por seguros directos, reaseguros y retrocesiones activos, durante los 36
+(treinta y seis) meses anteriores al cierre del período correspondiente. El
+importe  de  cada  mes  deberá  actualizarse  al  cierre  del  período,  en
+función de la variación del Índice de Precios al Consumo elaborado por
+el Instituto Nacional de Estadística.
+Al  importe  obtenido  se  le  adicionará  el  monto  de  los  siniestros
+pendientes  de  liquidación  por  seguros  directos,  reaseguros  y
+retrocesiones activos (sin deducir los reaseguros pasivos) constituido al
+final del período de 36 (treinta y seis) meses considerado y se le restará
+el  monto  de  dicho  concepto  constituido  al  comienzo  del  período  en
+cuestión actualizado al cierre del período en función de la variación del
+Índice de Precios al Consumo elaborado por el Instituto Nacional de
+Estadística.
+La cifra resultante se dividirá entre 3 (tres).
+b. Al monto determinado en a. del presente numeral, hasta el equivalente a
+7 (siete) veces el Capital Básico para una rama se aplicará un porcentaje
+de 26% (veintiséis por ciento) y al exceso, si lo hubiere, 23% (veintitrés
+por ciento), sumándose ambos resultados.
+c. El monto obtenido se multiplicará por el porcentaje indicado en el punto
+B. i. c. precedente.
+  
+3) SUSTITUIR en el Capítulo I – Contabilidad y estados contables, del Título II
+– Régimen informativo, del Libro VI – Información y documentación, de la
+RR-SSF-2024-469     Fecha: 11/10/2024 18:25:41
+Recopilación de Normas de Seguros y Reaseguros, el artículo 124 por el
+siguiente:
+ARTÍCULO 124 (APERTURA DE CÓDIGOS)
+Las  empresas aseguradoras podrán  efectuar  aperturas  de  los  códigos  que
+figuran en el Plan de Cuentas para reflejar actividad por rama, producto, o
+cualquier otra clasificación.
+A esos efectos, se deberá adicionar un nuevo dígito al código ya establecido
+comenzando por el 1, salvo para la apertura por ramas cuyos códigos deberán
+seguir el siguiente orden:
+1. Incendio
+2. Vehículos automotores y remolcados
+3. Hurto y riesgos similares
+4. Responsabilidad Civil
+5. Caución
+6. Transporte
+7. Otros 
+8. Accidentes de trabajo y enfermedades profesionales
+9. Rurales
+Dichas  aperturas  deberán  comunicarse  a  la  Superintendencia  de  Servicios
+Financieros.
+VIGENCIA:  Las  modificaciones  dispuestas  precedentemente  regirán  a
+partir del 1 de enero de 2026.
+4) COMUNICAR lo dispuesto precedentemente mediante Circular.
+RR-SSF-2024-469     Fecha: 11/10/2024 18:25:41
+Exp. 2024-50-1-01631 
+ Publicable: Si - Firmante: Ju

@@ -1,0 +1,99 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La solicitud de autorización de tercerización de servicios presentada
+por Banco Santander S.A. en notas de 14 de agosto y 14 de noviembre de
+2023 y complementarias de 5 y 21 de febrero, 27 de mayo y 4 y 21 de junio de
+2024.
+RESULTANDO:
+I) Que  en  las  notas  referidas  en  el  Visto  Banco  Santander  S.A.  solicita
+autorización  para  la  prestación  de  los  siguientes  servicios  por  parte  de
+terceros:
+a) Creación,  funcionamiento  y  mantenimiento  de  un  lago  de  datos  por
+Snowflake Computing Netherlands B.V. (Países Bajos).
+b) Monitoreo de transacciones que comprende:
+i) servicios de instalación, soporte y mantenimiento de las herramientas
+corporativas  prestadas  por  Santander  Global  Technology  &
+Operations S.L. (España),
+ii) centro de operaciones para análisis inicial de alertas prestado por
+Santander Global Technology & Operations S.L. (México), sucursal
+de Santander Global Techonology & Operations S.L. (España), y
+iii) centro de excelencia para mejora continua, calibración y optimización
+de  los  modelos  y  herramientas  prestado  por  Santander  Global
+Techonology & Operations S.L. (España).
+c) Almacenamiento  y  procesamiento  provistos  por  Microsoft  Ireland
+Operations  Limited  (Irlanda)  para  el  uso  de  los  aplicativos
+proporcionados a efectos de este servicio por la compañía.
+II) Que la solicitud de autorización de las tercerizaciones referidas se enmarca
+en un proceso de estandarización de los procedimientos relacionados con la
+prevención  del  lavado  de  activos  y  crímenes  financieros, que  el  Grupo
+Santander está llevando a cabo en sus distintas filiales en el mundo.
+III) Que Banco Santander S.A. solicita se le permita tercerizar el monitoreo de
+cuentas  y  transacciones  a  efectos  de  detectar  patrones  inusuales  o
+sospechosos en el comportamiento de los clientes a que refiere el artículo
+304 de la Recopilación de Normas de Regulación y Control del Sistema
+Financiero, en función de que, entre otros, el análisis de las alertas se
+realizará en base a parámetros preestablecidos y fijados por el Banco en
+función  de  la  normativa  así  como  de  políticas  corporativas;  la
+responsabilidad  del  proceso  de  control  y  monitoreo  de  operaciones
+permanece en el Banco; el monitoreo se realizará con apoyo de un nuevo
+software que será utilizado directamente por el Banco con usuarios que le
+RR-SSF-2024-423     Fecha: 03/09/2024 13:34:18
+disponibilizará Santander Global Technology & Operations S.L. (España), el
+Banco será el responsable de realizar las investigaciones derivadas del
+monitoreo, etc.
+CONSIDERANDO:
+I) Que Banco Santander S.A. presentó, adjunto a las notas referidas en el
+VISTO, la información y documentación requerida a efectos de tramitar la
+solicitud de autorización de las tercerizaciones de servicios.
+II) Que, analizadas las condiciones de los servicios, así como la información y
+demás  documentación  presentada,  no  se  perciben  objeciones  para
+autorizar las tercerizaciones de servicios solicitadas.
+III) Que,  en  relación  a  la  tercerización  del  monitoreo  de  operaciones  y
+transacciones  de  clientes,  en  la  medida  que  los  servicios  quedan
+enmarcados en una relación de agencia conforme la definición establecida
+en la Nota Interpretativa de la Recomendación N° 17 del Grupo de Acción
+Financiera  Internacional  (GAFI),  es  decir  se  aplican  los  procedimientos
+definidos por Banco Santander S.A. para la ejecución de las medidas de
+debida  diligencia  y  éste  ejerce  y  tiene  control  de  su  ejecución
+(RESULTANDO III), no se advierten razones para que el análisis inicial de
+alertas resultado del monitoreo pueda ser llevado a cabo por una entidad
+especializada del Grupo.
+IV) Que, conforme la descripción de Banco Santander S.A., la tercerización de
+los  servicios  podrá  contribuir  a  un  mejor  desempeño  de  la  función  de
+monitoreo  en  el  sistema  de  prevención  de  lavado  de  activos  y
+financiamiento del terrorismo.
+ATENTO  :   A lo  dispuesto  en  el  artículo  2  de  la  Ley  No. 17.613  de  27  de
+diciembre de 2002, a las atribuciones establecidas en los artículos 37 y 38 de la
+Carta Orgánica Ley Nº 16.696 de 30 de marzo de 1995, con las modificaciones
+introducidas por la ley Nº 18.401 de 24 de octubre de 2008, en los artículos
+35.1 y siguientes de la Recopilación de Normas de Regulación y Control del
+Sistema Financiero y a los informes contenidos en el expediente No. 2023-50-
+1-01668.
+SE RESUELVE:
+1. Autorizar  a  Banco  Santander  S.A.  la  tercerización  de  los  siguientes
+servicios, en los términos referidos en sus notas de 14 de agosto y 14 de
+noviembre de 2023 y complementarias de 5 y 21 de febrero, 27 de mayo y 4
+y 21 de junio de 2024:
+a. Snowflake  Computing  Netherlands  B.V.  (Países  Bajos):  creación,
+funcionamiento y mantenimiento de un lago de datos.
+b. Santander Global Technology & Operations S.L. (España): instalación,
+soporte y mantenimiento de las herramientas corporativas y calibración y
+optimización de los modelos y herramientas.
+RR-SSF-2024-423     Fecha: 03/09/2024 13:34:18
+c. Santander Global Technology & Operations S.L. (México): análisis inicial
+de alertas.
+d. Microsoft  Ireland  Operations  Limited  (Irlanda):  almacenamiento  y
+procesamiento para el uso de los aplicativos proporcionados a efectos
+de este servicio por la compañía.
+2. Hacer  saber  a  Banco  Santander  S.A.  que  la  autorización  procede  sin
+perjuicio de la inscripción de bases de datos y autorización de transferencia
+internacional de datos personales que puedan corresponder ante la Unidad
+Reguladora y de Control de Datos Personales de la Agencia de Gobierno
+Electrónico y Sociedad de la Información y del Conocimiento (inciso tercero,
+numeral 1 del artículo 35.1.1 de la Recopilación de Normas de Regulación y
+Control del Sistema Financiero).
+JUAN PEDRO CANTERA
+Superintendente de Servicios Financieros
+RR-SSF-2024-423     Fecha: 03/09/2024 13:34:18
+Exp. 2023-50-1-01668 
+ Publicable: Si - Firmante: Juan Pedro Cantera Sencion

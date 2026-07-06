@@ -12,7 +12,7 @@
 "resultado": "",
 "resumen": "BROU - OPERACIÓN DE EXTRACCIÓN DE EFECTIVO DE UN CAJERO AUTOMÁTICO. Denuncia de un particular",
 "relevancia": "media",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CciwS82X7K1CatqvFPaTi'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcjtEcFUGsQU9MXF6A3ww'})",
 "id": "RR-SSF-2026-396",
 "year": "2026",
 "month": "Junio",

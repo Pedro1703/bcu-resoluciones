@@ -1,0 +1,195 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: El  cálculo  de  las  tasas  de  rentabilidad  neta  del  Fondo  de  Ahorro
+Previsional. 
+RESULTANDO: 
+I) Que lo mencionado en el Visto fue reglamentado mediante la Comunicación
+N° 2023/251 de fecha 22 de diciembre de 2023, en la que se estableció el
+formato de la información referida a la rentabilidad neta que deben remitir
+las Administradoras de Fondos de Ahorro Previsional a través del Portal de
+envío centralizado (IDI).
+ 
+II) Que, no obstante, en dicha norma no se establecieron los requerimientos de
+información que deberán remitir las Administradoras de Fondos de Ahorro
+Previsional, mediante el sistema de gestión CAFAP.
+CONSIDERANDO: Que a efectos de realizar los controles mensuales debe
+emitirse  una  nueva  Comunicación  donde  se  establezcan  los  cálculos
+mencionados  en  el  Visto  y  todos  los  requerimientos  para  el  envío  de
+información a través de los sistemas correspondientes.
+ATENTO  :   A las atribuciones establecidas en los artículos artículos 37 y 38 de la
+Ley 16.696, según la redacción dada por el artículo 1 y 2 de la Ley 20.345 de
+19 de setiembre de 2024,  en el artículo 250 de la Ley 20.130 de 2 de mayo de
+2023, en el Decreto Reglamentario 413/023 de 19 de diciembre de 2023, en los
+artículos  46 y 164.2 de  la  Recopilación  de Normas de Control de  Fondos
+Previsionales, en la Resolución de la SSF N° 785/2015 de 24 de noviembre de
+2015  numeral  2  b)  y  a  lo  informado  por  la  Superintendencia  de  Servicios
+Financieros en el expediente N° 2023-50-1-02601.
+LA INTENDENTE DE SUPERVISIÓN FINANCIERA, 
+EN EJERCICIO DE ATRIBUCIONES DELEGADAS POR 
+EL SUPERINTENDENTE DE SERVICIOS FINANCIEROS, 
+RESUELVE:
+1  Comunicar a las Administradoras de Fondos de Ahorro Previsional que  a
+efectos  de  cumplir  con  la  presentación  de  la  información  requerida  por  el
+artículo  164.2  de  la  Recopilación  de  Normas  de  Control  de  Fondos
+Previsionales, en lo que respecta a la Rentabilidad Neta del Fondo de Ahorro
+RR-SSF-2025-120     Fecha: 24/03/2025 12:03:48
+Previsional,  las  Administradoras  de  Fondos  de  Ahorro  Previsional  deberán
+proporcionar a la Superintendencia de Servicios Financieros, lo siguiente:
+a) A través del Sistema de envío centralizado (IDI):
+ “Planilla Rentabilidad Neta”, utilizando el tipo de dato periódico “Calc. rent.
+neta proy. (580)”, según el formato que se adjunta en el Anexo I, el que
+podrá descargarse en EXCEL en la opción “Descargas”, “Publicaciones”,
+“Archivos de trabajo” del sistema, en la opción “Planilla Rentabilidad Neta”. 
+Se deberá incluir la firma electrónica del autorizado a remitir información
+por parte de la entidad. 
+Las instrucciones para el acceso y uso de este Sistema y el aplicativo de
+firma  del  BCU  pueden  accederse  en  la  siguiente  dirección:
+https://www.bcu.gub.uy/Servicios-Financieros-SSF/Documents/acceso-y-envio-
+info-ssf.pdf
+b) A través del sistema CAFAP:
+Archivo  ASCII  “Rentabilidad  Neta  del  Fondo  de  Ahorro  Previsional”, de
+acuerdo al instructivo que se adjunta en el Anexo II
+Toda la información deberá remitirse antes de las 16:00 horas del tercer día
+hábil siguiente al mes al que está referida.
+Las solicitudes de prórrogas se harán por los canales que correspondan a
+cada tipo de envío.
+La  presente  disposición  entrará  en  vigencia  a  partir  de  la  información
+correspondiente al mes de marzo de 2025.
+2 Derogar la Comunicación N° 2023/251 de 22 de diciembre de 2023.
+ANEXO I
+RENTABILIDAD NETA DEL FONDO DE AHORRO PREVISIONAL
+(SISTEMA IDI)
+RR-SSF-2025-120     Fecha: 24/03/2025 12:03:48
+INSTRUCTIVO
+Los importes deberán estar redondeados (aplicando 5/4, no truncando) a dos
+decimales para el Subfondo de Ahorro Previsional promedio y a 6 decimales
+los restantes (seis decimales numéricos o porcentuales según corresponda).
+La  tasa de rentabilidad neta de comisiones  de cada Subfondo de Ahorro
+Previsional se  determinará deduciendo  a la  tasa de  rentabilidad  bruta real
+anual la comisión equivalente sobre saldos. Esta comisión será informada por
+la Superintendencia de Servicios Financieros el segundo día hábil siguiente al
+mes al que esté referida.
+Se calculará de acuerdo con la siguiente fórmula:
+CESTRATN RACRAC
+i  ,,,,
+La tasa de rentabilidad neta agregada  de cada Administradora se obtendrá
+ponderando las tasas alcanzadas en cada Subfondo por la participación de
+cada uno de estos en el Fondo de Ahorro Previsional. 
+SFRSF ASFC
+SFRTNSF ATNSFCTN
+TN
+RAC
+F AP
+i
+
+
+
+***
+En el caso de la tasa de rentabilidad neta correspondiente a los afiliados
+amparados por el régimen especial de comisiones  previsto en el artículo
+103 de la Ley 16.713 del 3 de setiembre de 1995 en la redacción dada por la
+Ley 20.130 del 2 de mayo de 2023 y reglamentado por el artículo 67 del
+Decreto N° 413/23 de 19 de diciembre de 2023, se obtendrá deduciendo de la
+tasa  de  rentabilidad  bruta  correspondiente  al  Subfondo  Crecimiento,  la
+comisión de administración aplicable de acuerdo al referido régimen especial.
+RR-SSF-2025-120     Fecha: 24/03/2025 12:03:48
+CARETRATN CgEsp
+i Re
+Donde:
+C, A, R es el Subfondo de ahorro previsional respecto del cual se realiza el
+cálculo (Crecimiento, Acumulación, Retiro).
+FAP es el total del Fondo de Ahorro Previsional, según la definición del artículo
+47 de la Recopilación de Normas de Control de Fondos Previsionales.
+TRAC,A,R  es la rentabilidad real anual del Subfondo de Ahorro Previsional que
+corresponda, calculada según lo dispuesto en el artículo 44 de la Recopilación
+de Normas de Control de Fondos Previsionales.
+CES  es  la  comisión  equivalente  sobre  saldos  proporcionada  por  la
+Superintendencia de Servicios Financieros.
+SFC es el Subfondo de Ahorro Previsional Crecimiento promedio del mes que
+se informa.
+SFA es el Subfondo de Ahorro Previsional Acumulación promedio del mes que
+se informa.
+SFR es el Subfondo de Ahorro Previsional Retiro promedio del mes que se
+informa.
+CARE es la comisión de administración aplicable a los afiliados amparados por
+el régimen especial de comisiones previsto en el artículo 103 de la Ley 16.713
+del 3 de setiembre de 1995 en la redacción dada por la Ley 20.130 del 2 de
+mayo de 2023.
+ 
+Nota: 
+El valor del Subfondo de Ahorro Previsional promedio, calculado para cada
+Subfondo, es el resultado de dividir la sumatoria de los valores del Subfondo
+de Ahorro Previsional considerado al final de cada día hábil, definido en el
+artículo 47 de la Recopilación de Normas de Control de Fondos Previsionales,
+entre el número de días hábiles del mes.
+ANEXO II
+ESPECIFICACIÓN DEL FORMATO DEL ARCHIVO ASCII PARA LA
+INTERFAZ MENSUAL DE RENTABILIDAD NETA DEL FONDO DE
+AHORRO PREVISIONAL (SISTEMA CAFAP )
+RR-SSF-2025-120     Fecha: 24/03/2025 12:03:48
+Descripción 
+En  el  Sistema  CAFAP,  dentro  de  la  opción  “Carga  de  Datos  de  Control
+Mensual” se deberá remitir la información de la Rentabilidad Neta del Fondo
+de Ahorro Previsional , cargándola desde un archivo ASCII predefinido, que
+será generado por uno de los sistemas de uso interno de la AFAP.
+El archivo a cargar es el siguiente: información sobre Rentabilidad Neta del
+FAP,  de  nombre  aaaamm.mrn 1,  donde  aaaa  y  mm  corresponden
+respectivamente al año y el mes informado.
+La opción para efectuar dicho envío se encuentra en el menú de “Carga de
+Interfases”, en el botón “Carga de Datos de Control Mensual”.
+El envío de esta información, con frecuencia mensual y dentro de los plazos
+establecidos,  deberá  realizarse  generando  el  archivo  que  se  describe  a
+continuación. 
+Formato:  Archivo ASCII, campos delimitados por coma, con el punto como
+separador de decimales y con los signos negativos a la izquierda del primer
+dígito significativo.
+Nombre del Archivo: aaaamm.mrn
+Donde “aaaa” representa el año a informar (4 dígitos), y “mm” el mes (2
+dígitos). 
+Campos del archivo ASCII de Rentabilidad Neta del FAP
+El archivo deberá contener una única línea de texto, separado por comas, en
+el que se informarán los siguientes datos:
+CAMPO    TIPO
+FECHA (AÑOMES) N(6.0)
+INSTITUCIÓN N(5.0)
+NÚMERO DE DÍAS HÁBILES DEL MES QUE SE INFORMA N(2.0)
+COMISIÓN EQUIVALENTE SOBRE SALDOS (CES) N(9.6)
+COMISIÓN APLICABLE A AFILIADOS AMPARADOS EN RÉGIMEN
+ESPECIAL (CARE)
+N(9.6)
+SUBFONDO DE AHORRO PREVISIONAL PROMEDIO DEL MES 
+QUE SE INFORMA FAPCR
+N(18.2)
+SUBFONDO DE AHORRO PREVISIONAL PROMEDIO DEL MES 
+QUE SE INFORMA FAPAC
+N(18.2)
+SUBFONDO DE AHORRO PREVISIONAL PROMEDIO DEL MES 
+QUE SE INFORMA FAPRE
+N(18.2)
+RENTABILIDAD BRUTA REAL ANUAL (EN %) FAPCR N(18.6)
+1 mrn = es la extensión del archivo que identifica la información de que se trata, en este caso: “mensual rentabilidad 
+neta”
+RR-SSF-2025-120     Fecha: 24/03/2025 12:03:48
+RENTABILIDAD BRUTA REAL ANUAL (EN %) FAPAC N(18.6)
+RENTABILIDAD BRUTA REAL ANUAL (EN %) FAPRE N(18.6)
+RENTABILIDAD NETA SUBFONDOS (EN %) FAPCR N(18.6)
+RENTABILIDAD NETA SUBFONDOS (EN %) FAPAC N(18.6)
+RENTABILIDAD NETA SUBFONDOS (EN %) FAPRE N(18.6)
+FONDO DE AHORRO PREVISIONAL PROMEDIO DEL MES QUE 
+SE INFORMA  
+N(18.2)
+RENTABILIDAD NETA AGREGADA (EN %) N(18.6)
+RENTABILIDAD NETA RÉGIMEN ESPECIAL (EN %) N(18.6)
+Se presenta a continuación un ejemplo de archivo de interfaz mensual de
+rentabilidad neta de la AFAP Nº 300, para el mes de enero de 2025 
+Nombre de archivo: 
+202501.mrn
+Contenido:
+202501,300,21,11.111111,22.222222,333333333333333.33,4444444444
+44444.44,555555555555555.55,66666666666.666666,77777777777.77
+7777,88888888888.888888,99999999999.999999,88888888888.888888
+,77777777777.777777,666666666666666.66,55555555555.555555,444
+44444444.444444”
+RR-SSF-2025-120     Fecha: 24/03/2025 12:03:48
+Exp. 2023-50-1-02601 
+ Publicable: Si - Firmante: CRISTINA ROSARIO RIVERO MORES

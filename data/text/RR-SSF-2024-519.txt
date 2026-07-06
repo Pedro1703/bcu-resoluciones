@@ -1,0 +1,40 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La solicitud de autorización presentada por Banco Santander S.A. para
+tercerizar  servicios  de  alojamiento  y  procesamiento  de  datos  en  Microsoft
+Ireland Operations Limited (Irlanda), en el marco del proyecto “Banca Digital”.
+RESULTANDO  :  
+I) Que  para  la  ejecución  del  servicio  a  que  refiere  el  Visto  se  utiliza
+tecnología alojada en la nube de Microsoft Azure, a la que se accede
+mediante  la  contratación de  Microsoft Ireland Operations Limited  por
+parte de Santander Global Technology & Operations S.L. (España).
+II) Que  el  marco  documental  presentado  para  la  contratación  de  los
+servicios con Microsoft Ireland Operations Limited es igual al presentado
+oportunamente  en  el  Expediente  N°  2023-50-1-01668  y  autorizado
+mediante Resolución RR-SSF-2024-423 del 03.09.2024.
+CONSIDERANDO:
+I) Que Banco Santander S.A. presentó la información y documentación
+requerida  a  efectos  de  tramitar  la  solicitud  de  autorización  de  la
+tercerización de servicios.
+II) Que,  analizadas  las  condiciones  de  los  servicios,  así  como  la
+información  y  demás  documentación  presentada,  no  se  perciben
+objeciones para autorizar la tercerización de servicio solicitada.
+ATENTO: A lo dispuesto en el artículo 2 de la Ley 17.613 de fecha 27 de
+diciembre de 2002, a las atribuciones establecidas en los artículos 37 y 38 de la
+Carta Orgánica Ley Nº 16.696 de 30 de marzo de 1995, con las modificaciones
+introducidas por la ley Nº 18.401 de 24 de octubre de 2008, en los artículos
+35.1 y siguientes de la Recopilación de Normas de Regulación y Control del
+Sistema Financiero, a la Resolución N° 785- 2015 del 24 de noviembre de 2015
+y a los informes contenidos en el Expediente N° 2024-50-1-01095.
+LA INTENDENTE DE SUPERVISIÓN FINANCIERA
+EN EJERCICIO DE LAS ATRIBUCIONES DELEGADAS POR EL
+SUPERINTENDENTE DE SERVICIOS FINANCIEROS,
+RESUELVE  :  
+Autorizar a Banco Santander S.A. a tercerizar en Microsoft Ireland Operations
+Limited (Irlanda) los servicios de alojamiento y procesamiento de datos en el
+marco del proyecto “Banca Digital”, en los términos de sus notas de fechas 13
+de junio, 23 de agosto, 17 de octubre, 18 de octubre y 1° de noviembre de
+2024.
+RR-SSF-2024-519     Fecha: 12/11/2024 16:51:36
+Exp. 2024-50-1-01095 
+ Publicable: Si - Firmante: CRISTINA ROSARIO RIVERO MORES

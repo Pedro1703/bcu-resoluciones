@@ -12,7 +12,7 @@
 "resultado": "",
 "resumen": "COOPERATIVA DE AHORRO Y CRÉDITO DEL CENTRO DE SUBOFICIALES DEL EJÉRCITO (CACCSOE) - APERCIBIMIENTO POR INCUMPLIR LO ESTABLECIDO EN LA LEY 18.212 DEL 5 DE DICIEMBRE DE 2007. Sanción",
 "relevancia": "alta",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CciwSnDS28gt9bQMqpaLh'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcjtFSd4j4qBXvzZf7gQm'})",
 "id": "RR-SSF-2025-456",
 "year": "2025",
 "month": "Setiembre",

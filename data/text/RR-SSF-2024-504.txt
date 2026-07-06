@@ -1,0 +1,108 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: Lo  informado  por  TPCG  FINANCIAL  SERVICES  AGENTE  DE
+VALORES  S.A.  respecto  de  la  ocurrencia  de  un  ciberataque  sobre  la
+infraestructura tecnológica de la institución.
+RESULTANDO: 
+I) Que  mediante  la  nota  NR/4/2024/149  de  23  de  enero  de  2024,  el
+intermediario  informó  sobre  la  ocurrencia  de  un  ciberataque  sobre  la
+infraestructura tecnológica de la institución, lo que provocó una caída de sus
+sistemas  operativos  y  determinó  que  no  se  pudieran  llevar  a  cabo  las
+operaciones con normalidad. 
+II) Que a través de la nota NR/4/2024/232 de 1 de febrero de 2024, la
+institución amplía información respecto al mencionado ciberataque ocurrido con
+fecha 18 de enero de 2024.
+III) Que  en  el  informe  de  auditoría  sobre  los  estados  financieros  del
+intermediario  el  auditor  manifiesta  los  fundamentos  para  la  abstención  de
+opinión sobre los estados del resultado integral y de flujos de efectivo en virtud
+del ciberataque ocurrido.
+IV) Que a partir de abril de 2023 – sin haber solicitado autorización ante la
+Superintendencia de Servicios Financieros – TPCG FINANCIAL SERVICES
+AGENTE DE VALORES S.A. comenzó a realizar el procesamiento de datos en
+TPCG Valores SAU (entidad argentina del mismo grupo), generando solamente
+una copia de respaldo, sin dejar una copia de respaldo a nivel local. 
+V) Que  el  intermediario  no  contaba  con  un  plan  de  contingencia  y
+continuidad al momento del ciberataque.
+VI) Que con fecha 14 de octubre de 2024 TPCG FINANCIAL SERVICES
+AGENTE DE VALORES S.A. tomó vista de las presentes actuaciones.
+VII) Que en su escrito de evacuación de vista de 17 de octubre de 2024, la
+institución  expresa  que  si  bien,  por  los  motivos  ya  expuestos  en  las
+actuaciones, no comparte en su totalidad la Resolución a adoptar por parte del
+Banco Central del Uruguay, no se opondrá a la misma.
+RR-SSF-2024-504     Fecha: 01/11/2024 16:13:30
+CONSIDERANDO: 
+I) Que el artículo 67.1.1 de la Recopilación de Normas del Mercado de
+Valores (RNMV) establece que c uando se contrate  a terceros para prestar
+servicios desde el exterior del país deberá solicitarse la autorización expresa de
+la Superintendencia de Servicios Financieros, mientras que  a los efectos de las
+tercerizaciones que impliquen procesamiento de datos se aplicará además lo
+dispuesto en los artículos 67.2 y 67.3 de la RNMV.
+II) Que el artículo 67.2 de la RNMV dispone que l os procedimientos de
+resguardo  de  datos  y  software  deberán  asegurar  permanentemente  la
+continuidad operacional.
+III) Que el artículo 67.3 de la RNMV establece que con relación al resguardo
+de la información en el exterior, una copia deberá radicarse físicamente en el
+Uruguay y permanecer accesible a los funcionarios de la Superintendencia de
+Servicios Financieros en un plazo no mayor al que fije el supervisor en función
+del lugar del procesamiento.
+IV) Que el artículo 255.2 de la RNMV dispone que los intermediarios de
+valores deberán implementar procedimientos de resguardo de datos y software,
+de tal forma que sea posible reconstruir las informaciones emitidas para el
+Banco  Central  del  Uruguay,  los  registros  contables  y  cada  uno  de  los
+movimientos que dan origen a los mismos -hasta un grado de detalle tal que
+permita la identificación de las cuentas y los movimientos en los rubros de los
+estados contables-,  así como todo otro dato, incluyendo correos, mensajería
+instantánea y toda otra forma de mensajería electrónica , que se considere
+relevante en la reconstrucción de las operaciones a los fines del Banco Central
+del  Uruguay  o  para  requerimientos  judiciales,  mientras  que  los  citados
+procedimientos deberán incluir, como mínimo, un resguardo diario y deben
+prever la generación de, por lo menos, 2 copias de resguardo, debiendo una de
+ellas ser almacenada a una distancia razonable del centro de procesamiento,
+en un edificio distinto al mismo.
+V) Que el artículo 255.8 de la RNMV establece que los intermediarios de
+valores deberán contar con un plan documentado que asegure la continuidad
+de las operaciones en caso de cualquier evento que afecte las instalaciones,
+equipos,  datos,  software  o  la  prestación  de  los  servicios  tercerizados,
+imposibilitando  la  operativa  normal,  plan  que  deberá  ser  permanentemente
+actualizado.
+VI) Que el literal c. del artículo 351 de la RNMV establece el elenco de
+sanciones a las que serán pasibles los agentes de valores que infrinjan las
+normas  legales  o  reglamentarias,  o  las  normas  generales  e  instrucciones
+particulares en la materia dictadas por el Banco Central del Uruguay.
+RR-SSF-2024-504     Fecha: 01/11/2024 16:13:30
+VII) Que el artículo 374.1 de la RNMV dispone que e n caso de infracciones
+referidas a la contratación de terceros sin autorización, las instituciones serán
+sancionadas con una multa no inferior a 26 (veintiséis) ni superior a 100 (cien)
+veces la establecida en el artículo 357 de la RNMV,  la cual asciende a UI
+5.000.
+VIII) Que  TPCG  FINANCIAL SERVICES  AGENTE  DE  VALORES  S.A.  no
+registra  antecedentes  respecto  a  este  tipo  de  infracciones,  por  lo  que  se
+entiende  razonable,  en  esta  oportunidad,  por  el  total  de  incumplimientos
+constatados, fijar  una multa  global  equivalente  a la  mínima  prevista por  el
+citado artículo 374.1.
+IX) Que  el  artículo  118  de  la  Ley  18.627  de  2  de  diciembre  de  2009
+establece  que  las  sanciones  dispuestas  por  el  Banco  Central  del  Uruguay
+deberán ser publicadas.
+ATENTO  :   A lo dispuesto en el literal L) del artículo 38 de la Ley 16.696 de 30
+de marzo de 1995, en la redacción dada por el artículo 11 de la Ley 18.401 de
+24 de octubre de 2008, los artículos 118 y 120 de la Ley N° 18.627 de 2 de
+diciembre de 2009, el artículo 2 de la Ley 17.613 de 27 de diciembre de 2002,
+los  artículos  67.1.1,  67.2,  67.3,  255.2,  255.8,  351,  357  y  374.1  de  la
+Recopilación  de  Normas  del  Mercado  de  Valores,  en  el  artículo  94  del
+Reglamento  Administrativo  del  Banco  Central  del  Uruguay,  al  Dictamen
+2024/283 de la Asesoría Jurídica, al Memorandum MM/2024/502 de 30 de
+octubre de 2024 y las resultancias del expediente administrativo N° 2024-50-1-
+00847.
+LA INTENDENTE DE REGULACION FINANCIERA EN EJERCICIO DE
+ATRIBUCIONES DELEGADAS Y ENCOMENDADAS COMO
+SUPERINTENDENTE DE SERVICIOS FINANCIEROS RESUELVE:
+1. Sancionar a TPCG FINANCIAL SERVICES AGENTE DE VALORES S.A.
+con una multa de UI 130.000 (ciento treinta mil unidades indexadas) por
+incumplir  normativa en  materia  de tercerizaciones y  resguardo de  la
+información.
+2. Notificar al interesado.
+3. Emitir una Comunicación haciendo saber lo dispuesto en el numeral 1.
+de esta Resolución. 
+RR-SSF-2024-504     Fecha: 01/11/2024 16:13:30
+Exp. 2024-50-1-00847 
+ Publicable: Si - Firmante: Patricia Fabiana Tudisco Basignani

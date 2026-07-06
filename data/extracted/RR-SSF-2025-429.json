@@ -12,7 +12,7 @@
 "resultado": "",
 "resumen": "BANCO ITAÚ URUGUAY S.A. - RECURSOS DE REVOCACIÓN Y JERÁRQUICO INTERPUESTOS CONTRA NOTA DE LA SUPERINTENDENCIA DE SERVICIOS FINANCIEROS NE/4/2025/314 DE 25 DE FEBRERO DE 2025. No hacer lugar y franqueo",
 "relevancia": "media",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CciwSvHriUGE2ZLAR7GZ8'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcjtFbcJjzWCWZkG16bNK'})",
 "id": "RR-SSF-2025-429",
 "year": "2025",
 "month": "Agosto",

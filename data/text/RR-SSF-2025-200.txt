@@ -1,0 +1,76 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La necesidad de mayor desagregación de la información contable que
+remiten las Empresas de Servicios Financieros.
+RESULTANDO: 
+I) Que  para  lograr  una  mayor  desagregación  de  la  información  se  deben
+realizar ajustes a la información de Estados Financieros y Anexos que las
+Instituciones de Empresas de Servicios Financieros deben presentar ante
+esta Superintendencia.
+II) Que  el  envío  de  la  información  se  realiza  a  través  del  estándar  de
+intercambio de información financiera XBRL y es necesario adecuar las
+estructuras de datos (Taxonomía XBRL), para permitir la instrumentación de
+los aspectos operativos de los ajustes referidos. 
+CONSIDERANDO: Que  es  necesario  dar  instrucciones  precisas  a  las
+instituciones para que actualicen sus sistemas informáticos, tomando en cuenta
+el nuevo diseño de los Estados Financieros y anexos de la Taxonomía XBRL.
+ATENTO  :   A las atribuciones establecidas en el artículo 14, del Decreto Ley N°
+15.322 de 17 de setiembre de 1982 y en el artículo 38, literales A) e I) de la Ley
+N° 16.696 de 30 de marzo de 1995 según la redacción dada por el artículo 1 y
+2  de  la  Ley  20.345  de  19  de  setiembre  de  2024,  en  la  Resolución  de  la
+Superintendencia  de  Servicios  Financieros  N°  SSF-785-2015  de  24  de
+noviembre de 2015 numeral 5) literal a) y demás antecedentes que lucen en el
+expediente 2025/205.
+EL GERENTE DE GESTIÓN ESTRATÉGICA Y OPERATIVA EN EJERCICIO
+DE ATRIBUCIONES DELEGADAS POR EL SUPERINTENDENTE DE
+SERVICIOS FINANCIEROS 
+RESUELVE:
+Emitir una comunicación al mercado, con las especificaciones técnicas para el
+envío  de  información  contable  con  vigencia  1º  de  junio  de  2025,  para  las
+Empresas de Servicios Financieros, informando que se han realizado ajustes
+en  la  Taxonomía  XBRL a  efectos  de  la  adecuación  de  la  información  de
+Estados Financieros y anexos, los cuales regirán a partir de la información
+correspondiente a junio 2025.
+Los ajustes realizados se describen a continuación:
+1. Nuevo Anexo: CONTINGENCIAS Y RESPONSABILIDADES
+RR-SSF-2025-200     Fecha: 09/05/2025 11:14:43
+Se  incorpora  el  Anexo  Contingencias  y  Responsabilidades  al  entry  point
+mensual  individual.  A continuación,  se  muestra  estructura  e  información  a
+incorporar al mismo:
+Los nuevos puntos de entrada (“entry points”) para acceder a la Taxonomía
+versión 2025 se encuentran publicados en:
+Para descargar online desde un editor xbrl:
+https://portal.bcu.gub.uy/xbrl/uy/fr/ifrs/bcu/2025-06-01/iifc/iifc-edsf-
+entry_point_mensual_individual.xsd
+https://portal.bcu.gub.uy/xbrl/uy/fr/ifrs/bcu/2025-06-01/iifc/iifc-edsf-
+entry_point_trimestral_individual.xsd
+https://portal.bcu.gub.uy/xbrl/uy/fr/ifrs/bcu/2025-06-01/iifc/iifc-edsf-
+entry_point_semestral_individual.xsd
+Para descargar directo (zip completo) y abrir offline:
+https://portal.bcu.gub.uy/xbrl/iifc-bcu2025.zip
+Vigencia.
+Lo dispuesto precedentemente regirá a partir de la información correspondiente al
+mes de junio de 2025.
+CHRISTIAN SALVARREY
+GERENTE DE GESTION ESTRATEGICA Y OPERATIVA
+Riesgos y compromisos contingentes  
+ Riesgos contingentes  
+ Garantías financieras por avales  
+ Otras garantías financieras  
+ Activos afectados a obligaciones de terceros  
+ Créditos documentarios emitidos  
+ Créditos documentarios confirmados  
+ Otros riesgos contingentes  
+ 
+Garantías de mantenimiento de propuesta y cumplimiento de licitaciones ante 
+organismos públicos  
+   Compromisos contingentes  
+ Líneas de crédito acordadas sector financiero  
+ Créditos acordados en cuentas corrientes  
+ Créditos acordados en cuentas vista o con preaviso  
+ Préstamos a utilizar mediante tarjetas de crédito  
+ Otros compromisos contingentes  
+  Otras líneas de crédito de libre disposición  
+RR-SSF-2025-200     Fecha: 09/05/2025 11:14:43
+Exp. 2025-50-1-00205 
+ Publicable: Si - Firmante: ALBERTO CHRISTIAN SALVARREY MORO

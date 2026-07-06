@@ -1,0 +1,273 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La actuación de supervisión enfocada llevada adelante en BCE&M
+OPERADORES CORREDOR DE BOLSA S.R.L. durante agosto de 2023.
+RESULTANDO: 
+I)   Que en  el  marco  de la actuación inspectiva referida  en el
+VISTO, que fuera tramitada por expediente N° 2023-50-1-01867,
+se constataron los siguientes hechos: 
+a) El intermediario almacena fondos recibidos de sus clientes en
+lugares  tales  como  maletín  sin  seguridad,  impresoras,
+placares, así como en domicilios ajenos a la empresa. 
+b) El corredor definió un perfil inversor que denomina “1”, que
+únicamente establece que corresponde a un cliente que tiene
+un  “Objetivo/Expectativa”  compatible  con  los  “Servicios  y
+Mercado de BCE&M”, sin explicitar tipo y plazo de los valores
+en los cuales invertir, límites de inversión, nivel de tolerancia al
+riesgo, entre otros. Este perfil corresponde a casi la totalidad
+de  la  cartera  (99,6%).  Tampoco  se  cuenta  con  un
+procedimiento  de  monitoreo  de  perfil  inversor. Asimismo, si
+bien los clientes completan un cuestionario relativo a su perfil
+inversor, las respuestas no son puntuadas y ponderadas en
+función del riesgo, sofisticación y conocimiento de los clientes. 
+c) El  75%  de  la  cartera  de  clientes  no  tiene  perfil  inversor
+firmado. 
+d) El  corredor  no  definió  estrategias  de  inversión  para  sus
+clientes. 
+e) El  corredor  no  respalda  el  intercambio  de  información  que
+realiza  con  sus  clientes  ni  mantiene  los  tickets  de  las
+operaciones de cambio de moneda extranjera realizadas en el
+marco de las operaciones de compra venta de valores. 
+f) Se detectó que una cuenta perteneciente a un socio de la
+empresa  realiza  operativa  transaccional  en  sus  cuentas,
+mediante  las  cuales  canalizó  pagos  propios  de  actividades
+personales, tales como pago de sociedad médica, sueldos y
+otros gastos personales, lo que constituye una operativa que
+se encuentra por fuera del objeto exclusivo definido para los
+intermediarios de valores.
+g) Se constataron saldos deudores en efectivo en cuentas de un
+cliente, así como en cuentas del socio mayoritario del corredor.
+En la medida que el intermediario mantiene las custodias de
+RR-SSF-2024-486     Fecha: 21/10/2024 12:14:38
+valores  y  fondos  de  clientes  en  cuentas  bajo  su  titularidad
+(cuenta  ómnibus),  la  existencia  de  saldos  deudores  de  un
+cliente, así como de uno de los socios del corredor, implica la
+utilización  de  fondos  de  unos  clientes  para  cumplir  las
+operaciones de otros clientes sin fondos suficientes. 
+h) La  entidad  no  posee  un  plan  documentado  de  continuidad
+operacional,  ni  se  documentan  las  pruebas  formales  de
+recuperación y de integridad de los resguardos de datos. 
+i) Existen  inconsistencias  entre  el  registro  de  operaciones,  el
+inventario recibido en ocasión de la actuación de supervisión,
+los  indicadores  de  riesgo  operacional  remitidos  a  la
+Superintendencia de Servicios Financieros y las respuestas al
+cuestionario inicial. 
+j) Para el cliente que ha realizado más operaciones en el último
+año y que posee la mayor posición al 31 de diciembre de 2022
+por  un  monto  de  USD  19.5  millones,  no  se  cuenta  con
+documentación que evidencie la debida diligencia efectuada ni
+el origen de los fondos. 
+k) Los estados de cuenta remitidos a los clientes no contienen
+toda la información relevante. 
+II)   Que  el  relevamiento  de  tales  hechos  fue  comunicado  al
+intermediario de valores a través de la nota de 20 de setiembre
+de 2023, que fuera notificada a la entidad el día 21 de setiembre
+de 2023. 
+III) Que con fecha 20 de febrero de 2024 se dio vista a la institución
+de las actuaciones y el día 12 de marzo de 2024 se presentó un
+escrito con descargos.
+IV) Que en dichos descargos la institución expresa que:
+a) No  se  almacenan  fondos  de  clientes  en  las  oficinas  del
+intermediario. Sí existe una caja por un monto que no suele
+superar los USD 20.000, que puede utilizarse para el pago de
+cupones  para  algunos  clientes  particulares.  Asimismo,  el
+dinero no está definido como valor por el artículo 3.1 de la
+Recopilación de Normas del Mercado de Valores (RNMV).
+b) El intermediario sí contaba con un cuestionario de perfil de
+inversión, pero su  formato era  acorde  a la realidad de  la
+institución, que no ofrece diferentes productos para diferentes
+categorías de inversor, sino sólo para aquellos que buscan
+valores de bajo riesgo y baja complejidad.
+c) A partir de la instrucción particular identificada como IP7 se
+comenzó  también  a  guardar  los  tickets  de  cambio  de
+moneda, por lo que se dio por cumplida dicha instrucción.
+d) No se tuvo en cuenta que se presentó el plan de continuidad
+operacional y las pruebas de recuperación de datos.
+e) Las  cuentas  no  se  utilizan  para  el  pago  de  servicios
+personales, como sociedad médica, salarios, etc., sino que
+RR-SSF-2024-486     Fecha: 21/10/2024 12:14:38
+se  trató  en  todos  los  casos  de  fondos  provenientes  de
+desinversiones  o  retiros  que,  a  efectos  de  organización
+personal, se anotó (a modo de referencia) el concepto para lo
+que se utilizaría el retiro.
+f) La posición consolidada en todas las cuentas del cliente a
+que refiere el literal g) del Resultando I) así como la del socio
+mayoritario nunca quedó sobregirada, ya que son titulares de
+otras cuentas en el intermediario, y al compensarse dichas
+posiciones,  siempre  contaron  con  fondos  suficientes  para
+cubrir sus operaciones.
+g) El titular de las cuentas referidas en el literal j) del Resultando
+I) es una persona jubilada que hace más de 20 años que no
+ingresa cantidades significativas de fondos. El valor actual de
+su  portafolio  es  fruto  de  sus  reinversiones  de  capital  y
+cupones vencidos. Se debe tener en cuenta, que recién a
+partir  del  año  2007  la  normativa  exige  informe
+circunstanciado  para  aquellos  clientes  que  operen  por
+montos significativos.
+h) Hay  clientes  que  por  diferentes  razones  personales  –
+seguridad,  conflictos  familiares,  etc.  –  instruyen  al
+intermediario a retener los estados de cuenta en sus oficinas
+y  de  no  cumplir  dicha  instrucción  se  podría  incurrir  en
+responsabilidad por cualquier perjuicio que el cliente pudiera
+sufrir.
+i) El literal a. del artículo 210 de la RNMV obliga a informar los
+montos de las comisiones, pero dado que un porcentaje es
+un monto, se da cumplimiento a la normativa.
+j) El rendimiento anual de la cartera no es un campo obligatorio
+de  acuerdo  al  artículo  212  de  la  RNMV  sino  una
+recomendación,  como  buena  práctica,  de  los  estándares
+mínimos de gestión aplicables a intermediarios de valores.
+V) Que se incorporó al expediente sancionatorio la documentación
+solicitada por la firma para su consideración.
+CONSIDERANDO: 
+I) Que el artículo 98 de la Ley 18.627 de 2 de diciembre de 2009 y
+el  artículo  60  de  la  Recopilación  de  Normas  del  Mercado  de
+Valores (RNMV) establece que los intermediarios de valores, con
+excepción  de  las  instituciones  de  intermediación  financiera,
+tendrán como objeto exclusivo la realización en forma profesional
+y  habitual  de  operaciones  de  intermediación  entre  oferentes  y
+demandantes de valores de oferta pública o privada. 
+II) Que el artículo 62 de la RNMV dispone que la custodia de valores
+físicos de clientes no podrá ser realizada en las oficinas de los
+intermediarios de valores. 
+RR-SSF-2024-486     Fecha: 21/10/2024 12:14:38
+III) Que  el  artículo  210  de  la  RNMV  establece  el  mínimo  de
+información  que  los  intermediarios  de  valores  deberán
+proporcionar a los inversores que forman parte de su cartera de
+clientes.
+IV) Que el artículo 213 de la RNMV dispone que los intermediarios de
+valores  deberán  determinar  las  categorías  en  las  cuales
+clasificarán a cada uno de sus clientes, en función del grado de
+riesgo, sofisticación y conocimiento de cada uno de ellos, con el
+propósito  de  identificar  los  diferentes  productos  y  operaciones
+acordes con dichas categorías, y una vez asignado al cliente el
+perfil,  éste  deberá  ser  notificado,  debiendo  obtenerse  su
+conformidad por los medios previamente acordados y guardar la
+correspondiente constancia. 
+V) Que  el  artículo  213.1  de  la  RNMV  establece  que  cuando  se
+presten servicios de asesoramiento y de gestión de portafolios se
+deberá  acordar  con  el  cliente  una  estrategia  de  inversión,
+entendiendo  por  tal  el  conjunto  de  reglas,  comportamientos  y
+procedimientos diseñados para orientarlo en la selección de una
+cartera de valores. 
+VI) Que el artículo 100 de la Ley 18.627 y el literal g) del artículo 250
+de la RNMV establecen que el intermediario de valores deberá
+gestionar  en  forma  diligente  los  activos  bajo  manejo  de  los
+clientes con arreglo a los poderes de administración conferidos
+por éstos. 
+VII) Que  el  artículo  255.2  de  la  RNMV  establece  que  los
+intermediarios de valores deberán contar con procedimientos que
+permitan la recuperación de toda la información respaldada, y por
+lo menos una vez al año se deberán realizar pruebas -formales y
+debidamente documentadas de recuperación y de integridad de
+los resguardos de datos, las que deberán asegurar la capacidad
+de  la  institución  de  recuperar  la  totalidad  de  la  información
+resguardada. 
+VIII) Que  el  artículo  255.7  de  la  RNMV  dispone  que  los
+intermediarios de valores deberán mantenerse por un plazo no
+menor a 10 años toda la documentación emitida respaldante de
+su gestión. 
+IX) Que el numeral 6. del artículo 119 de la mencionada Ley 18.627
+prohíbe la utilización de dineros o valores de sus comitentes para
+cumplir operaciones pendientes o propias, o de otros comitentes. 
+X) Que el artículo 255.8 de la RNMV dispone que los intermediarios
+de valores deberán contar con un plan documentado que asegure
+RR-SSF-2024-486     Fecha: 21/10/2024 12:14:38
+la continuidad de las operaciones en caso de cualquier evento
+que  afecte  las  instalaciones,  equipos,  datos,  software  o  la
+prestación  de  los  servicios  tercerizados,  imposibilitando  la
+operativa  normal,  mientras  que  el  referido  plan  deberá  ser
+permanentemente actualizado. 
+XI) Que el artículo 194 de la RNMV dispone que los intermediarios de
+valores  deberán  aplicar  procedimientos  de  debida  diligencia
+intensificada  para  las  categorías  de  clientes,  relaciones
+comerciales  u  operaciones  consideradas  de  mayor  riesgo,  de
+acuerdo con lo que surja de la evaluación de riesgo realizada por
+la institución. 
+XII) Que  el  artículo  362  de  la  RNMV  establece  que  la  no
+presentación, en tiempo y forma, de la información exigida por la
+normativa  vigente,  será  sancionada  con  la  multa  diaria
+establecida en el artículo 358 de la citada Recopilación.
+XIII) Que los descargos presentados no se consideran de recibo
+por las siguientes razones:
+a) Mantener dinero en efectivo, por los montos detectados en la
+oficina  de  la  firma,  sin  las  medidas  de  seguridad
+correspondientes, implica una infracción a los estándares de
+gestión  y  gobierno  corporativo,  organización  interna  y
+requisitos  de  funcionamiento  prudenciales,  exigibles  a  un
+intermediario de valores.
+b) Si el cuestionario sólo lleva como resultado a un único perfil,
+no respeta el objetivo buscado por el artículo 213 de la RNMV
+que  es  conocer  las  categorías  en  las  cuales  se  debería
+clasificar a cada uno de sus clientes, en función del grado de
+riesgo, sofisticación y conocimiento de cada uno de ellos, lo
+que podría arrojar que el intermediario – dada su realidad,
+como  la  propia  institución  expresa  –  no  sería  capaz  de
+satisfacer dicho perfil dado los limitados tipos de productos
+que ofrece, extremo que debería ser puesto en conocimiento
+de los clientes.
+c) Las acciones implementadas por la entidad con posterioridad
+a  la  constatación  de  las  infracciones  no  enervan  su
+configuración ni la exime de responsabilidad administrativa por
+tales hechos.
+d) No es convincente el argumento referido a que estando frente
+a un retiro genuino de fondos provenientes de inversiones, se
+tenga  que  anotar  en  qué  lo  utilizará  el  beneficiario  en  su
+ámbito personal por motivos de organización.
+e) Para las cuentas referidas al Resultando I) apartado g) en las
+que las personas son únicos titulares, el saldo consolidado era
+deudor.  No  se  consideraron  cuentas  donde  las  referidas
+RR-SSF-2024-486     Fecha: 21/10/2024 12:14:38
+personas eran cotitulares, dada la imposibilidad de conocer su
+porcentaje de participación.
+f) La  normativa  no  distingue  la  ocupación  del  cliente  o  el
+momento que se incorporó como tal a la institución. Si los
+montos manejados – ya sea por inversiones o reinversiones –
+y el riesgo aparejado son importantes, se deberá aplicar una
+debida diligencia intensificada.
+g) Los estados de cuenta deben ser efectivamente remitidos a
+los clientes y la información contenida en los mismos debe ser
+clara, suficiente y oportuna.
+h) La información contenida en el estado de cuenta no detalla el
+monto  “comisión”  y  se  asocia  indebidamente  al  concepto
+“gastos”,  sin  detallar  debidamente  los  diversos  rubros  y  el
+monto correspondiente.
+i) El  artículo  212  de  la  RNMV  no  es  una  normativa  que  el
+proyecto sancionatorio indique como incumplido.
+XIV) Que  los  incumplimientos  detectados  configuran  múltiples
+infracciones administrativas pasibles de sanción, la cual deberá
+determinarse en atención al principio de proporcionalidad. 
+XV) Que el literal c. del artículo 351 de la RNMV dispone el
+elenco de sanciones a las que serán pasibles los intermediarios
+de valores que infrinjan las normas legales o reglamentarias, o las
+normas  generales  e  instrucciones  particulares  en  la  materia
+dictadas por el Banco Central del Uruguay. 
+XVI) Que  BCE&M  OPERADORES  CORREDOR  DE  BOLSA
+S.R.L.  no  registra  antecedentes  respecto  a  este  tipo  de
+infracciones. 
+XVII) Que el artículo 118 de la citada Ley 18.627 establece que
+las  sanciones  dispuestas  por  el  Banco  Central  del  Uruguay
+deberán ser publicadas. 
+ATENTO  :   A lo dispuesto en el literal L) del artículo 38 de la Ley 16.696 de 30
+de marzo de 1995, en la redacción dada por el artículo 11 de la Ley 18.401 de
+24 de octubre de 2008, los artículos 94, 98, 100, 118 y 119 de la Ley N° 18.627
+de 2 de diciembre de 2009, los artículos 60, 62, 147, 194, 198, 210, 213, 213.1,
+250, 255.2, 255.7, 255.8, 351 y 362 de la Recopilación de Normas del Mercado
+de Valores, en el artículo 94 del Reglamento Administrativo del Banco Central
+del  Uruguay,  a  los  Dictámenes  de  la  Asesoría  Jurídica,  al  Memorandum
+MM/2024/451 de 9 de octubre de 2024 y las resultancias de los expedientes
+administrativos 2023-50-1-01867 y 2023-50-1- 02619.
+LA INTENDENTE DE SUPERVISION FINANCIERA EN EJERCICIO DE
+RR-SSF-2024-486     Fecha: 21/10/2024 12:14:38
+ATRIBUCIONES DELEGADAS Y ENCOMENDADAS COMO
+SUPERINTENDENTE DE SERVICIOS FINANCIEROS 
+RESUELVE:
+1. Sancionar a BCE&M OPERADORES CORREDOR DE BOLSA S.R.L. con
+una multa de UI 100.000 (cien mil unidades indexadas) por las infracciones
+constatadas en oportunidad de la actuación inspectiva de agosto de 2023. 
+2. Notificar al interesado. 
+3. Emitir una Comunicación haciendo saber lo dispuesto en el numeral 1. de
+esta Resolución.
+RR-SSF-2024-486     Fecha: 21/10/2024 12:14:38
+Exp. 2023-50-1-02619 
+ Publicable: Si - Firmante: CRISTINA ROSARIO RIVERO MORES

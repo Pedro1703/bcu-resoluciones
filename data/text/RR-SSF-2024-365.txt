@@ -1,0 +1,179 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La actuación de seguimiento desarrollada en el BANCO DE LA NACIÓN
+ARGENTINA (SUCURSAL URUGUAY) en el segundo trimestre de 2023.
+RESULTANDO: 
+I) Que en el marco de la actuación referida en el VISTO, se analizaron legajos y
+operaciones  de  clientes,  detectándose  una  operación  que  podría  revestir
+características  de  inusual  o  sospechosa  y  no  fue  analizada  como  tal,
+correspondiente a “cliente determinado”, persona identificada en el expediente
+2023-50-1-01537, por lo que se solicitó la documentación de respaldo y el
+análisis correspondiente al desvío de perfil.
+II) Que analizado los antecedentes, en febrero de 2022, “cliente determinado”,
+empresario argentino, solicitó la apertura de una cuenta en el BANCO DE LA
+NACIÓN ARGENTINA (SUCURSAL URUGUAY).
+III) Que  ante  dicha  solicitud,  la  Oficial  de  Cumplimiento  concluyó  que  “cliente
+determinado” estaba siendo investigado por lavado de activos, sobreprecios y
+soborno, por lo que con la apertura de la cuenta en la institución corría un alto
+riesgo de ser utilizado para maniobras delictivas.
+IV) Que  dicha  persona  fue  detectada  en  el  sistema  de  búsqueda  World
+Compliance, en virtud de lo cual la institución le solicitó información aclaratoria
+que fue proporcionada.
+V) Que en consecuencia, la Unidad de Cumplimiento recomendó no proceder a la
+apertura de cuenta, no obstante lo cual el Gerente autorizó la apertura de la
+cuenta.
+VI) Que en virtud de la documentación aclaratoria proporcionada por el cliente y su
+declaración de ingresos el BANCO DE LA NACIÓN ARGENTINA (SUCURSAL
+URUGUAY) le asignó un perfil transaccional de hasta USD 10.000 mensual
+habiéndolo calificado como de riesgo alto.
+VII) Que  el  día  29  de  junio  de  2022  ingresó  a  su  cuenta  una  transferencia
+proveniente del exterior por USD 700.000 lo cual generó una alerta en el
+sistema por exceder ampliamente el perfil transaccional atribuido.
+VIII) Que a pesar del alto riesgo definido en su perfil, la inconsistencia con la
+declaración de ingresos que presentó y la finalidad para la cual declaró abrir
+la cuenta, la entidad procedió sin más al archivo del alerta.
+IX) Que el Manual de Prevención del Lavado de Activos de la entidad, en su
+numeral 2.3 prevé que “La Sucursal Montevideo del Banco de la Nación
+Argentina está obligada a informar a la Unidad de Información y Análisis
+Financiero  del  Banco  Central  del  Uruguay  (UIAF),  las  transacciones,
+realizadas o no, que, en los usos y costumbres de la respectiva actividad,
+resulten inusuales, se presenten sin justificación económica o legal, o se
+planteen con una complejidad inusitada o injustificada”.
+RR-SSF-2024-365     Fecha: 07/08/2024 16:32:52
+X) Que con fecha 9 de noviembre de 2023 se dio vista a la institución de las
+actuaciones y el día 30 de noviembre de 2023 se presentó un escrito con
+descargos.
+XI) Que en dichos descargos la institución expresa que:
+a) Si bien “cliente determinado” se encontraba siendo investigado por delitos
+de lavado y se le estaba realizando una investigación por los supuestos
+delitos  de  sobreprecios  y  soborno  (siendo  este  el  motivo  de  que
+apareciera en notas de prensa), no estaba condenado ni procesado por la
+justicia  nacional  o  extranjera  por  delitos  relacionados  con  lavado  de
+activos, ni tampoco figuraba en listas de organismos internacionales, por
+lo tanto, no ingresaba dentro de las inhabilitaciones para ser cliente del
+banco de acuerdo al Manual correspondiente.
+b) Los  fondos  provenían  de  una  cuenta  bancaria  del  cliente  en  una
+institución de intermediación financiera suiza, la cual realizó los controles
+pertinentes para corroborar el origen de dichos fondos, así como también
+se  contaba  con  información  respaldante  del  origen,  por  lo  que  no
+existieron sospechas de ilicitud respecto de su procedencia. 
+c) El perfil de USD 10.000 mensuales se le asignó para poder identificar
+cualquier transacción que supere ese umbral y analizarla, que fue lo que
+justamente  hizo  el  Banco,  y  los  controles  de  monitoreo  del  Banco
+funcionaron correctamente. La situación de desvío del perfil del cliente no
+constituye en sí un incumplimiento a la normativa sobre prevención del
+lavado  de  activos,  pues  es  común  que  en  la  operativa  bancaria  los
+clientes  reciban  en  forma  extraordinaria  fondos  mayores  al  perfil
+aprobado, ya sea por venta de inmuebles, herencias, etc.
+d) Existió una alerta que fue atendida. En particular, el Banco le solicitó a
+“cliente determinado” la declaración jurada de impuestos presentada ante
+la autoridad tributaria argentina, donde figura la cuenta origen de los
+fondos transferidos, careciendo de lógica haber declarado ante el fisco de
+su país fondos de origen ilícito. 
+e) Un  reporte  de  operación  sospechosa  no  hubiera  aportado  elementos
+novedosos a la investigación, pues todos los elementos eran conocidos
+por  las  autoridades  públicas  competentes.  De  haberlo  hecho,  dicho
+reporte tendría las características de reporte defensivo, práctica que las
+autoridades ya han considerado que resulta ineficaz e inútil.
+f) La  sanción  vulnera  los  principios  de razonabilidad,  proporcionalidad  y
+gradualidad.
+CONSIDERANDO: 
+I) Que, en concordancia con el deber previsto legalmente en el artículo 12 de la
+Ley 19.574 de 20 de diciembre de 2017, el artículo 313 de la Recopilación de
+Normas de Regulación y Control del Sistema Financiero establece que:  “Las
+instituciones estarán obligadas a informar a la Unidad de Información y Análisis
+Financiero las transacciones, realizadas o no, que, en los usos y costumbres
+de la respectiva actividad, resulten inusuales, se presenten sin justificación
+económica o legal evidente, o se planteen con una complejidad inusitada o
+injustificada, así como también las transacciones financieras que involucren
+RR-SSF-2024-365     Fecha: 07/08/2024 16:32:52
+activos sobre cuya procedencia existan sospechas de ilicitud, a efectos de
+prevenir el delito de lavado de activos y financiamiento del terrorismo. En este
+último caso, la obligación de informar alcanza incluso a aquellas operaciones
+que  –  aun  involucrando  activos  de  origen  lícito  –  se  sospeche  que  están
+vinculadas  a  personas  físicas  o  jurídicas  comprendidas  en  dicho  delito  o
+destinados  a  financiar  cualquier  actividad  terrorista.  La  información  deberá
+comunicarse en forma inmediata a ser calificadas como tales y aun cuando las
+operaciones no hayan sido efectivamente concretadas por la institución ya sea
+porque el cliente desistió de realizarla o porque la institución resolvió no dar
+curso a la misma”.
+II) Que la transacción descrita en el RESULTANDO VII) configura una operación
+inusual o sospechosa en virtud de exceder ampliamente el perfil establecido
+para el cliente, la declaración jurada de ingresos  obrante en la institución,
+teniendo en cuenta que no aportó documentación aclaratoria del origen legítimo
+de los fondos radicados en la institución financiera de Suiza y las noticias que
+involucraban al titular de la cuenta en actividades delictivas vinculadas con el
+lavado de activos, por lo que se ha incumplido el citado artículo 313.
+III) Que el  BANCO DE  LA NACIÓN  ARGENTINA (SUCURSAL URUGUAY) no
+cumplió con su política de prevención del lavado de activos prevista en el
+citado Manual porque no reportó como inusual una transacción del cliente.
+IV) Que el deber de reporte previsto en la citada Ley 19.574 prioriza el interés
+público de cautelar activos de procedencia sospechosa respecto del interés
+comercial de la institución hacia su cliente, y exige a los sujetos obligados la
+comunicación inmediata a la UIAF, a fin de que sea ésta quien pueda evaluar
+tempestivamente la pertinencia de adoptar alguna medida sobre dichos activos.
+V) Que,  de  acuerdo  con  lo  previsto  en  el  inciso  final  del  artículo  12  de  la
+mencionada  Ley  19.574,  el  incumplimiento  de  la  obligación  de  informar
+determinará la aplicación, según las circunstancias del caso, de las sanciones y
+medidas  administrativas  previstas  en  el  Decreto  -  Ley  15.322  de  17  de
+setiembre de 1982 y sus modificativas.
+VI) Que los descargos presentados por la institución no se consideran de recibo
+por las siguientes razones:
+a) El hecho de que los fondos provengan de una institución financiera del
+exterior no exonera a la institución de su deber de analizar la transacción
+con otros elementos, máxime cuando se trata de un importe significativo
+para la entidad. De hecho, el informe profesional de Contador Público del
+03.06.2022 certificando que “cliente determinado” disponía de la suma de
+USD 1.829.157 en la institución financiera de Suiza, no es un dictamen del
+origen lícito de los fondos, sino una certificación de que existían. 
+b) La  institución  no  puede  ignorar  que  el  monto  recibido  del  exterior  que
+generó la alerta no resulta acorde con el perfil definido ni tampoco con el
+nivel  de  ingresos  declarado  y  para  el  cual  presentó  declaración.
+Nuevamente,  no  había  elementos  que  justificaran  el  origen  del  monto
+transferido contrario al perfil (contrato de compraventa de inmuebles, etc.),
+más allá del punto de origen de dicha transferencia. 
+c) Por  tratarse  de  un  cliente  clasificado  de  alto  riesgo  debieron  aplicarse
+procedimientos  de debida diligencia intensificada. Por lo que el informe
+circunstanciado  debió  estar  respaldado  por  documentación  que  permita
+RR-SSF-2024-365     Fecha: 07/08/2024 16:32:52
+establecer la situación patrimonial, económica y financiera o justificar el
+origen de los fondos manejados por el cliente. Al momento de la actuación
+no constaban declaraciones de impuestos, ni estados de responsabilidad.
+d) La  evaluación  de  si  un  reporte  de  operación  sospechosa  aporta  o  no
+nuevos elementos, es competencia de la Unidad de Información y Análisis
+Financiero (UIAF), debiendo limitarse la institución a reportar la operación
+inusual. La operación ni siquiera fue tratada como inusual.
+e) La fijación de la cuantía de la sanción constituye una potestad discrecional
+de la Administración, debiendo tener relación razonable con la gravedad de
+la  infracción  atribuida,  verificándose  en  este  caso  un  quebrantamiento
+normativo de entidad.
+VII) Que  el  artículo  664  de  la  referida  Recopilación  establece  el  elenco  de
+sanciones a aplicar a las instituciones que infrinjan las leyes y decretos que
+rijan  la  intermediación  financiera,  o  las  normas  generales  e  instrucciones
+particulares dictadas por el Banco Central del Uruguay.
+VIII) Que de acuerdo con los criterios establecidos en el Expediente 2006-50-1-
+0930 para sanciones en materia de infracciones a la normativa sobre el
+sistema de prevención del lavado de activos y financiamiento del terrorismo,
+la infracción verificada se encuadra como incumplimiento normativo severo,
+sancionada  con  una  multa  equivalente  al  0.5%  de  la  responsabilidad
+patrimonial básica para bancos.
+IX) Que el BANCO DE LA NACIÓN ARGENTINA (SUCURSAL URUGUAY) no
+registra antecedentes respecto a este tipo de infracciones.
+ATENTO  :   A lo dispuesto en el artículo 20 del Decreto - Ley 15.322 de 17 de
+setiembre de 1982, en la redacción dada por el artículo 6 de la Ley 17.613 de 27
+de diciembre de 2002, el literal L) del artículo 38 de la Ley Nº 16.696 de 30 de
+marzo de 1995, en la redacción dada por el artículo 11 de la Ley Nº 18.401 de 24
+de octubre de 2008, los artículos 12, 14, 15, 16 y 19 de la Ley 19.574 de 20 de
+diciembre de 2017, los artículos 313 y 664 de la Recopilación de Normas de
+Regulación  y  Control  del  Sistema  Financiero,  el  artículo  94  del  Reglamento
+Administrativo  del  Banco  Central  del  Uruguay,  los  Dictámenes  de  la  Asesoría
+Jurídica y las resultancias del expediente administrativo N° 2023-50-1-01537.
+SE RESUELVE:
+1. Sancionar al BANCO DE LA NACIÓN ARGENTINA (SUCURSAL URUGUAY)
+con una multa de UI 650.000 (seiscientas cincuenta mil unidades indexadas).
+2. Notificar al interesado.
+JUAN PEDRO CANTERA
+Superintendente de Servicios Financieros
+RR-SSF-2024-365     Fecha: 07/08/2024 16:32:52
+Exp. 2023-50-1-01537 
+ Publicable: Si - Firmante: Juan Pedro Cantera Sencion

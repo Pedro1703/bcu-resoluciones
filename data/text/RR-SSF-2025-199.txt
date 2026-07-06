@@ -1,0 +1,66 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La Comunicación N°2025/030 de fecha 26 de febrero de 2025 que
+comunica  al  mercado  las  especificaciones  técnicas  para  el  envío  de
+información contable, con vigencia 1° de junio de 2025.
+RESULTANDO: 
+I) Que  el  envío  de  la  información  se  realiza  a  través  del  estándar  de
+intercambio de información financiera XBRL.
+II) Que  es  necesario  adecuar  las  estructuras  de  datos  (Taxonomía  XBRL)
+comunicadas, para garantizar la correcta interpretación y validación de la
+información contable.
+CONSIDERANDO: Que  es  necesario  dar  instrucciones  precisas  a  las
+instituciones para que actualicen sus sistemas informáticos, tomando en cuenta
+las modificaciones en la estructura de datos.
+ATENTO  :   A las atribuciones establecidas en el artículo 14, del Decreto Ley N°
+15.322 de 17 de setiembre de 1982 y en el artículo 38, literales A) e I) de la Ley
+N° 16.696 de 30 de marzo de 1995 según la redacción dada por el artículo 1 y
+2  de  la  Ley  20.345  de  19  de  setiembre  de  2024,  en  la  Resolución  de  la
+Superintendencia  de  Servicios  Financieros  N°  SSF-785-2015  de  24  de
+noviembre de 2015 numeral 5) literal a) y demás antecedentes que lucen en el
+expediente 2025/205.
+EL GERENTE DE GESTIÓN ESTRATÉGICA Y OPERATIVA EN EJERCICIO
+DE ATRIBUCIONES DELEGADAS POR EL SUPERINTENDENTE DE
+SERVICIOS FINANCIEROS 
+RESUELVE:
+Emitir  una  comunicación  al  mercado,  con  las  modificaciones  a  las
+especificaciones técnicas para el envío de información contable especificadas
+en la Comunicación 2025/030 de fecha 26 de febrero de 2025 por parte de las
+Instituciones de Intermediación Financiera y las Empresas Administradoras de
+Crédito de mayores activos, detallando los ajustes técnicos en la Taxonomía
+XBRL:
+Se  modificó  la  URI  correspondiente  al  rol  del  Eje  dimensional  del  Anexo
+“Financiación  Especializada  de  Proyectos  de  Inversión”  (dimen-Fepi),
+sustituyendo: 
+“https://portal.bcu.gub.uy/xbrl/uy/fr/ifrs/bcu/core/dimen/ dimen-Fepi” 
+por:
+“https://portal.bcu.gub.uy/xbrl/uy/fr/ifrs/bcu/core/dimen/dimen-Fepi”
+RR-SSF-2025-199     Fecha: 09/05/2025 11:03:02
+Los puntos de entrada (“entry points”) para acceder a la Taxonomía versión
+2025 se encuentran publicados en:
+Para descargar online desde un editor xbrl:
+https://portal.bcu.gub.uy/xbrl/uy/fr/ifrs/bcu/2025-06-01/iifc/iifc-
+entry_point_diario_individual.xsd
+https://portal.bcu.gub.uy/xbrl/uy/fr/ifrs/bcu/2025-06-01/iifc/iifc-
+entry_point_mensual_individual.xsd
+https://portal.bcu.gub.uy/xbrl/uy/fr/ifrs/bcu/2025-06-01/iifc/iifc-
+entry_point_trimestral_individual.xsd
+https://portal.bcu.gub.uy/xbrl/uy/fr/ifrs/bcu/2025-06-01/iifc/iifc-
+entry_point_semestral_individual.xsd
+https://portal.bcu.gub.uy/xbrl/uy/fr/ifrs/bcu/2025-06-01/iifc-cons/iifc-
+entry_point_mensual_consolidado.xsd
+https://portal.bcu.gub.uy/xbrl/uy/fr/ifrs/bcu/2025-06-01/iifc-cons/iifc-
+entry_point_semestral_consolidado.xsd
+RPN
+https://portal.bcu.gub.uy/xbrl/uy/fr/ifrs/bcu/2025-06-01/iifc/iifc-
+entry_point_mensual_rpn.xsd
+RPN Consolidada
+https://portal.bcu.gub.uy/xbrl/uy/fr/ifrs/bcu/2025-06-01/iifc-cons/iifc-
+entry_point_mensual_rpnc.xsd
+Para descargar directo (zip completo) y abrir offline:
+https://portal.bcu.gub.uy/xbrl/iifc-bcu2025.zip
+CHRISTIAN SALVARREY
+GERENTE DE GESTION ESTRATEGICA Y OPERATIVA
+RR-SSF-2025-199     Fecha: 09/05/2025 11:03:02
+Exp. 2025-50-1-00205 
+ Publicable: Si - Firmante: ALBERTO CHRISTIAN SALVARREY MORO

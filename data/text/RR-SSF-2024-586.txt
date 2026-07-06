@@ -1,0 +1,212 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: El artículo 364 de la Recopilación de Normas de Regulación y Control
+del  Sistema  Financiero,  referido  a  obligaciones  de  los  emisores  de
+instrumentos electrónicos.
+RESULTANDO: 
+I) Que,  a  raíz  de  planteos  formulados  por  usuarios  de  instrumentos
+electrónicos ante el Departamento de Conductas de Mercado, vinculados a
+reclamos  por  desconocimiento  de  operaciones  realizadas  mediante  la
+utilización de los instrumentos de su propiedad que fueron desestimados por
+las instituciones emisoras de los mismos, en el Plan de Regulaciones de
+2024 se incluyó una iniciativa al respecto.
+II) Que el proyecto elaborado extiende la obligación de aplicar un doble factor
+de autenticación para las transferencias o pagos a terceros realizados desde
+una cuenta bancaria a las trasferencias entre cuentas del mismo usuario en
+distintas instituciones y a las solicitudes de préstamos que fueran realizadas
+en forma no presencial.
+III)Que, en lo que respecta a la notificación de las transacciones, se sustituye la
+obligación de ofrecer al usuario la posibilidad de recibir notificaciones cada
+vez que se procesa una transacción por la obligación de remitir las referidas
+notificaciones, manteniendo la posibilidad de que el usuario modifique los
+parámetros de estas notificaciones o decida no recibirlas.
+IV) Que la propuesta normativa antes mencionada fue puesta a consulta de las
+instituciones supervisadas y del público en general con fecha 23 de agosto
+de 2024, venciendo el plazo para la recepción de comentarios el día 18 de
+octubre de 2024.
+V) Que se recibieron comentarios de: la Asociación de Bancos Privados del
+Uruguay (ABPU), de Banco Itaú Uruguay S.A, de la Asociación Nacional de
+Empresas Administradoras de Crédito (ANEAC), de Abitab, del Sr. Pablo
+Thomasset, de Paigo, de Crédito Naranja, de Citibank NA y del Banco de la
+República Oriental del Uruguay (BROU).
+VI) Que  los  principales  comentarios  refirieron  a  las  dificultades  para
+implementar notificaciones para todas las transacciones y la necesidad de
+que  la  vigencia  de  la  norma  (dispuesta  en  el  1°  de  enero  de  2025)
+considere  los  desarrollos  informáticos  que  se  requieren.  Asimismo,  se
+recibieron muchas consultas en relación con la aplicación de la normativa
+propuesta. 
+CONSIDERANDO: 
+RR-SSF-2024-586     Fecha: 20/12/2024 21:16:54
+I) Que  los  comentarios  recibidos  de  la  industria  aportaron  elementos  que
+permitieron mejorar la propuesta original, corroborando el valor que tiene
+para el regulador el proceso de consulta.
+II) Que,  considerando  los  comentarios  antedichos,  se  admitirá  como
+mecanismo de autenticación reforzada de clientes para las solicitudes de
+préstamos que fueran realizadas en forma no presencial, la firma electrónica
+avanzada brindada por prestadores en el marco de la Ley N°18.600 de 21
+de setiembre de 2009 y sus modificativas y reglamentarias.
+III)Que se ha entendido razonable extender la fecha de entrada en vigencia del
+requerimiento relativo a la notificación de operaciones a clientes al 1° de julio
+de 2025, y la fecha de entrada en vigencia de la obligación de aplicar la
+autenticación  reforzada  en  las  solicitudes  de  préstamos  que  fueran
+realizadas en forma no presencial al 1° de marzo de 2025.
+ATENTO  :   A lo dispuesto en el artículo 38 de la Ley Nro. 16.696 del 30 de
+marzo de 1995 en la redacción dada por el artículo 11 de la Ley Nro. 18.401 del
+24 de octubre de 2008 y a los informes de la Superintendencia de Servicios
+Financieros.
+SE RESUELVE:
+1. SUSTITUIR  en  el  Título  II  –  Instrumentos  electrónicos  del  Libro  IV  –
+Protección al usuario de servicios financieros de la Recopilación de Normas
+de  Regulación  y  Control  del  Sistema  Financiero  el  artículo  364  por  el
+siguiente:
+ARTÍCULO 364 (OBLIGACIONES DEL EMISOR). 
+El emisor del instrumento electrónico deberá:
+a. Informar por escrito al usuario del instrumento electrónico, previo a la
+celebración del contrato, de sus obligaciones y responsabilidades en el
+uso del sistema, indicando como mínimo las que sean aplicables entre
+las enumeradas en los artículos 366 y 367. Dicha comunicación deberá
+realizarse en un documento distinto al contrato suscrito por las partes,
+sin perjuicio de ser incluidas también en él. 
+b. Revelar el número de identificación personal u otra clave únicamente al
+usuario.
+c. Entregar  solamente  aquellos  instrumentos  electrónicos  solicitados
+expresamente por el cliente, salvo cuando se trate de la renovación de
+un instrumento electrónico que ya poseía. 
+d. Proporcionar  al  cliente  elementos  que  le  permitan  comprobar  las
+operaciones realizadas, de los cuales al menos uno deberá ser sin costo
+para los clientes.
+e. Proporcionar al cliente elementos que le permitan identificar claramente
+el motivo de una operación no aceptada, salvo en los casos en que se
+deban  respetar  requisitos  de  confidencialidad  establecidos  legal  o
+reglamentariamente.
+RR-SSF-2024-586     Fecha: 20/12/2024 21:16:54
+f. Informar al cliente sobre los principales riesgos a que está expuesto al
+utilizar el instrumento electrónico para realizar transacciones financieras,
+y  proporcionarle  recomendaciones  sobre  cómo  debe  protegerse
+adecuadamente para mitigar dichos riesgos. 
+g. Informar el procedimiento que deberá seguir el cliente para efectuar la
+notificación  de  sustracción,  hurto,  rapiña  o  extravío  del  instrumento
+electrónico o de alguna de las circunstancias previstas en el literal h) del
+artículo  366,  garantizar  la  existencia  de  medios  adecuados  para
+realizarla y acreditar que dicha notificación ha sido efectuada. A estos
+efectos,  el  emisor  (o  la  institución  por  él  indicada)  proporcionará  al
+usuario un número que identifique su denuncia y señalará la fecha y
+hora  de  la  misma.  Los  medios  para  efectuar  la  notificación  deberán
+operar todos los días del año, durante las veinticuatro horas.
+h. Demostrar, en caso de un reclamo del usuario en relación con alguna
+transacción efectuada, y sin perjuicio de cualquier prueba en contrario
+que el usuario pueda producir, que la transacción: 
+ ha sido efectuada de acuerdo con los procedimientos acordados con
+el cliente;
+ ha sido registrada y contabilizada correctamente;
+ no  se  ha  visto  afectada  por  un  fallo  técnico  o  por  cualquier  otra
+anomalía; y
+ ha sido correctamente autenticada de acuerdo con la metodología
+establecida para la misma, debiendo además poner a su disposición -
+independientemente si el instrumento fue utilizado en el país o en el
+exterior  -  la  información  resguardada  señalada  en  el  literal  i)  y
+cualquier otro elemento que permita demostrar que dicha transacción
+fue realizada por el cliente o por terceros con conocimiento del cliente.
+En caso de no poder demostrarlo, el emisor será responsable de la
+transacción  reclamada,  siempre  que  no  sea  atribuible  a
+incumplimientos de las obligaciones del usuario. A efectos de cumplir
+con  esta  obligación  no  serán  oponibles  las  condiciones  de  los
+contratos que el emisor hubiese firmado con terceros. 
+i. Establecer  medidas  que  permitan  garantizar  razonablemente  la
+seguridad  del  sistema  en  que  opera  el  instrumento,  que  incluyan
+metodologías de autenticación asociadas a los riesgos de los distintos
+tipos  de  transacciones  y  niveles  de  acceso  para  asegurar  que  las
+operaciones  realizadas  en  el  mismo  sean  las  efectuadas  por  las
+personas  autorizadas,  considerando  cuando  corresponda,  lo
+dispuesto en el artículo 364.1. 
+Asimismo,  deberán  establecer  medidas  de  monitoreo  y  control  que
+permitan  detectar  hechos  irregulares  vinculados  con  el  uso  del
+instrumento o el sistema en el que opera, incluyendo los cambios e
+intentos  de  cambios  de  clave,  número  de  identificación  personal,
+dirección, teléfono y correo electrónico de contacto, medios establecidos
+para recibir comunicaciones, entre otros.
+      Dicho sistema deberá resguardar, como mínimo:
+RR-SSF-2024-586     Fecha: 20/12/2024 21:16:54
+ fechas y horas de las operaciones;
+ contenidos de los mensajes;
+ identificación de operadores, emisores y receptores;
+ cuentas y montos involucrados;
+ mecanismo de autenticación del usuario utilizado en la operación;
+ identificación de la terminal desde la cual se operó; y 
+ si la operación fue realizada en forma presencial o remota.
+j. Velar por el correcto funcionamiento del sistema, y la prestación continua
+del servicio, en circunstancias normales. 
+k. Anular del sistema a los instrumentos electrónicos el día en que pierdan
+validez (por vencimiento o por decisión de las partes conforme a los
+términos del contrato).
+l. Determinar los medios y formas por los cuales la institución se podrá
+comunicar con el cliente. Deberá indicarle, de ser el caso, que nunca le
+solicitará que revele sus claves de identificación personal bajo ninguna
+circunstancia ni por ningún medio.
+      El usuario declarará – como mínimo – dos direcciones de contacto
+(dirección,  teléfono,  correo  electrónico,  entre  otras)  a  los  efectos  de
+recibir  comunicaciones,  notificaciones  o  avisos  en  relación  con  el
+instrumento  electrónico,  debiendo  el  emisor  establecer  medidas  que
+garanticen  razonablemente  la  veracidad  de  la  información
+proporcionada.  Estas  medidas  deberán  establecerse  al  momento  de
+celebración del contrato y toda vez que se solicite la modificación de
+dichos datos. En el caso de clientes que dispongan de una sola dirección
+de  contacto, cuando  se  solicite  su  modificación  la  institución  deberá
+obtener otra dirección a efectos de cumplir con lo dispuesto en el literal
+m).
+m. Comunicar al usuario la comisión de cualquier ilícito o hecho irregular
+vinculado  al  instrumento  electrónico  de  su  titularidad  al  detectarlo  o
+tomar  conocimiento  del  mismo.  Asimismo,  deberá  comunicarle  todo
+intento o solicitud de modificación de los datos referidos en el literal i),
+indicando la solicitud de modificación recibida. Cuando se trate de la
+información de contacto del cliente, la comunicación deberá dirigirse,
+como mínimo, a dos de las direcciones de contacto válidas previamente
+y deberá indicar el procedimiento a seguir para validar o rechazar el
+cambio  solicitado.  Una  vez  realizada  la  modificación,  se  deberá
+comunicar tal extremo al usuario.
+n. Remitir  notificaciones  al  usuario vía  medios  electrónicos  (correo
+electrónico,  mensajería  instantánea,  SMS,  notificación  en  su  propia
+aplicación,  entre  otros)  cada  vez  que  se  procesa  una  transacción
+vinculada  al  instrumento  electrónico  de  su  titularidad,  la  que  deberá
+indicar  los  medios  disponibles  para  realizar  consultas  o  reclamos
+vinculados  con  la  transacción.  Al  menos  uno  de  dichos  medios
+electrónicos deberá ser sin costo. 
+El  usuario  podrá  modificar  los  parámetros  de  estas  notificaciones  o
+decidir no recibirlas. En este último caso, el emisor deberá guardar la
+RR-SSF-2024-586     Fecha: 20/12/2024 21:16:54
+constancia  de  la  decisión  informada  del  cliente  de  modificar dichas
+notificaciones por medios que permitan su verificación, conforme a lo
+dispuesto por el artículo 496.
+VIGENCIA: Las  modificaciones  dispuestas  en  el  literal  n.  del  presente
+artículo regirán a partir del 1 de julio de 2025.
+2. INCORPORAR  en el Título II – Instrumentos electrónicos del Libro IV –
+Protección al usuario de servicios financieros de la Recopilación de Normas
+de Regulación y Control del Sistema Financiero el siguiente artículo 364.1:
+ARTÍCULO 364.1 (AUTENTICACIÓN REFORZADA DE CLIENTES). 
+Las medidas de seguridad a que refiere el literal i) del artículo 364 deberán
+incluir, como mínimo, la aplicación de un doble factor de autenticación para
+las siguientes operaciones:
+a) Transferencias o pagos a terceros realizados desde una cuenta bancaria
+y transferencias a cuentas propias entre distintas instituciones.
+b) Solicitud  de  préstamos  que  fueran  realizadas  en  forma  no
+presencial.
+Para  la  aplicación  del  referido  doble  factor  de  autenticación  se  deben
+combinar  al  menos  dos  factores  de  categorías  distintas  (conocimiento,
+posesión e inherencia).
+Asimismo, se admitirá como mecanismo de autenticación reforzada de
+clientes para la solicitud de préstamos a que refiere el literal b) la firma
+electrónica avanzada brindada por prestadores en el marco de la Ley
+N°  18.600  de  21  de  setiembre  de  2009  y  sus  modificativas  y
+disposiciones reglamentarias.
+Se  aceptará  la  firma  electrónica  avanzada  basada  en  certificados
+emitidos por prestadores acreditados ante la Unidad de Certificación
+Electrónica o que sean reconocidos como equivalentes cuando hayan
+sido emitidos por entidades no establecidas en el territorio nacional.
+VIGENCIA: Lo dispuesto en el literal b) del presente artículo regirá a partir
+del 1 de marzo del 2025.
+3. COMUNICAR lo dispuesto en los numerales 1. y 2. mediante Circular.
+JUAN  PEDRO CANTERA
+Superintendente de Servicios Financieros
+RR-SSF-2024-586     Fecha: 20/12/2024 21:16:54
+Exp. 2023-50-1-01824 
+ Publicable: Si - Firmante: Juan Pedro Cantera Sencion

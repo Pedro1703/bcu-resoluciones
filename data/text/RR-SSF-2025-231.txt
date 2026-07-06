@@ -1,0 +1,54 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La solicitud de autorización presentada por Banco Santander S.A. para
+la  tercerización  de  servicios  en  Seglan  S.L.  (España)  y  Microsoft  Ireland
+Operations Limited (Irlanda) en el marco de los proyectos “Onboarding Digital”,
+“Portal Público”, “3D Secure” y “Contactabilidad”.
+RESULTANDO:
+I) Que  para  la ejecución  de  los  proyectos  referidos  en  el  Visto  Banco
+Santander S.A. recibe los siguientes servicios:
+i) generación  de  códigos  OTP  para  autenticación  de  transacciones
+online,
+ii) servicios de mensajería digital mediante plataformas,
+iii) alojamiento en la nube de formularios y sitios web públicos, y
+iv)procesamiento  de  formularios  digitales  vinculados  al  proceso  de
+onboarding.
+II) Que la prestación implica alojamiento de datos en la nube de Microsoft
+Azure, a la que se accede mediante la contratación de Microsoft Ireland
+Operations  Limited  por  parte  de  Santander  Global  Technology  &
+Operations S.L. (España).
+III) Que  el  marco  documental  presentado  para  la  contratación  de  los
+servicios con Microsoft Ireland Operations Limited es igual al presentado
+oportunamente  en  el  expediente  N°  2023-50-1-01668  y  autorizado
+mediante resolución RR-SSF-2024-423 del 03.09.2024.
+CONSIDERANDO:
+I) Que Banco Santander S.A. ha presentado la documentación requerida
+por la normativa vigente.
+II) Que,  analizadas  las  condiciones  de  los  servicios,  así  como  la
+información  y  demás  documentación  presentada,  no  se  perciben
+objeciones para autorizar la tercerización de servicio solicitada.
+III) Que si bien existen subcontrataciones vinculadas a los servicios objeto
+de la presente solicitud, tales como Micropagos S.A., Credileads S.A.
+(F1rst)  e  Isbel  S.A,  las  mismas  han  sido  informadas  oportunamente
+conforme a la normativa vigente, sin que se requiera su autorización
+expresa en esta instancia.
+ATENTO: A lo dispuesto en el artículo 2 de la Ley 17.613 de fecha 27 de
+diciembre de 2002, en los artículos 35.1 y siguientes y 294.1 de la Recopilación
+de Normas de Regulación y Control del Sistema Financiero, a la Resolución
+RR-SSF-2025-231     Fecha: 22/05/2025 16:58:01
+SSF  N°  785-2015  de  fecha  24  de  noviembre  de  2015  y  a  los  informes
+contenidos en el expediente N° 2024-50-1-00289.
+LA INTENDENTE DE SUPERVISIÓN FINANCIERA
+EN EJERCICIO DE ATRIBUCIONES DELEGADAS POR EL
+SUPERINTENDENTE DE SERVICIOS FINANCIEROS,
+RESUELVE:
+1) Autorizar a Banco Santander S.A. a tercerizar en Seglan S.L. (España) y
+Microsoft Ireland Operations Limited (Irlanda) los servicios vinculados a los
+proyectos  “Onboarding  Digital”,  “Portal  Público”,  “3D  Secure”  y
+“Contactabilidad”  en  los  términos  informados  mediante  notas  del  16  de
+noviembre de 2023, 3 de junio, 11 de setiembre y 11 de noviembre de 2024
+y 14 de febrero de 2025.
+2) Notificar a Banco Santander S.A. lo resuelto.
+RR-SSF-2025-231     Fecha: 22/05/2025 16:58:01
+Exp. 2024-50-1-00289 
+ Publicable: Si - Firmante: CRISTINA ROSARIO RIVERO MORES

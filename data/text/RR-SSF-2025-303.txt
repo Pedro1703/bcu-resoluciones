@@ -1,0 +1,300 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La actuación enfocada realizada en GLETIR CORREDOR DE BOLSA
+S.A. en el año 2024, que incluyó el seguimiento de las debilidades constatadas
+en actuaciones de supervisión realizadas en los años 2018 y 2020.
+RESULTANDO: 
+I) Que la actuación referida en el VISTO se centró en temas de protección al
+inversor relativa a colocaciones de instrumentos de oferta privada, así como
+un  seguimiento  de  las  debilidades  que  se  encontraban  pendientes  de
+verificar  su  efectiva  solución  luego  de  las  actuaciones  de  supervisión
+realizadas en los años 2018 y 2020.
+II) Que si bien se verificaron avances en la implementación de algunas de las
+medidas  correctivas  propuestas  que  han  permitido  levantar  ciertas
+observaciones, algunas de las medidas implementadas requieren ajustes a
+efectos de dar cumplimiento a la normativa vigente, además de detectarse
+nuevas debilidades.
+III) Que los hechos constatados en el marco de la citada actuación inspectiva
+son los siguientes:
+a) GLETIR CORREDOR DE BOLSA S.A. coloca a sus clientes valores de
+emisión privada efectuada por una empresa vinculada y actúa como
+representante  de  los  tenedores  de  dichos  valores.  Los  estados
+financieros  de  dicha  empresa  presentaron  patrimonio  negativo  al
+31/12/2021 y al 31/12/2022 lo cual no fue informado por el intermediario
+a sus clientes, mientras que la cláusula 17 del programa de la referida
+emisión, dispone como causal de la exigibilidad anticipada, el deterioro
+de la solvencia del emisor.
+b) Se detectaron casos de tres clientes  que operaron con valores de oferta
+privada y en cuyos estados de cuenta se informó (a través del sistema
+Backend) una rentabilidad anual superior a la real.
+c) En la emisión de valores de oferta privada de otra empresa, donde el
+intermediario  es  agente  colocador  de  los  instrumentos  emitidos  y
+representante de los tenedores, se observó que dos instrumentos (los
+vales 3 y 10) fueron colocados a una persona física que no figura en el
+inventario de clientes y no tiene contrato firmado ni perfil inversor.
+d) El intermediario ofrece a sus clientes invertir en valores de oferta privada
+(vales) de dos empresas, una de ellas vinculada. A efectos de adquirir
+los  vales  de  las  mencionadas  sociedades,  los  clientes  firman  un
+formulario que incluye la cláusula 4 llamada "Calificación de Riesgo" que
+establece: “Ni el Emisor ni los Valores emitidos por este, respecto de los
+cuales se solicita su adquisición, cuentan con Calificación de Riesgo, por
+lo  que  el  Cliente  reconoce  y  acepta  que  los  mismos  pueden  no
+RR-SSF-2025-303     Fecha: 20/06/2025 15:43:33
+adecuarse a su Perfil de Inversión, asumiendo los riesgos asociados con
+la presente operación.”
+e) Se constató la existencia de operaciones de valores de oferta privada no
+reportadas  en  el  Registro  de  Operaciones.  Además,  se  detectaron
+operaciones reportadas con múltiples errores de diversa índole como
+ser,  tipo  de  instrumento,  moneda,  monto,  tipo  de  oferta,  etc.  De  la
+revisión del Registro de Ordenes de 2023, se constató que no incluye las
+órdenes recibidas para la compra de valores de oferta privada de las
+emisiones de las dos referidas empresas. 
+f) El  intermediario  mantiene  parte  de  sus  custodias  en  dos  empresas
+vinculada:  GLT  Casa  de  Bolsa  S.A.  (entidad  paraguaya)  y  PP
+Inversiones  S.A.  (entidad  argentina),  entre  otras  entidades.  En  una
+instrucción emitida en 2018  titulada “Custodia del valores y efectivo en
+sociedad del grupo” se le instruyó a transferir los saldos en custodia en
+PP  Inversiones  S.A.  a  cuentas  bajo  su  titularidad  y  disposición  en
+entidades de custodia no vinculadas.
+g) Los clientes que operan mediante Plataforma Gletir Global lo hacen en
+cuenta ómnibus, mediante modalidad de autogestión (el cliente opera
+directamente su cuenta). Si bien el cliente es alertado en la plataforma
+cuando el instrumento que desea adquirir no está dentro de su perfil
+inversor, en la cláusula 3.11 del contrato "Plataforma Gletir Global" se
+indica  que  "Las  operaciones  que  el  Cliente  solicite  a  través  de  la
+Plataforma  Gletir  Global  se  ejecutarán  a  través  de  ésta  en  forma
+inmediata a su confirmación por parte del Cliente. Tenga en cuenta que
+las mismas pueden no ajustarse a su Perfil de Inversión.", y que "Todas
+y cada una de las decisiones que tome el Cliente serán de su exclusiva y
+total responsabilidad".
+h) El 43 % de la cartera de clientes no tiene definida una estrategia de
+inversión. Asimismo, mantienen un perfil inversor definido por medio de
+un  formulario  de  apertura  o  de  actualización  que  no  incorpora  los
+factores edad y rentabilidad deseada. Si bien para el 37 % de la cartera
+de clientes  se actualizó el perfil inversor por medio de carta, correo
+electrónico o pop up (por sistema Backend), en ninguno de los tres
+casos se realizó el cuestionario necesario para poder determinar el perfil
+inversor del cliente.
+i) De acuerdo a la metodología definida por el intermediario, los perfiles y
+las estrategias conservadora y moderada presentan composiciones que
+no son adecuadas para el nivel de riesgo definido en su cartera, lo que
+permite  que  existan  situaciones  donde  solamente  el  50  %  sean
+productos conservadores. El perfil moderado puede contener hasta 50 %
+de productos agresivos, lo que permite que existan situaciones donde
+solamente el 50 % sean productos moderados. El perfil moderado no
+incluye en el portafolio los instrumentos derivados, sin embargo, de una
+muestra  se  detectó  un  cliente  moderado  que  mantiene  posición  en
+dichos  instrumentos.  El  nuevo  formulario  de  perfil  inversor  presenta
+debilidades, lo que deriva en perfiles de inversión con mayor riesgo del
+que el cliente estaría dispuesto a asumir considerando las respuestas
+brindadas.
+RR-SSF-2025-303     Fecha: 20/06/2025 15:43:33
+j) En relación al sistema para prevenir el lavado de activos, para el 100%
+de la muestra de clientes, el perfil transaccional de ingresos no está
+justificado y el informe circunstanciado no detalla todos los elementos
+considerados para determinar el perfil transaccional de posición, entre
+otros faltantes.
+k) Si bien la matriz de categorización de riesgos de los clientes para el
+sistema de prevención de lavado considera a Sudáfrica como país de
+alto  riesgo,  un  cliente  con  dicha  residencia  está  categorizado  como
+riesgo bajo. La matriz incorpora como un factor de riesgo la posición del
+cliente mayor a USD 1.5 millones que es el monto significativo. Esta cifra
+definida no contribuye a una adecuada segmentación de la cartera. En lo
+referente a la definición del monto significativo, la política de prevención
+del lavado de activos considera únicamente el saldo de la posición del
+cliente, no incluyendo los ingresos anuales acumulados. De la muestra
+analizada dos clientes ingresaron más de USD 1,5 millones (umbral de
+monto  significativo  definido  por  el  intermediario)  y  no  fueron
+categorizados como clientes que operan por montos significativos.
+l) El intermediario utiliza la aplicación de “Whatsapp Personal” por parte de
+los empleados para la recepción de órdenes de clientes, comunicación y
+envío de documentación de productos o servicios, sin haber solicitado
+previamente la autorización.
+m) Si  bien  la  institución  cuenta  con  el  documento  “Políticas  y
+procedimientos para la gestión del riesgo operativo” elaborado por su
+departamento de administración y aprobado por el directorio en 2021,
+continúan sin realizar una evaluación formal de riesgos y controles en
+los procesos de la institución.
+n) El  intermediario  ha  dado  cumplimiento  parcial  al  plan  de  acción
+presentado, en tanto los controles sobre  los  usuarios  con  privilegios
+especiales continúan sin implementarse.
+o) Se  implementó  un  sistema  de  monitoreo  automático  relativo  a  la
+prevención de lavado de activos, con alertas por quiebre de perfil y
+alertas  diarias  de  ingresos/egresos  mayores  a  USD  50.000.  Sin
+embargo, se constató que para 3 clientes (no se generó alerta en el
+sistema por ingreso de fondos/valores, cuando debieron generarse. Para
+algunos instrumentos financieros, las operaciones aparecen con monto
+cero y el sistema de monitoreo no lo considera, por tanto, no genera la
+alerta correspondiente.
+IV) Que las observaciones antes mencionadas fueron notificada al intermediario
+a través de la nota NE/4/2024/1565 de 30 de mayo de 2024.
+V) Que con fecha 14 de noviembre de 2024 se dio vista a la institución de las
+actuaciones y el día 12 de diciembre de 2024 se presentó un escrito con
+descargos.
+VI) Que en dichos descargos la institución expresa que:
+RR-SSF-2025-303     Fecha: 20/06/2025 15:43:33
+a) El patrimonio negativo del emisor fue producido a raíz de la compra de la
+cartera de créditos a cobrar, que fueron posteriormente cedidos como
+garantía de emisión, tratándose de un efecto meramente contable.
+b) Los  errores  en  la  rentabilidad  informada  fueron  solucionados  en  el
+sistema.
+c) La emisión privada de valores fue cancelada en forma anticipada, según
+los términos y condiciones de la misma, por lo que los valores emitidos
+bajo ésta fueron cancelados.
+d) A efectos de cumplir con la instrucción particular sobre clasificación de
+valores  de  oferta  privada  fue  modificado  el  texto  a  utilizarse  en  las
+órdenes de clientes, así como el procedimiento de colocación de estos
+instrumentos.
+e) Los  errores  en  los  registros  fueron  subsanados  en  su  totalidad,
+incluyéndose  las  órdenes  para  valores  de  oferta  privada  dentro  del
+registro de órdenes.
+f) Las  cuentas  del  intermediario  para  fondos  de  terceros  para  ambas
+instituciones  vinculadas,  y  los  saldos  de  efectivo  que  se  mantenían
+fueron  transferidos  a  cuentas  de  terceros  en  otros  depositarios  no
+vinculados.
+g) Fue reconfigurado el sistema para que cuando el cliente compre un
+producto que no se ajusta a su perfil de inversión, sea advertido de la
+situación y, en caso de querer continuar con la operación, deba ratificar
+la orden en forma previa a la ejecución de la misma.
+h) Se ajustó la metodología para determinar el perfil de inversión, así como
+las estrategias asociadas a los mismos.
+i) Se implementó un mecanismo de control para la determinación de los
+perfiles en función de monto en custodia manejado por cada cliente, y un
+umbral  material  para  mejorar  la  eficiencia  del  sistema  de  control  de
+alertas.
+j) Las  debilidades  detectadas  fueron  subsanadas  en  su  totalidad,
+actualizando la ponderación de los factores de riesgo aplicables.
+k) Se procedió a realizar un contrato de “Whatsapp Business”, el cual al día
+de la fecha fue debidamente informado en el portal de tercerizaciones
+del Banco Central del Uruguay.
+l) El plan de acción en curso incluye la actualización de las políticas de
+gestión de riesgo operacional, contemplando la evaluación formal de los
+riesgos en forma periódica.
+m) Las debilidades detectadas no son de una entidad tal que justifiquen la
+sanción económica que se pretende imponer.
+RR-SSF-2025-303     Fecha: 20/06/2025 15:43:33
+n) Se debe tener presente que el intermediario no registra antecedentes
+por las alegadas infracciones.
+CONSIDERANDO: 
+I) Que el artículo 67.1 de la Recopilación de Normas del Mercado de Valores
+(RNMV) establece que los intermediarios de valores deberán solicitar la
+autorización  de  la  Superintendencia  de  Servicios  Financieros  para  la
+contratación de terceros para la prestación en su favor de aquellos servicios
+de tal modo inherentes a su giro que, cuando son cumplidos por sus propias
+dependencias, se encuentran sometidos a las potestades de regulación y
+control de la referida Superintendencia.
+II) Que el artículo 67.1.1 de la RNMV dispone que l a autorización a que refiere
+el artículo 67.1 podrá ser otorgada en forma expresa o tácita dependiendo
+las condiciones de la tercerización, mientras que cuando la misma implique
+el procesamiento de datos se aplicará además lo dispuesto en los artículos
+67.2 y 67.3.
+III) Que  el  literal  d)  del  artículo  208.2  de  la  RNMV  establece  que  los
+intermediarios deberán i nformar sobre los principales riesgos en que se
+incurre en el uso de los productos o servicios contratados, mediante una
+forma de comunicación efectiva distinta del contrato.
+IV) Que el artículo 208.10 de la RNMV dispone que los servicios prestados por
+intermediarios de valores, asesores de inversión y gestores de portafolios
+deberán estar precedidos por la celebración de un contrato escrito en el que
+se delimiten en forma clara las responsabilidades asumidas por cada una
+de las partes y, en particular en el caso de los intermediarios de valores, se
+deberá dejar constancia de lo previsto en el artículo 209.
+V) Que los artículos 5, 18 y 26 de la Ley 18.627 de 2 de diciembre de 2009
+establecen el deber de los intermediarios de valores de informar al inversor
+en forma veraz, suficiente y oportuna, toda información esencial respecto de
+sí mismos, de los valores ofrecidos y de la oferta con la finalidad de que
+dispongan de los elementos adecuados para adoptar su decisión y estar en
+condiciones de mensurar el riesgo que asume.
+VI) Que  el  patrimonio  negativo  del  emisor  a  que  refiere  el  literal  a)  del
+RESULTANDO III) se determinó a través de la aplicación de las normas
+contables adecuadas vigentes en Uruguay, por lo que no corresponde al
+intermediario  de  valores  determinar  en  qué  circunstancias  procede  la
+comunicación a los tenedores de los títulos y en cuáles no.
+VII) Que en materia de valores privados emitidos localmente, el literal d. del
+artículo  210  de  la  RNMV  dispone  que  los  intermediarios  deberán
+proporcionar  a  sus  clientes  toda  información  relevante  posterior  a  la
+emisión.
+VIII) Que  el  artículo  212  de  la  RNMV  establece  que  los  intermediarios  de
+valores deberán poner a disposición de sus clientes periódicamente, los
+estados de cuenta detallando las transacciones realizadas, la comisión
+RR-SSF-2025-303     Fecha: 20/06/2025 15:43:33
+del intermediario por cada una y el saldo de efectivo y valores de sus
+clientes.
+IX) Que el artículo 213 de la RNMV establece que los intermediarios de valores
+deberán determinar las categorías en las cuales clasificarán a cada uno de
+sus clientes, en función del grado de riesgo, sofisticación y conocimiento de
+cada uno de ellos, con el propósito de identificar los diferentes productos y
+operaciones  acordes  con  dichas  categorías.  Asimismo,  se  deberán
+establecer  procedimientos  que  permitan  asegurar  que  los  servicios
+prestados  se  corresponden  con  los  perfiles, así como  resolver  aquellas
+situaciones en las cuales el cliente decida apartarse del perfil inicialmente
+establecido,  debiendo  obtenerse  su  conformidad  por  los  medios
+previamente acordados y guardar la correspondiente constancia.
+X) Que  el  artículo  213.1  de  la  RNMV  establece  que  cuando  se  presten
+servicios de asesoramiento y de gestión de portafolios se deberá acordar
+con el cliente una estrategia de inversión, entendiendo por tal el conjunto de
+reglas, comportamientos y procedimientos diseñados para orientarlo en la
+selección de una cartera de valores.
+XI) Que el literal c. del artículo 300 de la RNMV obliga a los intermediarios de
+valores a llevar un registro de operaciones, mientras que la Comunicación
+2023/006 establece las disposiciones a efectos dar cumplimiento con el
+mencionado registro.
+XII) Que  la  subsanación  de  los  incumplimientos  detectados  y  las  acciones
+implementadas por la entidad con posterioridad a la constatación de las
+infracciones  sólo  podrá  operar  para  evitar  nuevas  sanciones  como  la
+propuesta en el futuro, pero no enervan su configuración ni la eximen de
+responsabilidad administrativa por tales hechos.
+XIII) Que  el  literal  c.  del  artículo  351  de  la  RNMV  dispone  el  elenco  de
+sanciones a las que serán pasibles los intermediarios de valores  que
+infrinjan las normas legales o reglamentarias, o las normas generales e
+instrucciones particulares en la materia dictadas por el Banco Central del
+Uruguay.
+XIV) Que el artículo 361 de la RNMV establece que la falta de cumplimiento,
+en  tiempo  y  forma,  de  las  instrucciones  particulares  impartidas  a  las
+instituciones  controladas, será sancionada con una multa equivalente a
+diez veces la establecida en el artículo 357 de esta Recopilación.
+XV)Que el artículo 367 de la RNMV dispone que las instituciones supervisadas
+que  incumplan  con  el  mantenimiento  de  los  registros  previstos  en  la
+normativa vigente serán sancionadas con una multa equivalente a diez
+veces la establecida en el artículo 357.
+XVI) Que  el  artículo  373  de  la  RNMV  establece  que  los  intermediarios  de
+valores que no cumplan con el sistema integral para prevenirse de ser
+utilizados en el lavado de activos, el financiamiento del terrorismo y el
+financiamiento de la proliferación de armas de destrucción masiva, serán
+sancionados con una multa equivalente a cincuenta veces la establecida
+en el artículo 357, aunque en el caso de GLETIR CORREDOR DE BOLSA
+RR-SSF-2025-303     Fecha: 20/06/2025 15:43:33
+S.A. se valora que las debilidades verificadas permiten una reducción de
+la cuantía referida en función de lo establecido en el artículo 351 de la
+RNMV.
+XVII) Que  GLETIR  CORREDOR  DE  BOLSA S.A.  no  registra  antecedentes
+respecto a este tipo de infracciones.
+XVIII) Que  la  fijación  de  la  cuantía  de  la  sanción  constituye  una  potestad
+discrecional de la Administración, debiendo tener relación razonable con
+la gravedad de la infracción atribuida, verificándose en este caso un
+quebrantamiento normativo de entidad.
+XIX) Que  en  consecuencia, se  entiende  razonable  fijar, por el conjunto  de
+incumplimientos detectados, una multa global de UI 150.000.
+XX)Que el artículo 118 de la citada Ley 18.627 establece que las sanciones
+dispuestas por el Banco Central del Uruguay deberán ser publicadas.
+ATENTO  :   A lo dispuesto en el literal L) del artículo 38 de la Ley 16.696 de 30
+de marzo de 1995, en la redacción dada por el artículo 11 de la Ley 18.401 de
+24 de octubre de 2008, los artículos 5, 18, 26, 97 (numeral 5), 100 y 118 de la
+Ley N° 18.627 de 2 de diciembre de 2009, el artículo 2 de la Ley 17.613 de 27
+de diciembre de 2002, los artículos 67.1, 67.1.1, 67.2, 67.3, 194, 208.2, 208.10,
+210, 212, 213, 213.1, 300, 351, 357 y 374.1 de la Recopilación de Normas del
+Mercado de Valores, la Comunicación 2023/006 de 10 de enero de 2023, en el
+artículo 94 del Reglamento Administrativo del Banco Central del Uruguay, a los
+Dictámenes 2024/380 y 2025/026 de la Asesoría Jurídica y a las actuaciones y
+resultancias en el expediente administrativo N° 2024-50-1-01424.
+SE RESUELVE:
+1. Sancionar a GLETIR CORREDOR DE BOLSA S.A. con una multa de UI
+150.000 (ciento cincuenta mil unidades indexadas) por los incumplimientos
+detectados en la actuación enfocada realizada en el año 2024.
+2. Notificar al interesado.
+3. Emitir una Comunicación haciendo saber lo dispuesto en el numeral 1. de
+esta Resolución. 
+JUAN PEDRO CANTERA
+Superintendente de Servicios Financieros
+RR-SSF-2025-303     Fecha: 20/06/2025 15:43:33
+Exp. 2024-50-1-01424 
+ Publicable: Si - Firmante: JUAN PEDRO CANTERA SENCIÓN

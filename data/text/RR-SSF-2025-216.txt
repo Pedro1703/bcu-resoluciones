@@ -1,0 +1,56 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La necesidad de impartir las instrucciones previstas para el envío de
+Estados Contables e Información Complementaria según el artículo 128 de la
+Recopilación de Normas de Seguros y Reaseguros (RNSR).
+RESULTANDO: 
+I) Que el artículo 128 de la RNSR establece que: “Las empresas de seguros y
+reaseguros  deberán  presentar  ante  la  Superintendencia  de  Servicios
+Financieros el Estado de Situación Patrimonial y el Estado de Resultados con
+las  correspondientes  notas  y  la  información  complementaria,  emitidos  en
+versión completa por el Sistema de Carga de Datos Informatizados, de ahora
+en  adelante  SIFICO  -  Módulo  de  Captura  de  Datos,  de  acuerdo  con  las
+instrucciones que se impartirán”.
+II) Que mediante la Comunicación 2023/250 de fecha 22 de diciembre de 2023
+se impartieron las especificaciones técnicas correspondientes a Inversiones,
+comprendidas  en  la  sub-iniciativa  “Nuevo  sistema  de  información  para
+empresas aseguradoras - Fase II”.
+III)  Que  en  el  plan  operativo  2025  de  la  Superintendencia  de  Servicios
+Financieros, se encuentra la sub-iniciativa “Sistema de procesamiento de datos
+para empresas aseguradoras (SEVILLA) Fase IV”.
+CONSIDERANDO: Que en el marco de las actividades comprendidas en el
+plan citado en el resultando III), se realizaron algunas modificaciones a las
+especificaciones  técnicas  mencionadas  en  el  resultando  II),  por  lo  que  es
+necesario dar instrucciones precisas a las instituciones para que actualicen sus
+sistemas informáticos incorporando las mismas. 
+ATENTO  :   A las atribuciones establecidas en los artículos  37 y 38 de la Ley
+16.696 según la redacción dada por los artículos 1 y 2 de la Ley 20.345 de 19
+de setiembre de 2024,  en la Resolución de la Superintendencia de Servicios
+Financieros N° 785/2015 de 24 de noviembre de 2015 y a lo informado en el
+expediente N° 2021-50-1-02460.
+EL GERENTE DE GESTIÓN ESTRATÉGICA Y OPERATIVA EN     
+RR-SSF-2025-216     Fecha: 19/05/2025 09:58:31
+EJERCICIO DE ATRIBUCIONES DELEGADAS POR EL 
+SUPERINTENDENTE DE SERVICIOS FINANCIEROS,
+RESUELVE:     
+Emitir  una  comunicación  al  mercado  asegurador  con  las  especificaciones
+técnicas e instrucciones para el envío en paralelo de la información requerida
+por el artículo 128 de la Recopilación de Normas de Seguros y Reaseguros,
+según el siguiente texto: 
+“En el marco del proyecto de discontinuación del módulo de captura de datos –
+SIFICO, utilizado para la generación y envío de la información correspondiente
+al artículo 128 de la Recopilación de Normas de Seguros y Reaseguros, se ha
+publicado una nueva versión de las especificaciones técnicas para el envío del
+requerimiento correspondiente a Inversiones.
+Dicha publicación quedará disponible en el Sistema de Envío Centralizado de
+la Superintendencia de Servicios Financieros (IDI), accesible en la dirección
+http://portal .bcu.gub.uy o mediante conexión VPN por línea directa, en el menú
+“Descargas”, “Publicaciones”, apartado “Especificaciones Técnicas – Sistema
+de información de Seguros - Sevilla Fase 3”. 
+La información correspondiente a Inversiones entre aseguradoras solicitada
+según  Comunicación  N°  2023/250,  deberá  generarse  a  partir  del  primer
+trimestre  de  2025  y  remitirse  dentro  del  plazo  de  sesenta  días  corridos
+siguientes a la fecha que está referida.”
+RR-SSF-2025-216     Fecha: 19/05/2025 09:58:31
+Exp. 2021-50-1-02460 
+ Publicable: Si - Firmante: ALBERTO CHRISTIAN SALVARREY MORO

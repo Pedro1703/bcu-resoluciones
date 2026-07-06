@@ -1,0 +1,290 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La Circular N° 2.461 de 19 de julio de 2024 que establece cambios en
+la normativa en materia de requisitos de capital por riesgo de crédito y la
+Comunicación  N°  2024/256  de  16 de diciembre  de  2024 que  refiere a las
+normas contables para la elaboración de los estados financieros.
+RESULTANDO: 
+I) Que se deben realizar ajustes a la información de Estados Financieros y
+Anexos que las Instituciones de Intermediación Financiera y las Empresas
+Administradoras de Crédito de mayores activos deben presentar ante esta
+Superintendencia.
+II) Que  el  envío  de  la  información  se  realiza  a  través  del  estándar  de
+intercambio de información financiera XBRL y es necesario adecuar las
+estructuras de datos (Taxonomía XBRL), para permitir la instrumentación de
+los aspectos operativos de los ajustes referidos. 
+CONSIDERANDO: Que  es  necesario  dar  instrucciones  precisas  a  las
+instituciones para que actualicen sus sistemas informáticos, tomando en cuenta
+el nuevo diseño de los Estados Financieros y anexos de la Taxonomía XBRL.
+ATENTO  :   A las atribuciones establecidas en el artículo 14, del Decreto Ley N°
+15.322 de 17 de setiembre de 1982 y en el artículo 35, literales A) e I) del Texto
+Ordenado de Carta Orgánica del Banco Central del Uruguay, en la Resolución
+de la Superintendencia de Servicios Financieros N° SSF-785-2015 de 24 de
+noviembre de 2015 numeral 5) literal a) y demás antecedentes que lucen en el
+expediente 2025/205.
+EL GERENTE DE GESTIÓN ESTRATÉGICA Y OPERATIVA EN EJERCICIO
+DE ATRIBUCIONES DELEGADAS POR EL SUPERINTENDENTE DE
+SERVICIOS FINANCIEROS 
+RESUELVE:
+Emitir una comunicación al mercado con las especificaciones técnicas para el
+envío  de  información  contable  con  vigencia  1º  de  junio  de  2025,  para  las
+Instituciones de Intermediación Financiera y las Empresas Administradoras de
+Crédito de mayores activos, informando q ue se han realizado ajustes en la
+Taxonomía XBRL a efectos de instrumentar la adecuación de la información de
+Estados Financieros y anexos de acuerdo con lo dispuesto en la Circular 2.461
+y  la  Comunicación  2024/256,  los  cuales  regirán  a  partir  de  la  información
+correspondiente a junio 2025.  
+RR-SSF-2025-75     Fecha: 26/02/2025 23:25:25
+Los ajustes realizados se describen a continuación.
+1) ESTADO DE SITUACIÓN FINANCIERA
+a) Se incorporaron los siguientes conceptos:
+1.4.2.1.12.3 - (Intereses en suspenso – colocación reestructurada) 
+1.4.2.1.14 - Colocación renegociada 
+1.4.2.2.13 - Colocación renegociada 
+1.4.2.3.9 - (Colocación renegociada) 
+1.4.2.4.5.3 - (Intereses en suspenso – colocación reestructurada) 
+1.4.2.4.6 - Colocación reestructurada no cumple condiciones 2.4 del Anexo 1  
+1.4.2.4.6.1 - Operaciones reestructuradas no cumple condiciones 2.4 del Anexo 1
+1.4.2.4.6.2 - (Capital de créditos castigados reestructurados) 
+1.4.2.4.6.3 - (Intereses en suspenso – colocación reestructurada) 
+1.4.2.4.7 - Colocación renegociada 
+1.4.2.5.6 - Colocación reestructurada no cumple condiciones 2.4 del Anexo 1  
+1.4.2.5.8 - Colocación renegociada 
+1.4.2.6.6 - (Colocación reestructurada no cumple condiciones 2.4 del Anexo 1) 
+1.4.2.6.7 - (Colocación renegociada) 
+1.4.2.7.5.3 - (Intereses en suspenso – colocación reestructurada) 
+1.4.2.7.6 - Colocación reestructurada no cumple condiciones 2.4 del Anexo 1  
+1.4.2.7.6.1 - Operaciones reestructuradas no cumple condiciones 2.4 del Anexo 1
+1.4.2.7.6.2 - (Capital de créditos castigados reestructurados) 
+1.4.2.7.6.3 - (Intereses en suspenso – colocación reestructurada) 
+1.4.2.7.7 - Colocación renegociada 
+1.4.2.8.6 - Colocación reestructurada no cumple condiciones 2.4 del Anexo 1  
+1.4.2.8.7 - Colocación renegociada 
+1.4.2.9.6 - (Colocación reestructurada no cumple condiciones 2.4 del Anexo 1 ) 
+1.4.2.9.7 - (Colocación renegociada) 
+1.4.2.10.5.3 - (Intereses en suspenso – colocación reestructurada) 
+1.4.2.10.6 - Colocación reestructurada no cumple condiciones 2.4 del Anexo 1  
+1.4.2.10.6.1 - Operaciones reestructuradas no cumple condiciones 2.4 del Anexo 
+1 
+1.4.2.10.6.2 - (Capital de créditos castigados reestructurados) 
+1.4.2.10.6.3 - (Intereses en suspenso – colocación reestructurada) 
+1.4.2.10.7 - Colocación renegociada 
+1.4.2.11.6 - Colocación reestructurada no cumple condiciones 2.4 del Anexo 1  
+1.4.2.11.7- Colocación renegociada 
+1.4.2.12.6 - (Colocación reestructurada no cumple condiciones 2.4 del Anexo 1) 
+1.4.2.12.7- Colocación renegociada 
+1.4.3.1.6 - Colocación renegociada 
+b) Se modificaron las siguientes etiquetas:
+Etiqueta actual Etiqueta nueva
+1.4.2.1.12 - Colocación reestructurada 1.4.2.1.12 - Colocación reestructurada cumple 
+RR-SSF-2025-75     Fecha: 26/02/2025 23:25:25
+problemática condiciones 2.4 o 2.5 del Anexo 1
+1.4.2.1.12.1 - Operaciones de crédito 
+problemáticas
+1.4.2.1.12.1 - Operaciones reestructuradas 
+cumple condiciones 2.4 o 2.5 del Anexo 1
+1.4.2.1.14 - Otros créditos 1.4.2.1.99 - Otros créditos
+1.4.2.2.12 - Colocación reestructurada 
+problemática
+1.4.2.2.12 - Colocación reestructurada cumple 
+condiciones 2.4 o 2.5 del Anexo 1
+1.4.2.2.13 - Otros créditos 1.4.2.2.99 - Otros créditos
+1.4.2.3.8 - (Colocación reestructurada 
+problemática)
+1.4.2.3.8 -  (Colocación reestructurada cumple 
+condiciones 2.4 o 2.5 del Anexo 1)
+1.4.2.3.9 - (Otros créditos) 1.4.2.3.99 - (Otros créditos)
+Etiqueta actual Etiqueta nueva
+1.4.2.4.5 - Colocación reestructurada 
+problemática
+1.4.2.4.5 - Colocación reestructurada cumple 
+condiciones 2.4 o 2.5 del Anexo 1
+1.4.2.4.5.1 - Operaciones de crédito 
+problemáticas
+1.4.2.4.5.1 - Operaciones reestructuradas cumple 
+condiciones 2.4 o 2.5 del Anexo 1
+1.4.2.4.6 - Otros créditos 1.4.2.4.99 - Otros créditos
+1.4.2.5.5 - Colocación reestructurada 
+problemática
+1.4.2.5.5 - Colocación reestructurada cumple 
+condiciones 2.4 o 2.5 del Anexo 1
+1.4.2.5.6 - Otros créditos 1.4.2.5.99 - Otros créditos
+1.4.2.6.5 - (Colocación reestructurada 
+problemática)
+1.4.2.6.5 - (Colocación reestructurada cumple 
+condiciones 2.4 o 2.5 del Anexo 1)
+1.4.2.6.6 - (Otros créditos) 1.4.2.6.99 - (Otros créditos)
+1.4.2.7.5 - Colocación reestructurada 
+problemática
+1.4.2.7.5 - Colocación reestructurada cumple 
+condiciones 2.4 o 2.5 del Anexo 1
+1.4.2.7.5.1 - Operaciones de crédito 
+problemáticas
+1.4.2.7.5.1 - Operaciones reestructuradas cumple 
+condiciones 2.4 o 2.5 del Anexo 1
+1.4.2.7.6 - Otros créditos 1.4.2.7.99 - Otros créditos
+1.4.2.8.5 - Colocación reestructurada 
+problemática
+1.4.2.8.5 -Colocación reestructurada cumple 
+condiciones 2.4 o 2.5 del Anexo 1
+1.4.2.8.6 - Otros créditos 1.4.2.8.99 - Otros créditos
+1.4.2.8.7 - (Intereses en suspenso) 1.4.2.8.8 - (Intereses en suspenso)
+1.4.2.9.5 - (Colocación reestructurada 
+problemática)
+1.4.2.9.5 - (Colocación reestructurada cumple 
+condiciones 2.4 o 2.5 del Anexo 1)
+1.4.2.9.6 - (Otros créditos) 1.4.2.9.99 - (Otros créditos)
+1.4.2.10.5 - Colocación reestructurada 
+problemática
+1.4.2.10.5 - Colocación reestructurada cumple 
+condiciones 2.4 o 2.5 del Anexo 1
+1.4.2.10.5.1 - Operaciones de crédito 
+problemáticas
+1.4.2.10.5.1 - Operaciones reestructuradas cumple 
+condiciones 2.4 o 2.5 del Anexo 1
+1.4.2.10.7 - Créditos morosos con más
+de dos años de vencidos
+1.4.2.10.8 - Créditos morosos con más de dos años 
+de vencidos
+1.4.2.10.6 - Otros créditos 1.4.2.10.99 - Otros créditos
+1.4.2.11.5 - Colocación reestructurada 
+problemática
+1.4.2.11.5 - Colocación reestructurada cumple 
+condiciones 2.4 o 2.5 del Anexo 1
+1.4.2.11.7 - Créditos morosos con más
+de dos años de vencidos
+1.4.2.11.8 - Créditos morosos con más de dos años 
+de vencidos
+1.4.2.11.6 - Otros créditos 1.4.2.11.99 - Otros créditos
+1.4.2.11.8 - (Intereses en suspenso) 1.4.2.11.9 - (Intereses en suspenso)
+1.4.2.12.5 - (Colocación 
+reestructurada problemática)
+1.4.2.12.5 - (Colocación reestructurada cumple 
+condiciones 2.4 o 2.5 del Anexo 1)
+1.4.2.12.7 - (Créditos morosos con 
+más de dos años de vencidos)
+1.4.2.12.8 - (Créditos morosos con más de dos años 
+de vencidos)
+1.4.2.12.6 – (Otros créditos) 1.4.2.12.99 – (Otros créditos)
+1.4.3.1.5 - Créditos reestructurados 
+problemáticos 1.4.3.1.5 - Colocación reestructurada
+1.4.3.1.6 - Otros créditos 1.4.3.1.99 - Otros créditos
+RR-SSF-2025-75     Fecha: 26/02/2025 23:25:25
+2) ESTADO DE RESULTADOS
+a) Se incorporaron los siguientes conceptos:
+4.3.1.1.12 - Colocación 
+renegociada  
+4.3.1.2.10 - Colocación 
+renegociada  
+4.3.2.1.6 - Colocación 
+renegociada 
+4.3.2.2.6 - Colocación 
+renegociada 
+4.4.1.1.6 - Colocación 
+renegociada 
+4.4.1.2.6 - Colocación 
+renegociada 
+4.4.2.1.3 - Colocación 
+renegociada 
+4.4.2.2.3 - Colocación 
+renegociada 
+b) Se modificaron las siguientes etiquetas:
+Etiqueta actual Etiqueta nueva
+4.3.1.1.11  -  Colocación
+reestructurada problemática
+4.3.1.1.11  -  Colocación
+reestructurada  
+4.3.1.1.12 - Otros créditos 4.3.1.1.99 - Otros créditos
+4.3.1.2.9  -  Colocación
+reestructurada problemática
+4.3.1.2.9  -  Colocación
+reestructurada 
+4.3.1.2.10 - Otros créditos 4.3.1.2.99 - Otros créditos
+4.3.2.1.6 - Otros créditos 4.3.2.1.99 - Otros créditos
+4.3.2.2.6 - Otros créditos 4.3.2.2.99 - Otros créditos
+4.4.1.1.5  -  Colocación
+reestructurada problemática
+4.4.1.1.5  -  Colocación
+reestructurada  
+4.4.1.1.6 - Otros créditos 4.4.1.1.99 - Otros créditos
+4.4.1.2.5  -  Colocación
+reestructurada problemática
+4.4.1.2.5  -  Colocación
+reestructurada  
+4.4.1.2.6 - Otros créditos 4.4.1.2.99 - Otros créditos
+4.4.2.1.2  -  Colocación
+reestructurada problemática
+4.4.2.1.2  -  Colocación
+reestructurada 
+4.4.2.1.3 - Otros 4.4.2.1.99 - Otros
+4.4.2.2.2  -  Colocación
+reestructurada problemática
+4.4.2.2.2  -  Colocación
+reestructurada 
+4.4.2.2.3 - Otros 4.4.2.2.99 - Otros
+3) ANEXOS COMPLEMENTARIOS
+RR-SSF-2025-75     Fecha: 26/02/2025 23:25:25
+3.1.INFORMACION SOBRE CONTINGENCIAS Y RESPONSABILIDADES,
+se incorporan los siguientes conceptos:
+3.2.COLATERALES  DE  PRÉSTAMO  –  Anexo  3,  se  incorporan  los
+siguientes conceptos:
+Etiqueta nueva
+Anexo 3 Garantías reales I) a) 
+ix)
+Anexo 3 Garantías reales I) a) 
+x)
+Anexo 3 Garantías reales II) a) 
+vii)
+Anexo 3 Garantías reales II) a) 
+viii)
+Anexo 4 - Otras garantías s) 
+viii)
+3.3.Nuevo  Anexo:  FINANCIACIÓN  ESPECIALIZADA DE  PROYECTOS
+DE INVERSIÓN
+A efectos  de  contemplar  los  nuevos  Requerimientos  de  Capital  por
+Riesgo de Crédito (RCRC), se crea el Anexo Financiación especializada
+de  proyectos  de  inversión.  A continuación,  se  muestra  estructura  e
+información a incorporar al mismo:
+Etiqueta nueva
+Riesgos contingentes
+Garantías de mantenimiento de propuesta y 
+cumplimiento de licitaciones ante organismos 
+públicos
+Compromisos 
+contingentes Otras líneas de crédito de libre disposición
+RR-SSF-2025-75     Fecha: 26/02/2025 23:25:25
+Los nuevos puntos de entrada (“entry points”) para acceder a la Taxonomía
+versión 2025 se encuentran publicados en:
+Para descargar online desde un editor xbrl:
+https://portal.bcu.gub.uy/xbrl/uy/fr/ifrs/bcu/2025-06-01/iifc/iifc-
+entry_point_diario_individual.xsd
+https://portal.bcu.gub.uy/xbrl/uy/fr/ifrs/bcu/2025-06-01/iifc/iifc-
+entry_point_mensual_individual.xsd
+https://portal.bcu.gub.uy/xbrl/uy/fr/ifrs/bcu/2025-06-01/iifc/iifc-
+entry_point_trimestral_individual.xsd
+https://portal.bcu.gub.uy/xbrl/uy/fr/ifrs/bcu/2025-06-01/iifc/iifc-
+entry_point_semestral_individual.xsd
+https://portal.bcu.gub.uy/xbrl/uy/fr/ifrs/bcu/2025-06-01/iifc-cons/iifc-
+entry_point_mensual_consolidado.xsd
+https://portal.bcu.gub.uy/xbrl/uy/fr/ifrs/bcu/2025-06-01/iifc-cons/iifc-
+entry_point_semestral_consolidado.xsd
+RPN
+https://portal.bcu.gub.uy/xbrl/uy/fr/ifrs/bcu/2025-06-01/iifc/iifc-
+entry_point_mensual_rpn.xsd
+RPN Consolidada
+https://portal.bcu.gub.uy/xbrl/uy/fr/ifrs/bcu/2025-06-01/iifc-cons/iifc-
+entry_point_mensual_rpnc.xsd
+Para descargar directo (zip completo) y abrir offline:
+https://portal.bcu.gub.uy/xbrl/iifc-bcu2025.zip
+RR-SSF-2025-75     Fecha: 26/02/2025 23:25:25
+Vigencia.
+Lo dispuesto precedentemente regirá a partir de la información correspondiente al
+mes de junio de 2025.
+En particular, la información del “Estado de situación financiera diario” deberá ser
+reportada en base a esta nueva versión a partir de la información correspondiente al
+1  o   de junio de 2025  .
+CHRISTIAN SALVARREY
+GERENTE DE GESTION ESTRATEGICA Y OPERATIVA
+RR-SSF-2025-75     Fecha: 26/02/2025 23:25:25
+Exp. 2025-50-1-00205 
+ Publicable: Si - Firmante: ALBERTO CHRISTIAN SALVARREY MORO

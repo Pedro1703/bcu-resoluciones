@@ -1,0 +1,116 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: Los  requerimientos  normativos  en  materia  de  garantía  para  los
+intermediarios de valores.
+RESULTANDO: 
+I) Que del control de suficiencia de garantía de INVIU URUGUAY AGENTE
+DE VALORES S.A. surgió que la institución mantuvo un saldo insuficiente
+de garantía por el período 30.06.2024 – 7.10.2024.
+II) Que la insuficiencia se debió a que la institución mantenía como garantía un
+depósito  constituido  en  el  Banco  Central  del  Uruguay  por  Unidades
+Indexadas  (UI)  2.000.000  mientras  el  requerimiento  mínimo  para  su
+situación  ascendía  a  UI  2.203.579,  dado  que  al  30.06.2024  mantenía
+activos bajo manejo por UI 1.407.157.929.
+III) Que la situación de insuficiencia quedó regularizada con fecha 8.10.2024 al
+efectivizarse un depósito adicional de UI 250.000.
+IV) Que con fecha 21 de abril de 2025 se dio vista a la institución de las
+actuaciones  y  el  día  5  de  mayo  de  2025  se  presentó  un  escrito  con
+descargos.
+V) Que en dichos descargos la institución expresa que:
+a) La multa proyectada resulta manifiestamente excesiva, lo cual vulnera
+los  principios  de  gravedad  y  gradualidad  de  las  sanciones
+administrativas.
+b) Carece de antecedentes respecto de este tipo de infracciones, procedió
+a regularizar el monto de la garantía tan solo un día después de que la
+Superintendencia de Servicios Financieros comunicara la situación de
+déficit y desde entonces ha cumplido el requisito de garantía.
+c) No se suscitó ninguna situación que ameritara afectar de alguna manera
+las garantías constituidas, durante el período en que se presentó el
+déficit.
+d) La Administración incurre en un error al determinar el quantum de la
+multa,  pues  en  los  primeros  ocho  días  de  déficit  no  se  configura
+incumplimiento.
+CONSIDERANDO: 
+I) Que el artículo 149 de la Recopilación de Normas del Mercado de Valores
+(RNMV) establece que l os intermediarios de valores deberán constituir y
+mantener, en forma permanente, una garantía a favor del Banco Central del
+Uruguay  por  un  monto  no  inferior  a  UI  2  millones  por  las  eventuales
+RR-SSF-2025-313     Fecha: 24/06/2025 18:39:40
+obligaciones que pudieran asumir con dicho Banco o con terceros en el
+ejercicio de su actividad como intermediarios de valores, y en el caso que
+los intermediarios de valores realicen la actividad de gestión de portafolios
+de  clientes  y  los  activos  bajo  manejo  en  dicho  portafolio  superen  el
+equivalente a UI 1.000 millones deberán constituir - por el exceso a este
+monto  -  una  garantía  adicional  equivalente  al  0,05%  del  portafolio
+gestionado.
+II) Que al no considerar los activos bajo manejo en el cálculo de la garantía
+mínima, cuando dichos activos superaban las UI 1.000 millones, provocó
+que el intermediario cayera en incumplimiento del citado artículo 149 por el
+período mencionado.
+III) Que el artículo 151 de la RNMV dispone que el déficit de garantía no será
+considerado incumplimiento si se subsana dentro de los 8 días hábiles de
+ocurrido.
+IV) Que dado que la insuficiencia se mantuvo por 70 días hábiles, no aplica lo
+dispuesto por el mencionado artículo 151.
+V) Que el artículo 366 de la RNMV establece que cuando el incumplimiento de
+la obligación de mantener la garantía requerida supere los 8 días hábiles, se
+aplicará la multa establecida en el artículo 357 de esta Recopilación, la que
+se  incrementará  por  cada  día  hábil  de  atraso,  aplicándose  desde  el
+momento en que se incurrió en el mismo, la multa diaria establecida en el
+artículo 358 de esta Recopilación.
+VI) Que los descargos presentados por la institución no se entienden de recibo
+por las siguientes razones:
+a) El  intermediario  está  obligado  a  constituir  y  mantener,  en  forma
+permanente, la garantía a favor del Banco Central del Uruguay por el
+monto correspondiente, por lo que la inmediatez de la regularización
+luego de comunicado el déficit sólo operó para detener el incremento de
+la multa establecida en la normativa correspondiente. Las circunstancias
+que menciona la entidad no conducen a la disminución de la sanción; de
+haber existido reincidencia se trataría de un agravante, la inmediatez en
+la regularización de la garantía luego de comunicado el déficit solo operó
+para detener el incremento de la multa y el cumplimiento a posteriori de
+la normativa no enerva la configuración de la infracción ni exime a la
+entidad de la consecuente responsabilidad administrativa.
+b) El incumplimiento en materia de constitución de garantías se configura
+por el solo hecho de que su monto no se ajuste a los requerimientos
+normativos y es independiente de la necesidad o no de recurrir a dichas
+garantías.
+c) En virtud de lo dispuesto en el artículo 366 de la RNMV, cuando el
+incumplimiento  de  la  obligación  de  mantener  la  garantía  requerida
+supere los ocho días hábiles, se penará con la multa establecida en el
+artículo 357 de la RNMV, la que se incrementará por cada día hábil de
+atraso en función de la multa diaria establecida en el artículo 358 de la
+RNMV, aplicándose desde el momento en que se incurrió en el mismo,
+RR-SSF-2025-313     Fecha: 24/06/2025 18:39:40
+por  lo  que  la  sanción  proyectada  se  encuentra  ajustada  a  Derecho,
+además de ajustarse razonablemente a la infracción cometida.
+d) Los  primeros  ocho  días  de  déficit  no  se  consideran  incumplimiento
+únicamente en la hipótesis de que el mismo sea regularizado dentro de
+dicho período. De no hacerlo, como lo establece el artículo 366 de la
+RNMV, la multa se aplicará “desde el momento en que se incurrió en el
+mismo”, o sea, en que se incurrió en déficit. Pues el atraso es el tiempo
+en que se demora en regularizar, sólo que si el atraso no supera ocho
+días hábiles, no es penalizado.
+VII) Que el artículo 118 de la Ley 18.627 de 2 de diciembre de 2009 establece
+que las sanciones dispuestas por el Banco Central del Uruguay deberán
+ser publicadas.
+ATENTO  :   A lo dispuesto en el literal L) del artículo 38 de la Ley 16.696 de 30
+de marzo de 1995, en la redacción dada por el artículo 2 de la Ley 20.345 de
+19 de setiembre de 2024, los artículos 100, 101, 120 y 118 de la Ley N° 18.627
+de  2 de  diciembre de 2009, los  artículos  149, 151, 357, 358  y 366  de  la
+Recopilación  de  Normas  del  Mercado  de  Valores,  en  el  artículo  91  del
+Reglamento Administrativo del Banco Central del Uruguay, a los Dictámenes
+2025/110  y  2025/211  de  la  Asesoría  Jurídica  y  las  resultancias  de  los
+expedientes administrativos N° 2021-50-1-01083 y N° 2024-50-1-02248.
+SE RESUELVE:
+1. Sancionar a INVIU URUGUAY AGENTE DE VALORES S.A. con una multa
+de UI 75.000 (setenta y cinco mil unidades indexadas) por el incumplimiento
+de las normas en materia de garantías.
+2. Notificar al interesado.
+3. Emitir una Comunicación haciendo saber lo dispuesto en el numeral 1. de
+esta Resolución. 
+JUAN PEDRO CANTERA
+Superintendente de Servicios Financieros
+RR-SSF-2025-313     Fecha: 24/06/2025 18:39:40
+Exp. 2024-50-1-02248 
+ Publicable: Si - Firmante: JUAN PEDRO CANTERA SENCIÓN

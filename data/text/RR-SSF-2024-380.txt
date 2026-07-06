@@ -1,0 +1,41 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La solicitud de autorización presentada por Emprendimientos de Valor 
+S.A. para tercerizar con Google Ireland Limited servicios de procesamiento de 
+datos.
+RESULTANDO: 
+I) Que la solicitud referida en el Visto tiene por objeto la prestación de
+servicios a través del uso de las herramientas “Google Cloud Platform” y
+“Workspace” del referido proveedor.
+II) Que  Emprendimientos  de  Valor  S.A.  adhiere  al  uso  de  las  citadas
+herramientas  en  su  condición  de  filial  del  Grupo  BBVA,  en  base  al
+Acuerdo Marco entre Google Ireland Limited y Banco Bilbao Vizcaya
+Argentaria S.A. (España).
+III) Que la tercerización se realiza en el marco de un Contrato de Prestación
+de Servicios entre Emprendimiento de Valor S.A. y Banco Bilbao Vizcaya
+Argentaria  Uruguay  S.A.,  por  el  cual  esta  última  brinda  servicios  de
+asesoramiento sobre infraestructura tecnológica y de comunicaciones y
+asesoramiento técnico en materia de seguridad informática, entre otros
+servicios. 
+IV) Que Emprendimientos de Valor S.A. ha presentado la documentación
+requerida para acceder a la autorización solicitada.
+CONSIDERANDO: Que,  analizada  la  documentación  presentada,  no  se
+perciben objeciones para autorizar la tercerización.
+ATENTO  :   A lo dispuesto en el artículo 2 de la Ley 17.613 de 27 de diciembre
+de 2002, en los artículos 35.1 a 35.3 y 84.1 de la Recopilación de Normas de
+Regulación y Control del Sistema Financiero, a la Resolución SSF N° 785-2015
+de fecha 24 de noviembre de 2015 y a los antecedentes contenidos en el
+Expediente No. 2021-50-1-01211.
+LA INTENDENTE DE SUPERVISIÓN FINANCIERA
+EN EJERCICIO DE ATRIBUCIONES DELEGADAS POR EL
+SUPERINTENDENTE DE SERVICIOS FINANCIEROS,
+RESUELVE:
+1. Autorizar  a  Emprendimientos  de  Valor  S.A.  a  contratar  los  servicios  de
+Google Ireland Limited, para el procesamiento de datos a través del uso de
+las herramientas “Google Cloud Platform” y “Workspace”, en su condición
+de filial del Grupo BBVA y en base al acuerdo marco entre  Banco Bilbao
+Vizcaya Argentaria S.A. (España) y Google Ireland Limited.  
+2. Notificar a Emprendimientos de Valor S.A. la presente resolución.
+RR-SSF-2024-380     Fecha: 14/08/2024 14:45:15
+Exp. 2021-50-1-01211 
+ Publicable: Si - Firmante: CRISTINA ROSARIO RIVERO MORES

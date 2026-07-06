@@ -1,0 +1,133 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La  actuación  inspectiva  realizada  en  julio  de  2023  en  SEGURAL
+SOCIEDAD ANÓNIMA CASA DE CAMBIO (CAMBIO ASPEN).
+RESULTANDO: 
+I) Que la actuación inspectiva referida en el VISTO se realizó a raíz de
+noticias de prensa que involucraban al único accionista de la casa de
+cambio (Sr. Daniel Pérez Montero) y a su Presidente (Sr. Mario Ribeiro)
+con una operación vinculada a una sociedad relacionada con un caso de
+lavado de activos en la República Argentina.
+II) Que dicha situación provocó que los Sres. Pérez Montero y Ribeiro fueran
+imputados por la justicia argentina, sin perjuicio que en agosto de 2023 el
+juez de la causa resolvió revocar el procesamiento de ambos.
+III) Que  se  verificó  que  sólo  18  de  las  54  operaciones  de  montos
+significativos  entre  la  casa  de  cambio  y  una  empresa  vinculada  a  la
+misma fueron informadas a la base de datos centralizada de la Unidad de
+Información y Análisis Financiero (UIAF).
+IV) Que dado que se detectó que cuentas de correo electrónico personales
+del accionista eran utilizadas para llevar a cabo actividades vinculadas
+con la casa de cambio, se solicitó el acceso a las mismas, a lo que el Sr.
+Pérez Montero se negó, obstaculizando así la investigación.
+V) Que  en  dicha  actuación  quedó  en  evidencia  que  el  Oficial  de
+Cumplimiento  desconocía  las  noticias  de  prensa  que  vinculaban  al
+accionista y al Presidente, así como su falta de comprensión respecto de
+los diversos requerimientos realizados por el equipo inspectivo.
+VI) Que con fecha 2 de mayo de 2024 se dio vista a la institución de las
+actuaciones y el día 16 de mayo de 2024 se presentó un escrito con
+descargos.
+VII) Que en dichos descargos la institución expresa que:
+a) El monto de la multa proyectada es excesivo.
+b) La  institución  no  registra  antecedentes  respecto  a  este  tipo  de
+infracciones.
+RR-SSF-2024-480     Fecha: 16/10/2024 17:19:49
+c) Las  medidas  correctivas  propuestas  por  la  Superintendencia  de
+Servicios Financieros fueron implementadas de forma inmediata.
+d) En lo que refiere a la utilización de cuentas de correo electrónico
+personales del Sr. Pérez Montero para aspectos operativos, no hubo
+una participación activa, además de que en su mayoría los mismos
+databan de hace aproximadamente diez años.
+e) Si bien el Juez dictó su procesamiento el 31 de octubre de 2022 y el
+3 de julio de 2023, dada las sendas revocaciones efectuadas por la
+Cámara de Apelaciones, en la actualidad, técnicamente se puede
+considerar al Sr. Pérez Montero como imputado, pero sólo por el
+hecho de existir una pretensión formal del magistrado de promover
+la acusación.
+CONSIDERANDO: 
+I) Que el artículo 292.1 de la Recopilación de Normas de Regulación y
+Control  del  Sistema  Financiero  (RNRCSF)  establece  que  el  oficial  de
+cumplimiento debe contar con la capacitación necesaria para desempeñar
+su tarea en forma autónoma y eficiente.
+II) Que el artículo 492 de la RNRCSF dispone que las instituciones deberán
+implementar procedimientos  de resguardo  de  datos y software, de tal
+forma  que  sea  posible  reconstruir  las  informaciones  emitidas  para  el
+Banco Central del Uruguay, los registros contables y cada uno de los
+movimientos que dan origen a los mismos -hasta un grado de detalle tal
+que permita la identificación de las cuentas y los movimientos en los
+rubros de los estados contables-, así como todo otro dato, incluyendo
+correos,  mensajería  instantánea  y  toda  otra  forma  de  mensajería
+electrónica,  que  se  considere  relevante  en  la  reconstrucción  de  las
+operaciones  a  los  fines  del  Banco  Central  del  Uruguay  o  para
+requerimientos judiciales.
+III) Que  si  la  institución  decidió  utilizar  cuentas  de  correo  electrónico
+personales con fines operativos, a efectos de dar cumplimiento con el
+citado artículo 492, debió ponerlas a disposición de la Superintendencia
+de Servicios Financieros y permitir el acceso a las mismas.
+IV) Que sin perjuicio de que la institución reconoce que la cuenta del Sr.
+Pérez Montero estaba presente en correos vinculados a las operaciones
+de la institución, la conclusión sobre si su participación era activa o no
+debía ser determinada por el supervisor, por lo que se debió permitir el
+acceso a los inspectores a la misma, siendo irrelevante la fecha de la
+mayoría de los correos a estos efectos.
+V) Que el artículo 606.1 de la RNRCSF establece que las casas de cambio
+deberán informar a la Superintendencia de Servicios Financieros, en un
+plazo  de  2  días  hábiles  siguientes  de  ocurrido  o  de  que  se  tomó
+conocimiento  del  mismo,  cualquier  cambio  significativo  que  pudiera
+afectar  negativamente  la  situación  patrimonial  o  la  idoneidad  del
+accionista directo que posea una participación igual o mayor al 3% del
+capital,  por  lo  que  correspondía  que  el  hecho  descrito  en  el
+RR-SSF-2024-480     Fecha: 16/10/2024 17:19:49
+RESULTANDO  I)  fuera  puesto  en  conocimiento  del  supervisor
+directamente por la casa de cambio.
+VI) Que  la  mera  imputación  penal  del  accionista  constituye  un  hecho
+relevante que debió ser comunicado al supervisor en el plazo previsto en
+la  normativa  aplicable,  la  cual  no  supedita  tal  comunicación  a  la
+circunstancia de que el proceso finalice formalmente con una sentencia
+condenatoria.
+VII) Que el numeral ii) del artículo 613 de la RNRCSF dispone que las casas
+de  cambio  deberán  comunicar  al  Banco  Central  del  Uruguay  la
+información sobre la recepción y envío de giros y transferencias, tanto
+locales como con el exterior, por importes superiores a U$S 1.000 o su
+equivalente  en  otras  monedas,  cualquiera  sea  la  modalidad  operativa
+utilizada para su ejecución.
+VIII) Que las acciones implementadas por la entidad con posterioridad a la
+constatación de las infracciones no enervan su configuración ni la exime
+de responsabilidad administrativa por tales hechos.
+IX) Que el artículo 696 de la RNRCSF establece que el hecho de impedir o
+entorpecer la debida fiscalización por parte del Banco Central del Uruguay
+será castigado con sanciones severas que se determinarán en cada caso.
+X) Que el artículo 664 de la RNRCSF dispone el elenco de sanciones a las
+que  serán  pasibles  las  personas  privadas  que  infrinjan  las  leyes  y
+decretos que rijan la intermediación financiera, o las normas generales e
+instrucciones particulares dictadas por el Banco Central del Uruguay.
+XI) Que SEGURAL S.A. no registra antecedentes respecto a este tipo de
+infracciones.
+XII) Que el cúmulo infraccional valorado en su conjunto merece la calificación
+de  grave,  por  lo  que  –  a  la  luz  del  principio  de  proporcionalidad  o
+gradualidad que rige en materia sancionatoria – corresponde la aplicación
+de una sanción de una entidad acorde.
+XIII) Que  la  fijación  de  la  cuantía  de  la  sanción  constituye  una  potestad
+discrecional de la Administración, debiendo tener relación razonable con
+la  gravedad  de  la  infracción  atribuida,  y  como  se  expresa  en  el
+CONSIDERANDO anterior, se verifica en este caso un quebrantamiento
+normativo de entidad.
+ATENTO  :   A lo dispuesto en el literal L) del artículo 38 de la Ley Nº 16.696 de
+30 de marzo de 1995, en la redacción dada por el artículo 11 de la Ley Nº
+18.401 de 24 de octubre de 2008, los artículos 292.1, 492, 606.1, 613, 589,
+664, 692 y 696 de la Recopilación de Normas de Regulación y Control del
+Sistema Financiero, el artículo 94 del Reglamento Administrativo del Banco
+RR-SSF-2024-480     Fecha: 16/10/2024 17:19:49
+Central del Uruguay, a los Dictámenes de la Asesoría Jurídica, al Memorandum
+MM/2024/451  de  9  de  octubre  de  2024  y  las  resultancias  del  expediente
+administrativo N° 2023-50-1-01977.
+LA INTENDENTE DE SUPERVISION FINANCIERA EN EJERCICIO DE
+ATRIBUCIONES DELEGADAS Y ENCOMENDADAS COMO
+SUPERINTENDENTE DE SERVICIOS FINANCIEROS 
+RESUELVE 
+1. Sancionar a SEGURAL S.A. con una multa de UI 300.000 (trescientas mil
+unidades indexadas) por los incumplimientos detectados en ocasión de la
+actuación de supervisión realizada durante junio del año 2023.
+2. Notificar al interesado.
+RR-SSF-2024-480     Fecha: 16/10/2024 17:19:49
+Exp. 2023-50-1-01977 
+ Publicable: Si - Firmante: CRISTINA ROSARIO RIVERO MORES

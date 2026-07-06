@@ -1,0 +1,55 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La solicitud de ajustar la recepción de las correcciones a la información
+de la Central de Riesgos Crediticios y automatizar el proceso. 
+RESULTANDO: 
+I) Que  la  Recopilación  de  Normas  de  Regulación  y  Control  del  Sistema
+Financiero  (RNRCSF),  dispone  que  los  Bancos,  Bancos  de  Inversión,
+Casas Financieras, Instituciones Financieras Externas y Cooperativas de
+Intermediación Financiera (artículo 532), las Empresas Administradoras de
+Grupos  de  Ahorro  Previo  (artículo  533),  las  Empresas  de  Servicios
+Financieros  que  otorguen  créditos  (artículo  604),  las  Empresas
+Administradoras de Crédito de Mayores Activos  y las E ntidades Otorgantes
+de Crédito de mayor actividad (artículo 635) deben proporcionar información
+para la Central de Riesgos Crediticios.
+II) Que la Comunicación 2011/073 establece que cuando se presenten errores
+en  la  información  de  Central  de  Riesgos  en  lugar  de  dar  de  baja  la
+información se corregirá la información de la Central de Riesgos.
+III) Que la cantidad de instituciones que proporcionan información a la Central
+de Riesgos Crediticos se ha incrementado en forma sostenida.
+IV) Que los registros a modificar por corrección se han incrementado desde la
+adecuación de la Central de riesgos al Marco Contable NIIF.
+V) Que el incremento indicado en los RESULTANDO III y IV deriva en un
+aumento en las solicitudes de corrección de información de la Central de
+Riesgos  Crediticios  y  que  por  tanto  se  requiere  la  automatización  de
+proceso de correcciones.
+CONSIDERANDO: 
+I) Que para satisfacer la creciente demanda de correcciones a la información
+de  la  Central  de  Riesgos  Crediticios debe sistematizarse  el  proceso  de
+recepción de esta información y automatizar el proceso.
+II) Que para sistematizar el proceso de correcciones a la información de la
+Central  de  Riesgos  Crediticios  las  instituciones  deberán  remitir  la
+información a través del envío del tipo de dato “Correcciones Central de
+Riesgo” en el Sistema de Envío Centralizado (IDI).
+RR-SSF-2024-615     Fecha: 30/12/2024 10:55:48
+III) Que es necesario dar instrucciones precisas a las instituciones que reporten
+correcciones a la información a la Central de Riesgos Crediticios, a efectos
+que adapten sus sistemas informáticos.
+ATENTO  :   lo dispuesto en los artículos 38 y 39 de la Carta Orgánica de Banco
+Central  del  Uruguay,  Ley  N°  16.696  de  30  de  marzo  de  1995  con  las
+modificaciones introducidas por las Leyes N°18.401 de 24 de octubre de 2008 y
+N°18.670 de 20 de julio de 2010,  a los artículos 532, 533, 604 y 635 de la
+Recopilación de Normas de Regulación y Control del Sistema Financiero, la
+Comunicación 2011/073 y la Resolución de la Superintendencia de Servicios
+Financieros N° SSF-785-2015 de 24 de noviembre de 2015 numeral 5) literal
+a).
+EL GERENTE DE GESTION ESTRATÉGICA Y OPERATIVA EN EJERCICIO
+DE ATRIBUCIONES DELEGADAS POR EL SUPERINTENDENTE DE
+SERVICIOS FINANCIEROS 
+RESUELVE:
+Emitir una comunicación al mercado con las especificaciones técnicas para 
+envío de correcciones a la información de la Central de Riesgos Crediticios de 
+acuerdo al texto que luce a fs. 1 del expediente 2024-50-1-02456.
+RR-SSF-2024-615     Fecha: 30/12/2024 10:55:48
+Exp. 2024-50-1-02456 
+ Publicable: Si - Firmante: ALBERTO CHRISTIAN SALVARREY MORO

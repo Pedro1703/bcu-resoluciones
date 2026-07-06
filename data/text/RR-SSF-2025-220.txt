@@ -1,0 +1,330 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La iniciativa incluida en el Plan de Regulaciones 2024 vinculada a la
+revisión  de  la  forma  de  cómputo  de  las  garantías  constituidas  por  los
+supervisados del mercado de valores.
+RESULTANDO:
+I) Que  en  la  propuesta  normativa  diseñada  se  ha  previsto  adecuar  las
+modalidades de garantías admitidas en cuanto a instrumentos, moneda y
+valuación, así como las sanciones aplicables en caso de incumplimiento en
+el mantenimiento de las mismas.
+II) Que  en aquellos casos que la normativa admite como garantía la prenda
+sobre  valores  públicos  nacionales  cotizables,  se  prevé  que  los  mismos
+deberán estar denominados en unidades indexadas y se computarán por su
+valor nominal. Se exceptúa la garantía adicional requerida a los fiduciarios
+financieros en forma previa a cada emisión, la cual continuará efectuándose
+en la moneda de emisión de los valores del fideicomiso.
+III) Que para el caso de intermediarios de valores que desarrollen la actividad
+de  gestión  de  portafolios  de  clientes,  así  como  para  los  gestores  de
+portafolios, se mantiene  la exigencia relativa a que los activos bajo manejo
+por dicha actividad se medirán al cierre de cada semestre, modificándose el
+momento  de  adecuación  del  requerimiento  de  garantía  adicional,  de
+corresponder, el cual se mantendrá incambiado hasta el vencimiento del
+plazo para la presentación de la declaración jurada a que hacen referencia
+los literales b.3 y c.3 del artículo 292 o los literales a.4 y b.1 del artículo
+310.3  de  la  Recopilación  de  Normas  del  Mercado  de  Valores,
+respectivamente.
+IV) Que para los supervisados a los cuales se admite la posibilidad de constituir
+la garantía ante el Banco Central del Uruguay mediante la modalidad de
+seguros (otros fiduciarios generales y asesores de inversión), se sustituye el
+seguro de fianza  o responsabilidad  civil por el  seguro de  caución  y se
+establece que el mismo deberá estar constituido en unidades indexadas. 
+V) Que en  la  propuesta  normativa también  se  indicó que la  modalidad  de
+garantía  seleccionada  por  las  instituciones  supervisadas  no  podrá  ser
+sustituida antes del año de su constitución o eventual reemplazo posterior.
+Asimismo, en el caso de constituirse la garantía mediante prenda sobre
+valores  públicos  nacionales  cotizables,  los  mismos  no  podrán  ser
+sustituidos por otros valores durante el lapso de un año.
+VI) Que  en  cuanto  a  la  garantía  adicional  requerida  para  los  fiduciarios
+financieros, se precisó la redacción del literal c.2 del artículo 104 de la
+Recopilación de Normas del Mercado de Valores, de manera de esclarecer
+que dicha garantía a constituirse en forma previa a la emisión será por los
+valores a emitir en cada oportunidad, ya sea en el marco de una emisión o
+RR-SSF-2025-220     Fecha: 20/05/2025 16:40:24
+reapertura de serie, como previo a cada emisión de series en el marco de
+un programa.
+VII) Que, asimismo,  se  introducen  modificaciones  en  relación  a  la  multa  a
+aplicar por el incumplimiento de los requisitos de garantía establecidos en
+la normativa, determinándose la misma en función del porcentaje del déficit
+y de los días de atraso, además de incrementarse en aquellos casos en
+que se configure la reincidencia.
+VIII) Que en lo que respecta a la adecuación de la garantía a las nuevas
+disposiciones, la normativa proyectada establecía que la misma debería
+realizarse al momento de efectuar la primera modificación de la garantía o
+dentro del plazo de 1 año a partir de la fecha de la resolución (lo que
+ocurriera primero).
+IX) Que  la  propuesta  normativa  antes  mencionada  fue  puesta  a  consulta
+pública de las instituciones supervisadas y del público en general con
+fecha 24  de octubre de  2024, habiéndose recibido comentarios  de la
+industria hasta el 15 de noviembre de 2024.
+X) Que  los  principales  comentarios  de  la  industria  versaron  sobre  los
+siguientes aspectos:
+- el proceso de transición para el cambio de denominación a Unidades
+Indexadas de los valores públicos nacionales;
+- si la norma proyectada admitiría más de una modalidad de garantía;
+- si la sustitución del seguro de fianza por el seguro de caución (para
+los  casos  que  la  normativa  admite  la  modalidad  de  seguros)
+implicaría alguna modificación en la póliza que actualmente emite la
+aseguradora y a partir de cuándo comenzaría a regir tal sustitución;
+- la evaluación de la suficiencia de garantía adicional exigida a los
+fiduciarios financieros.
+CONSIDERANDO:
+I) Que  la  presente  modificación  normativa  tiene  como  finalidad  mejorar  la
+eficacia y eficiencia del proceso de control de garantías constituidas por los
+supervisados del mercado de valores.
+II) Que, habiéndose efectuado el análisis de los comentarios recibidos de la
+industria,  los  mismos  ameritaron  las  siguientes  modificaciones  a  la
+propuesta originalmente circularizada:
+- se modificaron las disposiciones transitorias estableciéndose como plazo
+máximo de adecuación hasta el 31/03/2027 inclusive;
+- se esclareció que los supervisados mantienen la posibilidad de tener
+más de una modalidad de garantía en forma simultánea;
+RR-SSF-2025-220     Fecha: 20/05/2025 16:40:24
+- se agregó a la disposición transitoria de asesores de inversión (artículo
+151.1.1)  que  en  caso  que  la  garantía  constituida  comprenda  la
+modalidad de seguro, deberán - al momento de su renovación - sustituir
+el seguro de fianza contratado por un seguro de caución de acuerdo con
+lo dispuesto en dicho artículo. 
+ATENTO: A lo dispuesto en el artículo 38 de la Ley N° 16.696 del 30 de marzo
+de 1995 en la redacción dada por el artículo 2 de la Ley N° 20.345 del 19 de
+setiembre de 2024.
+SE RESUELVE:
+1. SUSTITUIR en  el Capítulo II – Inscripción de fiduciarios generales, del
+Título  VI  –  Fiduciarios  y  Fideicomisos,  del  Libro  I  –  Autorizaciones  y
+Registros  de  la  Recopilación  de  Normas  del  Mercado  de  Valores,  los
+artículos 101 y 102 por los siguientes:
+ARTÍCULO  101  (SOLICITUD  DE  INSCRIPCIÓN  DE  FIDUCIARIOS
+GENERALES). 
+A efectos de  la solicitud de  inscripción  en  el Registro  del  Mercado  de
+Valores - sección Fiduciarios - los fiduciarios generales deberán presentar
+la siguiente información y documentación:
+1. Personas físicas:
+a. La información requerida por el artículo 101.2.
+b. Número de inscripción en el Registro Único Tributario de la Dirección
+General  Impositiva  y  en  el  organismo  de  seguridad  social
+correspondiente.
+c. Documentación respaldante de la existencia de seguros de caución
+por  los  eventuales  perjuicios  de  su  actividad  profesional  o
+mecanismos de cobertura o garantías por su desempeño profesional,
+en caso de corresponder.
+2. Personas jurídicas:
+p. Denominación de la empresa, indicando razón social y nombre de
+fantasía  en  caso  que  corresponda,  domicilio  real  y  constituido,
+teléfono,  dirección  de  correo  electrónico  y  sitio  web,  número  de
+inscripción en el Registro Único Tributario de la Dirección General
+Impositiva y en el organismo de seguridad social correspondiente.
+q. Copia autenticada del contrato social o del estatuto. Las sociedades
+anónimas deberán consagraren sus estatutos que las acciones serán
+necesariamente nominativas (físicas o escriturales).
+r. Datos identificatorios de los representantes legales de la sociedad
+(nombre completo, nacionalidad, documento de identidad y domicilio).
+s. Nómina de socios o accionistas, capital a aportar y porcentaje de
+participación, acompañada de la información solicitada en el artículo
+RR-SSF-2025-220     Fecha: 20/05/2025 16:40:24
+101.1.
+t. Nómina de personal superior de acuerdo con la definición establecida
+en el artículo 143, acompañada de la información requerida en el
+artículo 101.2.
+u. Nómina de los integrantes del conjunto económico al que pertenece el
+fiduciario, de acuerdo con la definición establecida en el artículo 142,
+incluyendo  descripción  de  las  actividades  desarrolladas  por  los
+mismos, vinculaciones operativas y comerciales con el fiduciario, así
+como detalle de los sitios web de los mismos, de existir.
+v. Estados  contables  correspondientes  al  último  ejercicio  cerrado,
+formulado de acuerdo con normas contables adecuadas en Uruguay,
+con dictamen  de auditor  externo, debidamente firmados  y con  los
+timbres profesionales correspondientes.
+w. Copia autenticada del acta del órgano competente de la sociedad que
+dispuso la actuación de la misma en calidad de Fiduciario profesional.
+x. Documentación respaldante de la existencia de seguros de caución
+por  los  eventuales  perjuicios  de  su  actividad  profesional  o
+mecanismos de cobertura o garantías por su desempeño profesional,
+en caso de corresponder.
+En  caso  de  juzgarlo  necesario,  la  Superintendencia  de  Servicios
+Financieros  podrá  solicitar  información  adicional  a  la  señalada
+precedentemente.
+ARTÍCULO  102  (SOLICIT UD  DE  INSCRIPCIÓN  DE  OTROS
+FIDUCIARIOS GENERALES). 
+A efectos de  la solicitud de  inscripción  en  el Registro  del  Mercado  de
+Valores - sección Fiduciarios Profesionales - de aquéllos no comprendidos
+en el artículo 96, deberán presentar - además de los requisitos establecidos
+en  el  artículo  101  -  una  declaración  jurada  adjuntando,  cuando
+corresponda, copia autenticada de la documentación respaldante en la que
+se acredite el cumplimiento de los siguientes recaudos:
+1. Personas físicas:
+a. Título  profesional  con  más  de  3  (tres)  años  de  antigüedad,  que
+acredite conocimientos sólidos de administración y finanzas.
+b. Experiencia previa, adquirida en los últimos 5 (cinco) años anteriores
+a la solicitud, en administración de cuentas o patrimonios de terceros.
+c. Infraestructura mínima compatible con el volumen y especificidad de
+la actividad profesional a realizar debiendo detallarse, como mínimo:
+i. medios  informáticos  (hardware  y  software)  adecuados,  que
+permitan  el  procesamiento  de  la  información  manejada  en  la
+administración del fideicomiso en forma independiente al resto de
+RR-SSF-2025-220     Fecha: 20/05/2025 16:40:24
+sus actividades profesionales.
+ii. recursos  humanos  a  utilizar,  quienes  deberán  acreditar  haber
+realizado  estudios  formales  en  administración  y  finanzas,  de
+corresponder.
+d. Seguro de  caución  o constitución de una garantía real a favor del
+Banco  Central  del  Uruguay,  por  las  eventuales  obligaciones  que
+pudiera asumir con dicho Banco o con terceros en el ejercicio de su
+actividad,  por  un  monto  no  inferior  a  UI  500.000  (quinientas  mil
+Unidades Indexadas).
+Con  respecto  al  Seguro  de  caución,  se  deberán  cumplir  los
+siguientes requisitos:
+i. estar constituido en unidades indexadas y  mantenerse vigente
+durante toda la duración del Fideicomiso.
+ii. tener  vigencia  no  inferior  a  1  (un)  año,  salvo  situaciones  de
+carácter  excepcional  autorizadas  previamente  por  el  Banco
+Central del Uruguay.
+iii. presentar ante el Banco Central del Uruguay el comprobante de
+pago contado de la prima respectiva.
+iv. presentar ante el Banco Central del Uruguay la renovación del
+seguro y el comprobante de pago de la prima correspondiente,
+previo a su vencimiento.
+En el caso de l a garantía  real, la misma  deberá mantenerse en
+todo momento y consistirá en una prenda, expresada en Unidades
+Indexadas,  sobre  depósito  en  efectivo  constituido  en  el  Banco
+Central del Uruguay. Dicho depósito no devengará intereses.
+La  garantía  constituida  será  parcialmente  liberada  cuando  se
+verifique  alguna  de  las  causas  de  extinción  de  los  Fideicomisos
+administrados, de acuerdo con lo dispuesto por el artículo 33 de la
+Ley  Nº  17.703  de  27  de  octubre  de  2003,  siempre  que  se
+comprobare  que  se  ha  cumplido  con  todas  las  obligaciones
+asumidas con este Banco Central del Uruguay y con terceros en el
+ejercicio de su actividad.
+La garantía constituida será totalmente liberada cuando no proceda
+la inscripción como fiduciario general o se desista de la solicitud o se
+produzcan alguna de las causales de cese del fiduciario, de acuerdo
+con lo dispuesto por el artículo 22 de la Ley Nº 17.703 de 27 de
+octubre de 2003.
+También  procederá  su  liberación  total  cuando  se  reciba  la
+comunicación del Ministerio de Educación y Cultura prevista en el
+artículo  3  del  Decreto  N°  516/003  de  11  de  diciembre  de  2003,
+siempre  que  se  comprobare  que  se  ha  cumplido  con  todas  las
+RR-SSF-2025-220     Fecha: 20/05/2025 16:40:24
+obligaciones asumidas con este Banco Central del Uruguay y con
+terceros en el ejercicio de su actividad.
+El rescate total o parcial de los montos depositados en garantía se
+efectivizará a la cotización de la Unidad Indexada correspondiente al
+día en que se efectúe el mismo.
+2. Personas jurídicas:
+a. Designar  un  responsable  de  la  actividad  fiduciaria  que,
+adicionalmente  a  los  requisitos  establecidos  en  el  artículo  101.2,
+verifique el cumplimiento de los literales a. y b. del numeral 1.
+b. Verificar los requisitos establecidos en los literales c. y d. del numeral
+1. precedente.
+DISPOSICIÓN TRANSITORIA:
+En  caso  que  la  garantía  constituida  consista  en  la  modalidad  de
+seguro, deberán - al momento de su renovación - sustituir el seguro
+de responsabilidad civil o de fianza según corresponda, por un seguro
+de caución de acuerdo con lo dispuesto en el presente artículo.
+2. SUSTITUIR en el  Capítulo III – Inscripción de fiduciarios financieros , del
+Título  VI  –  Fiduciarios  y  Fideicomisos,  del  Libro  I  –  Autorizaciones  y
+Registros de la Recopilación de Normas del Mercado de Valores, el artículo
+104 por el siguiente:
+ARTÍCULO  104  (SOLICITUD  DE  INSCRIPCIÓN  DE  FIDUCIARIOS
+FINANCIEROS). 
+A efectos de dar curso a su inscripción, en forma adicional a los requisitos
+establecidos para  los  Fiduciarios  Generales, los Fiduciarios Financieros
+deberán acreditar el cumplimiento de los siguientes requerimientos:
+a. En caso de que se trate de sociedades administradoras de fondos de
+inversión,  copia  autenticada  del  acta  del  órgano  competente  de  la
+sociedad que dispuso la actuación de la misma en calidad de Fiduciario
+Profesional.
+b. Mantener en forma permanente un patrimonio no inferior a UI 2:500.000
+(dos millones quinientas mil Unidades Indexadas).
+c. Constituir una garantía real a favor del Banco Central del Uruguay, por
+las eventuales obligaciones que pudiera asumir con dicho Banco o con
+terceros en el ejercicio de su actividad como Fiduciario. Dicha garantía
+deberá mantenerse en todo momento y estará integrada por:
+c.1 Una garantía inicial de UI 2:500.000 (dos millones quinientas mil
+Unidades Indexadas) que podrá consistir en:
+- Prenda sobre depósito en efectivo denominado en Unidades
+Indexadas constituido en el Banco Central del Uruguay;
+RR-SSF-2025-220     Fecha: 20/05/2025 16:40:24
+- Prenda  sobre  valores  públicos  nacionales  cotizables,
+denominados  en  unidades  indexadas,  depositados  en  el
+Banco Central del Uruguay. A estos efectos, los valores se
+computarán por su valor nominal.
+c.2 Una  garantía  adicional  a  constituirse  en  forma  previa  a  cada
+emisión,  reapertura de serie o a cada emisión de series en el
+marco de un programa, y será del 0,5% del valor nominal de los
+títulos de deuda, certificados de participación o títulos mixtos a
+emitir  en  cada  oportunidad,  hasta  llegar  a  un  monto  máximo
+equivalente a la Responsabilidad Patrimonial Básica exigida para
+Bancos. 
+La garantía adicional podrá consistir en:
+- Prenda sobre depósito en efectivo, denominado en la moneda
+de la emisión, constituido en el Banco Central del Uruguay,
+- Prenda  sobre  valores  públicos  nacionales  cotizables,
+denominados en la moneda de la emisión, depositados en el
+Banco Central del Uruguay. A estos efectos, los valores se
+computarán por su valor nominal.
+La o las modalidades de garantías seleccionadas no podrán ser
+sustituidas antes del año de su constitución o eventual reemplazo
+posterior. Además, en caso que la garantía constituida comprenda
+uno o más valores públicos nacionales cotizables, los mismos no
+podrán sustituirse por otros valores en el lapso de un año.
+La garantía constituida será total o parcialmente liberada cuando se
+verifique  alguna  de  las  causas  de  extinción  de  los  Fideicomisos
+administrados, de acuerdo a lo dispuesto por el artículo 33 de la Ley Nº
+17.703 de 27 de octubre de 2003 o se reduzcan los montos emitidos y
+en circulación, siempre que se comprobare que se ha cumplido con
+todas las obligaciones asumidas con este Banco Central del Uruguay y
+con terceros en el ejercicio de su actividad como Fiduciario.
+La  garantía  constituida  será  totalmente  liberada  cuando  fuera
+denegada la inscripción en el Registro del Mercado de Valores o se
+desista de la solicitud o se produzca alguna de las causales de cese
+del Fiduciario, de acuerdo a lo dispuesto por el artículo 22 de la Ley Nº
+17.703 de 27 de octubre de 2003, siempre que se comprobare que se
+ha  cumplido  con  todas  las  obligaciones  asumidas  con  este  Banco
+Central del Uruguay y con terceros en el ejercicio de su actividad.
+d. Descripción de los servicios a tercerizar que sean imprescindibles para
+la entrada en operación de la empresa. Cuando se trate de servicios
+prestados por terceros radicados en el exterior del país o en el país pero
+el servicio se preste total o parcialmente en o desde el exterior, deberá
+presentarse  la  información  y  documentación  dispuesta  en  el  artículo
+106.1.
+RR-SSF-2025-220     Fecha: 20/05/2025 16:40:24
+DISPOSICIÓN TRANSITORIA:
+Los fiduciarios financieros que no cumplan con lo dispuesto en el
+presente  artículo,  dispondrán  hasta  el  31/03/2027  inclusive  para
+adecuarse a estas disposiciones.
+3. SUSTITUIR en la Sección II – Autorización para funcionar, del Capítulo I –
+Cajas  de  Valores,  del  Título  VIII  –  Cajas  de  Valores  –  Sistemas  de
+compensación,  liquidación  y  custodia  de  valores,  del  Libro  I  –
+Autorizaciones y Registros de la Recopilación de Normas del Mercado de
+Valores, el artículo 130 por el siguiente:
+ARTÍCULO 130 (INFORMACION MINIMA REQUERIDA). 
+A efectos de la solicitud de autorización para funcionar, las cajas de valores
+deberán presentar la siguiente información y documentación:
+a. Denominación  de  la  empresa,  indicando  razón  social,  nombre  de
+fantasía en caso que corresponda, domicilio real y constituido, teléfono,
+dirección de correo electrónico y sitio web, número de inscripción en el
+Registro Único Tributario de la Dirección General Impositiva y en el
+organismo de seguridad social correspondiente.
+b. Copia autenticada del estatuto.
+c. Datos  identificatorios  de  los  representantes  legales  de  la  sociedad
+(nombre completo, nacionalidad, documento de identidad y domicilio).
+d. Nómina  de  accionistas  y  datos  identificatorios,  domicilio  particular,
+número de documento de identidad, capital a aportar y porcentaje de
+participación, acompañada de la información solicitada en el artículo
+130.1.
+e. Nómina del personal superior de acuerdo con la definición establecida
+en  el  artículo  143,  acompañada  de  la  información  solicitada  en  el
+artículo 130.2.
+f. Nómina de los integrantes del conjunto económico al que pertenece la
+sociedad, de acuerdo con la definición establecida en el artículo 142,
+incluyendo  descripción  de  las  actividades  desarrolladas  por  los
+mismos, vinculaciones operativas y comerciales con la caja de valores,
+así como detalle de los sitios web de los mismos, de existir.
+g. Estados  contables  correspondientes  al  último  ejercicio  económico
+cerrado, formulados de acuerdo con normas contables adecuadas en
+Uruguay, con informe de compilación, debidamente firmados y con los
+timbres profesionales correspondientes.
+h. Propuesta  de  reglamentos,  manuales  operativos  y  sistemas
+informáticos.
+i. La constitución de garantías reales a favor del Banco Central del
+U

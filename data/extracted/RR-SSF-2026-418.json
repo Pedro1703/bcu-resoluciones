@@ -12,7 +12,7 @@
 "resultado": "",
 "resumen": "REQUERIMIENTO DE CAPITAL CONTRACÍCLICO A PARTIR DEL 1 DE JULIO DE 2027 - ARTÍCULO 158.2 DE LA RECOPILACIÓN DE NORMAS DE REGULACIÓN Y CONTROL DEL SISTEMA FINANCIERO. Establecer porcentaje",
 "relevancia": "media",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CciwRzeGShXgABwqLLF3N'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcjtETSttMe1iVNhizb1y'})",
 "id": "RR-SSF-2026-418",
 "year": "2026",
 "month": "Junio",
