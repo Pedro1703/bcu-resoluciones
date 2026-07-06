@@ -77,7 +77,10 @@ def main():
     extracted_ids = set(state.get("extracted", []))
     heuristic_ids = set(state.get("heuristic", []))
     first_run = not seen
-    have_key = bool(os.environ.get("ANTHROPIC_API_KEY"))
+    # En FREE_MODE no hay "upgrades" (heurística→heurística no aporta); solo se
+    # procesan los documentos nuevos, gratis.
+    free_mode = os.environ.get("FREE_MODE") == "1"
+    have_key = bool(os.environ.get("ANTHROPIC_API_KEY")) and not free_mode
 
     # Candidatos: primero los nunca extraídos (más nuevos primero); después, si ya
     # hay API key, los que quedaron en heurística para upgradearlos a Claude.

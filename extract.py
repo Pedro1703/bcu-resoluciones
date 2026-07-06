@@ -132,60 +132,154 @@ def _claude_extract(item, text):
     return json.loads(raw)
 
 
-def _heuristic_extract(item, text):
-    """Versión degradada sin Claude: usa las reglas de classify.py."""
-    title = item["title"]
-    cat = classify.classify(title, text)
-    entity = classify.extract_entity(title)
-    amounts = classify.extract_amounts(text)
-    t = title.lower()
-    es_ma = bool(re.search(r"transfer|acci[oó]n|fusi[oó]n|adquisic|cambio de control|cambio accionario", t))
+_RESULTADO = {
+    "fusion": "fusión autorizada",
+    "adquisicion": "adquisición autorizada",
+    "transferencia_control": "transferencia de control autorizada",
+    "cambio_accionario": "cambio accionario autorizado",
+    "aumento_capital": "aumento de capital aprobado",
+    "cambio_directorio": "cambio de directorio",
+    "multa": "sancionado con multa",
+    "sancion": "sancionado",
+    "revocacion": "autorización revocada",
+    "cancelacion": "cancelado / dado de baja",
+    "inscripcion": "inscripción aprobada",
+    "autorizacion": "autorizado",
+    "recurso": "recurso resuelto",
+    "normativa": "normativa emitida",
+    "otro": "",
+}
+
+_BIG_ENTITIES = {
+    "BROU", "BHU", "Itaú", "Santander", "BBVA", "Scotiabank", "HSBC",
+    "Citibank", "Banco Nación Argentina", "Banco de Seguros del Estado",
+}
+
+
+def _accion_from_title(t):
+    """t: título en minúsculas y sin acentos. Devuelve (accion, es_ma)."""
+    es_ma = bool(re.search(
+        r"transferencia[^.]{0,25}accion|cesi[oó]n[^.]{0,25}accion|"
+        r"compraventa[^.]{0,25}accion|paquete accionario|cambio accionario|"
+        r"cambio de control|transferencia de control|fusi[oó]n|adquisic|"
+        r"integraci[oó]n accionaria", t))
     if es_ma:
-        accion = "fusion" if "fusi" in t else ("adquisicion" if "adquisic" in t else "transferencia_control")
-    elif re.search(r"multa", t):
-        accion = "multa"
-    elif re.search(r"sanci|apercibi|observaci|suspensi|inhabilit|clausura", t):
-        accion = "sancion"
-    elif re.search(r"cancela|revoca|cese\b|liquidaci|baja\b", t):
-        accion = "cancelacion"
-    elif re.search(r"inscrip", t):
-        accion = "inscripcion"
-    elif re.search(r"autoriza|habilita|apertura", t):
-        accion = "autorizacion"
-    elif re.search(r"recurso", t):
-        accion = "recurso"
-    else:
-        accion = "otro"
-    monto_valor, monto_moneda = None, None
-    if amounts:
-        m = re.match(r"([\d\.\,]+)\s*(\w+)", amounts[0])
-        if m:
-            num = m.group(1).replace(".", "").replace(",", ".")
-            try:
-                monto_valor = float(num)
-            except ValueError:
-                monto_valor = None
-            monto_moneda = m.group(2).upper()
+        if "fusi" in t:
+            return "fusion", True
+        if "adquisic" in t:
+            return "adquisicion", True
+        if "cambio accionario" in t or "paquete accionario" in t:
+            return "cambio_accionario", True
+        return "transferencia_control", True
+    if re.search(r"\brecurso", t):  # apelaciones antes que revoca/cancela
+        return "recurso", False
+    checks = [
+        (r"aumento de capital|integraci[oó]n de capital|reducci[oó]n de capital", "aumento_capital"),
+        (r"designaci[oó]n|cambio de directorio|integraci[oó]n del directorio|\bpresidente\b|\bdirector(?:es)?\b", "cambio_directorio"),
+        (r"\bmulta", "multa"),
+        (r"sanci|apercibi|observaci|suspensi|inhabilit|clausura|intervenci", "sancion"),
+        (r"revoca", "revocacion"),
+        (r"cancela|\bcese\b|liquidaci|\bbaja\b", "cancelacion"),
+        (r"inscrip|registr", "inscripcion"),
+        (r"autoriza|habilita|apertura|aprueba", "autorizacion"),
+        (r"recurso", "recurso"),
+        (r"circular|instrucci[oó]n|comunicaci[oó]n|\bnorma|recopilaci[oó]n", "normativa"),
+    ]
+    for pat, acc in checks:
+        if re.search(pat, t):
+            return acc, False
+    return "otro", False
+
+
+def _resultado(accion, neg, pos):
+    if accion == "recurso":
+        return "recurso rechazado" if neg else ("recurso con lugar" if pos else "recurso resuelto")
+    if neg and accion in ("autorizacion", "inscripcion", "fusion", "adquisicion",
+                          "transferencia_control", "aumento_capital"):
+        return "solicitud rechazada"
+    return _RESULTADO.get(accion, "")
+
+
+def _relevancia(accion, es_ma, entidad, tipo, monto_valor, monto_moneda):
+    grande = entidad in _BIG_ENTITIES or tipo in ("banco", "aseguradora", "afap")
+    if es_ma and grande:
+        return "alta"
+    if accion in ("revocacion", "cancelacion") and tipo in ("banco", "aseguradora", "afap", "casa_financiera"):
+        return "alta"
+    if accion in ("sancion", "multa"):
+        v = monto_valor or 0
+        if (monto_moneda == "USD" and v >= 100_000) or (monto_moneda == "UI" and v >= 1_000_000):
+            return "alta"
+        return "media"
+    if es_ma:
+        return "media"
+    if accion in ("recurso", "normativa"):
+        return "baja"
+    return "media"
+
+
+def _resumen(entidad, accion, resultado, contraparte, porcentaje, monto_valor, monto_moneda, title):
+    verbo = resultado or _RESULTADO.get(accion) or accion.replace("_", " ")
+    frase = f"{entidad}: {verbo}" if entidad else verbo
+    if contraparte:
+        pct = f" ({porcentaje:g}%)" if porcentaje else ""
+        frase += f" — contraparte {contraparte}{pct}"
+    elif porcentaje:
+        frase += f" ({porcentaje:g}%)"
+    if monto_valor and monto_moneda:
+        frase += " por {:,.0f} {}".format(monto_valor, monto_moneda).replace(",", ".")
+    return frase.strip() or title
+
+
+def _heuristic_extract(item, text):
+    """Motor gratis (sin API): llena el registro estructurado con reglas."""
+    title = item["title"]
+    t = classify._strip_accents(title.lower())
+
+    entity_raw = classify.extract_entity(title)
+    entidad_norm = classify.normalize_entity(entity_raw)
+    tipo_entidad = classify.entity_type(title, entity_raw)
+
+    accion, es_ma = _accion_from_title(t)
+
+    contraparte = classify.extract_counterparty(title) if es_ma else None
+    contraparte_norm = classify.normalize_entity(contraparte) if contraparte else None
+    porcentaje = classify.extract_percentage(text, title)
+    monto_valor, monto_moneda = classify.parse_main_amount(text, title)
+
+    neg = bool(re.search(r"desestim|rechaz|no ha lugar|no hace lugar|deniega|denegar|denieg", t))
+    pos = bool(re.search(r"hace lugar|acoge", t))
+    resultado = _resultado(accion, neg, pos)
+    relevancia = _relevancia(accion, es_ma, entidad_norm, tipo_entidad, monto_valor, monto_moneda)
+    resumen = _resumen(entidad_norm, accion, resultado, contraparte_norm,
+                       porcentaje, monto_valor, monto_moneda, title)
+
     return {
-        "entidad_principal": entity,
-        "entidad_normalizada": entity[:50],
-        "tipo_entidad": "otro",
+        "entidad_principal": entity_raw,
+        "entidad_normalizada": entidad_norm or entity_raw[:50],
+        "tipo_entidad": tipo_entidad,
         "accion": accion,
         "es_ma": es_ma,
-        "contraparte": None,
-        "contraparte_normalizada": None,
-        "porcentaje": None,
+        "contraparte": contraparte,
+        "contraparte_normalizada": contraparte_norm,
+        "porcentaje": porcentaje,
         "monto_valor": monto_valor,
         "monto_moneda": monto_moneda,
-        "resultado": "",
-        "resumen": title,
-        "relevancia": "alta" if cat.startswith(("🚫", "❌")) else "media",
+        "resultado": resultado,
+        "resumen": resumen,
+        "relevancia": relevancia,
         "_motor": "heuristica",
     }
 
 
 def extract(item, text):
-    """Devuelve el registro estructurado de una resolución (Claude o heurística)."""
+    """Devuelve el registro estructurado de una resolución (Claude o heurística).
+
+    Con FREE_MODE=1 se fuerza la heurística (gratis) aunque haya API key, para que
+    el pipeline diario procese documentos nuevos sin gastar en la API.
+    """
+    if os.environ.get("FREE_MODE") == "1":
+        return _normalize_record(_heuristic_extract(item, text), item)
     if os.environ.get("ANTHROPIC_API_KEY"):
         try:
             rec = _claude_extract(item, text)
