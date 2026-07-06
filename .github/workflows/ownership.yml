@@ -1,0 +1,39 @@
+name: Mapa de propiedad (Claude, one-off)
+
+on:
+  workflow_dispatch:
+    inputs:
+      own_max:
+        description: "Cuántos PDFs de M&A extraer con Claude en esta corrida"
+        required: false
+        default: "200"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bcu-resoluciones
+  cancel-in-progress: false
+
+jobs:
+  ownership:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+      - name: Extraer propiedad con Claude
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OWN_MAX: ${{ github.event.inputs.own_max }}
+        run: python extract_ownership.py
+      - name: Commit resultados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ownership data/text || true
+          git commit -m "Mapa de propiedad: extracción Claude [skip ci]" || echo "sin cambios"
+          git push || echo "nada que pushear"

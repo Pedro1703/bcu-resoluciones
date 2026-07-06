@@ -1,0 +1,333 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La  iniciativa  de dotar  de transparencia a  la operativa  extrabursátil,  
+también denominada  over-the-counter (OTC), realizada por los intermediarios  
+de  valores,  instituciones  de  intermediación  financiera  que  realicen  
+intermediación  en  valores  e  inversores  especializados,  incluida  en  el  Plan 
+Director del Mercado de Valores.
+RESULTANDO: 
+I) Que las  recomendaciones  de  la  International  Organization  of  Securities 
+Commissions  (IOSCO)  hacen  énfasis  en  la  importancia  de  contar  con 
+información sobre operaciones extrabursátiles, esto es, aquellas realizadas  
+fuera del ámbito de los mercados formales de negociación de valores. 
+II) Que, en el marco del Plan mencionado en el VISTO, se elaboró un proyecto 
+normativo que regula el registro y difusión de la operativa extrabursátil, el 
+cual se puso a consulta de la industria y del público en general  en dos  
+oportunidades  (21 de agosto y 13 de diciembre de 2019)  a través de la  
+página web del Banco Central del Uruguay.
+III) Que los comentarios recibidos, tanto de parte de otros sectores del Banco  
+Central  del  Uruguay  así  como  de  entidades  supervisadas,  aportaron 
+elementos  que permitieron mejorar la propuesta original, confirmando el  
+valor que tiene para el regulador el proceso de consulta.
+CONSIDERANDO: 
+I) Que  si  bien  no  se  cuenta  con  información  sistematizada  sobre  las 
+operaciones realizadas  fuera  de los mercados formales de  negociación,  
+tanto  en  valores  inscriptos  en  el  Registro  de  Valores  que  lleva  la 
+Superintendencia de Servicios Financieros como en valores emitidos por el  
+Gobierno  Central,  el  Banco  Central  del  Uruguay  y  los  Gobiernos  
+Departamentales,  se  estima  que  los  volúmenes  operados  serían  
+significativos.
+II) Que de conformidad con  las mejores prácticas internacionales regidas por  
+los principios de IOSCO, se considera necesario regular y reglamentar el  
+registro y difusión de la operativa OTC en los referidos valores realizada por  
+intermediarios  de  valores,  instituciones  de  intermediación  financiera  que 
+realicen  intermediación  en  valores  e  inversores  especializados,  con  el 
+objetivo de dar transparencia al mercado extrabursátil.
+III) Que las citadas operaciones deberán reportarse a una bolsa de valores  
+autorizada a tales efectos, la cual deberá difundir datos seleccionados al  
+público.
+RR-SSF-2020-665     Fecha: 29/10/2020 21:23:28
+IV) Que, asimismo, se entiende pertinente modificar la definición de mercado  
+formal contenida en el artículo 49 de la Recopilación de Normas de Control  
+de Fondos Previsionales, a efectos de reflejar la esencia extrabursátil de la  
+operativa que realizan las Administradoras de Fondos de Ahorro Previsional  
+en valores emitidos en el exterior al amparo del artículo 123 de la Ley N°  
+16.713  de 3 de setiembre de 1995 con agentes de valores, corredores de  
+bolsa, bancos y administradores de fondos de inversión del exterior, la que  
+quedará comprendida por el alcance del proyecto normativo en materia de  
+registro y difusión de tales operaciones.
+V) Que, en forma análoga, corresponde modificar la redacción del artículo 44  
+de la Recopilación de Normas de Seguros y Reaseguros referida a mercado 
+formal.
+VI) Que  en  función  de  los  cambios  detallados  previamente  se  consideró 
+pertinente  realizar  otras  modificaciones  normativas  complementarias,  
+ajustando la redacción de los artículos 56,  88, 90 y 188  de la Recopilación  
+de Normas de Control de Fondos Previsionales y 37 de la Recopilación de  
+Normas de Seguros y Reaseguros.
+ATENTO  :   A lo dispuesto en los literales A) y H) del artículo 38 de la Ley N°  
+16.696 de 30.03.1995 en la redacción dada por el artículo 11 de la Ley N°  
+18.401 de 24.10.2008.
+SE RESUELVE:
+I. En la Recopilación de Normas del Mercado de Valores:
+1. INCORPORAR  en el Título III - BOLSAS DE VALORES, del Libro I -  
+AUTORIZACIONES Y REGISTROS de la Recopilación de Normas del  
+Mercado de Valores, el Capítulo I TER - REGISTRO DE OPERACIONES  
+EXTRABURSÁTILES, el cual incluirá los siguientes artículos:
+ARTÍCULO 55.3 (REGISTRO DE OPERACIONES EXTRABURSÁTILES) 
+Las  Bolsas  de  Valores  podrán  llevar  el  registro  de  operaciones  
+extrabursátiles  a  que  refieren  los  artículos  300.2  y  350.3  de  esta 
+Recopilación  y  el  artículo  586.3  de  la  Recopilación  de  Normas  de 
+Regulación y Control del Sistema Financiero. 
+A  tales  efectos,  deberán  solicitar  autorización  previa  de  la  
+Superintendencia de Servicios Financieros. La referida solicitud deberá  
+estar acompañada del manual con los procedimientos para registrar y  
+difundir las operaciones extrabursátiles, de una descripción detallada de  
+los sistemas a que refiere el literal b. del artículo 55.4 y de los modelos de  
+contratos a ser firmados con los supervisados obligados a informar sus  
+operaciones extrabursátiles.
+ARTÍCULO 55.4 (OBLIGACIONES DE LAS BOLSAS AUTORIZADAS A  
+LLEVAR EL REGISTRO DE OPERACIONES EXTRABURSÁTILES). 
+Las Bolsas autorizadas a llevar el registro de operaciones extrabursátiles  
+deberán:
+RR-SSF-2020-665     Fecha: 29/10/2020 21:23:28
+a. Aceptar la solicitud de aquellos intermediarios de valores e inversores 
+especializados  que  las  hubieran  seleccionado  para  registrar  sus 
+operaciones extrabursátiles.
+b. Brindar y mantener los sistemas de comunicación, informáticos y de  
+equipamiento necesarios para llevar el registro de las operaciones  
+extrabursátiles  informadas.  El  servicio  deberá  permitir  registrar  
+operaciones  durante  los  días  de  funcionamiento  de  la  Bolsa  de 
+Valores, como mínimo entre las 11:00 y las 16:00 horas. 
+c. Mantener el registro por un lapso de 10 (diez) años de efectuada  
+cada anotación.
+d. Difundir las operaciones registradas de acuerdo con lo dispuesto en  
+el artículo 232.1.
+e. Presentar  a  la  Superintendencia  de  Servicios  Financieros  la  
+información a que refiere el artículo 279.2.
+f. Guardar estricta confidencialidad sobre toda información recibida en  
+el ejercicio de su función como entidad autorizada para el registro de  
+las  operaciones  extrabursátiles,  no  pudiendo  utilizar  la  misma  en 
+beneficio propio ni de terceros.
+2. SUSTITUIR  en  la  Sección  II  -  PUBLICIDAD  REALIZADA  POR  LAS 
+INSTITUCIONES  SUPERVISADAS,  del  Capítulo  I  -  PUBLICIDAD,  del 
+Título  I  -  TRANSPARENCIA,  del  Libro  V  -  TRANSPARENCIA  Y  
+CONDUCTAS DE MERCADO de la Recopilación de Normas del Mercado  
+de Valores, el artículo 232 por el siguiente:
+ARTÍCULO  232  (INFORMACIÓN  DE  LAS  BOLSAS  DE  VALORES 
+SOBRE OPERACIONES BURSÁTILES).
+Las Bolsas de Valores deberán poner a disposición del público en general  
+a través de su sitio web, como mínimo, la siguiente información:
+a. diariamente, dentro de los 15 (quince) minutos de concertada, los 
+datos  relativos  a  cada  operación  bursátil  sobre  valores  
+detallando:
+i) Fecha y hora exacta de concertación (incluyendo segundos).
+ii) Identificación del valor (código ISIN y breve descripción).
+iii) Moneda del valor.
+iv) Precio concertado (sin cupón corrido).
+v) Valor  nominal  o cantidad  para  aquellos  valores  que  no lo 
+poseen.
+vi) Valor efectivo.
+vii) Fecha pactada de liquidación.
+RR-SSF-2020-665     Fecha: 29/10/2020 21:23:28
+b. diariamente, dentro del día hábil siguiente a la fecha de cierre de la  
+jornada  que  corresponda,  informe  sobre  los  valores inscriptos  
+conteniendo la siguiente información:
+i) Operaciones de mercado primario y secundario, indicando monto  
+nominal y efectivo.
+ii) Tipo de instrumento con indicación de series y monedas.
+iii) Precios concertados.
+iv) Último precio operado y cotización de cierre.
+v) Oficializaciones u órdenes directas realizadas.
+vi) Volúmenes operados.
+c. mensualmente,  dentro  de  los  5  (cinco)  días  hábiles  siguientes  al 
+último día hábil del período considerado, informe sobre los  valores 
+inscriptos, conteniendo la siguiente información:
+i) Transacciones por mercado e instrumentos.
+ii) Cotizaciones de cierre del período.
+iii) Volúmenes operados.
+d. en oportunidad de su ocurrencia, los errores cometidos en la difusión  
+de información por parte de la propia Bolsa en su ámbito.
+VIGENCIA:  Lo  dispuesto  en  el  numeral  a.  precedente  entrará  en 
+vigencia el primer día del mes siguiente al del cumplimiento de los  
+180  (ciento  ochenta)  días  de  la  publicación  de  la  presente  
+Resolución.
+DISPOSICIÓN TRANSITORIA:  Durante los primeros 6 (seis) meses  
+contados a partir de la entrada en vigencia de lo dispuesto en el  
+numeral a., el plazo para difundir la información de las operaciones  
+bursátiles  será  de  60  (sesenta)  minutos  contados  a  partir  de  su 
+concertación.
+3. INCORPORAR  en la Sección II - PUBLICIDAD REALIZADA POR LAS  
+INSTITUCIONES  SUPERVISADAS,  del  Capítulo  I  -  PUBLICIDAD,  del 
+Título  I  -  TRANSPARENCIA,  del  Libro  V  -  TRANSPARENCIA  Y  
+CONDUCTAS DE MERCADO de la Recopilación de Normas del Mercado  
+de Valores, el siguiente artículo:
+ARTÍCULO  232.1  (INFORMACIÓN  DE  LAS  BOLSAS  DE  VALORES 
+SOBRE OPERACIONES EXTRABURSÁTILES REGISTRADAS). 
+Las  Bolsas  de  Valores  deberán  poner  diariamente  a  disposición  del 
+público en general, a través de su sitio web, dentro de los 15 (quince)  
+minutos de recibida la información, los datos relativos a cada operación  
+extrabursátil registrada, detallando, según corresponda:
+i) Fecha y hora exacta de concertación (incluyendo segundos).
+ii) Identificación del valor (código ISIN y breve descripción). 
+iii) Moneda del valor.
+iv) Precio concertado (sin cupón corrido).
+RR-SSF-2020-665     Fecha: 29/10/2020 21:23:28
+v) Valor nominal o cantidad para aquellos valores que no lo poseen.
+vi) Valor efectivo.
+vii) Fecha pactada de liquidación.
+DISPOSICIÓN TRANSITORIA: Durante los primeros 12 (doce) meses  
+contados  a  partir  de  la  entrada  en  vigencia  de  la  obligación  de 
+informar las operaciones extrabursátiles (artículos 300.2 y 350.3), el  
+plazo  para  difundir  la  información  será  de  60  (sesenta)  minutos 
+contados a partir de su recepción.
+4. INCORPORAR en el Capítulo VI - OTRAS INFORMACIONES, del Título I  
+- RÉGIMEN INFORMATIVO, de la Parte IV - BOLSAS DE VALORES del  
+Libro VI - INFORMACIÓN Y DOCUMENTACIÓN de la Recopilación de  
+Normas del Mercado de Valores, los siguientes artículos: 
+ARTÍCULO  279.1  (INFORMACIÓN  SOBRE  OPERACIONES  
+BURSÁTILES). 
+Las  Bolsas  de  Valores  deberán  presentar  a  la  Superintendencia  de 
+Servicios  Financieros  información  sobre  las  operaciones  bursátiles  
+concertadas por Intermediarios de Valores e Inversores Especializados,  
+de acuerdo con las instrucciones que se impartirán.
+ARTÍCULO  279.2  (INFORMACIÓN  SOBRE  LAS  OPERACIONES  
+EXTRABURSÁTILES  REGISTRADAS  POR  INTERMEDIARIOS  DE  
+VALORES E INVERSORES ESPECIALIZADOS). 
+Las  Bolsas  de  Valores  deberán  presentar  a  la  Superintendencia  de 
+Servicios Financieros, la siguiente información:
+a. La  nómina  de  los  Intermediarios  de  Valores  e  Inversores  
+Especializados que registrarán sus operaciones extrabursátiles en la  
+Bolsa, dentro de los 5 (cinco) días hábiles de presentada la solicitud.
+b. Las  operaciones  extrabursátiles  registradas,  de  acuerdo  con  las 
+instrucciones que se impartirán.
+5. INCORPORAR  en  el  Título  III  -  REGISTROS,  de  la  Parte  V  -  
+INTERMEDIARIOS  DE  VALORES  del  Libro  VI  -  INFORMACIÓN  Y 
+DOCUMENTACIÓN  de  la  Recopilación  de  Normas  del  Mercado  de 
+Valores, el siguiente artículo:
+ARTÍCULO  300.2  (REGISTRO  DE  OPERACIONES  
+EXTRABURSÁTILES). 
+Los  Intermediarios  de  Valores  deberán  reportar  diariamente  las  
+operaciones extrabursátiles concertadas a efectos de su registro en una  
+de las Bolsas de Valores autorizadas a tales efectos, de acuerdo con  
+instrucciones que se impartirán.
+Esta obligación alcanza a las operaciones sobre valores inscriptos en el  
+Registro  de  Valores  que  lleva  la  Superintendencia  de  Servicios  
+Financieros y los emitidos por el Gobierno Central, el Banco Central del  
+Uruguay y los Gobiernos Departamentales.
+RR-SSF-2020-665     Fecha: 29/10/2020 21:23:28
+VIGENCIA:  Lo  dispuesto  precedentemente  entrará  en  vigencia  el 
+primer día del mes siguiente al del cumplimiento de los 180 (ciento  
+ochenta) días de la publicación de la presente Resolución.
+6. INCORPORAR en el Libro VI - INFORMACIÓN Y DOCUMENTACIÓN de  
+la  Recopilación  de  Normas  del  Mercado  de  Valores,  la  Parte  XIV  - 
+INVERSORES  ESPECIALIZADOS,  que  contendrá  el  Título  I  –  
+REGISTROS.
+7. INCORPORAR  en  el  Título  I  -  REGISTROS,  de  la  Parte  XIV  -  
+INVERSORES  ESPECIALIZADOS  del  Libro  VI  -  INFORMACIÓN  Y 
+DOCUMENTACIÓN  de  la  Recopilación  de  Normas  del  Mercado  de 
+Valores, el siguiente artículo:
+ARTÍCULO  350.3  (REGISTRO  DE  OPERACIONES  
+EXTRABURSÁTILES). 
+Los  Inversores  Especializados  deberán  reportar  diariamente  las  
+operaciones extrabursátiles concertadas a efectos de su registro en una  
+de las Bolsas de Valores autorizadas a tales efectos, de acuerdo con  
+instrucciones que se impartirán.
+Esta obligación alcanza a las operaciones sobre valores inscriptos en el  
+Registro  de  Valores  que  lleva  la  Superintendencia  de  Servicios  
+Financieros y los emitidos por el Gobierno Central, el Banco Central del  
+Uruguay y los Gobiernos Departamentales.
+VIGENCIA:  Lo  dispuesto  precedentemente  entrará  en  vigencia  el 
+primer día del mes siguiente al del cumplimiento de los 180 (ciento  
+ochenta) días de la publicación de la presente Resolución.
+8. COMUNICAR lo  dispuesto  en  los  numerales  1. a  6.  precedentes, 
+emitiendo la correspondiente Circular.
+II. En la Recopilación de Normas de Regulación y Control del Sistema  
+Financiero:
+1. INCORPORAR  en  el  Título  III  -  REGISTROS,  de  la  Parte  I  –  
+INSTITUCIONES  DE  INTERMEDIACION  FINANCIERA  del  Libro  VI  - 
+INFORMACIÓN Y DOCUMENTACIÓN de la Recopilación de Normas de  
+Regulación y Control del Sistema Financiero, el siguiente artículo:
+ARTÍCULO  586.3  (REGISTRO  DE  OPERACIONES  
+EXTRABURSÁTILES). 
+Las instituciones de intermediación financiera que realicen intermediación  
+en valores deberán reportar diariamente las operaciones extrabursátiles  
+concertadas a efectos de su registro en una de las Bolsas de Valores  
+autorizadas  a  tales  efectos,  de  acuerdo  con  instrucciones  que  se 
+impartirán.
+RR-SSF-2020-665     Fecha: 29/10/2020 21:23:28
+Esta obligación alcanza a las operaciones sobre valores inscriptos en el  
+Registro  de  Valores  que  lleva  la  Superintendencia  de  Servicios  
+Financieros y los emitidos por el Gobierno Central, el Banco Central del  
+Uruguay y los Gobiernos Departamentales.
+VIGENCIA:  Lo  dispuesto  precedentemente  entrará  en  vigencia  el 
+primer día del mes siguiente al del cumplimiento de los 180 (ciento  
+ochenta) días de la publicación de la presente Resolución.
+2. COMUNICAR lo  dispuesto  en  el  numeral  1.  precedente,  emitiendo  la 
+correspondiente Circular.
+III. En la Recopilación de Normas de Control de Fondos Previsionales:
+1. SUSTITUIR en el Capítulo III - CONDICIONES PARA LA INVERSIÓN DE  
+LOS ACTIVOS DE LOS SUBFONDOS DE AHORRO PREVISIONAL , del 
+Título  II  -  FONDOS  DE  AHORRO  PREVISIONAL,  del  Libro  II  -  
+ESTABILIDAD Y SOLVENCIA de la Recopilación de Normas de Control  
+de Fondos Previsionales el artículo 49 por el siguiente:
+ARTÍCULO 49 (MERCADOS FORMALES).
+Se entiende por mercados formales de negociación, tanto locales  
+como del exterior, a los mercados regulados y supervisados por las  
+autoridades financieras del país donde se encuentran radicados.
+Todas las transacciones en valores que se efectúen con los activos del  
+Fondo de Ahorro Previsional deberán realizarse a través de mercados  
+formales, con las excepciones que se indican a continuación:
+a. Las establecidas  en  el  artículo  50,  en  lo  que  refiere  a  mercado 
+primario local. 
+b. Las  realizadas  en  valores  emitidos  en  el  exterior  al  amparo  del 
+artículo 123 de la Ley 16.713 cuando las contrapartes sean  agentes 
+de  valores  ("dealers"),  corredores  de  bolsa  ("brokers"),  bancos  y 
+administradores de fondos de inversión,  regulados y supervisados  
+por  las  autoridades  financieras  del  país  donde  se  encuentran 
+radicados. Deberá  tratarse  de  personas  jurídicas  sometidas  a  
+fiscalización, con un marco normativo de referencia y requisitos de  
+capital  mínimo  relativos  tanto  a  sus  patrimonios  como  al  tipo  de 
+operaciones  que  efectúen.  Dichas  instituciones deberán  tener  
+acceso  a  sistemas  de  información  en  tiempo  real  respecto  a  los 
+precios de los instrumentos financieros que negocien y deberán operar 
+en mercados de países que cuenten con una calificación de riesgo  
+soberano vigente equivalente a las calificaciones de la categoría  
+1, según la definición dada por el artículo 54. La verificación de  
+estos  requisitos  es  responsabilidad  de  la  Administradora.  La 
+Superintendencia  de  Servicios  Financieros  podrá  definir  requisitos 
+adicionales en cualquier momento.
+RR-SSF-2020-665     Fecha: 29/10/2020 21:23:28
+c. Las correspondientes a instrumentos financieros que tengan por  
+objeto la cobertura de riesgos en los términos del artículo 68.
+2. DEROGAR en el Capítulo III - CONDICIONES PARA LA INVERSIÓN DE  
+LOS ACTIVOS DE LOS SUBFONDOS DE AHORRO PREVISIONAL , del 
+Título  II  -  FONDOS  DE  AHORRO  PREVISIONAL,  del  Libro  II  -  
+ESTABILIDAD Y SOLVENCIA de la Recopilación de Normas de Control  
+de Fondos Previsionales el artículo 51.
+3. SUSTITUIR en el Capítulo III - CONDICIONES PARA LA INVERSIÓN DE  
+LOS ACTIVOS DE LOS SUBFONDOS DE AHORRO PREVISIONAL , del 
+Título  II  -  FONDOS  DE  AHORRO  PREVISIONAL,  del  Libro  II  -  
+ESTABILIDAD Y SOLVENCIA de la Recopilación de Normas de Control  
+de Fondos Previsionales el artículo 56 por el siguiente:
+ARTÍCULO 56 (RIESGO DE INCUMPLIMIENTO). 
+En  caso  que las  Administradoras  de  Fondos  de  Ahorro  Previsional 
+incumplan las obligaciones adquiridas en la liquidación de operaciones  
+para el Fondo de Ahorro Previsional, serán de su cargo los costos en que  
+incurra  la  contraparte  o  el  intermediario,  según  corresponda,  como 
+consecuencia de tal incumplimiento.
+4. SUSTITUIR  en  la  Sección  I  -  DISPOSICIONES  GENERALES,  del 
+Capítulo  VII  -  VALUACIÓN,  del  Título  II  -  FONDOS  DE  AHORRO 
+PREVISIONAL,  del  Libro  II  -  ESTABILIDAD  Y  SOLVENCIA  de  la 
+Recopilación  de  Normas  de  Control  de  Fondos  Previsionales  los  
+siguientes artículos:
+ARTÍCULO 88 (VALUACIÓN DIARIA).
+Las inversiones realizadas por las Administradoras de Fondos de Ahorro  
+Previsional se deberán valuar diariamente, de acuerdo con los criterios de  
+cálculo y fórmulas financieras que establecerá la Superintendencia de  
+Servicios  Financieros,  tomando  como  base  los  considerados  en  la 
+metodología para la elaboración  del Vector de Precios de Instrumentos  
+Financieros diseñada conforme a las estipulaciones establecidas  por 
+el Banco Central del Uruguay.
+ARTÍCULO 90 (PRECIO DE MERCADO). 
+Se denomina precio de mercado al promedio de los precios de cierre  
+informados por cada una de las bolsas de valores, ponderados por la 
+cantidad  operada  en  el  día  en  cada  bolsa.  A  estos  efectos,  se 
+determinarán  los  precios  de  cierre  considerando  los  criterios 
+establecidos en la metodología  para la elaboración del Vector de  
+Precios  de  Instrumentos  Financieros  diseñada  conforme  a  las 
+estipulaciones establecidas por el Banco Central del Uruguay.
+El Banco Central del Uruguay podrá incluir o excluir operaciones en razón  
+de sus características particulares, a efectos de procurar una adecuada  
+formación de precios del instrumento transado. 
+RR-SSF-2020-665     Fecha: 29/10/2020 21:23:28
+De  existir  emisiones
