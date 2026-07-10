@@ -12,7 +12,7 @@
 "resultado": "cancelado / dado de baja",
 "resumen": "POSADAS Y VECINO CONSULTORES INTERNACIONALES: cancelado / dado de baja",
 "relevancia": "media",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ccrcav9U5k89azeWkBSVD'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CctTUW5f68ZLaW3m77Dwr'})",
 "id": "RR-SSF-2025-370",
 "year": "2025",
 "month": "Julio",
