@@ -12,7 +12,7 @@
 "resultado": "cancelado / dado de baja",
 "resumen": "BAYFORD: cancelado / dado de baja",
 "relevancia": "media",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CctTU9GmS7SM2koKSNsFh'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcvGtWoDdTXsofx57dXFu'})",
 "id": "RR-SSF-2025-428",
 "year": "2025",
 "month": "Agosto",

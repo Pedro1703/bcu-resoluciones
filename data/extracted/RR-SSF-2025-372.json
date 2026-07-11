@@ -12,7 +12,7 @@
 "resultado": "inscripción aprobada",
 "resumen": "RSM CORPORATE URUGUAY: inscripción aprobada",
 "relevancia": "media",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CctTUUsEUzNmZvkhpQoq7'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcvGtq25x58g7N1YT4R16'})",
 "id": "RR-SSF-2025-372",
 "year": "2025",
 "month": "Julio",
