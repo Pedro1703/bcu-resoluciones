@@ -12,7 +12,7 @@
 "resultado": "cancelado / dado de baja",
 "resumen": "DIEGO FELDMAN SAMIK Y NORBERTO FELDMAN SAMNIK: cancelado / dado de baja",
 "relevancia": "media",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcvGt9135dVZeaoayNNEC'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcxAXjf6bsmD11khq2bE8'})",
 "id": "RR-SSF-2025-496",
 "year": "2025",
 "month": "Setiembre",
