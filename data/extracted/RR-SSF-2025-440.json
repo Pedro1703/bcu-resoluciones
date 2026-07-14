@@ -12,7 +12,7 @@
 "resultado": "autorizado",
 "resumen": "VALORES ADMINISTRADORA DE FONDOS DE INVERSIÓN Y FI: autorizado",
 "relevancia": "media",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ccz9mhxS58ny35JmoJgh5'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cd1yi1i1PhgZiQJbe6kH4'})",
 "id": "RR-SSF-2025-440",
 "year": "2025",
 "month": "Agosto",

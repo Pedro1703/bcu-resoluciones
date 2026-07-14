@@ -12,7 +12,7 @@
 "resultado": "",
 "resumen": "REPÚBLICA ADMINISTRADORA DE FONDOS DE INVERSIÓN: otro (100%)",
 "relevancia": "media",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ccz9m1nxTYns4qHE1B7Hs'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cd1yhLdmYB9tnwE4n9Yiy'})",
 "id": "RR-SSF-2025-552",
 "year": "2025",
 "month": "Octubre",
