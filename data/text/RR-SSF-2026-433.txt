@@ -1,0 +1,248 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La  actuación  de  supervisión  realizada  en  DE  SIMONI  &  PIAGGIO
+SOCIEDAD DE BOLSA S.A. en julio de 2025.
+RESULTANDO: 
+I) Que el objetivo de la actuación referida en el VISTO, fue dar seguimiento a
+una  actuación  enfocada  realizada  en  2020,  cuyos  resultados  fueron
+comunicados a la institución mediante nota NE/4/2020/1581 del 17 de junio
+de 2020.
+II) Que, como resultado de la citada actuación del año 2025, se constató, que
+se mantenían incumplimientos que fueron observados en la actuación del
+año 2020 y la falta de cumplimiento de instrucciones particulares impartidas
+en aquella oportunidad:
+a) Se volvió a observar operativa transaccional en los estados de cuenta de
+clientes vinculados al corredor (director y personal superior) puesto que
+se verificó la existencia de traspasos de fondos entre cuentas producto
+de negocios particulares entre las partes.
+b) Se verificó nuevamente la existencia de saldos deudores en las cuentas
+que clientes vinculados al corredor de bolsa mantienen en la cuenta de
+clientes a nombre del intermediario (cuenta ómnibus).
+c) El corredor no ha implementado un control a fin de verificar que los
+clientes accedan a su estado de cuenta al menos una vez al año.
+d) Si bien hubo avances, se continúan detectando errores en el registro de
+operaciones.
+e) Del  análisis  del  documento  denominado  Plan  de  Continuidad
+Operacional  se  observó  que  no  se  establece  la  ubicación  de  los
+servidores de respaldo, no especifica la periodicidad de los respaldos y
+el tiempo de retención de los mismos, no establece la periodicidad de las
+pruebas de contingencia y no contiene medidas claras que aseguren la
+continuidad  operativa  en  caso  de  cualquier  evento  que  afecte  las
+instalaciones, equipos, datos, software o la prestación de los servicios
+tercerizados que imposibilite la operativa normal, sino que se limita al
+resguardo de datos.
+III) Que  se  han  detectado  nuevos  incumplimientos,  los  que  se  detallan  a
+continuación:
+a) A partir del control realizado al 31 de marzo de 2025, se constató una
+diferencia de aproximadamente USD 47.000 entre el saldo que surge del
+inventario de clientes respecto al saldo contable y los estados de cuenta
+bancarios.
+RR-SSF-2026-433     Fecha: 07/07/2026 14:37:09
+b) Los contratos de tercerización de servicios con Servidores S.A.S., AR
+Soft SRL y con el Sr. Pablo Bono, no cumplen con todas las cláusulas
+establecidas por la normativa para que la tercerización se considere
+autorizada.
+c) Tal como están redactadas determinadas cláusulas de los contratos con
+clientes  implican  injustificados  desequilibrios  entre  los  derechos  y
+obligaciones de los contratantes en perjuicio de los inversores.
+d) La  reiteración  de  observaciones,  principalmente  en  el  sistema  de
+monitoreo,  expuesta  por  el  auditor  externo  en  sus  informes  de  los
+últimos cuatro años revelan incumplimientos no resueltos en el sistema
+de prevención de lavado de activos y financiamiento del terrorismo.
+e) No existe una clara definición de quiénes son los responsables de la
+mesa  de  operaciones,  además  de  verificarse  la  incompatibilidad  de
+funciones entre el área comercial y la mesa de operaciones.
+f) El  diseño  del  formulario  de  perfil  del  inversor  no  permite  captar
+adecuadamente  el  nivel  de  riesgos  que  está  dispuesto  a  asumir  el
+cliente. Asimismo, el cliente no firma la hoja del formulario donde están
+sus respuestas de cuya evaluación resulta el perfil asignado.
+g) No  hay  un  procedimiento  escrito  e  implementado  para  monitorear  y
+controlar los desvíos de portafolio con respecto al perfil del inversor. 
+h) La estrategia de portafolio definida para cada perfil se limita a una lista
+taxativa de instrumentos que corresponden para cada perfil inversor, sin
+mayor segmentación en cuanto a los diferentes riesgos de los mismos.
+No  establece,  porcentajes  de  composición  adecuada  del  portafolio.
+Tampoco  se  prevén  limitaciones,  prohibiciones,  condiciones  o
+consentimiento previo para las inversiones acordadas.
+i) El corredor no tiene definida una matriz en que operen simultáneamente
+los diferentes factores definidos para asignar un riesgo del cliente, sino
+que define una serie de reglas para categorizar al cliente por riesgo.
+j) Si bien la entidad cuenta con un procedimiento para la definición del
+umbral de monto significativo tanto por ingresos (USD 250.000) como
+por posición del cliente (USD 1.200.000), la definición y procedimientos
+de control presentan debilidades.
+IV) Que  los  resultados,  de  la  presente  actuación,  fueron  aprobados  por
+Resolución de la Superintendencia de Servicios Financieros N° 2025 – 516
+de  1  de  octubre  de  2025  y  comunicados  al  intermediario  por  nota
+NE/4/2025/1754 notificada el 9 de octubre de 2025.
+V) Que  con  fecha  8  de  abril  de  2026  se  dio  vista  a  la  institución  de  las
+actuaciones  y  el  día  22  de  abril  de  2026  se  presentó  un  escrito  con
+descargos y documentación adjunta.
+VI) Que en dichos descargos la institución expresa que:
+RR-SSF-2026-433     Fecha: 07/07/2026 14:37:09
+a) En  materia  de  operativa  transaccional  vinculada  con  traspasos  de
+fondos entre cuentas de clientes vinculados al corredor, las situaciones
+identificadas se limitaron a un número acotado de casos, todos ellos de
+carácter puntual y originados en errores operativos.
+b) Respecto a los saldos deudores en las cuentas de clientes, se trataron
+de  dos  situaciones  puntuales  y  de  carácter  excepcional,  los  saldos
+deudores fueron de baja materialidad o bajo monto y fueron de carácter
+transitorio.
+c) Si bien se implementó un envío masivo de estados de cuenta por correo
+electrónico a los clientes el 31 de octubre de 2025, el control a fin de
+verificar que los clientes accedan a su estado de cuenta al menos una
+vez al año se implementará a partir del mes de mayo de 2026.
+d) La cláusula 4 del contrato con clientes resulta imprescindible y adecuada
+para  la  correcta  práctica  del  negocio,  mientras  que  la  cláusula  9
+contempla supuestos de fuerza mayor en los cuales no corresponde
+atribuir responsabilidad al intermediario.
+e) La sanción propuesta es desproporcionada, irrazonable o arbitraria.
+f) No se formularon descargos respecto a los restantes incumplimientos
+constatados  en  la  actuación  de  inspección  relacionados  en  los
+RESULTANDOS II) y III).
+CONSIDERANDO: 
+I) Que el artículo 98 de la Ley 18.627 de 2 de diciembre de 2009 establece
+que l os intermediarios de valores, con excepción de las instituciones de
+intermediación  financiera,  tendrán  como  objeto  exclusivo  la  actividad
+referida  en  el  artículo  94  de  esta  ley,  esto  es,  la  realización  en  forma
+profesional y habitual de operaciones de intermediación entre oferentes y
+demandantes de valores de oferta pública o privada.
+II) Que el numeral 6. del artículo 119 de la citada Ley 18.627 considera como
+infracción grave el utilizar dineros o valores de sus comitentes para cumplir
+operaciones pendientes o propias, o de otros comitentes.
+III) Que el artículo 30 de la Ley 17.250 de 11 de agosto de 2000 considera
+abusiva por su contenido o por su forma, toda cláusula que determine claros
+e  injustificados  desequilibrios  entre  los  derechos  y  obligaciones  de  los
+contratantes en perjuicio de los consumidores.
+IV) Que el artículo 67.1.2 Recopilación de Normas del Mercado de Valores
+(RNMV) dispone las cláusulas mínimas que deben estar presentes en las
+contrataciones  cuando  se  tercericen  servicios  prestados  en  el  país  por
+terceros radicados en él, para considerarse autorizadas de forma tácita.
+V) Que los literales a. y b. del artículo 147 de la RNMV establecen que los
+intermediarios deberán contar con  una estructura de organización interna
+equilibrada  que  cuente  con  responsabilidades  claramente  definidas  en
+RR-SSF-2026-433     Fecha: 07/07/2026 14:37:09
+manuales  de  organización  y  funciones,  que  aseguren  que  la  mesa  de
+operaciones  sea  suficientemente  independiente  de  los  sectores  que
+asesoran o gestionan portafolios de clientes y con un sistema de control
+interno confiable y adecuado a los riesgos, naturaleza y complejidad de las
+operaciones.
+VI) Que el artículo 189 de la RNMV dispone que los intermediarios de valores
+deberán definir políticas y procedimientos de debida diligencia que deberán
+aplicarse a todos los nuevos clientes y asimismo, a los clientes existentes,
+que les permitan obtener un adecuado conocimiento de los mismos, así
+como del beneficiario final, prestando especial atención al volumen y a la
+índole de los  negocios  u  otras  actividades  económicas que  los  clientes
+desarrollen.
+VII) Que el artículo 194 de la RNMV establece que los intermediarios de valores
+deberán aplicar procedimientos de debida diligencia intensificada para las
+categorías de clientes, relaciones comerciales u operaciones consideradas
+de mayor riesgo, de acuerdo con lo que surja de la evaluación de riesgo
+realizada por la institución.
+VIII) Que el artículo 212 de la RNMV dispone que la modalidad de entrega del
+estado de cuenta deberá definirse por parte del cliente en forma escrita, al
+igual que su periodicidad, que deberá ser al menos anual.
+IX) Que el artículo 213 de la RNMV dispone que los intermediarios de valores
+deberán determinar las categorías en las cuales clasificarán a cada uno de
+sus clientes, en función del grado de riesgo, sofisticación y conocimiento de
+cada uno de ellos, con el propósito de identificar los diferentes productos y
+operaciones acordes con dichas categorías.
+X) Que  el  artículo  213.1  de  la  RNMV  establece  que  cuando  se  presten
+servicios de asesoramiento y de gestión de portafolios se deberá acordar
+con el cliente una estrategia de inversión, entendiendo por tal el conjunto
+de reglas, comportamientos y procedimientos diseñados para orientarlo en
+la selección de una cartera de valores.
+XI) Que el artículo 255.2 de la RNMV establece que l os procedimientos de
+resguardo de la información deberán incluir, como mínimo, un resguardo
+diario  y  deben  prever  la  generación  de,  por  lo  menos,  2  copias  de
+resguardo,  debiendo  una  de  ellas  ser  almacenada  a  una  distancia
+razonable del centro de procesamiento, en un edificio distinto al mismo. 
+XII) Que  el  artículo  255.8  de  la  RNMV  dispone  que  los  intermediarios  de
+valores  deberán  contar  con  un  plan  documentado  y  actualizado  que
+asegure la continuidad de las operaciones en caso de cualquier evento que
+afecte las instalaciones, equipos, datos, software o la prestación de los
+servicios tercerizados, imposibilitando la operativa normal.
+XIII) Que la Comunicación 2023/006 establece las disposiciones a efectos de
+elaborar el Registro de Operaciones establecido en el literal c) del artículo
+300 de la RNMV.
+RR-SSF-2026-433     Fecha: 07/07/2026 14:37:09
+XIV) Que  el literal  c. del  artículo  351 de la  RNMV establece  el elenco de
+sanciones a las que serán pasibles los corredores de bolsa que infrinjan
+las  normas  legales  o  reglamentarias,  o  las  normas  generales  e
+instrucciones particulares en la materia dictadas por el Banco Central del
+Uruguay.
+XV) Que el artículo 361 de la RNMV dispone que l a falta de cumplimiento, en
+tiempo  y  forma,  de  las  instrucciones  particulares  impartidas  a  las
+instituciones  controladas, será sancionada con una multa equivalente a
+diez veces la establecida en el artículo 357 de esta Recopilación.
+XVI) Que  el  artículo  367  de  la  RNMV  establece  que  las  instituciones
+supervisadas  que  incumplan  con  el  mantenimiento  de  los  registros
+previstos  en  la  normativa  vigente  serán  sancionadas  con  una  multa
+equivalente  a  diez  veces  la  establecida  en  el  artículo  357  de  esta
+Recopilación.
+XVII) Que el artículo 373 de la RNMV dispone que l os intermediarios de valores
+que no cumplan con el sistema integral para prevenirse de ser utilizados
+en  el  lavado  de  activos,  el  financiamiento  del  terrorismo  y  el
+financiamiento de la proliferación de armas de destrucción masiva, serán
+sancionados con una multa equivalente a 50 veces la establecida en el
+artículo 357.
+XVIII) Que el artículo 374.1 de la RNMV establece que  las instituciones que
+incumplan  con  las  normas  sobre  tercerización  de  servicios  serán
+sancionadas  con  una  multa  no  inferior  a  2  (dos)  ni  superior  a  50
+(cincuenta) veces la establecida en el artículo 357.
+XIX) Que -conforme lo previsto en el artículo 354 de la RNMV- la continuidad
+en el tiempo de las infracciones constatadas en el año 2020 agrava la
+responsabilidad del agente en función de su mantenimiento a lo largo del
+tiempo.
+XX) Que  los  descargos presentados  no son  de  recibo  por  las siguientes
+razones:
+a) La infracción no se configura a partir de un número específico de
+incumplimientos, bastando un caso para ser pasible de sanción.
+b) El eventual monto reducido de las transacciones y su duración en el
+tiempo no determinan la ausencia de infracción ni eximen a la entidad
+de responsabilidad administrativa por el incumplimiento verificado.
+c) Las acciones implementadas por la entidad con posterioridad a la
+constatación de las infracciones no enervan su configuración ni la
+eximen de responsabilidad administrativa por tales hechos.
+d) Los argumentos expresados por el corredor en su nota de descargos
+no  condicen  con  los  presupuestos  establecidos  en  la  referida
+cláusula  4  del  contrato  con  los  clientes  ante  el  rechazo  de
+instrucciones de los mismos, mientras que la redacción de la cláusula
+9 del citado contrato indica expresamente circunstancias o hechos
+RR-SSF-2026-433     Fecha: 07/07/2026 14:37:09
+fortuitos o de fuerza mayor genéricos sin aclarar que estos sean
+ajenos al corredor, a los efectos de exonerarlo de su responsabilidad.
+Respecto a las observaciones a las cláusulas 6 y 10, el intermediario
+no formula descargos.
+e) El  monto  de  la  multa  a  aplicar  por  el  cúmulo  de  infracciones
+verificadas resulta razonablemente proporcionado a estas.
+XXI) Que por el total de incumplimientos detectados se entiende razonable la
+aplicación al intermediario de una multa global de UI 200.000, resultante
+de graduar los montos citados en los CONSIDERANDO anteriores, en
+función  de  la  gravedad  de  las  infracciones  cometidas,  al  amparo  del
+último inciso del mencionado artículo 351.
+XXII) Que el artículo 118 de la citada Ley 18.627 establece que las sanciones
+dispuestas por el Banco Central del Uruguay deberán ser publicadas.
+ATENTO  :   A lo dispuesto en el literal L) del artículo 38 de la Ley 16.696 de 30
+de marzo de 1995, en la redacción dada por leyes modificativas, los artículos
+94, 98, 118, 119 y 120 de la Ley N° 18.627 de 2 de diciembre de 2009, al
+artículo 30 de la ley 17.250, los artículos 67.1.2, 147, 189, 194, 212, 213, 213.1,
+255.2, 255.8, 300, 351, 354, 357, 361, 367, 373 y 374.1 de la Recopilación de
+Normas del Mercado de Valores, las Comunicaciones N° 2020/247 de 25 de
+noviembre de 2020 y N° 2023/006 de 10 de enero de 2023, en el artículo 91 del
+Reglamento Administrativo del Banco Central del Uruguay, a los Dictámenes
+2026/107 y 2026/268 de la Asesoría Jurídica y las resultancias del expediente
+administrativo N° 2026- 50-1-00048.
+EL SUPERINTENDENTE DE SERVICIOS FINANCIEROS
+RESUELVE:
+1. Sancionar a DE SIMONI & PIAGGIO SOCIEDAD DE BOLSA S.A. con una
+multa  de  UI  200.000  (doscientas  mil  unidades  indexadas)  por  los
+incumplimientos detectados en oportunidad de la actuación de supervisión
+realizada en el año 2025.
+2. Notificar al interesado. 
+3. Poner en conocimiento del mercado la resolución mediante Comunicación.
+JUAN PEDRO CANTERA
+Superintendente de Servicios Financieros
+RR-SSF-2026-433     Fecha: 07/07/2026 14:37:09
+Exp. 2026-50-1-00048 
+ Publicable: Si - Firmante: JUAN PEDRO CANTERA SENCIÓN

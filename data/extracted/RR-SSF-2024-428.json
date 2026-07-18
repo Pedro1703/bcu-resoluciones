@@ -12,7 +12,7 @@
 "resultado": "inscripción aprobada",
 "resumen": "UBS FINANCIAL SERVICES (URUGUAY): inscripción aprobada",
 "relevancia": "media",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cd7ew4w9fAcDapF5qcwhy'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cd9XS5Cupc28ANs2XHnwG'})",
 "id": "RR-SSF-2024-428",
 "year": "2024",
 "month": "Setiembre",

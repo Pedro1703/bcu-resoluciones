@@ -12,7 +12,7 @@
 "resultado": "inscripción aprobada",
 "resumen": "Itaú: inscripción aprobada",
 "relevancia": "media",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cd7euPamLwjY2Wnw5mKjb'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cd9XQWxu9Jn1f7DLA7u8J'})",
 "id": "RR-SSF-2024-558",
 "year": "2024",
 "month": "Diciembre",
