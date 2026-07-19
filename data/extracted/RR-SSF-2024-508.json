@@ -12,7 +12,7 @@
 "resultado": "autorizado",
 "resumen": "Scotiabank: autorizado",
 "relevancia": "media",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cd9XR8jTW8UB3LXvGDJXK'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdBR8p4Ay5XKxqumg3rmr'})",
 "id": "RR-SSF-2024-508",
 "year": "2024",
 "month": "Noviembre",

@@ -12,7 +12,7 @@
 "resultado": "inscripción aprobada",
 "resumen": "BOLSA ELECTRÓNICA DE VALORES DEL URUGUAY: inscripción aprobada (2.79%)",
 "relevancia": "media",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cd9XPLkiEWutyBw1zZAaB'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdBR8C9RzA3w5LKfeVrNd'})",
 "id": "RR-SSF-2026-447",
 "year": "2026",
 "month": "Julio",

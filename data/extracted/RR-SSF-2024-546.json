@@ -12,7 +12,7 @@
 "resultado": "transferencia de control autorizada",
 "resumen": "JORGE DAVISON & CÍA CORREDOR DE BOLSA: transferencia de control autorizada (20%)",
 "relevancia": "media",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cd9XQcDAvZNTYdFAjKWNL'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdBR8VuGXD8SF4SEphSMN'})",
 "id": "RR-SSF-2024-546",
 "year": "2024",
 "month": "Noviembre",
