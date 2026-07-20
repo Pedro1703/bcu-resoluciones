@@ -12,7 +12,7 @@
 "resultado": "inscripción aprobada",
 "resumen": "BOLSA DE VALORES DE MONTEVIDEO: inscripción aprobada",
 "relevancia": "media",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdBR9nk4oG5WWjzw3VpAZ'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdDPYC6eGa8UeLzt1v8DQ'})",
 "id": "RR-SSF-2024-368",
 "year": "2024",
 "month": "Agosto",

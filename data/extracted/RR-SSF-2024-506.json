@@ -12,7 +12,7 @@
 "resultado": "autorizado",
 "resumen": "PILAY URUGUAY ADMINISTRADORA DE FONDOS DE INVERSIÓ: autorizado",
 "relevancia": "media",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdBR8pXhNvh4xh6Xo9WGe'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdDPW9rQQU4u16U5Ae7MG'})",
 "id": "RR-SSF-2024-506",
 "year": "2024",
 "month": "Noviembre",

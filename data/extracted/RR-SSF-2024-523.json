@@ -12,7 +12,7 @@
 "resultado": "normativa emitida",
 "resumen": "ENTIDADES OTORGANTES DE CRÉDITO DE MAYOR ACTIVIDAD: normativa emitida",
 "relevancia": "baja",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdBR8hjR4BcmLM31gmgGd'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdDPVg2auPbT3ALzT2LXc'})",
 "id": "RR-SSF-2024-523",
 "year": "2024",
 "month": "Noviembre",
