@@ -12,7 +12,7 @@
 "resultado": "autorizado",
 "resumen": "Surco: autorizado",
 "relevancia": "media",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdDPUhDFJSNDm5Utgx37V'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdFEtzQUaRba1NUxwTyt7'})",
 "id": "RR-SSF-2026-449",
 "year": "2026",
 "month": "Julio",
