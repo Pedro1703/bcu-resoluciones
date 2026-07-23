@@ -1,0 +1,104 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La  introducción  de  cambios  en  el  régimen  de  Fondos  de  Ahorro
+Previsional dispuestos por la Ley 20.130 y el Decreto 413/023.
+RESULTANDO  :   Que resulta conveniente y necesario reformular los controles
+de supervisión sobre la información contable de las Administradoras de Fondos
+de Ahorro Previsional y los Fondos que éstas administran.
+CONSIDERANDO: Que, a efectos de posibilitar los cambios en los controles
+de supervisión señalados en el Resultando, corresponde formalizar la solicitud
+de información mensual que permita su realización, estableciendo un formato
+homogéneo para su recepción.
+ATENTO: a las atribuciones establecidas en los artículos 34 y 35 del Texto
+Ordenado de la Carta Orgánica del Banco Central del Uruguay, en el artículo
+250 de la Ley 20.130 de 2 de mayo de 2023, en la Resolución de la SSF N°
+785  -  2015  de  24  de  noviembre  de  2015  y  a  lo  informado  por  la
+Superintendencia de Servicios Financieros en el expediente 2024-50-01-00385.
+EL GERENTE DE GESTIÓN ESTRATÉGICA Y OPERATIVA, EN EJERCICIO
+DE ATRIBUCIONES DELEGADAS POR EL SUPERINTENDENTE DE
+SERVICIOS FINANCIEROS, 
+RESUELVE:
+Emitir la siguiente Comunicación, incluyendo los Anexos de fs. 5 a 46 del 
+expediente 2024-50-01-00385:
+C O M U N I C A C I Ó N N°2024/XXX
+Ref:  ADMINISTRADORAS  DE  FONDOS  DE  AHORRO  PREVISIONAL  –
+Informe  Mensual  de  los  Subfondos  de  Ahorro  Previsional,  del  Fondo
+Previsional  Voluntario  y  de  las  Administradoras  de  Fondos  de  Ahorro
+Previsional. 
+Se  pone  en  conocimiento  de  las  Administradoras  de  Fondos  de  Ahorro
+Previsional  que,  a  efectos  de  cumplir  con  la  información  requerida  por  el
+artículo 163 de la Recopilación de Normas de Control de Fondos Previsionales,
+deberán  suministrar  mensualmente  a  la  Superintendencia  de  Servicios
+Financieros los siguientes informes:
+1. Informe de cada uno de los Subfondos del Fondo de Ahorro Previsional
+RR-SSF-2024-108     Fecha: 26/02/2024 20:12:52
+Estará compuesto por la siguiente información:
+A. Estado  de  Situación  Patrimonial  con  sus  correspondientes  notas
+explicativas al último día de cada mes. (Anexo I)
+B. Estado de Evolución del Patrimonio del mes. (Anexo II)
+C. Composición y Distribución de la Rentabilidad del Mes. (Anexo II)
+D. Composición en cuotas al último día del mes. (Anexo II)
+E. Movimientos de Traspasos del mes. (Anexo II)
+F. Cuadro de Comisiones de Administración y Primas de Seguro del mes.
+(Anexo III)
+2. Informe del Fondo Voluntario Previsional
+Estará compuesto por la siguiente información:
+A. Estado  de  Situación  Patrimonial  con  sus  correspondientes  notas
+explicativas al último día de cada mes. (Anexo I)
+B. Estado de Evolución del Patrimonio del mes. (Anexo IV)
+C. Composición y Distribución de la Rentabilidad del Mes. (Anexo IV)
+D. Composición en cuotas al último día del mes. (Anexo IV)
+E. Movimientos de Traspasos del mes. (Anexo IV)
+F. Cuadro de Comisiones de Administración. (Anexo V) 
+3. Informe de las Administradoras de Fondos de Ahorro Previsional 
+Estará compuesto por la siguiente información: 
+A. Estados  Contables  de  acuerdo  a  las  disposiciones  reglamentarias
+vigentes y las establecidas por el Banco Central del Uruguay, por el
+período  comprendido  entre  la  fecha  de  iniciación  del  ejercicio
+económico y el último día  de cada mes, con  sus correspondientes
+notas explicativas (Anexo I). 
+En  caso  de  déficit  de  Patrimonio  Mínimo,  se  incluirá  una  nota
+explicativa específica de recomposición del Patrimonio Mínimo en la
+que se especifique:
+ Fecha en que se produce el déficit
+ Mes en el cual debe reintegrarse el patrimonio
+ Fecha de los aportes efectuados
+ Saldo de déficit pendientes de recomposición
+B. Estado de Evolución del Patrimonio. (Anexo VI)
+RR-SSF-2024-108     Fecha: 26/02/2024 20:12:52
+C. Cuadro de Amortizaciones de Bienes de Uso e Intangibles. (Anexo VI)
+D. Cuadro de Composición de Capital del mes. (Anexo VI)
+E. Movimientos de Inversiones. (Anexo VI)
+F. Valuación del stock de Inversiones. (Anexo VI)
+G. Cuadro de Patrimonio Mínimo. (Anexo VII)
+H. Cuadro de la Reserva Especial. (Anexo VIII)
+La información deberá remitirse en un archivo .zip a través del Sistema de
+envío centralizado (IDI), utilizando el tipo de dato periódico “Estados contables
+mensuales (afap) (586)”, según los formatos que se adjuntan en el Anexos, los
+que podrán descargarse en la opción “Descargas”, “Publicaciones”, “Archivos
+de trabajo” del sistema, en la opción “Información mensual AFAPs”. 
+Se deberá incluir la firma electrónica del autorizado a remitir información por
+parte de la entidad. 
+Las instrucciones para el acceso y uso de este Sistema y el aplicativo de firma
+del BCU pueden accederse en la siguiente dirección: 
+https://www.bcu.gub.uy/Servicios-Financieros-SSF/Documents/acceso-y-envio-
+info-ssf.pdf
+La información deberá remitirse antes de las 16:00 horas del décimo día hábil
+siguiente al mes al que está referida.
+Las solicitudes de prórrogas se harán por los procedimientos habituales.
+La  presente  disposición  entrará  en  vigencia  a  partir  de  la  información
+correspondiente a diciembre de 2023.
+Excepcionalmente,  para  el  envío  de  la  información  correspondiente  a  los
+meses de diciembre 2023, enero 2024 y febrero 2024, se otorga plazo de diez,
+quince  y veinte  días hábiles  respectivamente, a partir  de  la fecha de esta
+Comunicación.
+A partir de la vigencia de la presente Comunicación, quedan sin efecto las
+Comunicaciones 2003/13 de 29 de enero de 2003, 2003/170 de 2 de setiembre
+de 2003, 2003/175 de 9 de setiembre de 2003, 2004/130 de 19 de mayo de
+2004 y 2007/241 de 1° de octubre de 2007.
+CHRISTIAN SALVARREY
+Gerente de 
+Gestión Estratégica y Operativa
+RR-SSF-2024-108     Fecha: 26/02/2024 20:12:52
+Exp. 2024-50-1-00385 
+ Publicable: Si - Firmante: ALBERTO CHRISTIAN SALVARREY MORO

@@ -1,0 +1,243 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La  actuación  de  seguimiento  llevada  adelante  en  BERKLEY
+INTERNATIONAL  SEGUROS  S.A.  durante  el  año  2023  sobre  las
+observaciones identificadas en la evaluación realizada en el año 2018.
+RESULTANDO: 
+I) Que  como  resultado  de  la  actuación  referida  en  el  VISTO,  se  han
+constatado  avances  en  la  implementación  de  medidas  correctivas,  no
+obstante, persisten una serie de las debilidades detectadas en la citada
+evaluación del año 2018:
+a) Si bien se han constatado ciertos avances en la medida que se verificó
+la aprobación de las políticas, no ha sido posible determinar con qué
+profundidad  se  analizan  los  temas  en  el  Directorio  al  no  quedar
+explicitados en actas los análisis realizados, tomando en consideración
+además que en una única reunión se han abordado todos los asuntos
+inherentes al ejercicio 2021. Asimismo, no se ha encontrado evidencia
+de reportes de excepciones y varios documentos han sido aprobados
+fuera de plazo (a modo de ejemplo, planes de negocio).
+b) Se  mantienen  faltantes  de  información  en  los  legajos  de  siniestros,
+habiéndose verificado en algunos casos la ausencia de fundamentación
+sobre la constitución inicial de la reserva. Además, se ha verificado la
+determinación de reservas iniciales por defecto, que no condicen con el
+riesgo específico que se está asumiendo.
+c) No  se  realizó  el  inventario  de  actividades  tercerizadas,  no  se
+confeccionó  la  matriz  de  riesgo  operativo,  así  como  tampoco  se
+presentan indicadores de riesgo operacional en el Comité de Riesgos.
+d) No se han definido aún límites para la gestión del riesgo de tasa de
+interés estructural y tasa de interés del portafolio.
+e) No se realizan pruebas de estrés de liquidez con la periodicidad definida,
+ni queda evidencia de la revisión periódica de los supuestos utilizados
+para su elaboración, de acuerdo a los procedimientos fijados.
+II) Que  adicionalmente,  se  han  identificado  nuevas  debilidades  y  se  han
+dictado nuevas instrucciones particulares:
+a) El Directorio no ha demostrado un fuerte compromiso con las estructuras
+de control de la entidad, en la medida que persisten varias debilidades
+señaladas en evaluaciones anteriores relativas al Comité de Auditoría,
+Auditoria  Interna,  funcionamiento  de  la  Alta  Gerencia  y  Gestión  de
+Riesgos.
+RR-SSF-2024-160     Fecha: 25/03/2024 16:13:08
+b) La entidad no ha internalizado en su totalidad la cultura de gestión de
+riesgos que ha definido. En tal sentido, se ha evidenciado que no todos
+los Gerentes conocen las políticas, procedimientos y reportes de los
+riesgos que deben gestionar.
+c) Si bien la entidad registró mejoras en el funcionamiento del Comité de
+Auditoría, no fue proporcionada evidencia documental donde se registre
+el  seguimiento  efectuado  sobre  las  debilidades  identificadas  por  la
+Superintendencia de Servicios Financieros. Asimismo, el Estatuto  del
+Comité de Auditoría adolece de vicios formales. A vía de ejemplo, no
+establece específicamente el quórum requerido para las reuniones, no
+se especifica si todos los integrantes cuentan con voz y voto, y no se
+establecen  mecanismos  de  decisión  en  caso  de  empate  en  las
+votaciones.
+d) La Auditoría Interna no incluye en sus planes procesos críticos, como
+son el de constitución de reservas y el cálculo del nivel de capital.
+e) Los informes emitidos por el Responsable de la Función Actuarial se
+encuentran incompletos, en tanto no contemplan todos los aspectos a
+evaluar de acuerdo con la normativa vigente. En particular, se destaca
+que no se efectúa una revisión sobre el proceso de suscripciones de la
+compañía y no se emite opinión acerca de la suficiencia de reservas.
+f) La entidad cuenta con servicios tercerizados en Berkley International
+Seguros S.A. de Argentina sin haber suscrito un contrato de servicios, y
+por lo tanto, sin haber gestionado la autorización correspondiente, como
+por ejemplo, la contratación de la función actuarial y de la auditoría
+interna de la compañía, así como a sus respectivas subcontrataciones.
+g) La entidad no había constituido la reserva inicial de siniestros pendientes
+para los casos de siniestros SOA en los que existen víctimas fatales por
+un importe de UI 250.000.
+h) No se había constituido una reserva de insuficiencia de primas para
+todas las ramas que así lo requerían.
+III) Que las mencionadas debilidades fueron comunicadas a la institución a
+través de la nota de la Superintendencia de Servicios Financieros de 13 de
+junio de 2023.
+IV) Que se confirió vista de las actuaciones a la entidad, la que fue evacuada
+con fecha 25 de octubre de 2023, formulando descargos.
+V) Que en dichos descargos la institución expresa que:
+a) A la fecha, todas las observaciones relevadas en la actuación inspectiva
+fueron debidamente corregidas.
+b) La  empresa  no  cuenta  con  antecedentes  sancionatorios  por
+incumplimientos de este tipo.
+RR-SSF-2024-160     Fecha: 25/03/2024 16:13:08
+c) La  sanción  no  cumple  con  los  principios  de  proporcionalidad  y
+gradualidad.
+d) El objetivo de la normativa sobre tercerizaciones es tener una plena
+identificación  y  control  de  los  proveedores  de  servicios.  La
+Superintendencia de Servicios Financieros tenía identificado al actual
+proveedor  de  los  servicios  de  la  función  actuarial  y  la  función  de
+auditoría interna, que a su vez es el accionista de la empresa, pues ya lo
+había autorizado, por Resolución de la Superintendencia de Servicios
+Financieros N° 2018 – 695 de 9 de noviembre de 2018, como prestador
+de los servicios de procesamiento externo de datos. En consecuencia,
+no se está frente a una contratación de terceros sin autorización, sino,
+en todo caso, a un incumplimiento sobre normas de tercerizaciones, que
+según el primer inciso del artículo 162.3 de la Recopilación de Normas
+de Seguros y Reaseguros, se sanciona con una multa mínima de UI
+13.000. 
+e) El ente supervisor pudo acceder y controlar la prestación del servicio
+tercerizado, cumpliendo con el espíritu de la normativa, y que mediante
+la autorización conferida por la Resolución de la Superintendencia de
+Servicios Financieros 2023 - 534 de 17 de octubre de 2023 se subsanó
+el incumplimiento detectado en la actuación inspectiva.
+CONSIDERANDO: 
+I) Que  el  artículo  18.3  de  la  Recopilación  de  Normas  de  Seguros  y
+Reaseguros  (RNSR)  establece  que  las  empresas  aseguradoras  y
+reaseguradoras deberán implementar un gobierno corporativo y un sistema
+de gestión integral de riesgos que cumpla con las definiciones, principios y
+objetivos dispuestos en los artículos siguientes y con los que se deriven de
+los  Estándares  Mínimos  de  Gestión  para  Seguros  que  establece  la
+Superintendencia de Servicios Financieros.
+II) Que  los  Estándares  Mínimos  de  Gestión  para  Empresas  Aseguradoras
+(EMG)  fueron  aprobados  por  Resolución  de  la  Superintendencia  de
+Servicios Financieros N° 2021 – 757 de 8 de diciembre de 2021 y puestos
+en  conocimiento  del  mercado  por  Comunicación  2021/263  de  16  de
+diciembre de 2021.
+III) Que  las  debilidades  descritas  en  los  RESULTANDOS  evidencian
+incumplimientos de los siguientes EMG: 1, 5, 8, 17, 21, 22, 26, 28, 29, 40,
+44 y 49.
+IV) Que  el  artículo  18.5  de  la  RNSR  establece  los  requisitos  de  gobierno
+corporativo para las empresas aseguradoras, el artículo 18.7 la obligación
+para  estas  entidades  de  contar  con  un  sistema  de  gestión  integral  de
+riesgos con las características que en él se detallan y los artículos 18.9,
+18.10,  18.17,  18.20  y  18.21  establecen,  respectivamente,  las
+responsabilidades  del  directorio,  de  la  alta  gerencia  y  del  comité  de
+auditoría de estas entidades y las funciones de la auditoría interna y el
+planeamiento de sus actividades.
+RR-SSF-2024-160     Fecha: 25/03/2024 16:13:08
+V) Que  el  artículo  66.1  de  la  RNSR  establece  la  información  que  debe
+contener el legajo de siniestro que deben abrir las empresas aseguradoras
+por cada denuncia de siniestro ingresada.
+VI) Que los artículos 16.1 y siguientes de la RNSR establecen el régimen que
+las empresas aseguradoras y reaseguradoras deberán observar en materia
+de  las  autorizaciones  correspondientes  para  la  contratación  de  terceros
+para la prestación en su favor de servicios inherentes a su giro.
+VII) Que  el  artículo  18.14  de  la  Recopilación  de  Normas  de  Seguros  y
+Reaseguros (RNSR) establece que la Función Actuarial debe evaluar y
+brindar asesoría en lo relativo, al menos a reservas técnicas, primas y
+fijación  de  precios,  así  como  al  cumplimiento  de  requisitos  legales  y
+regulatorios  relacionados,  disponiendo  un  mínimo  de  aspectos  para  su
+evaluación y asesoría.
+VIII) Que el artículo 18.26 de la RNSR establece que el responsable de la
+función actuarial elaborará un informe anual en el que se describirán las
+actividades  llevadas  a  cabo  en  cumplimiento  de  las  funciones
+establecidas en el artículo 18.14, incluyendo, entre otras cosas, su grado
+de  alcance  y  la  opinión  acerca  de  sus  resultados,  detallando  las
+deficiencias observadas y las recomendaciones para subsanarlas.
+IX) Que la Comunicación 2020/244 establece un mínimo de instrucciones que
+el  responsable  de  la  función  actuarial  deberá  contemplar,  a  efectos  de
+elaborar el informe a que refiere el artículo 18.26 de la RNSR.
+X) Que el artículo 25 de la RNSR establece que las empresas aseguradoras
+deberán constituir reservas técnicas, considerándose tales las provisiones
+que deben realizar para hacer frente a las obligaciones asumidas con los
+asegurados, entre ellas, las reservas de riesgo en curso y las reservas para
+siniestros pendientes.
+XI) Que el artículo 26 de la RNSR dispone que uno de los componentes de las
+reservas de riesgo en curso será la reserva de insuficiencia de primas.
+XII) Que el artículo 8 de la Ley N° 18.412 de 17 de noviembre de 2008 dispone
+que el seguro obligatorio tendrá una cobertura máxima de UI 250.000. 
+XIII) Que el artículo 29 de la RNSR establece las disposiciones a las que
+deberán ajustarse las empresas aseguradoras para calcular las reservas
+para siniestros pendientes.
+XIV) Que el artículo 160 de la RNSR establece el elenco de sanciones a las
+que serán pasibles las instituciones que infrinjan las leyes y decretos que
+regulan  la  actividad  aseguradora  o  reaseguradora,  o  las  normas
+generales e instrucciones particulares dictadas por la Superintendencia de
+Servicios Financieros.
+XV)Que el artículo 162.3 de la RNSR dispone que  en caso que la infracción
+refiera  a  la  contratación  de  terceros  sin  autorización  conforme  lo
+establecido en el artículo 16.1.1, las empresas serán sancionadas con una
+multa no inferior a UI 130.000 ni superior a UI 500.000.
+RR-SSF-2024-160     Fecha: 25/03/2024 16:13:08
+XVI) Que los servicios inspectivos informan que:
+a) La institución ha iniciado el trámite para regularizar la mencionada
+tercerización en Berkley International Seguros S.A. de Argentina de los
+servicios de auditoría interna y función actuarial, mediante adenda al
+contrato vigente,
+b) En la información de balance presentada a junio de 2023 la institución
+regularizó  la  información  relativa  a  la  reserva  por  insuficiencia  de
+primas e incorporó en sus procedimientos la obligatoriedad de registrar
+reserva inicial de siniestros pendientes para los casos de siniestros
+SOA con fallecimientos por un importe de UI 250.000. 
+c) La institución ha cumplido en tiempo y forma con las instrucciones
+particulares  impartidas  por  la  Superintendencia  de  Servicios
+Financieros.
+XVII) Que  BERKLEY  INTERNATIONAL  SEGUROS  S.A.  no  registra
+antecedente respecto a este tipo de infracciones.
+XVIII) Que en consecuencia, se entiende razonable, en esta oportunidad, fijar
+una multa global  de  UI 130.000, por el conjunto  de incumplimientos
+detectados.
+XIX) Que  los  descargos  presentados  por  la  empresa  no  se  consideran  de
+recibo por las siguientes razones:
+a) Las  acciones  implementadas  por  la  entidad  con  posterioridad  a  la
+constatación  de  las  infracciones  no  enervan  su  configuración  ni la
+exime de responsabilidad administrativa por tales hechos.
+b) La falta de antecedentes fue considerada, lo que queda evidenciado
+en el hecho de que por el cúmulo de incumplimientos constatados, se
+ha aplicado como multa global, la mínima tasada para uno de ellos, es
+decir, la prevista para la contratación de terceros sin autorización.
+c) En  virtud  de  lo  dispuesto  en  el  artículo  162.3  de  la  RNSR,  la
+contratación de terceros sin autorización, se sanciona con una multa
+mínima de UI 130.000, la que se ha aplicado como multa global por el
+total  de  incumplimientos  detectados,  por  lo  que  la  sanción  se
+encuentra ajustada a Derecho, además de ajustarse razonablemente a
+las infracciones cometidas.
+d) El artículo 16.1.1 de la RNSR exige la autorización expresa para la
+tercerización de servicios cuando se trate de servicios prestados por
+terceros radicados en el exterior del país y dispone expresamente que
+la autorización referirá únicamente al servicio específico objeto de la
+solicitud y que todo cambio posterior al alcance o a las condiciones
+sobre cuya base se otorgó la autorización original, deberá ser objeto
+de una nueva solicitud.
+RR-SSF-2024-160     Fecha: 25/03/2024 16:13:08
+e) La  autorización  de  un  proveedor  para  un  determinado  servicio  no
+provoca la autorización tácita de cualquier otro servicio. Cuando la
+normativa  exige  una  autorización  expresa,  como  es  el  caso,  es  a
+efectos  de  que  el  supervisor  analice  las  cualidades  del  potencial
+proveedor para el servicio específico objeto de autorización. Resultó
+probado que la aseguradora no cumplió con solicitar la autorización
+para la contratación del tercero para prestarle los servicios de función
+actuarial  y  de  auditoría  interna, no  eximiéndolo  de  responsabilidad
+administrativa  por  la  infracción  cometida  la  eventual  autorización
+posterior de la tercerización.
+ATENTO  :   A lo dispuesto en el literal L) del artículo 38 de la Ley 16.696 de 30
+de marzo de 1995, en la redacción dada por el artículo 11 de la Ley 18.401 de
+24 de octubre de 2008, el artículo 2 de la ley 17.613 de 27 de diciembre de
+2002, al artículo 8 de la ley 18.412 de 17 de noviembre de 2008, los artículos
+16.1 y siguientes 18.3, 18.5, 18.7, 18.9, 18.10, 18.14, 18.17, 18.20, 18.21,
+18.26, 25, 26, 29, 66.1, 160 y 162.3 de la Recopilación de Normas de Seguros
+y  Reaseguros,  los  Estándares  Mínimos  de  Gestión  para  Empresas
+Aseguradoras aprobados por Resolución de la Superintendencia de Servicios
+Financieros  N°  2021  –  757  de  8  de  diciembre  de  2021  y  puestos  en
+conocimiento del mercado por Comunicación 2021/263 de 16 de diciembre de
+2021, la Comunicación 2020/244 de 19 de noviembre de 2020, en el artículo 94
+del  Reglamento  Administrativo  del  Banco  Central  del  Uruguay,  a  los
+Dictámenes  de  la  Asesoría  Jurídica  y  las  resultancias  del  expediente
+administrativo N° 2023-50-1-01250.
+SE RESUELVE:
+1. Sancionar a BERKLEY INTERNATIONAL SEGUROS S.A. con una multa de
+UI 130.000 (ciento treinta mil unidades indexadas).
+2. Notificar al interesado.
+JUAN PEDRO CANTERA
+Superintendente de Servicios Financieros
+RR-SSF-2024-160     Fecha: 25/03/2024 16:13:08
+Exp. 2023-50-1-01250 
+ Publicable: Si - Firmante: Juan Pedro Cantera Sencion

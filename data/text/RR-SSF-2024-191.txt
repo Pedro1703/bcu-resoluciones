@@ -1,0 +1,125 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La nota presentada por el Banco de Seguros del Estado el 15 de abril de
+2024.
+RESULTANDO: 
+I) Que, en la nota mencionada en el VISTO el Banco de Seguros del Estado
+expone un problema de consistencia en el cálculo del capital mínimo para el
+Grupo  II  –  Seguros  para  las  Personas,  debido  a  las  modificaciones
+introducidas  por  la  Ley  20.130  de  2  de  mayo  de  2023  y  sus  decretos
+reglamentarios, en las coberturas otorgadas por los Seguros Previsionales.
+II) Que en la nota a que hace referencia el VISTO, el Banco de Seguros del
+Estado solicita autorización para aplicar, hasta diciembre de 2024 inclusive,
+una metodología de cálculo de capital mínimo que supone considerar para los
+seguros previsionales del Grupo II, que no generan reserva matemática, las
+primas y siniestros del Seguro Colectivo de Invalidez y Muerte, adicionadas a
+las del Seguro Colectivo de Invalidez y Fallecimiento y un valor nulo para los
+siniestros pendientes de liquidación en el período correspondiente a 36 meses
+para atrás.
+III) Que el Banco de Seguros del Estado fundamenta su pedido asumiendo un
+criterio conservador dado que propone considerar para el cálculo los siniestros
+pagados  por  la  totalidad  del  anterior  Seguro  Colectivo  de  Invalidez  y
+Fallecimiento.
+IV) Que, asimismo, en la citada nota, el Banco de Seguros del Estado presenta el
+recálculo del capital mínimo a diciembre de 2023 considerando la metodología
+propuesta, obteniendo un capital mínimo superior al resultante de la aplicación
+del artículo 20 de la Recopilación de Normas de Seguros y Reaseguros. 
+CONSIDERANDO: 
+I) Que, previo a la vigencia de la Ley 20.130, el Seguro Colectivo de Invalidez y
+Fallecimiento  otorgaba  las  coberturas  de  pensión  de  sobrevivencia  por
+fallecimiento  en  actividad,  subsidio  transitorio  por  incapacidad  parcial  y
+jubilación por incapacidad total.
+II) Que conforme a los artículos 57 y 59 de la Ley N° 16.713 de 3 de setiembre de
+1995, en la redacción dada por los artículos 97 y 100 de la Ley N° 20.130 de 2
+de  mayo  de  2023,  el  Seguro  Colectivo  de  Invalidez  y  Muerte  otorga  las
+coberturas de insuficiencia de saldo y de subsidio transitorio por incapacidad
+parcial. Asimismo, las coberturas de pensión de sobrevivencia por fallecimiento
+en  actividad  y  jubilación  por  incapacidad  son  otorgadas  mediante  la
+contratación de un seguro individual de Renta Previsional.
+III) Que, en tanto el seguro Colectivo de Invalidez y Muerte constituye un seguro
+que no genera reserva matemática, de acuerdo con lo establecido en los
+artículos 19 y 20 de la Recopilación de Normas de Seguros y Reaseguros, a
+efectos de calcular el capital mínimo correspondiente, se debe considerar los
+RR-SSF-2024-191     Fecha: 25/04/2024 16:45:58
+premios de los últimos 12 meses y el monto de los siniestros pagados más la
+variación, a pesos constantes, entre los siniestros pendientes de liquidación de
+los últimos 36 meses.
+IV) Que la metodología de cálculo propuesta por el Banco de Seguros del Estado
+referida en el RESULTANDO II) constituiría un apartamiento a lo establecido
+en el artículo 20 referido en el CONSIDERANDO II), no obstante, la propuesta
+se considera de recibo en virtud de los siguientes argumentos:
+a) La asimilación del seguro colectivo de Invalidez y Fallecimiento y del seguro
+colectivo de Invalidez y Muerte resulta inconsistente, en tanto comprenden
+distintas coberturas.
+b) La metodología de cálculo propuesta asume un criterio conservador en la
+medida  que  determina  un  cálculo  mayor  para  el  monto  en  función  de
+siniestros del que resultaría de la aplicación textual del artículo 20 de la
+mencionada Recopilación. 
+c) Se han validado los cálculos presentados por la entidad a diciembre de
+2023.
+V) Que, la solicitud de excepción planteada por el Banco de Seguros del Estado
+se extiende hasta diciembre de 2024, sin embargo, el seguro colectivo de
+Invalidez y Muerte alcanzaría los 36 meses de antigüedad en diciembre de
+2026, por lo que es necesario plantear una solución para los ejercicios 2025 y
+2026.
+VI) Que por lo que viene de decirse, correspondería realizar una adecuación de la
+metodología de cálculo establecida en los artículos 19 y 20 de la Recopilación
+de  Normas  de  Seguros  y  Reaseguros  ajustando  el  monto  en  función  de
+siniestros por un factor que contemple los meses transcurridos entre enero de
+2024 y el período de cierre correspondiente para cada mes de cálculo, hasta
+alcanzar los 36 meses,
+ATENTO  :   A lo dispuesto en los artículos  en los artículos 37 y 38 de la Carta
+Orgánica del Banco Central del Uruguay Ley Nº 16.696 de 30.03.1995, con las
+modificaciones introducidas por la ley Nº 18.401 de 24.10.2008 , en los artículos 57
+y 59 de la Ley N° 16.713 de 03.09.1995, en la redacción dada por los artículos 97 y
+100 de la Ley N° 20.130 de 02.05.2023, en los artículos 19 y 20 de la Recopilación
+de Normas de Seguros y Reaseguros, y a lo informado en el Expediente N° 2024-
+50-1-00822.
+SE RESUELVE:
+1. Autorizar a Banco de Seguros del Estado a aplicar la metodología de cálculo
+propuesta en su nota del 15 de abril de 2024 (NR/4/2024/750) hasta diciembre
+de 2024 inclusive, para el cálculo del Margen de Solvencia del capital mínimo
+del Grupo II – Seguros para las Personas. 
+Los  componentes  del  Margen  de  Solvencia  referido  anteriormente  se
+calcularán de la siguiente manera:  
+1) Monto en función de primas  : de acuerdo a lo establecido en el artículo 20
+de la Recopilación de Normas de Seguros y Reaseguros considerando las
+primas cobradas por el Seguro Colectivo de Invalidez y Fallecimiento hasta
+RR-SSF-2024-191     Fecha: 25/04/2024 16:45:58
+noviembre de 2023, y por el Seguro Colectivo de Invalidez y Muerte desde
+diciembre de 2023.
+2) Monto en función de siniestros  : de acuerdo a lo establecido en el artículo 20
+de la Recopilación de Normas de Seguros y Reaseguros, considerando los
+siniestros  pagados  por el Seguro Colectivo de Invalidez y Fallecimiento
+hasta noviembre de 2023 y por el Seguro Colectivo de Invalidez y Muerte
+desde diciembre de 2023. Se considerará  nula la reserva de siniestros
+pendientes correspondiente al Seguro Colectivo de Invalidez y Muerte en
+los 36 meses anteriores al cierre del período de cálculo correspondiente. 
+2. Comunicar que a partir de enero de 2025  y hasta que el Seguro Colectivo de
+Invalidez  y  Muerte  cuente  con  36  meses  de  antigüedad,  el  literal  a)  del
+apartado  ii)  del  artículo  19  de  la  Recopilación  de  Normas  de  Seguros  y
+Reaseguros, correspondiente al Margen de Solvencia del capital mínimo para
+los seguros del Grupo II – Seguros para las Personas que no generan reserva
+matemática, se calculará multiplicando por un factor F el monto resultante de: 
+a) La suma de los siniestros pagados (sin deducir los reaseguros pasivos) por
+seguros directos, reaseguros y retrocesiones activos, durante  los meses
+transcurridos  entre  enero  de  2024  y  el  cierre  del  período
+correspondiente. El importe de cada mes deberá actualizarse al cierre del
+período  en  función  de  la  variación  del  Índice  de  Precios  al  Consumo
+elaborado por el Instituto Nacional de Estadística.
+b) Al  valor obtenido en a) se le adiciona la diferencia entre  los  siniestros
+pendientes de liquidación por seguros directos, reaseguros y retrocesiones
+activos (sin deducir los reaseguros pasivos) constituido al cierre del período
+correspondiente  y  el  monto  de  dicho concepto  constituido en enero  de
+2024, actualizado al cierre del período en función de la variación del Índice
+de Precios al Consumo elaborado por el Instituto Nacional de Estadística.
+El factor F = 12/M 
+Donde M será igual a 12 en diciembre de 2024, 13 en enero de 2025, 14 en
+febrero de 2025 y así sucesivamente hasta llegar a 36 en diciembre de
+2026.   
+3. Notificar a Banco de Seguros del Estado la presente resolución.
+JUAN PEDRO CANTERA
+Superintendente de Servicios Financieros
+RR-SSF-2024-191     Fecha: 25/04/2024 16:45:58
+Exp. 2024-50-1-00822 
+ Publicable: Si - Firmante: Juan Pedro Cantera Sencion

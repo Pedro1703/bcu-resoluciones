@@ -1,0 +1,43 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La solicitud de autorización presentada por Scotiabank Uruguay S.A.
+para  suscribir  una  adenda  modificatoria  al  contrato  de  tercerización  de
+procesamiento  de  datos  suscrito  con  Prisma  Medios  de  Pago  S.A.U.
+(Argentina).
+RESULTANDO:
+I) Que por resolución RR-SSF-2017-754 del 10 de noviembre de 2017 la
+Superintendencia  de  Servicios  Financieros  autorizó  a  Scotiabank
+Uruguay S.A. a contratar con la empresa Prisma Medios de Pago S.A. el
+servicio de procesamiento de tarjetas de crédito (“Procesamiento del Rol
+Emisor y Rol de Procesador Adquirente”), el cual se limitaba al sello
+American Express.
+II) Que por Resolución de Directorio del Banco Central del Uruguay R.N°:D-
+329-2023 de 28 de setiembre 2023 se autorizó a Scotiabank Uruguay
+S.A.  a  operar  como  administrador  de  Sistemas  Electrónicos  de
+Compensación a efectos de cumplir su rol de adquirente de medios de
+pagos electrónico. 
+III) Que mediante la adenda a que refiere el Visto, entre otros ajustes, se
+incorpora al objeto del contrato el “Rol de Procesador Adquirente” de
+todas las transacciones de tarjetas de crédito, débito y/o prepagas en
+que  las  transacciones  sean  realizadas  en  los  establecimientos  y/o
+comercios donde el Banco sea el adquirente, incluyendo a esos efectos
+los  sellos  Visa  y  Mastercard  (así  como  otros  sellos  que  de  común
+acuerdo podrán incorporar).
+CONSIDERANDO: Que  analizada  la  información  presentada  no  surgen
+observaciones que formular. 
+ATENTO: a lo dispuesto en el art. 2 de la ley 17.613 de 27 de diciembre de
+2002, el artículo 35 y siguientes de la Recopilación de Normas de Regulación y
+Control  del  Sistema  Financiero,  a  la  Res.  SSF  N°.  785-2015  de  24  de
+noviembre de 2015 y a los informes contenidos en el expediente N° 2016-50-1-
+02125.
+LA INTENDENTE DE SUPERVISIÓN FINANCIERA,
+EN EJERCICIO DE ATRIBUCIONES DELEGADAS POR EL
+SUPERINTENDENTE DE SERVICIOS FINANCIEROS,
+RESUELVE:
+Autorizar  a Scotiabank  Uruguay S.A. a suscribir  la adenda  modificatoria  al
+contrato de tercerización de procesamiento firmado con la empresa Prisma
+Medios de Pago S.A.U. (Argentina), en los términos informados mediante nota
+del 4 de diciembre de 2023.
+RR-SSF-2024-110     Fecha: 27/02/2024 17:11:38
+Exp. 2016-50-1-02125 
+ Publicable: Si - Firmante: CRISTINA ROSARIO RIVERO MORES

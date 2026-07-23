@@ -1,0 +1,57 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: Las notas presentadas por  Banco de la Nación Argentina (Sucursal
+Uruguay), Banco Itaú Uruguay S.A., Banco Bandes Uruguay S.A., Banco Bilbao
+Vizcaya  Argentaria  Uruguay  S.A.,  HSBC  Bank  (Uruguay)  S.A.,  Scotiabank
+Uruguay S.A., Banco de la República Oriental del Uruguay y Banco Santander
+S.A.,  informando  su  interés  de  actuar  como  emisores  del  medio  de  pago
+electrónico denominado “Pago con Transferencia”.
+RESULTANDO: 
+I) Que el Directorio del Banco Central del Uruguay mediante Resolución
+RD-  196-2024  del  3  de  julio  de  2024  ha  autorizado  a  Urutec  S.A.  a
+incorporar el nuevo medio de pago denominado “Pago con Transferencia”.
+II) Que los bancos referidos en el Visto recibirán de parte de Urutec S.A. el
+servicio de administración del medio de pago referido en el Resultando I).
+III) Que para cumplir con el servicio referido en el Resultando II) Urutec S.A.
+subcontratará a Play Digital S.A. servicios de desarrollo y mantenimiento
+de software y soporte técnico y a Amazon Web Services Inc. servicios de
+plataforma (“Platform as a Service”).
+CONSIDERANDO: Que,  analizado  el  texto  de  los  modelos  de  contrato
+presentados  y  sus  correspondientes  adendas  y  anexos,  así  como  la
+información  proporcionada,  no  se  perciben  objeciones  para  autorizar  las
+tercerizaciones señaladas.
+ATENTO: A lo  dispuesto  en  el  artículo  2 de  la  Ley  No. 17.613  de  27  de
+diciembre de 2002, a las atribuciones establecidas en los artículos 37 y 38 de la
+Carta  Orgánica  Ley  Nº  16.696  de  30.03.1995,  con  las  modificaciones
+introducidas  por  la  ley  Nº  18.401  de  24.10.2008,  a  los  artículos  35.1  y
+siguientes de la Recopilación de Normas de Regulación y Control del Sistema
+Financiero, al numeral 4 de la Resolución de la Superintendencia de Servicios
+Financieros No. SSF 785- 2015 de 24 de noviembre de 2015, y a los demás
+antecedentes que obran agregados en Expedientes No. 2024-50-1-01264.
+LA INTENDENTE DE SUPERVISIÓN FINANCIERA, EN EJERCICIO DE
+ATRIBUCIONES DELEGADAS POR EL SUPERINTENDENTE DE
+SERVICIOS FINANCIEROS, 
+RESUELVE:
+1. Autorizar a Banco de la Nación Argentina (Sucursal Uruguay), Banco Itaú
+Uruguay  S.A.,  Banco  Bandes  Uruguay  S.A.,  Banco  Bilbao  Vizcaya
+Argentaria Uruguay S.A., HSBC Bank (Uruguay) S.A., Scotiabank Uruguay
+RR-SSF-2024-304     Fecha: 04/07/2024 18:00:52
+S.A., Banco de la República Oriental del Uruguay y Banco Santander S.A a
+contratar  con  Urutec  S.A.  el  servicio  de  administración  de  Pago  con
+Transferencia y las subcontrataciones vinculadas a este servicio con Play
+Digital S.A. por el desarrollo y mantenimiento de software y soporte técnico y
+con Amazon Web Services Inc. por los servicios de plataforma (“Platform as
+a  Service”),  según  los  modelos  de  contratos  informados  en  notas
+presentadas por Urutec S.A. de fechas 21 de diciembre de 2023, 23 de
+mayo de 2024 y 28 de junio de 2024, con sus respectivas adendas y anexos.
+2. Comunicar a Banco de la Nación Argentina (Sucursal Uruguay), Banco Itaú
+Uruguay  S.A.,  Banco  Bandes  Uruguay  S.A.,  Banco  Bilbao  Vizcaya
+Argentaria Uruguay S.A., HSBC Bank (Uruguay) S.A., Scotiabank Uruguay
+S.A., Banco de la República Oriental del Uruguay y Banco Santander S.A lo
+resuelto en 1, estableciendo además que deberán cumplir con lo dispuesto
+en el artículo 575.1 de la Recopilación de Normas de Regulación y Control
+del Sistema Financiero y la Comunicación 2020/154 del 11 de agosto de
+2020.
+RR-SSF-2024-304     Fecha: 04/07/2024 18:00:52
+Exp. 2024-50-1-01264 
+ Publicable: Si - Firmante: CRISTINA ROSARIO RIVERO MORES

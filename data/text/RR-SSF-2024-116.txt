@@ -1,0 +1,334 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: Las Circulares Nros. 2437 y 2438 de 23 de noviembre de 2023 que
+comunican las resoluciones de la Superintendencia de Servicios Financieros de
+21 de noviembre de 2023.
+RESULTANDO: Que las referidas resoluciones introducen modificaciones en la
+normativa  que  regula  a  las  empresas  aseguradoras  que  operan  seguros
+previsionales y a las administradoras de fondos de ahorro previsional y los
+fondos que administran, en virtud de las disposiciones contenidas en la Ley
+Nro. 20.130 del 2 de mayo de 2023 (“Ley de Reforma de la Seguridad Social”).
+CONSIDERANDO: 
+I) Que, habiendo sido promulgado el Decreto Nro. 413/023 de 19 de diciembre
+de 2023 reglamentario de la Ley Nro. 20.130 de 2 de mayo de 2023, se
+hace  necesario  modificar  las  disposiciones  del  artículo  129.1.1  de  la
+Recopilación de Normas de Control de Fondos Previsionales en función de
+lo allí establecido.
+II) Que, asimismo, producto de comentarios recibidos con posterioridad a la
+emisión  de  las  Circulares  Nros.  2437  y  2438,  de  errores  u  omisiones
+involuntarios,  así  como  de  algunas  cuestiones  no  contempladas
+oportunamente, corresponde realizar ajustes en los artículos 49 y 53 de la
+Recopilación de Normas de Seguros y Reaseguros y en los artículos 79.3,
+125.1,  126,  129.1.1,  148,  155.1.1,  160.2,  161,  164.2  y  167  de  la
+Recopilación de Normas de Control de Fondos Previsionales.  
+ATENTO  :   A lo dispuesto  en el artículo 38 de  la  Ley Nro. 16.696 del 30 de
+marzo de 1995 en la redacción dada por el artículo 11 de la Ley Nro. 18.401 del
+24 de octubre de 2008, en la Ley Nro. 20.130 del 2 de mayo de 2023, en el
+Decreto Nro. 413/023 de 19 de diciembre de 2023, a los  Dictámenes de la
+Asesoría  Jurídica  Nro.  2023/0450  de  20  de  noviembre  de  2023  y  Nro.
+2024/0006  de  8  de  enero  de  2024  y  a  los  informes  emitidos  por  la
+Superintendencia de Servicios Financieros.
+SE RESUELVE:
+I) EN  LA  RECOPILACIÓN  DE  NORMAS  DE  CONTROL  DE  FONDOS
+PREVISIONALES: 
+1. SUSTITUIR en el Capítulo V – Límites de inversión, del Título II – Fondos
+de Ahorro Previsional, del Libro II – Estabilidad y solvencia, el artículo 79.3
+por el siguiente:
+ARTÍCULO  79.3  (LÍMITE  DE  INVERSIÓN  POR  CADA  EMISIÓN
+REALIZADA POR FIDEICOMISOS FINANCIEROS). 
+La inversión de los recursos del Fondo de Ahorro Previsional y del Fondo
+Voluntario Previsional considerados en forma conjunta, en valores de oferta
+RR-SSF-2024-116     Fecha: 01/03/2024 17:04:48
+pública emitidos por un mismo fideicomiso financiero, no podrá superar el
+70% (setenta por ciento) de la emisión de valores en circulación  de cada
+serie. 
+La  Superintendencia  de  Servicios  Financieros  informará  el  monto  en
+circulación  de  cada  fideicomiso  a  los  efectos  del  cálculo  del  límite
+establecido en el primer inciso del presente artículo. 
+DISPOSICIÓN TRANSITORIA :  No se considerará exceso la tenencia de
+valores  emitidos  por  fideicomisos  financieros  que  supere  dicho  límite
+cuando hayan sido adquiridos con anterioridad a la entrada en vigencia de
+la Circular 2328 del 15 de noviembre de 2019 o con posterioridad a la
+misma  por  compromisos  asumidos  anteriormente  en  el  marco  de  lo
+dispuesto en el artículo 61.1.
+2. RENOMBRAR  en el Capítulo  VII – Información al afiliado, del Título I –
+Relacionamiento con los clientes, del Libro IV – Protección al usuario de
+servicios financieros, la Sección II – Estado de cuenta la que pasará a
+denominarse  Sección  II  –  Estados  de  cuenta  del  Fondo  Voluntario
+Previsional y del Fondo de Ahorro Previsional.
+3. SUSTITUIR en la Sección II – Estados de cuenta del Fondo Voluntario
+Previsional y del Fondo de Ahorro Previsional, del Capítulo VII – Información
+al afiliado, del Título I – Relacionamiento con los clientes, del Libro IV –
+Protección  al  usuario  de  servicios  financieros,  el  artículo  125.1  por  el
+siguiente:
+ARTICULO  125.1  (ESTADO  DE  CUENTA DEL  FONDO  VOLUNTARIO
+PREVISIONAL). 
+Para el Fondo Voluntario Previsional se deberá elaborar un estado de 
+cuenta considerando lo dispuesto en los artículos 126, 127 y 129.
+ 
+El referido Estado de Cuenta deberá presentarse de acuerdo al modelo que 
+a tales efectos elabore la Superintendencia de Servicios Financieros y 
+contendrá los siguientes elementos:
+a. Identificación de la Administradora de Fondos de Ahorro Previsional y
+período informado.
+b. Identificación  del  afiliado:  número  de  la  cuenta,  nombre,  domicilio  y
+número de documento de identidad.
+c. Saldo de la cuenta individual, al último día del mes anterior al período a
+que está referida la información, expresados en cuotas, en pesos y en
+Unidades Reajustables.
+d. Detalle de la totalidad de movimientos de créditos y débitos, expresados
+en  pesos  y  en  cuotas,  saldo  en  cuotas  y  fecha  de  registración,
+identificando la subcuenta y explicitando:
+- depósitos voluntarios;
+- depósitos convenidos, discriminados por depositante;
+- comisiones de administración en caso de corresponder;
+RR-SSF-2024-116     Fecha: 01/03/2024 17:04:48
+- comisión de custodia;
+- sanciones pecuniarias, discriminadas por empresa y mes de
+cargo;
+- todo otro movimiento de la cuenta con su detalle.
+e. Información  sobre  los  ajustes  incluidos  en  el  valor  de  la  cuota  por
+concepto de rentabilidad.
+f. Saldo de la cuenta, a fin del período de referencia, expresado en cuotas,
+en pesos y en Unidades Reajustables.
+g. Información sobre:
+- Rentabilidad anual nominal y real.
+- Los valores vigentes al último día del período informado de los
+siguientes guarismos: comisión de la Administradora de Fondos de
+Ahorro Previsional; bonificación en la comisión, si corresponde, y
+comisión de custodia.
+4. SUSTITUIR en la Sección II – Estados de cuenta del Fondo Voluntario
+Previsional y del Fondo de Ahorro Previsional, del Capítulo VII – Información
+al afiliado, del Título I – Relacionamiento con los clientes, del Libro IV –
+Protección  al  usuario  de  servicios  financieros,  el  artículo  126  por  el
+siguiente:
+ARTÍCULO 126 (FRECUENCIA DE ENVIO DE ESTADOS DE CUENTA).
+Las Administradoras de Fondos de Ahorro Previsional  deberán emitir
+con una periodicidad semestral, al 30 de junio y al 31 de diciembre de cada
+año, los  estados  de  cuenta  del  Fondo  Voluntario  Previsional  y  del
+Fondo de Ahorro Previsional.
+La referida  información deberá enviarse a  los  afiliados  en  un plazo
+máximo  de  45  (cuarenta  y  cinco)  días  posteriores  al  cierre  de  cada
+semestre informado.  
+En caso de no haberse producido movimientos en la cuenta durante el
+semestre a informarse podrá suspenderse el envío del estado, debiendo
+remitirse obligatoriamente al semestre siguiente. 
+5. SUSTITUIR en la Sección III – Asesoramiento a afiliados, del Capítulo VII –
+Información al afiliado, del Título I – Relacionamiento con los clientes, del
+Libro IV – Protección al usuario de servicios financieros, el artículo 129.1.1
+por el siguiente:
+ARTÍCULO  129.1.1  (ASESORAMIENTO  A  AFILIADOS  SOBRE
+MOVIMIENTOS ENTRE SUBFONDOS). 
+Las Administradoras de Fondos de Ahorro Previsional deberán comunicar a
+sus afiliados  con  una anticipación de entre  3 (tres)  y  12  (doce) meses
+cuando corresponda incorporarlos a un Subfondo diferente al cual reciben
+sus aportes, indicando la posibilidad de  elección  de permanencia en el
+Subfondo por un plazo adicional de entre 1 (uno) y 5 (cinco) años para el
+caso del pasaje del Subfondo de Acumulación al Subfondo de Retiro y
+RR-SSF-2024-116     Fecha: 01/03/2024 17:04:48
+de entre 1 (uno) y 10 (diez) años para el pasaje desde el Subfondo de
+Crecimiento al Subfondo de Acumulación.
+Esta información deberá incluir como mínimo:
+- la información comparativa de rentabilidad real anual bruta de cada
+Subfondo de los últimos 60 (sesenta) meses.
+- la composición de las inversiones de cada uno de los Subfondos.
+La  Administradora  deberá  guardar  la  correspondiente  constancia  de  la
+documentación  entregada  al  afiliado  por  medios  que  permitan  su
+verificación, conforme a lo dispuesto por el artículo 144.7.
+6. SUSTITUIR en el Capítulo II – Auditores Externos, del Título II – Régimen
+Informativo,  de  la  Parte  I  –  Administradoras  de  Fondos  de  Ahorro
+Previsional, del Libro VI – Información y documentación, el artículo 148 por
+el siguiente:
+ARTÍCULO 148 (INFORME DE AUDITORES EXTERNOS). 
+Las administradoras de fondos de ahorro previsional deberán presentar los
+siguientes informes emitidos por auditores externos:
+a. Al cierre del ejercicio anual,  dentro del plazo de 2 (dos) meses contados
+desde la finalización del ejercicio económico: 
+a.1) Dictamen  sobre  el  estado  de  situación  patrimonial  al  cierre  del
+ejercicio anual y el estado de resultados correspondiente a dicho
+período de la Administradora.
+a.2) Dictamen sobre los estados de situación patrimonial al cierre
+del ejercicio anual para cada Subfondo de Ahorro Previsional.
+a.3) Dictamen sobre el Fondo Voluntario Previsional.
+b. Informe anual sobre el sistema contable utilizado y su adecuación a las
+normas  y  al  Plan  de  Cuentas  dictados  por  la  Superintendencia  de
+Servicios  Financieros,  y  sobre  la  concordancia  con  dicho  sistema
+contable, de los estados y demás informaciones presentadas a dicha
+Superintendencia  de  Servicios  Financieros,  ya  sean  referidas  a  la
+Sociedad, a cada Subfondo de Ahorro Previsional o al Fondo Voluntario
+Previsional,  dentro  del  plazo  de  2  (dos)  meses  contados  desde  la
+finalización del ejercicio económico.
+c.  Informe trienal de evaluación integral del adecuado funcionamiento del
+sistema  de  gestión  integral  de  riesgos  e  informes  anuales  sobre  las
+deficiencias  u  omisiones  materialmente  significativas  detectadas,  las
+recomendaciones impartidas para superarlas y las medidas correctivas
+adoptadas por la institución. Los referidos informes deberán presentarse
+dentro del plazo de 5 (cinco) meses y de 3 (tres) meses contados desde
+la finalización del ejercicio económico, respectivamente.
+d. Informe anual sobre la idoneidad y funcionamiento  de las políticas y
+procedimientos adoptados por la Administradora para prevenir y detectar
+RR-SSF-2024-116     Fecha: 01/03/2024 17:04:48
+operaciones que puedan estar relacionadas con el lavado de activos, el
+financiamiento del terrorismo y el financiamiento de la proliferación de
+armas de destrucción masiva, e informes parciales sobre sus deficiencias
+u  omisiones  significativas,  las  recomendaciones  impartidas  para
+superarlas y un comentario sobre las observaciones formuladas en el
+ejercicio anterior que no hayan sido solucionadas, dentro del plazo de 5
+(cinco) meses contados desde la finalización del ejercicio económico.
+7. SUSTITUIR en  el  Capítulo  V  –  BIS  –  Información  a  las  empresas
+aseguradoras  y  al  Banco  de  Previsión  Social,  del  Título  II  –  Régimen
+Informativo,  de  la  Parte  I  –  Administradoras  de  Fondos  de  Ahorro
+Previsional, del Libro VI – Información y documentación, el artículo 155.1.1
+por el siguiente:
+ARTÍCULO 155.1.1 (INFORMACIÓN A SUMINISTRAR A LAS EMPRESAS
+ASEGURADORAS EN RELACION A LOS SEGUROS PREVISIONALES).
+Es  obligación  de  la  Administradora  de  Fondos  de  Ahorro  Previsional
+proporcionar a la empresa aseguradora en relación a los seguros de rentas
+previsionales  y  al  seguro  colectivo  de  invalidez  y  fallecimiento,  la
+información que permita apreciar correctamente el riesgo que pueda influir
+en las condiciones del contrato. 
+Una  vez  ocurrido  el siniestro,  y  dentro  de  plazo  de  5  (cinco)  días
+hábiles desde que la Administradora de Fondos de Ahorro Previsional
+tomó conocimiento del mismo a partir de la información brindada por
+la entidad previsional correspondiente, deberá poner a disposición de
+la empresa aseguradora los antecedentes necesarios que acrediten el
+referido siniestro y permitan su correcta liquidación.
+En relación a la prestación por incapacidad parcial se deberá indicar el
+período durante el cual se deberá abonar la misma.
+8. SUSTITUIR en el Capítulo VI – Otras Informaciones, del Título II – Régimen
+Informativo,  de  la  Parte  I  –  Administradoras  de  Fondos  de  Ahorro
+Previsional, del Libro VI – Información y documentación, el artículo 160.2
+por el siguiente:
+ARTÍCULO 160.2 (INFORMACION SOBRE PAGOS DE PRESTACIONES
+A  HEREDEROS  DE  AFILIADOS  FALLECIDOS  O  A  AFILIADOS
+APORTANTES AL SISTEMA DE AHORRO PREVISIONAL). 
+Las  administradoras  de  fondos  de  ahorro  previsional  deberán  enviar
+mensualmente a la Superintendencia de Servicios Financieros información
+para el control del pago de prestaciones a herederos de afiliados fallecidos
+o a afiliados aportantes al sistema de ahorro previsional, de acuerdo con las
+instrucciones que se impartirán. 
+Esta información deberá remitirse dentro de los primeros 10 (diez) días
+hábiles siguientes al mes que se informa.
+9. SUSTITUIR en el Capítulo I – Contabilidad y Estados contables, del Título I
+– Régimen Informativo, de la Parte II – Fondos de Ahorro Previsional, del
+Libro VI – Información y documentación, el artículo 161 por el siguiente:
+RR-SSF-2024-116     Fecha: 01/03/2024 17:04:48
+ARTÍCULO 161 (NORMAS CONTABLES Y PLAN DE CUENTAS).
+1. Serán de aplicación a los Subfondos de Ahorro Previsional y al Fondo
+Voluntario  Previsional las  normas  contables  establecidas  en  las
+disposiciones legales y reglamentarias vigentes, así como, los criterios y
+procedimientos  especiales  que  establezca  la  Superintendencia  de
+Servicios Financieros.
+2. El Plan de Cuentas respectivo deberá ajustarse a las disposiciones que
+dicte la Superintendencia de Servicios Financieros
+1. La codificación de los planes de cuentas responderá a los siguientes
+conceptos:
+1º.- Divisiones
+2º.- Capítulos
+3º.- Cuentas
+4º.- Subcuentas
+5º.- Apertura de subcuentas
+6º.- Plazo
+7º.- Moneda
+8º,  9º  y  10º.-  Codificación  de  instituciones  de  intermediación
+financiera o empresas aseguradoras.
+La apertura de los códigos de plazo y moneda deberá ajustarse a las
+disposiciones que dicte la Superintendencia de Servicios Financiero
+2. La posibilidad de utilización de otras monedas quedará sujeta a la
+autorización  por  parte  de  la  Superintendencia  de  Servicios
+Financieros,  quien  otorgará  la  numeración  correspondiente  a  la
+misma.
+3. Las administradoras que dispongan en el programa contable de un
+auxiliar incorporado a la contabilidad, que posibilite la apertura en el
+balance de las instituciones financieras y empresas aseguradoras,
+quedarán autorizadas a que dicha discriminación se incluya a través
+del mencionado auxiliar.
+10.SUSTITUIR en  el  Capítulo  III  –  Rentabilidad,  del  Título  I  –  Régimen
+Informativo, de la Parte II – Fondos de Ahorro Previsional, del Libro VI –
+Información y documentación, el artículo 164.2 por el siguiente:
+ARTÍCULO  164.2  (INFORMACIÓN  PARA  EL  CÁLCULO  DE  LA
+RENTABILIDAD NETA). 
+Las administradoras de fondos de ahorro previsional deberán proporcionar
+a  la  Superintendencia  de  Servicios  Financieros,  de  acuerdo  con  las
+instrucciones  que  se  impartirán,  información  mensual  a  efectos  de  la
+comprobación de los cálculos de la rentabilidad neta del fondo de ahorro
+previsional dentro de los  3 (tres)  días hábiles siguientes al mes que se
+informa.
+11.SUSTITUIR en el Título I – Régimen General, de la Parte I – Sanciones
+para  administradoras  de  Fondos  de  Ahorro  Previsional,  del  Libro  VII  –
+Régimen sancionatorio y procesal, el artículo 167 por el siguiente:
+RR-SSF-2024-116     Fecha: 01/03/2024 17:04:48
+ARTÍCULO 167 (RÉGIMEN). 
+Las Administradoras de Fondos de Ahorro Previsional comprendidas en el
+régimen de jubilación por ahorro individual establecido en la Ley Nº 16.713
+y modificativas, que infrinjan las  normas  legales  o reglamentarias o las
+normas generales e instrucciones particulares en la materia dictadas por el
+Banco Central del Uruguay, serán pasibles de las siguientes sanciones:
+1. Observación
+2. Apercibimiento
+3. Multa de hasta 400.000 UI (cuatrocientas mil unidades indexadas). 
+4. Revocación temporal o definitiva de la habilitación para funcionar.
+El  Banco  Central  del  Uruguay  podrá,  asimismo,  proponer  al Poder
+Ejecutivo  la  adopción  de  medidas  de  intervención  de  las
+Administradoras  de  Fondos  de  Ahorro  Previsional  que  infrinjan
+gravemente las leyes y decretos que rijan su actividad o las normas
+generales o instrucciones particulares dictadas a su respecto.
+12.SUSTITUIR en el Título VI – Otras sanciones, de la Parte I – Sanciones
+para  administradoras  de  Fondos  de  Ahorro  Previsional,  del  Libro  VII  –
+Régimen sancionatorio y procesal, el artículo 192.2 por el siguiente:
+ARTÍCULO  192.2  (MULTA  POR  INCUMPLIMIENTO  A  LAS  NORMAS
+SOBRE TERCERIZACIONES). 
+Las administradoras de fondos de ahorro previsional que incumplan con las
+normas sobre tercerización de servicios serán sancionadas con una multa
+no inferior a 2 (dos) ni superior a 50 (cincuenta) veces la establecida en el
+artículo 168.
+En  caso  que  la  infracción  refiera  a  la  contratación  de  terceros  sin
+autorización conforme lo establecido en el artículo 30.1.1, las instituciones
+serán sancionadas con una la multa no inferior a 26 (veintiséis) veces ni
+superior a 80 (ochenta) veces la establecida en el artículo 168.
+13.COMUNICAR lo  dispuesto  en  los  numerales  1.  a  12.  que  anteceden
+mediante Circular.
+II) EN LA RECOPILACIÓN DE NORMAS DE SEGUROS Y REASEGUROS: 
+1. SUSTITUIR en el Capítulo II – Seguros de daños patrimoniales y seguros
+no previsionales , del Título III  – Inversiones, del Libro II – Estabilidad y
+solvencia, el artículo 49 por el siguiente:
+ARTÍCULO 49 (INVERSIONES ADMITIDAS).
+Las  obligaciones  no  previsionales  estarán  constituidas  por  las  reservas
+técnicas, las deudas con asegurados, las primas -netas de comisiones- a
+pagar por reaseguros pasivos y los depósitos en garantía por reaseguros
+pasivos correspondientes a contratos de seguros de daños patrimoniales y
+seguros  no  previsionales.  El  capital  mínimo  y  las  obligaciones  no
+previsionales deben cubrirse íntegramente con inversiones en los siguientes
+activos:
+RR-SSF-2024-116     Fecha: 01/03/2024 17:04:48
+A. Valores emitidos por el Estado Uruguayo  y por el Banco Central del
+Uruguay. 
+    Se considerarán valores emitidos por el Estado Uruguayo a los valores
+emitidos por el Gobierno Central y por los Gobiernos Departamentales. 
+B. Valores  emitidos  por  Empresas  Públicas  o  Privadas,  Fideicomisos
+Financieros y Fondos de Inversión, uruguayos. 
+    Los  instrumentos  previstos  en  este  literal  deberán  cumplir  con  los
+siguientes requisitos:
+ 
+a. Estar inscriptos en el Registro de Mercado de Valores. 
+b. Cotizar en algún mercado formal local inscripto en el Registro de
+Mercado  de  Valores  o  en  algún  mercado  formal  del  exterior,
+debiendo contar con información sobre su cotización pública sin
+restricciones para el acceso a la misma, en forma diaria. 
+c. Contar con calificación de riesgo expedida por empresas calificadoras
+inscriptas en el Registro de Mercado de Valores. La calificación no
+podrá ser inferior a la correspondiente a la Categoría 2 de acuerdo con
+la definición dada por el artículo 50. 
+    La  existencia  de  calificación  mínima  no  exime  a  las  empresas
+aseguradoras de sus responsabilidades y obligaciones en relación a la
+buena administración de sus activos. 
+C. Depósitos, incluyendo certificados de depósito, en moneda nacional o
+extranjera,  en  el  Banco  Central  del  Uruguay  y  en  instituciones  de
+intermediación financiera instaladas en el país.
+ 
+D. Colocaciones en instituciones extranjeras y valores extranjeros. 
+    Se admitirán los instrumentos que se indican a continuación, los que
+deberán contar con calificación no inferior a Categoría 2 de acuerdo con
+la definición dada por el artículo 50: 
+- Valores emitidos o garantizados por gobiernos extranjeros. 
+- Valores emitidos por organismos internacionales de 

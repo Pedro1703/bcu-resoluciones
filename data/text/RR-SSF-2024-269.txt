@@ -1,0 +1,205 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La  actuación  inspectiva  realizada  durante  junio  de  2023  en  DE
+BAEREMAECKER & PERERA CORREDOR DE BOLSA S.A.
+RESULTANDO: 
+I) Que a raíz de la actuación inspectiva referida en el VISTO se formularon
+las siguientes observaciones:
+a) La institución no cuenta con una clara segregación de fondos de
+terceros en tanto el arqueo de la cuenta efectivo de terceros mostró
+que  dos  integrantes  del  personal  superior  (siendo  uno  de  ellos
+también accionista) realizaron retiros personales de efectivo de la
+caja de clientes los cuales generaron un faltante en el efectivo de
+clientes.
+b) Las cuentas corrientes que mantiene el corredor de bolsa en este
+Banco Central se utilizan fundamentalmente para custodiar fondos
+de terceros.
+c) En  la  medida  que  el  intermediario  mantiene  gran  parte  de  las
+custodias  de  valores  y  fondos  de  clientes  en  cuentas  bajo  su
+titularidad en los bancos custodios (cuenta ómnibus), la existencia
+de saldos deudores (negativos) de algunos clientes, en particular
+de  los  accionistas  del  corredor  y  del  cliente  2489,  implica  la
+utilización de fondos de unos clientes para cumplir las operaciones
+de otros clientes sin fondos suficientes.
+d) Con frecuencia se reciben ganancias en cuentas de terceros en el
+custodio Tigress Financial Partners (Pershing) y Latin Securities
+S.A. Corredor de Bolsa (Pershing) que resultan de la rentabilidad
+generada  por  el  disponible  de  clientes  en  dichas  instituciones.
+Dicha ganancia no es distribuida entre los clientes, sino que es
+transferida  desde  la  cuenta  de  terceros  a  la  cuenta  propia  del
+corredor. El intermediario argumenta que estos resultados cubren
+los costos de las cuentas que se mantienen en estos custodios,
+aunque los clientes no son informados de estos gastos.
+e) Se  han  detectado  numerosos  errores  e  inconsistencias  en  la
+contabilidad del intermediario.
+f) Se verificó la existencia de un contrato de Fideicomiso de Garantía
+Préstamo Ganadero, el cual consiste en préstamos que se otorgan
+por  parte  de  inversores  a  productores  rurales,  incluyendo  el
+libramiento de vales, y que se encuentra garantizado con ganado
+(transferido  a  un  fideicomiso  como  garantía).  En  virtud  de  lo
+establecido  en  el  contrato  de  fideicomiso,  los  préstamos  serían
+RR-SSF-2024-269     Fecha: 18/06/2024 16:04:33
+concertados por el intermediario con los productores demandantes
+de  fondos,  sin  que  tenga  participación  en  la  celebración  del
+contrato el cliente del intermediario que cumple el rol de inversor.
+Asimismo,  es  el  intermediario  quien  acepta  la  adhesión  del
+productor prestatario al fideicomiso como fideicomitente.
+II) Que las mencionadas observaciones fueron informadas al intermediario
+mediante notas de fechas 4 de agosto de 2023 y de 22 de noviembre de
+2023.
+III) Que la observación sobre la segregación de fondos de terceros ya había
+sido realizada en oportunidad de la actuación inspectiva del año 2015 y
+comunicada a la institución a través de nota de 13 de abril de 2015.
+IV) Que con fecha 28 de febrero de 2024 se dio vista a la institución de las
+actuaciones y el día 13 de marzo de 2024 se presentó un escrito con
+descargos.
+V) Que en dichos descargos la institución expresa que:
+a) El  intermediario  ha  dado  cumplimiento  a  lo  establecido  en  las
+instrucciones particulares y colaborado con todos los pedidos de
+documentación  e  información  en  tiempo  y  forma,  demostrando
+buena fe y ánimo de mejora.
+b) Desde la estafa interna constatada, el intermediario atraviesa una
+compleja  situación  económico  –  financiera, lo  que  influyó  en  el
+normal curso de la actividad de la empresa.
+c) Las cuentas de los dos integrantes del personal superior, en virtud
+de  su  vinculación  con  la  institución,  son  cuentas  de  clientes
+vinculados, por lo que integran la posición global de terceros, y en
+consecuencia,  no  se  produjo  la  confusión  de  fondos  entre  la
+posición propia y ajena.
+d) Del  proyecto  sancionatorio  no  surge  con  claridad  la  normativa
+violentada en relación a custodiar fondos de clientes en las cuentas
+corrientes del intermediario en el Banco Central del Uruguay. Sin
+perjuicio de ello, esta situación se ha dado pues los bancos optan
+por cerrar las cuentas que implican manejo de fondos de terceros,
+antes que gestionar adecuadamente el riesgo asociado.
+e) Los saldos negativos cuestionados se generan por el no cobro de
+la comisión por administración del intermediario, lo cual no implica
+la realización de préstamos de dinero al cliente.
+f) Existe  una  imposibilidad  material  de  trasladar  individualmente  a
+cada  cliente tanto  los costos  de las  cuentas  bancarias  abiertas
+como las rentabilidades por los saldos depositados. Por lo tanto,
+parece  lógico  que  no  habiéndose  trasladado  los  gastos  a  los
+clientes por dificultades prácticas, tampoco se haga respecto a las
+rentabilidades.
+RR-SSF-2024-269     Fecha: 18/06/2024 16:04:33
+g) En materia de errores en la contabilidad, se trata de cuatro puntos
+específicos,  incluyendo  situaciones  que  se  dieron  porque  a
+entender del intermediario se estaba procediendo de acuerdo a la
+buena práctica contable, por lo que no existió mala fe, y en otro
+caso, el problema se originó en un error de tipeo.
+h) Respecto al contrato de fideicomiso, el intermediario ingresa a la
+operación en el entendido que es una colocación privada de vales
+estructurada con un fideicomiso de administración y garantía en el
+medio, y por lo tanto permitida a un intermediario de valores.
+CONSIDERANDO: 
+I) Que el literal c. del artículo 147 de la Recopilación de Normas de Mercado
+de Valores (RNMV) dispone que los intermediarios de valores deberán, en
+los casos de custodia de fondos y valores a nombre propio por cuenta de
+terceros, constituir cuentas bancarias y de custodia independientes para
+los movimientos del patrimonio del intermediario de valores y para los de
+sus clientes. 
+II) Que el numeral 6 del artículo 119 de la Ley N° 18.627 de 2 de diciembre
+de 2009 define como infracción grave utilizar dineros o valores de sus
+comitentes para cumplir operaciones pendientes o propias, o de otros
+comitentes. 
+III) Que el literal a. del artículo 210 de la RNMV dispone que el intermediario
+deberá proporcionar a los inversores que forman parte de su cartera de
+clientes la especificación de costos en que incurrirá el inversor en los
+diferentes  tipos  de  operaciones  ofrecidas  indicando  concepto  (cargos,
+gastos,  comisiones,  tarifas  y  otros  importes  aplicables),  monto,
+periodicidad de cobro y carácter obligatorio u optativo de cada uno. 
+IV) Que el artículo 290 de la RNMV dispone que los intermediarios de valores
+deberán presentar sus estados contables y notas a los citados estados
+contables, conforme al plan de cuentas, los criterios de valuación y la
+información  complementaria  establecidos  por  la  Superintendencia  de
+Servicios Financieros. 
+V) Que  el  artículo  98  de  la  citada  Ley  N°  18.627  establece  que  los
+intermediarios  de  valores  tendrán  como  objeto  exclusivo  la  actividad
+referida en el artículo 94 de dicha ley, esto es, la realización en forma
+profesional y habitual de operaciones de intermediación entre oferentes y
+demandantes de valores de oferta pública o privada y el artículo 62 de la
+RNMV enumera taxativamente las actividades que los intermediarios de
+valores pueden realizar. 
+RR-SSF-2024-269     Fecha: 18/06/2024 16:04:33
+VI) Que dentro del elenco de las actividades autorizadas a los intermediarios
+de valores no se encuentra concertar o celebrar contratos de mutuo en
+nombre y representación o por cuenta de sus clientes, ni la mediación en
+el crédito. 
+VII) Que el derecho de crédito emergente de un contrato de préstamo no es
+fácilmente transferible, por lo que no constituye un valor de acuerdo con el
+artículo 13 de la Ley N° 18.627 y el artículo 3.1 de la RNMV. 
+VIII) Que tampoco se encuentra dentro de las actividades permitidas para los
+intermediarios de valores, la participación en un fideicomiso, en calidad de
+fideicomitente o de representante de los beneficiarios, tal como se verificó
+en el caso del Fideicomiso de Garantía Préstamo Ganadero.
+IX) Que los descargos presentados por la institución no se consideran de
+recibo por las siguientes razones:
+a) Los  altibajos  del  negocio  y  las  acciones  implementadas  por  la
+entidad con posterioridad a la constatación de las infracciones, no
+enervan  su  configuración  ni  la  exime  de  responsabilidad
+administrativa por tales hechos.
+b) Se detectó un faltante de fondos en el saldo global de la cuenta de
+clientes, que se debía a tres retiros de fondos efectuados por dos
+integrantes del personal superior. La cuenta 600 no tenía saldo
+disponible en efectivo. Si bien la cuenta 1616 – asociada al otro
+integrante  que  a  su  vez  es  accionista–  reflejaba  un  saldo
+disponible, debía verse en conjunto con el saldo acreedor de la
+cuenta socios que refleja el pasivo asumido por este mismo, por lo
+que existió confusión entre saldos propios y saldos de terceros.
+c) La existencia de fondos de clientes en las cuentas del intermediario
+en  el  Banco  Central  del  Uruguay  –  que  son  utilizadas  para  la
+operativa  propia  del  intermediario  –  son  otra  evidencia  de  la
+confusión de fondos propios y de terceros.
+d) Los saldos permanecen negativos por importes muy superiores al
+costo de administración trimestral.
+e) En  la  medida  que  un  intermediario  realice  su  negocio  de
+intermediación en valores con cuentas en el custodio mediante el
+formato ómnibus, debe manejar una contabilidad auxiliar que refleje
+exactamente  las  operaciones,  movimientos,  rentabilidades,  etc.
+para  cada  cliente,  de  forma  tal  que  la  sumatoria  de  saldos  de
+efectivo  y  valores  que  surja  de  cada  estado  de  cuenta  de  sus
+clientes refleje el efectivo y valores que existe en la cuenta abierta
+en  la  entidad  de  custodia.  En  caso  de  no  trasladar  algún
+movimiento  a la  cuenta del  cliente deberá informarle a éste  tal
+situación.
+f) Los errores en la contabilidad reflejan un incumplimiento normativo,
+independientemente  de  lo  que  originó  ese  error.  Asimismo,  de
+RR-SSF-2024-269     Fecha: 18/06/2024 16:04:33
+haberse concluido que fue intencional, la sanción hubiera sido más
+gravosa.
+g) En  la  operativa  vinculada  al  contrato  de  fideicomiso  préstamo
+ganadero, el intermediario no compraba valores por cuenta de sus
+clientes,  sino  que  celebraba  contratos  de  mutuo  por  cuenta  de
+estos y participaba en calidad de fideicomitente y beneficiario (en
+representación de sus clientes inversores) en el referido contrato
+de fideicomiso, actuando fuera de las actividades permitidas para
+los intermediarios de valores.
+X) Que  el  literal  c.  del  artículo  351  de  la  RNMV  dispone  el  elenco  de
+sanciones a las que serán pasibles los intermediarios de valores que
+infrinjan las normas legales o reglamentarias, o las normas generales e
+instrucciones particulares en la materia dictadas por el Banco Central del
+Uruguay. 
+XI) Que  el  artículo  118  de  la  citada  Ley  N°  18.627  establece  que  las
+sanciones  dispuestas  por  el  Banco  Central  del  Uruguay  deberán  ser
+publicadas.
+ATENTO  :   A lo dispuesto en el literal L) del artículo 38 de la Ley 16.696 de 30
+de marzo de 1995, en la redacción dada por el artículo 11 de la Ley 18.401 de
+24 de octubre de 2008, los artículos 94, 98, 103, 118, 119 y 120 de la Ley N°
+18.627 de 2 de diciembre de 2009, los artículos 62, 147, 208.2, 210, 250, 290 y
+351 de la Recopilación de Normas del Mercado de Valores, en el artículo 94 del
+Reglamento Administrativo del Banco Central del Uruguay, a los Dictámenes de
+la Asesoría Jurídica, las resultancias del expediente administrativo N° 2023-50-
+1-02411 y en el Memorándum N° MM/2024/265 de 10 de junio de 2024.
+LA INTENDENTE DE REGULACION FINANCIERA EN EJERCICIO DE
+ATRIBUCIONES DELEGADAS Y ENCOMENDADAS COMO
+SUPERINTENDENTE DE SERVICIOS FINANCIEROS RESUELVE:
+1. Sancionar a DE BAEREMAECKER & PERERA CORREDOR DE BOLSA
+S.A.  con  una  multa  de  UI  150.000  (ciento  cincuenta  mil  unidades
+indexadas) por los incumplimientos constatados en oportunidad de la
+actuación inspectiva realizada durante el mes de junio de 2023.
+2. Notificar al interesado.
+3. Emitir una Comunicación haciendo saber lo dispuesto en el numeral 1.
+de esta Resolución. 
+RR-SSF-2024-269     Fecha: 18/06/2024 16:04:33
+Exp. 2023-50-1-02411 
+ Publicable: Si - Firmante: Patricia Fabiana Tudisco Basignani

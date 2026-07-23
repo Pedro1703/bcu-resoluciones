@@ -1,0 +1,219 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La actuación inspectiva llevada a cabo en AKUMAL S.A. con fecha 10 de
+julio de 2023.
+RESULTANDO: 
+I) Que en el marco de la actuación de supervisión referida en el VISTO, enfocada
+a evaluar los procedimientos implementados por la entidad en relación con los
+hechos con apariencia delictiva denunciados por De Baeremaecker y Perera
+Corredor de Bolsa S.A. contra la Sra. Lidia Fernández, ejecutiva de cuentas, se
+detectaron los siguientes hechos:
+a) En la ficha de cliente de De Baeremaecker y Perera Corredor de Bolsa S.A.,
+se observa una firma pero ésta no contiene ni su aclaración ni la fecha en
+los campos destinados a tal fin; además, la firma del Sr. Carlos Perera fue
+gestionada por la Sra. Fernández, por lo que no fue obtenida en presencia
+de un representante de AKUMAL S.A., lo que implica que no se puede
+determinar con certeza quién fue su autor.
+b) La ficha del cliente persona física Sr. Carlos De Baeremaecker no estaba
+firmada y contenía datos erróneos.
+c) En algunos casos, el cliente que recibía fondos del exterior no coincidía con
+el cliente a quien se le depositaban.
+d) Un cliente categorizado como ocasional superaba los umbrales mínimos
+normales.
+e) Fondos provenientes de transferencias por la venta de valores quedaban en
+la  cuenta  de  AKUMAL S.A.  a  disposición  del  intermediario  de  valores
+“aguardando instrucciones”.
+f) La actuación del oficial de cumplimiento, principalmente en lo que refiere a
+los controles de debida diligencia, no se encontraba en línea con el rol
+esperado para el cargo.
+g) Se realizaron operaciones a través de una casa de cambio de la República
+Argentina (Pasamar S.A.) sin poseer una relación de corresponsalía.
+h) Se  realizaron  transferencias  de  dinero  sin  efectuar  el  registro  contable
+correspondiente.
+II) Que  el  22  de  noviembre  de  2023  las  mencionadas  observaciones  fueron
+notificadas a AKUMAL S.A.
+III) Que  con  fecha  5  de  marzo  de  2024  se  dio  vista  a  la  institución  de  las
+actuaciones  y  el  día  19  de  marzo  de  2024  se  presentó  un  escrito  con
+descargos.
+RR-SSF-2024-239     Fecha: 31/05/2024 14:33:48
+IV) Que en dichos descargos la institución expresa que:
+a) Se ha vulnerado el debido proceso, pues al no poder acceder a la denuncia
+y de esa forma a la información suministrada por el denunciante, se ha
+impedido a la institución cotejar y controvertir lo allí expresado.
+b) No existe fuente normativa que permita exigir que la firma del Sr. Carlos
+Perera fuese obtenida en presencia de AKUMAL S.A.
+c) El requisito cuantitativo establecido por el artículo 294.1 de la Recopilación
+de  Normas  de  Regulación  y  Control  del  Sistema  Financiero  de  USD
+1.500.000 nunca fue alcanzado.
+d) El cliente que habiendo superado el umbral de los USD 15.000 no fue
+recategorizado de ocasional a habitual, lo hizo por una sola operación de
+compra  de  USD  20.046.  Sin  embargo,  se  le  comunicó  el  cambio  de
+categoría y se le solicitó que cumpliera con los requisitos documentales a
+efectos de poder continuar operando.
+e) No se comparte la interpretación de que los fondos no podían permanecer
+en la institución por más de 48 horas sin instrucciones, pues los mismos
+estuvieron a disposición inmediatamente.
+f) En  los  casos  en  que AKUMAL S.A.  recibía  fondos  directamente de  un
+cliente  del  intermediario,  los  mismos  se  facturaban  al  intermediario,
+identificando ordenante y beneficiario. A partir de ese momento, los fondos
+son  del  intermediario  y  la  acreditación  posterior  de  los  mismos  es  su
+exclusiva responsabilidad.
+g) Lo que existió entre AKUMAL S.A. y Pasamar S.A. fue un pequeño cúmulo
+de operaciones de carácter puntual y sumamente extraordinario.
+h) De  considerar  que  existieron  incumplimientos,  los  mismos  deben  ser
+catalogados  como  leves  y  de  no  compartir  dicha  hipótesis  proceder  a
+morigerar  la  multa  en  un  50%  de  acuerdo  a  los  lineamientos  sobre
+sanciones  en  materia  de  prevención  del  lavado  de  activos,  dado  las
+circunstancias del caso y los antecedentes de la institución.
+i) Se solicita se designe perito calígrafo a los efectos de determinar si la firma
+que luce en la ficha del cliente del intermediario pertenece o no al Sr. Carlos
+Perera.
+CONSIDERANDO: 
+I) Que el literal a) del artículo 293 de la RNRCSF dispone que las políticas y
+procedimientos  definidos  por  la  institución  deberán  contener,  medidas
+razonables para obtener, verificar, registrar, actualizar y conservar información
+acerca de la verdadera identidad del cliente, así como de la persona en cuyo
+beneficio se abra una cuenta o se lleve a cabo una transacción.
+II) Que el artículo 294 de la RNRCSF establece que las instituciones no podrán
+mantener cuentas ni tramitar transacciones sin la debida identificación de sus
+clientes, sean éstos ocasionales o habituales, a tales efectos deberán recabar
+información para establecer y registrar por medios eficaces la identidad de sus
+clientes, así como el propósito y naturaleza de la relación de negocios.
+RR-SSF-2024-239     Fecha: 31/05/2024 14:33:48
+III) Que el literal a) del artículo 294.1 de la RNRCSF dispone que cuando se trate
+de clientes cuyas transacciones anuales, de acuerdo con su perfil de actividad,
+alcancen importes superiores a USD 1.500.000 (dólares estadounidenses un
+millón  quinientos  mil)  o  su  equivalente  en  otras  monedas,  o  realicen
+transacciones  por  dicho  monto  en  el  transcurso  de  un  año  calendario,  la
+identidad del cliente deberá verificarse mediante el contacto personal con el
+titular, representante o apoderado. En el caso de clientes que, sin cumplir con
+la condición establecida en el párrafo precedente, sus transacciones anuales
+alcancen –de acuerdo con su perfil de actividad- importes superiores a USD
+120.000 (dólares estadounidenses ciento veinte mil) o su equivalente en otras
+monedas, o realicen transacciones por dicho monto en el transcurso de un año
+calendario, la verificación antes mencionada también podrá ser realizada por
+otra  entidad  financiera  local  o  del  exterior  inscripta  ante  el  organismo  de
+contralor de su país para realizar actividades financieras, o por un escribano o
+quien  cumpla  esta  función  en  el  exterior,  debiéndose  obtener  la
+correspondiente certificación de que dicho contacto fue realizado.
+IV) Que las irregularidades detectadas en las fichas de clientes mencionadas en el
+RESULTANDO I), evidencian incumplimientos en la normativa de identificación
+de clientes.
+V) Que  el  artículo  307  de  la  RNRCSF  dispone  que  las  instituciones  deberán
+identificar adecuadamente a los beneficiarios de las transferencias recibidas,
+norma que resulta infringida  al depositar los fondos transferidos a un cliente
+diferente al designado.
+VI) Que el artículo 90 de la Recopilación de Normas de Regulación y Control del
+Sistema Financiero (RNRCSF) establece que en las operaciones de cobranzas,
+pagos, giros y transferencias domésticas y al exterior, los fondos deben estar a
+disposición del beneficiario en un plazo no mayor a 48 horas, aunque este
+plazo podrá ser mayor siempre que existan instrucciones específicas para ello
+y que no impliquen desvirtuar la operativa. En consecuencia, AKUMAL S.A. no
+debió mantener fondos en sus cuentas “aguardando instrucciones” por plazos
+superiores a las mencionadas 48 horas.
+VII) Que las insuficientes medidas adoptadas por el oficial de cumplimiento en
+materia de debida diligencia, configura un incumplimiento al artículo 291  de la
+RNRCSF, que dispone que el sistema integral de prevención del lavado de
+activos, el financiamiento del terrorismo y el financiamiento de la proliferación
+de armas de destrucción masiva deberá incluir un oficial de cumplimiento que
+será el responsable de la implantación, el seguimiento y control del adecuado
+funcionamiento del sistema, debiendo promover la permanente actualización de
+las políticas y procedimientos aplicados por la institución.
+VIII) Que  el  artículo  303  de  la  RNRCSF  establece  que  las  instituciones  de
+intermediación financiera, las empresas de servicios financieros y las empresas
+de transferencia de fondos deberán aplicar procedimientos de debida diligencia
+especiales cuando establezcan relaciones de corresponsalía con instituciones
+financieras  del  exterior,  en  condiciones  operativas  que  habiliten  a  éstas  a
+mantener cuentas o realizar pagos o transferencias de fondos o valores para
+sus propios clientes por intermedio de la institución de plaza, por lo que operar
+con una casa de cambio argentina fuera de este marco es una inobservancia
+de esta normativa.
+RR-SSF-2024-239     Fecha: 31/05/2024 14:33:48
+IX) Que de acuerdo al artículo 507 de la RNRCSF las empresas de servicios
+financieros  deberán  suministrar  los  estados  financieros  individuales  y
+consolidados con sus respectivos anexos y notas, confeccionados de acuerdo
+con lo establecido en el artículo 507 de la RNRCSF, que establece que dicha
+información se confeccionará aplicando las normas contables dispuestas por la
+Superintendencia de Servicios Financieros, por lo que las omisiones contables
+de AKUMAL S.A. reflejan una inobservancia a este requerimiento.
+X) Que los descargos presentados por la institución no se consideran de recibo
+por las siguientes razones:
+a) Los incumplimientos que se le atribuyen a AKUMAL S.A. y que constan en
+el proyecto sancionatorio del que la institución tomó vista con fecha 5 de
+marzo de 2024 no surgen de la referida denuncia, sino de los hallazgos
+constatados en oportunidad de la actuación inspectiva llevada a cabo el 10
+de julio de 2023.
+b) La verificación de la identidad del cliente, especialmente tratándose de un
+cliente de mayor riesgo como el intermediario, debería haberse llevado a
+cabo de acuerdo con alguno de los métodos establecidos en el literal a) del
+citado artículo 294.1, o atendiendo que no se llegaba al umbral de los USD
+1.500.000  pero  sí  se  superaba  el  umbral  de  USD  120.000  anuales,  la
+institución tenía la opción de verificar la identidad – si no recurría al contacto
+personal con el titular, representante o apoderado – mediante otra entidad
+financiera local o del exterior o un escribano. Sin embargo, AKUMAL S.A.
+no realizó la verificación de la identidad del  cliente por ninguna de las
+citadas vías, sino a través de la Sra. Lidia Fernández, quien carecía de un
+poder de representación formal para actuar en nombre del intermediario
+como persona jurídica.
+c) La institución reconoce que un cliente que superó el umbral de los USD
+15.000 no fue recategorizado, independientemente de las  acciones  que
+haya podido llevar por fuera del registro formal.
+d) De interpretar  la  norma  como  lo hace AKUMAL S.A., es  decir, que se
+cumple la exigencia del artículo 90 de la citada Recopilación con el simple
+hecho de dejar disponible los fondos dentro de las 48 horas, pero pudiendo
+mantenerlos  indeterminadamente  hasta que  el  cliente lo  decida, iría en
+contra de lo establecido por el artículo 17 bis del Decreto – Ley 15.322 del
+17  de  setiembre  de  1982  que  establece  que  sólo  los  bancos  y  las
+cooperativas  de  intermediación  financiera  podrán  recibir  depósitos  a  la
+vista. Es por eso que las empresas de servicios financieros, sólo podrán
+mantener  fondos  de  clientes  por  más  de  48  horas,  si  cuentan  con
+instrucciones  precisas  y  siempre  que  éstas  no  desvirtúen  el  giro  de  la
+empresa.
+e) Era obligación de AKUMAL S.A. entregar los fondos a la persona indicada
+en la orden, no siendo una responsabilidad delegable en un tercero, por
+más que la persona indicada tuviera relación comercial con ese tercero.
+f) Más  allá  del  número  de  las  operaciones,  se  configuró  la  relación  de
+corresponsalía con una institución financiera del  exterior, por  lo que se
+debió aplicar los procedimientos de debida diligencia especiales requeridas
+por la normativa.
+RR-SSF-2024-239     Fecha: 31/05/2024 14:33:48
+g) En la actuación de supervisión, se detectaron incumplimientos que atentan
+contra los pilares fundamentales de un sistema de prevención del lavado de
+activos, especialmente cuando se trata de clientes de mayor riesgo, como
+en el caso del intermediario de valores.
+h) Asimismo, la fijación de la cuantía de la sanción constituye una potestad
+discrecional de la Administración, debiendo tener relación razonable con la
+gravedad  de  la  infracción  atribuida,  verificándose  en  este  caso  un
+quebrantamiento normativo de entidad.
+XI) Que la solicitud de  designar perito calígrafo es impertinente por no guardar
+relación con el objeto a probar, pues el incumplimiento atribuido no es actuar
+bajo  una  firma  falsa  del  Sr.  Perera,  sino  por  no  haber  aplicado  los
+procedimientos de verificación de identidad impuestos por la normativa vigente.
+XII) Que de acuerdo con los criterios establecidos en el Expediente 2006-50-1-
+0930 para sanciones en materia de infracciones a la normativa sobre el sistema
+de  prevención  del  lavado  de  activos  y  financiamiento  del  terrorismo,  la
+infracción verificada se encuadra como incumplimiento normativo medio, por
+ser  una  carencia  en  el  sistema  de  implementación  de  dicho  sistema  de
+prevención, la que es sancionada con una multa equivalente al 0.25% de la
+responsabilidad patrimonial básica para bancos.
+XIII) Que  AKUMAL  S.A.  no  registra  antecedentes  respecto  a  este  tipo  de
+infracciones.
+ATENTO  :   A lo dispuesto en el literal L) del artículo 38 de la Ley Nº 16.696 de 30 de
+marzo de 1995, en la redacción dada por el artículo 11 de la Ley Nº 18.401 de 24
+de octubre de 2008, los artículos 90, 159, 291, 293,294, 294.1, 303, 307, 507, 596,
+664 y 692 de la Recopilación de Normas de Regulación y Control del Sistema
+Financiero, el artículo 94 del Reglamento Administrativo del Banco Central del
+Uruguay, los Dictámenes de la Asesoría Jurídica y las resultancias del expediente
+administrativo N° 2023-50-1-02652.
+SE RESUELVE:
+1. Rechazar el diligenciamiento de la prueba pericial ofrecida por AKUMAL S.A.
+por el fundamento expresado en el CONSIDERANDO XI).
+2. Sancionar a AKUMAL S.A. con una multa de UI 325.000 (trecientas veinticinco
+mil unidades indexadas) por los incumplimientos detectados en ocasión de la
+actuación de supervisión realizada el 10 de julio de 2023.
+3. Notificar al interesado.
+JUAN PEDRO CANTERA
+Superintendente de Servicios Financieros
+RR-SSF-2024-239     Fecha: 31/05/2024 14:33:48
+Exp. 2023-50-1-02652 
+ Publicable: Si - Firmante: Juan Pedro Cantera Sencion

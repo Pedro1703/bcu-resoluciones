@@ -1,0 +1,41 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La solicitud presentada por Banco Bilbao Vizcaya Uruguay S.A. para el
+procesamiento de datos en Amazon Web Services Inc. (Estados Unidos), al
+que se accede mediante el servicio de gestión y administración de BBVA Axial
+Tech S.A. de C.V. (México).
+RESULTANDO: I) Que  los  servicios  a  tercerizar  refieren  a  la  provisión  de
+herramientas de analítica para procesamiento de datos y áreas de trabajo para
+los usuarios, con el objeto de hacer más eficientes los procesos de tratamiento
+de datos realizados por el Banco para la toma de decisiones.
+II)  Que  para  el desarrollo  de  la prestación, BBVA Axial  Tech  S.A. de  C.V.
+subcontrata herramientas de automatización de flujos con Kyndryl México S. de
+R.L. de C.V. y servicios de almacenamiento y procesamiento en Amazon Web
+Services Inc. y Amazon Web Services EMEA S.A.R.L. (Europa).
+CONSIDERANDO: I) Que BBVA Axial Tech S.A. de C.V. (México) es 100%
+propiedad  de  Banco  Bilbao  Vizcaya  Argentaria  S.A  (España),  siendo  su
+actividad  principal  la  prestación  de  servicios  de  procesamiento  de  datos,
+consultorías y diseño y desarrollo de software a partes relacionadas, así como
+realización de actividades de diagnóstico y solución de problemas relacionados
+con programas informáticos a usuarios establecidos en diferentes países.
+II) Que Banco Bilbao Vizcaya Uruguay S.A. ha presentado la documentación
+requerida por la normativa vigente y no se formulan objeciones para autorizar la
+citada tercerización en los términos informados.
+ATENTO  :   A lo dispuesto en el artículo 2 de la Ley 17.613 de 27 de diciembre
+de  2002,  en  los  artículos  35.1  a  35.3  de  la  Recopilación  de  Normas  de
+Regulación y Control del Sistema Financiero, la resolución SSF No. 785-2015
+de 24 de noviembre de 2015 y a los informes contenidos en el expediente No.
+2023-50-1-02426.
+LA INTENDENTE DE SUPERVISIÓN FINANCIERA EN EJERCICIO DE
+ATRIBUCIONES DELEGADAS POR EL SUPERINTENDENTE DE
+SERVICIOS FINANCIEROS
+RESUELVE:
+Autorizar  a  Banco  Bilbao  Vizcaya  Argentaria  Uruguay  S.A.  a  tercerizar  la
+ingesta y procesamiento de  datos  en Amazon  Web Services Inc. (Estados
+Unidos), accediendo mediante el servicio de gestión y administración de BBVA
+Axial Tech S.A. de C.V. (México), en los términos de sus notas del 15 de
+setiembre, 31 de octubre, 1° de diciembre de 2023, 19 de enero y 16 y 19 de
+febrero de 2024.
+RR-SSF-2024-121     Fecha: 04/03/2024 14:44:34
+Exp. 2023-50-1-02426 
+ Publicable: Si - Firmante: CRISTINA ROSARIO RIVERO MORES

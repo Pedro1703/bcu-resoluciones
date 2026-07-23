@@ -12,7 +12,7 @@
 "resultado": "",
 "resumen": "BANCOS Y COOPERATIVAS DE INTERMEDIACIÓN FINANCIERA: otro",
 "relevancia": "media",
-"_motor": "heuristica",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdK3xmPVW8grS8ayzMNha'})",
 "id": "RR-SSF-2024-174",
 "year": "2024",
 "month": "Abril",
