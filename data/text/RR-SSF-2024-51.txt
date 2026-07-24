@@ -1,0 +1,280 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La  actuación  de  supervisión  enfocada  llevada  adelante  en  LATIN
+SECURITIES S.A. CORREDOR DE BOLSA durante octubre 2022.
+RESULTANDO: 
+I) Que en el marco de la actuación de supervisión referida en el VISTO, se
+constataron los siguientes hechos:
+a) Existen clientes que realizan operativa transaccional en sus cuentas,
+mediante las cuales canalizaron cobros y pagos propios de actividades
+comerciales  o  personales,  realizando  escasa  o  nula  operativa  de
+inversión en valores.
+b) Se envía una carta al cliente donde se le explican los riesgos de su
+cartera y se le solicita indique que acepta el cambio de perfil inversor,
+una vez realizada la operación contraria a su perfil, en vez de recabar la
+autorización expresa del cliente en forma previa a la realización de la
+inversión.
+c) Las  carpetas  de  debida  diligencia  de  algunos  clientes  no  están
+completas.
+d) La  definición  y  monitoreo  del  perfil  inversor  y  de  la  estrategia  de
+inversión presentan debilidades como por ejemplo: algunas preguntas
+puntúan inversamente al  riesgo asumido, es  decir  las opciones más
+conservadoras contribuyen a la determinación de perfiles más agresivos;
+no se tiene en cuenta el volumen de ingresos percibidos, la experiencia
+previa en materia de inversiones ni los conocimientos financieros del
+cliente; no existe un procedimiento de control para asegurarse que los
+clientes que sean clasificados de bajo conocimiento del mercado y baja
+tolerancia al riesgo no puedan invertir en derivados u otros instrumentos
+sofisticados y de alto riesgo; no se han acordado ni firmado estrategias
+de inversión con los clientes.
+e) En una muestra de diez carpetas de clientes analizados se detectaron
+debilidades en materia de debida diligencia.
+f) La matriz de categorización de clientes por riesgo de lavado de activos,
+financiamiento del terrorismo y proliferación de armas de destrucción
+masiva presenta las siguientes debilidades:
+- en el caso de los clientes políticamente expuestos (PEP) la matriz no
+arroja como resultado que sea de mayor riesgo tal como lo disponen
+los artículos 191.1 y 194 de la RNMV.
+RR-SSF-2024-51     Fecha: 23/01/2024 13:54:36
+- no se considera como factor el tipo de cliente, por ejemplo, cliente
+persona física, persona jurídica con actividad real, persona jurídica
+vehículo de inversión, etc.
+- algunas  actividades  consideradas  de  riesgo  de  acuerdo  con  las
+recomendaciones  internacionales  en  la  materia,  tales  como
+inmobiliarias u organizaciones religiosas, no reciben una calificación
+de riesgo alta en la matriz. Por otro lado, categorías de actividades
+como  "Propietarios,  Directorio  o  Gerentes  de  Mediana  y  Gran
+Empresa"  se  consideran  genéricas  y  no  reflejan  el  riesgo  de  la
+actividad que desarrollan.
+- seis clientes que son personas jurídicas, sin actividad comercial y de
+Islas Vírgenes (Reino Unido), con posición mayor a USD 1.000.000.
+al 30/9/2022 no estaban clasificadas como de riesgo alto.
+- existen clientes que manejan fondos de terceros, con actividad de
+riesgo y montos de posición elevados que no son clasificados como
+de riesgo alto. 
+g) Si bien se cuenta con la definición de umbral de monto significativo, el
+monto definido por USD 3.000.000 se considera excesivo y en el control
+no considera los ingresos anuales acumulados en la cuenta. Asimismo,
+se detectaron ocho clientes que ingresaron fondos por más de los USD
+3.000.000  y  no  fueron  categorizados  como  clientes  de  monto
+significativo.
+h) El sistema de monitoreo implementado no contempla los movimientos
+entre los clientes con cuenta a su nombre en Pershing y de la muestra
+de carpetas de debida diligencia se detectaron que para algunos clientes
+que tuvieron ingresos por montos significativos no se generó alerta.
+i) A partir de las observaciones referidas a la gestión del riesgo de lavado
+de activos mencionadas precedentemente, se concluye que la Oficial de
+Cumplimiento no ha cumplido adecuadamente su rol.
+II) Que el relevamiento de tales hechos fue comunicado al intermediario de
+valores a través de la nota de 2 de febrero de 2023, que fuera notificada a la
+entidad el día 7 de febrero de 2023 y de cuyo texto se incluye copia a fs. 1 a
+7 del expediente 2023-50-1-00964.
+III) Que el día 27 de julio de 2023 se le otorgó vista a la entidad por el plazo de
+diez días hábiles, habiendo ésta  solicitado el día 9 de agosto de 2023
+prórroga por el término de quince días hábiles, la cual le fue conferida y
+notificada al día siguiente.
+IV) Que la evacuación de vista tuvo lugar el día 31 de agosto de 2023 a través
+de  la  presentación  de  un  escrito  en  el  que  la  institución  formula  los
+siguientes descargos:
+a) La  operativa  transaccional  nunca  tuvo  lugar  en  cuentas  de  clientes
+custodiadas a través de cuentas ómnibus del intermediario.
+RR-SSF-2024-51     Fecha: 23/01/2024 13:54:36
+b) De las tres carpetas incompletas, para dos de ellas se ha obtenido la
+documentación requerida, mientras que para la tercera, dado que el
+cliente  no  ha  aportado  la  información  solicitada,  luego  del  plazo
+acordado, procedió a realizar un reporte de operación sospechosa ante
+la Unidad de Información y Análisis Financiero.
+c) La información sobre el volumen de ingresos del cliente se obtiene de
+los formularios de apertura.
+d) Nunca  se  ha  autorizado  la  venta  de  productos  derivados  u  otros
+instrumentos  sofisticados  de  alto  riesgo  en  cuentas  de  clientes
+custodiadas  en  cuentas  ómnibus,  independientemente  del  perfil  del
+inversor.  Asimismo,  el  intermediario  realiza  un  control  previo  al
+proporcionar a los asesores el perfil inversor actualizado de cada cliente
+a través del sistema de gestión.
+e) El intermediario ofrece a sus clientes opciones de carteras diseñadas en
+base  a  una  estrategia  de  inversión  genérica  adaptada  a  su  perfil
+inversor.
+f) El puntaje asignado a los clientes PEP siempre ha sido de 100, sin
+embargo,  ese  puntaje  se  ve  afectado  por  otros  factores  como  la
+actividad comercial, jurisdicción, etc., y por lo tanto, la combinación de
+estos factores, puede resultar en un riesgo menor.
+g) En  cuanto  a  los  clientes  que  son  personas  jurídicas  sin  actividad
+comercial y de las Islas Vírgenes con una posición mayor al millón de
+dólares, ninguno de los factores mencionados es por sí solo es sinónimo
+de clasificación de alto riesgo.
+h) El intermediario utiliza para el cálculo del umbral de monto significativo el
+promedio de los saldos en cuentas de clientes al final de cada mes
+durante un año calendario.
+i) Los  incumplimientos  detectados  no  respaldan  la  calificación  emitida
+respecto al Oficial de Cumplimiento.
+j) Los hallazgos no poseen la gravedad atribuida.
+k) Algunos  aspectos  del  comunicado  inicial  de  la  Superintendencia  de
+Servicios Financieros, emitido antes de cualquier defensa por parte del
+intermediario, podrían interpretarse como subjetivos y podría correrse el
+riesgo de influir en futuras decisiones, como puede ser la sanción a
+imponer.
+l) La sanción proyectada resulta desmedida.
+m) Para los hallazgos detectados se han tomado medidas de corrección o
+mejora.
+RR-SSF-2024-51     Fecha: 23/01/2024 13:54:36
+CONSIDERANDO: 
+I) Que el artículo 98 de la Ley N° 18.627 de 2 de diciembre de 2009 establece
+que los intermediarios de valores tendrán como objeto exclusivo la actividad
+referida en el artículo 94 de dicha ley, esto es, la realización en forma
+profesional  y  habitual  operaciones  de  intermediación  entre  oferentes  y
+demandantes de valores de oferta pública o privada, y que el artículo 62 de
+la Recopilación de Normas del Mercado de Valores (RNMV) establece la
+actividad  que  define  la  licencia  de  intermediario  de  valores,  así  como
+enumera en forma taxativa las actividades adicionales que estos pueden
+realizar.
+II) Que el uso de cuentas de clientes, en transacciones no destinadas a la
+compra o venta de valores, supone una operativa que no está dentro de las
+actividades  permitidas  a  los  intermediarios  de  valores  definidas  en  el
+mencionado  artículo  62,  por  encontrarse  fuera  de  su  objeto  exclusivo
+definido en los artículos 94 y 98 de la citada Ley 18.627.
+III) Que  el  artículo  191.1  de  la  RNMV  establece  que  los  intermediarios  de
+valores deberán establecer procedimientos que permitan la actualización de
+la información que poseen sobre sus clientes
+IV) Que el artículo 193 de la RNMV dispone que los intermediarios de valores
+deberán  determinar  el  perfil  de  actividad  de  sus  clientes  a  efectos  de
+monitorear adecuadamente sus transacciones.
+V) Que el artículo 194 de la RNMV establece que los intermediarios de valores
+deberán aplicar procedimientos de debida diligencia intensificada para las
+categorías de clientes, relaciones comerciales u operaciones consideradas
+de mayor riesgo, de acuerdo con lo que surja de la evaluación de riesgo
+realizada por la institución
+VI) Que en los Estándares Mínimos de Gestión para Intermediarios de Valores
+(EMG), el EMG 9 establece que la institución debe asegurarse que todos
+los clientes cuenten con un perfil y una estrategia de inversión, alineada al
+mismo
+VII) Que el artículo 213 de la RNMV establece que los intermediarios de valores
+deberán determinar las categorías en las cuales clasificarán a cada uno de
+sus clientes, en función del grado de riesgo, sofisticación y conocimiento de
+cada uno de ellos, con el propósito de identificar los diferentes productos y
+operaciones acordes con dichas categorías.
+VIII) Que  el  artículo  213.1  de  la  RNMV  dispone  que  cuando  se  presten
+servicios de asesoramiento y de gestión de portafolios se deberá acordar
+con el cliente una estrategia de inversión, entendiendo por tal el conjunto
+de reglas, comportamientos y procedimientos diseñados para orientarlo
+en la selección de una cartera de valores.
+IX) Que el EMG 19 establece que el Oficial de Cumplimiento es el responsable
+de la implantación, seguimiento y control del adecuado funcionamiento del
+sistema de prevención del riesgo de lavado de activos.
+RR-SSF-2024-51     Fecha: 23/01/2024 13:54:36
+X) Que el EMG 20 establece que la institución debe desarrollar procedimientos
+de debida diligencia a ser aplicados a sus clientes y entidades o personas
+con  las  que  se  vincula  y  sus  transacciones,  que  sean  diferenciales  en
+función de su nivel de riesgo y que cumplan con los requisitos dispuestos en
+la normativa vigente.
+XI) Que el EMG 21 establece que la institución debe desarrollar un sistema de
+monitoreo de las relaciones comerciales y de las transacciones acorde con
+su tamaño, complejidad y riesgo de sus actividades.
+XII) Que  los  incumplimientos  detectados  configuran  múltiples  infracciones
+administrativas  pasibles  de  sanción,  la  cual  deberá  determinarse  en
+atención al principio de proporcionalidad.
+XIII) Que a través de la evacuación de vista, lo que se destaca en el literal m)
+del  RESULTANDO  IV),  la  entidad  centra  sus  descargos  en  acciones
+adoptadas  por  esta  con  posterioridad  a  la  detección  de  tales
+incumplimientos, lo cual además de encerrar un reconocimiento de los
+hechos que se le imputan, no enerva la configuración de infracción ni la
+exime de responsabilidad administrativa por tales hechos.
+XIV) Que  los  restantes  agravios  expresados  en  el  escrito  de  descargos  y
+expuestos en el RESULTANDO IV) no se consideran de recibo por las
+razones siguientes, expuestas con referencia a cada uno de los literales
+del mencionado RESULTANDO :
+a) No  presenta  argumentos  que  demuestren  que  no  se  realizaron
+canalizaciones  con  fines  transaccionales,  simplemente  señala  que
+tales operaciones se realizaron en cuentas a nombre propio de los
+clientes y no en la cuenta ómnibus.
+b) La documentación a que refiere en sus descargos no estaba en poder
+de la entidad al momento de realizar la actuación in situ, sino que se
+solicitó a los clientes a raíz de que le fuera exigida en la actuación de
+supervisión, por lo que al realizar las operaciones con el cliente, la
+entidad no contaba con el respaldo suficiente sobre el origen de los
+fondos.
+c) Si  bien  la  información  sobre  el  volumen  de  ingresos  figura  en  los
+formularios de apertura de cuenta, no era tomado en cuenta a efectos
+de determinar el perfil inversor.
+d) Con respecto a la venta de productos derivados o sofisticados de alto
+riesgo,  si  bien  declara  que  no  realiza  dichas  operaciones  en  las
+cuentas ómnibus, en relación a las cuentas a nombre propio de los
+clientes,  éstos  pueden  realizar  operaciones  en  derivados  aun  no
+siendo acordes a su perfil, dado que la entidad carece de un control
+que prevea ex ante estas situaciones.
+e) El intermediario posee perfiles de inversión genéricos, estandarizados,
+que  no  se  encontraban  firmados  por  los  clientes,  por  lo  tanto,  la
+entidad  no  cumplía  con  el  requisito  de  tener  una  estrategia  de
+inversión acordada con el cliente.
+RR-SSF-2024-51     Fecha: 23/01/2024 13:54:36
+f) Según la normativa, este tipo de clientes debe ser considerado de
+mayor riesgo, por lo que se entiende que no deberían considerarse
+otros factores que disminuyan la calificación de riesgo otorgada.
+g) Si bien se comparte que uno solo de los factores señalados no implica
+necesariamente la calificación de riesgo alto, el hecho que un cliente
+reúna más de una de estas alertas (que sea un vehículo de inversión,
+en  jurisdicciones  que  presentan  riesgo,  con  posición  por  montos
+elevados, etc.) se considera que debería determinar que el mismo es
+de riesgo alto.
+h) Más  allá  de  las  observaciones  a  la  forma  de  cálculo  y  el  monto
+establecido del umbral, ocho clientes superaron dicho umbral sin ser
+categorizados como de monto significativo.
+i) El Oficial de Cumplimiento, así como el personal superior en general,
+son  responsables  de  la  implementación,  seguimiento  y  control  del
+sistema  de  prevención  de  lavado.  Además,  en  el  intermediario,  el
+Oficial de Cumplimiento también es responsable por la definición del
+perfil  inversor  de  los  clientes,  por  lo  que  muchos  de  los
+incumplimientos  y  las  observaciones  detalladas  están  directamente
+relacionados a la responsabilidad y el rol que la entidad le asignó a su
+Oficial de Cumplimiento.
+j) No se comparte que los hallazgos señalados no sean de gravedad, en
+tanto se refieren principalmente a aspectos relativos a protección al
+inversor y a la prevención de lavado de activos.
+k) Los  procedimientos  de  supervisión  incluyen  etapas  de  solicitud  de
+información,  trabajo  de  campo,  documentación  de  los  hallazgos  y
+discusión de los mismos con la entidad durante la etapa de trabajo de
+campo,  brindando  la  oportunidad  de  aportar  documentación  o
+información adicional que permita levantar las observaciones y refutar
+el hallazgo detectado. Asimismo, el proceso sancionatorio se realiza
+en base al Reglamento Administrativo del Banco Central del Uruguay,
+permitiendo  al  supervisado  articular  su  defensa  mediante  la
+presentación de descargos en respuesta a la vista conferida de las
+presentes actuaciones.
+l) La  fijación  de  la  cuantía  de  la  sanción  constituye  una  potestad
+discrecional de la Administración, debiendo tener relación razonable
+con la gravedad de la infracción atribuida, verificándose en este caso
+un quebrantamiento normativo de entidad.
+XV)Que  el  literal  c.  del  artículo  351  de  la  RNMV  dispone  el  elenco  de
+sanciones  a  las  que  serán  pasibles  los  intermediarios  de  valores  que
+infrinjan las normas legales o reglamentarias, o las normas generales e
+instrucciones particulares en la materia dictadas por el Banco Central del
+Uruguay.
+XVI) Que  LATIN  SECURITIES  S.A.  CORREDOR  DE  BOLSA  no  registra
+antecedentes respecto a este tipo de infracciones.
+RR-SSF-2024-51     Fecha: 23/01/2024 13:54:36
+XVII) Que  el  artículo  118  de  la  citada  Ley  N°  18.627  establece  que  las
+sanciones dispuestas por el Banco Central del Uruguay deberán ser
+publicadas.
+ATENTO  :   A lo dispuesto en el literal L) del artículo 38 de la Ley 16.696 de 30
+de marzo de 1995, en la redacción dada por el artículo 11 de la Ley 18.401 de
+24 de octubre de 2008, los artículos 94, 98 y 118 de la Ley N° 18.627 de 2 de
+diciembre de 2009, los artículos 62, 191.1, 193, 194, 213, 213.1 y 351 de la
+Recopilación de Normas del Mercado de Valores, los Estándares Mínimos de
+Gestión  para  Intermediarios  de  Valores  aprobados  por  Resolución  de  la
+Superintendencia de Servicios Financieros N° 2020 – 732 de 19 de noviembre
+de 2020 puesta en conocimiento del mercado por Comunicación 2020/247 de
+25 de noviembre de 2020, en el artículo 94 del Reglamento Administrativo del
+Banco Central del Uruguay, a los Dictámenes de la Asesoría Jurídica y las
+resultancias del expediente administrativo N° 2023-50-1-00964.
+SE RESUELVE:
+1. Sancionar a LATIN SECURITIES S.A. CORREDOR DE BOLSA con una
+multa de UI 100.000 (cien mil unidades indexadas) por las infracciones
+constatadas en oportunidad de la actuación de supervisión de octubre de
+2022.
+2. Notificar al interesado.
+3. Emitir una Comunicación haciendo saber lo dispuesto en el numeral 1. 
+JUAN PEDRO CANTERA
+Superintendente de Servicios Financieros
+RR-SSF-2024-51     Fecha: 23/01/2024 13:54:36
+Exp. 2023-50-1-00964 
+ Publicable: Si - Firmante: Juan Pedro Cantera Sencion

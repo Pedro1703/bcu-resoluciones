@@ -1,0 +1,48 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: Que es necesario reglamentar el envío de la información de Central de
+riesgos crediticios para Entidades otorgantes de crédito de mayor actividad. 
+RESULTANDO: 
+I) Que de acuerdo con lo establecido en el artículo 635 de la Recopilación
+de Normas de Regulación y Control del Sistema Financiero (RNRCSF),
+las  Entidades  otorgantes  de  crédito  de  mayor  actividad  deberán
+proporcionar  mensualmente  a  la  Superintendencia  de  Servicios
+Financieros  información  para  la  central  de  riesgos,  dentro  de  los
+primeros ocho días hábiles siguientes a la fecha informada.
+II) Que es necesario adecuar la recepción y divulgación de la información
+de  la  Central  de  Riesgos  Crediticios  a  efectos  de  consolidar  la
+información de las Entidades Otorgantes de mayor actividad con la del
+resto del sistema.
+CONSIDERANDO: 
+I) Que  a  efectos  de  consolidar  la  información  de  central  de  riesgos  y
+elaborar los productos de información para la industria, debe adecuarse
+la información de las Entidades Otorgantes de crédito a un marco de
+clasificación de riesgos crediticios. 
+II) Que  es  necesario  dar  instrucciones  precisas  a  las  instituciones  que
+reportan información a la Central de Riesgos Crediticios, a efectos que
+adapten sus sistemas informáticos y estructuras de datos.
+III) Que el Sistema de Envíos Centralizado (IDI) es el aplicativo informático
+por el cual las instituciones supervisadas, que la normativa determina,
+envían a la Superintendencia de Servicios Financieros la información de
+central de riesgos crediticios.
+ATENTO  :   a lo dispuesto en los artículos 38 y 39 de la Carta Orgánica del
+Banco Central del Uruguay (aprobada por la ley N° 16.696 de 30 de marzo de
+1995, con las modificaciones introducidas por las Leyes N°18.401 de 24 de
+octubre de 2008 y N°18.670 de 20 de julio de 2010) , en el artículo 365 de la
+Recopilación de Normas de Regulación y Control del Sistema Financiero y en
+la Resolución de la Superintendencia de Servicios Financieros N° SSF-785-
+2015 de 24 de noviembre de 2015 numeral 5) literal a).
+RR-SSF-2023-640     Fecha: 08/12/2023 14:09:33
+EL GERENTE DE GESTIÓN ESTRATÉGICA Y OPERATIVA EN EJERCICIO DE
+ATRIBUCIONES DELEGADAS POR EL SUPERINTENDENTE DE SERVICIOS
+FINANCIEROS RESUELVE:
+Emitir una comunicación al mercado con  las especificaciones técnicas para el
+envío de la información de Central de Riesgos por parte de las Entidades
+otorgantes de crédito de mayor actividad, de acuerdo al texto que luce de folios
+409 a 418 inclusive, acompañada del Anexo I según el texto que luce a fs. 419
+a 425 inclusive.
+CHRISTIAN SALVARREY
+GERENTE DE GESTIÓN ESTRATÉGICA Y OPERATIVA
+RR-SSF-2023-640     Fecha: 08/12/2023 14:09:33
+Exp. 2022-50-1-01848 
+ Publicable: Si - Firmante: ALBERTO CHRISTIAN SALVARREY MORO

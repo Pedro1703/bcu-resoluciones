@@ -1,0 +1,71 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La creación del Fondo Voluntario Previsional a partir del 1 de diciembre
+de 2023, según lo dispuesto en la Ley 20.130 del 2 de mayo del mismo año.
+RESULTANDO  :  
+I. Que si bien se ha automatizado la valuación de las inversiones del Fondo
+Voluntario Previsional, en el sistema CAFAP, no pudo completarse aún el
+proceso de control automático con información remitida a través de dicho
+sistema  por  las  Administradoras  de  Fondos  de  Ahorro  Previsional  (en
+adelante “AFAPs”).
+II. Que,  por  lo  tanto,  resulta  necesario  implementar  procesos  manuales
+alternativos para efectuar los controles referidos en el resultando anterior. 
+CONSIDERANDO:
+Que,  a  efectos  de  facilitar  el  control  diario  manual  de  las  valuaciones
+relativas a este Fondo Voluntario Previsional, corresponde  formalizar  la
+solicitud de información diaria que permita su realización, estableciendo un
+formato homogéneo para su recepción.
+ATENTO: a las atribuciones establecidas en los artículos 34 y 35 del Texto
+Ordenado de la Carta Orgánica del Banco Central del Uruguay, en el artículo
+250 de la Ley 20.130 de 2 de mayo de 2023, en la Resolución de la SSF N°
+785  -  2015  de  24  de  noviembre  de  2015  y  a  lo  informado  por  la
+Superintendencia de Servicios Financieros en el expediente 2023-50-01-02405.
+EL GERENTE DE GESTIÓN ESTRATÉGICA Y OPERATIVA, EN EJERCICIO
+DE ATRIBUCIONES DELEGADAS POR EL SUPERINTENDENTE DE
+SERVICIOS FINANCIEROS, 
+RESUELVE:
+Emitir la siguiente comunicación:
+Ref: ADMINISTADORAS DE FONDOS DE AHORRO PREVISIONAL – 
+FONDO VOLUNTARIO PREVISIONAL - Información diaria a suministrar al 
+Banco Central del Uruguay.
+RR-SSF-2023-616     Fecha: 29/11/2023 17:58:29
+Se  pone  en  conocimiento  de  las  Administradoras  de  Fondos  de  Ahorro
+Previsional que respecto al Fondo Voluntario Previsional:
+1. A través del sistema CAFAP, deberán validar las operaciones que reflejan
+los movimientos diarios realizados con los activos que componen el Fondo
+Voluntario Previsional, antes de las 10:00 horas del día hábil siguiente al
+que están referidas.
+2. Las  siguientes  informaciones  deberán  ser  suministradas  en  planilla
+electrónica a través del Sistema de envío centralizado (IDI), utilizando el
+tipo  de  dato  periódico  “232  -  Valuación  y  Valor  Cuota  FVP”,  según  el
+formato que se adjunta en el Anexo I, el que podrá descargarse en EXCEL
+en  la  opción  “Descargas”,  “Publicaciones”,  “Archivos  de  trabajo”  del
+sistema, en la opción “Planilla información diaria FVP”:
+a) Detalle,  especie  por  especie,  de  las  inversiones  y  disponibilidades
+transitorias  que  componen  el  Fondo  Voluntario  Previsional,  valuado
+según las normas dictadas por este Banco Central.
+b) Operaciones  del  Fondo  Voluntario  Previsional  con  el  detalle  de  los
+movimientos de cuotas.
+Las informaciones mencionadas deberán remitirse antes de las 14:00 horas
+del día hábil siguiente al que están referidas, y deberán incluir la firma
+electrónica del autorizado a remitir información por parte de la entidad.
+  
+Las instrucciones para el acceso y uso del Sistema de Envío Centralizado y
+el aplicativo de firma del BCU pueden accederse en la siguiente dirección:
+https://www.bcu.gub.uy/Servicios-Financieros-SSF/Documents/acceso-y-
+envio-info-ssf.pdf
+3. Las solicitudes de prórrogas se harán por los canales que correspondan a
+cada tipo de envío.
+4. La omisión del envío de la información indicada precedentemente, impedirá
+que  la  Administradora  disponga  del  valor  de  la  cuota  para  expresar  y
+registrar las operaciones en las cuentas individuales, desde el día siguiente
+al que ocurra la omisión, sin perjuicio de las sanciones que correspondan.
+5. El  Banco  Central  del  Uruguay  verificará  lo  informado  por  las
+Administradoras y en caso de discrepancias procederá a comunicárselo,
+para que no efectúe registraciones de movimientos de cuotas, hasta tanto
+no se valide el valor de la cuota a aplicar en las mismas.
+La  presente  disposición  entrará  en  vigencia  a  partir  de  la  información
+correspondiente al día 01 de diciembre de 2023.
+RR-SSF-2023-616     Fecha: 29/11/2023 17:58:29
+Exp. 2023-50-1-02405 
+ Publicable: Si - Firmante: ALBERTO CHRISTIAN SALVARREY MORO

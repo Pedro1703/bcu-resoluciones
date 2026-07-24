@@ -1,0 +1,45 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La solicitud de autorización presentada por Banco Santander S.A. para
+la tercerización de servicios de análisis de datos y documentos relacionados
+con negocios de comercio exterior en la empresa Pagonxt Trade Services S.L.
+(España).
+RESULTANDO:
+I) Que para la tercerización a que refiere el Visto, Pagonxt Trade Services
+S.L.  (España)  subcontrata  a  Santander  Global  Technology  and
+Operations  S.L.  (México),  siendo  ambas  entidades  pertenecientes  al
+Grupo Santander.
+II) Que para la ejecución del servicio se utiliza tecnología alojada en la
+nube de Microsoft Azure, a la que se accede mediante la contratación de
+Microsoft  Ireland  Operations  Limited  por  parte  de  Pagonxt  Trade
+Services S.L. (España).
+III) Que Banco Santander S.A. presentó la documentación requerida por la
+normativa vigente.
+CONSIDERANDO:
+I) Que Santander Global Technology and Operations S.L. (México) ya ha
+sido autorizada por esta Superintendencia para prestar otros servicios al
+Banco.
+II) Que analizado el texto del modelo de contrato y anexos a celebrar con
+Pagonxt Trade Services S.L. (España), así como los contratos y adendas
+celebrados con los subcontratistas y la información adicional presentada,
+no se perciben objeciones para autorizar la tercerización.
+ATENTO: A lo dispuesto en el artículo 2 de la Ley 17.613 de fecha 27 de
+diciembre de 2002, en los artículos 35.1 y siguientes y 304 de la Recopilación
+de Normas de Regulación y Control del Sistema Financiero, a la Resolución
+SSF N° 785-2015 de 24 de noviembre de 2015 y a los informes contenidos en
+el expediente N° 2022- 50-1-02225.
+LA INTENDENTE DE SUPERVISIÓN FINANCIERA
+EN EJERCICIO DE ATRIBUCIONES DELEGADAS POR EL
+SUPERINTENDENTE DE SERVICIOS FINANCIEROS,
+RESUELVE:
+Autorizar a Banco Santander S.A. a tercerizar en Pagonxt Trade Services S.L.
+(España) los servicios de análisis de datos y documentos relacionados con
+RR-SSF-2023-633     Fecha: 07/12/2023 17:09:06
+negocios de comercio exterior, en los términos de sus notas de 14 de octubre
+de 2022, 13 de enero, 20 de marzo, 26 de junio y 20 de octubre de 2023. La
+autorización  comprende  la  subcontratación  en  las  firmas  Santander  Global
+Technology  and  Operations  S.L.  (México)  y  Microsoft  Ireland  Operations
+Limited (Microsoft Azure).
+RR-SSF-2023-633     Fecha: 07/12/2023 17:09:06
+Exp. 2022-50-1-02225 
+ Publicable: Si - Firmante: CRISTINA ROSARIO RIVERO MORES

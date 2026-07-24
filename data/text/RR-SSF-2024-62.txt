@@ -1,0 +1,196 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: Los  recursos  de  revocación  y  jerárquico  interpuestos  por  GMC
+SECURITIES AGENTE DE VALORES S.A. (antes DEL ESTE AGENTE DE
+VALORES  S.A.)  contra  la  Resolución  de  la  Superintendencia  de  Servicios
+Financieros Nº 2023 - 448 de 28 de agosto de 2023.
+RESULTANDO: 
+I) Que  mediante  la  Resolución  referida  en  el  VISTO  se  sancionó  a  la
+institución con una multa de UI 300.000 (trecientas mil unidades indexadas)
+por  las  infracciones  constatadas  en  oportunidad  de  la  actuación  de
+supervisión de agosto de 2022.
+II) Que  la  citada  Resolución  fue  notificada  al  intermediario  de  valores  con
+fecha 30 de agosto de 2023 y recurrida el día 11 de setiembre de 2023.
+III) Que la institución complementó la fundamentación de los recursos en su
+nota de 20 de noviembre de 2023.
+IV) Que la recurrente expresa los siguientes agravios: 
+a) La sanción es excesiva y viola el principio de proporcionalidad.
+b) La existencia de saldos negativos no implica que se utilicen fondos de
+otros clientes para cubrir las operaciones del sobregirado.
+c) La falta de cuentas a nombre propio se debe a que los agentes de
+valores integran un perfil de clientes para los que las instituciones de
+intermediación financiera prefieren no abrir cuentas. Se logró cumplir la
+instrucción particular IP 2, abriéndose una cuenta para fondos propios
+en una entidad bancaria y se mantienen tratativas con otra institución.
+d) No eliminar los usuarios que se hayan desvinculado del intermediario, no
+es  un  comportamiento  que  esté  tipificado  como  infracción  en  la
+normativa.
+e) Se  multó  al  intermediario  por  un  hecho  anterior  (tercerización  de
+servicios  de  correo  electrónico  con  un  proveedor  del  exterior  sin
+autorización)  que  ya  no  constituía  una  infracción  al  momento  de  la
+sanción.
+f) El  intermediario  cumplió  en  informar  la  tercerización  del  servicio  de
+correo electrónico.
+g) La Recopilación de Normas del Mercado de Valores no dispone que la
+carga de asumir los costos de fiscalización en el exterior de servicios
+tercerizados deba figurar en el contrato, sino que dispone directamente
+que deben ser asumidos por el supervisado.
+RR-SSF-2024-62     Fecha: 29/01/2024 14:39:14
+h) La ausencia de suplente de operador de la mesa de operaciones no
+constituye una infracción.
+i) Durante  la  actuación  inspectiva  se  procedió  a  enviar  la  información
+solicitada.
+j) La entrevista al oficial de cumplimiento es ilícita por violar el debido
+proceso.
+k) Recién  después  de  la  vista  previa  se  aclaró  que  no  se  estaba
+observando  la  omisión  de  reportar  operaciones  sospechosas  sino  la
+carencia del procedimiento de comunicación interno del artículo 205 de
+la Recopilación de Normas de Mercado de Valores.
+l) El  manual  de  prevención  del  lavado  de  activos  y  financiamiento  del
+terrorismo estaba actualizado y se multó por no dejar constancias de su
+revisión.
+m) El procedimiento adolece de vicios formales y materiales.
+n) La multa quita sentido a las instrucciones particulares ya que convierte
+en irrelevantes las subsanaciones. 
+CONSIDERANDO: 
+I) Que los recursos fueron interpuestos en forma y dentro del plazo de diez
+días previsto en los artículos 317 de la Constitución de la República, 4 de la
+Ley N° 15.869 de 22 de junio de 1987 y 145 del Reglamento Administrativo
+del Banco Central del Uruguay.
+II) Que en el procedimiento sancionatorio se han brindado las garantías del
+debido  proceso  al  recurrente,  habiéndosele  conferido  vista  de  las
+actuaciones, así como oportunidad para formular descargos e incorporar
+prueba.
+III) Que  la  circunstancia  de  que  el  supervisado  adecue  su  conducta  a  la
+normativa tras la notificación de las instrucciones particulares y, en general,
+la implementación de acciones con posterioridad a la constatación de las
+infracciones  para  dar  cumplimiento  a  la  normativa,  no  lo  eximen  de
+responsabilidad  administrativa  por  los  incumplimientos  verificados  ni
+enervan su configuración, contribuyendo únicamente a evitar la aplicación
+de sanciones en el futuro.
+IV) Que resultó probado que el supervisado realizó operaciones para clientes
+que en sus cuentas mantenían fondos insuficientes con los de aquellos
+superavitarios, lo que constituye una infracción grave así calificada en el
+artículo 119, numeral 6, de la Ley N° 18.627 de 2 de diciembre de 2009, lo
+que por sí solo podría ameritar las sanciones de suspensión o cancelación
+de actividades, conforme dispone dicha norma legal.
+RR-SSF-2024-62     Fecha: 29/01/2024 14:39:14
+V) Que se constató el incumplimiento a lo dispuesto en el artículo 147, literal c,
+de la Recopilación de Normas de Mercado de Valores, que requiere a los
+intermediarios de valores la constitución de cuentas separadas para fondos
+propios y de terceros, evidenciándose la inexistencia del impedimento al
+que alude en el recurso con la posterior apertura por parte del recurrente de
+una  cuenta  bancaria  a  efectos  dar  cumplimiento  a  la  citada  Instrucción
+Particular IP 2.
+VI) Que el hecho de que personas que no tienen vínculo con el intermediario
+cuenten  con  credenciales  para  operar  los  sistemas,  mientras  que  la
+operadora de la mesa no contaba con usuario, debiendo utilizar el de otros,
+constituye un incumplimiento en el control interno que debe observar un
+agente  de  valores,  en  los  términos  del  artículo  147,  literal  b,  de  la
+Recopilación de Normas de Mercado de Valores.
+VII) Que en el momento que tercerizó los servicios de correo electrónico, la
+normativa  vigente  requería  la  autorización  expresa  previa  de  la
+Superintendencia de Servicios Financieros, exigencia que no fue cumplida
+por  el  intermediario  en  tiempo  y  forma,  quien  tampoco  acreditó  en  el
+procedimiento haber realizado la comunicación a que refiere.
+VIII) Que  el  derecho  administrativo  sancionatorio,  en  virtud  de  los  bienes
+jurídicos por él tutelados, conlleva a que resulten de aplicación las normas
+vigentes en el momento de la comisión de la infracción.
+IX) Que en lo relativo a la tercerización de servicios con Reconquista Valores
+S.A., se constató que no constaba en forma expresa que el supervisado
+cubriría los costos de fiscalización en el exterior, lo que constituye una
+exigencia  de  la  Superintendencia  de  Servicios  Financieros  para  la
+autorización de las tercerizaciones, en línea con lo dispuesto en el artículo
+67.1 y siguientes de la de la Recopilación de Normas de Mercado de
+Valores  y,  además,  se  comprobó  que  faltaban  las  declaraciones
+requeridas por el artículo 67.1.3 de la mencionada recopilación respecto
+al personal asignado a los servicios contratados, con la acreditación de
+que cuentan con la capacitación exigida.
+X) Que en virtud de lo expresado en los considerandos VII a IX, se acreditó
+la infracción al artículo 2 de la Ley 17.613 y a los artículos 67.1, 67.1.1 y
+67.1.3 de la Recopilación de Normas de Mercado de Valores, en materia
+de tercerización de servicios. La observación de un incumplimiento aun
+dos  años  después  de  su  comisión  no  exonera  al  infractor  de
+responsabilidad administrativa por tal infracción.
+XI) Que se constató la infracción al artículo 147, literal a, de la Recopilación
+de  Normas  de  Mercado  de  Valores, en  la  medida  que  exige  que  las
+actividades de la  mesa  de operaciones  se  desarrollen  en  el  domicilio
+comercial del intermediario, circunstancia que no puede cumplirse en la
+especie cuando el operador titular se ausenta, habiéndose acreditado,
+además,  que  los  accionistas  del  agente  de  valores  realizaron
+directamente operaciones desde el exterior.
+XII) Que sin perjuicio de que la Superintendencia de Servicios Financieros no
+editó  ni  quitó  de  contexto  las  expresiones  vertidas  por  el  oficial  de
+RR-SSF-2024-62     Fecha: 29/01/2024 14:39:14
+cumplimiento,  cabe  destacar  que  los  incumplimientos  en  materia  de
+prevención de lavado de activos y financiamiento del terrorismo en lo
+relativo a los perfiles de actividad de sus clientes, fueron constatados en
+la  actuación  inspectiva  con  otras  pruebas,  sin  que  resulte  necesario
+recurrir a la mencionada entrevista para su acreditación.
+XIII) Que el proyecto de resolución sancionatorio del que se le confirió vista
+oportunamente reflejaba las observaciones que le fueron comunicados
+mediante la carta entregada como resultado de la actuación inspectiva,
+surgiendo de estas y de otras actuaciones, que el reporte al que se hacía
+referencia y con el que no contaba el intermediario era el reporte interno
+requerido en el artículo 205 de la Recopilación de Normas del Mercado de
+Valores, que es el que contiene el análisis que respalda el descarte o la
+emisión de un reporte de operación sospechosa con destino a la Unidad
+de Información y Análisis Financiero.
+XIV) Que se detectaron otras infracciones a la normativa relacionada con la
+prevención del lavado de activos y financiamiento del terrorismo, entre
+ellas, la relativa a la actualización del manual de prevención de lavado de
+activos y financiamiento del terrorismo, la cual databa del año 2019, no
+habiendo constancia de una revisión posterior, pese a que sí hubo una
+modificación en la normativa reglamentaria sobre la temática. Por lo tanto,
+no es posible sostener que se ha cumplido la exigencia normativa de que
+el  oficial  de  cumplimiento  promueva  la  permanente  actualización  de
+políticas y procedimientos sobre la materia, establecida en el artículo 186
+de la Recopilación de Normas de Mercado de Valores.
+XV) Que carece de incidencia alguna en la validez de la sanción aplicada el
+mero error material de haberse incluido en un informe dos párrafos de
+otro expediente, cuyo contenido era irrelevante en materia de análisis de
+los descargos del intermediario, los que fueron debidamente considerados
+en las actuaciones. Además, que el proyecto de resolución sancionatorio
+haya  sufrido  modificaciones  luego  de  evacuada  la  vista,  pone  en
+evidencia que se tomaron en cuenta todos y cada uno de los argumentos
+presentados  por  el  intermediario,  realizándose  los  cambios  de  texto
+necesarios para clarificar los aspectos con los que el supervisado expresó
+no estar de acuerdo en su redacción.
+XVI) Que  la  fijación  de  la  cuantía  de  la  sanción  constituye  una  potestad
+discrecional de la Administración, debiendo tener relación razonable con
+la gravedad de la o las infracciones constatadas y enmarcarse en los
+límites establecidos en la ley, todo lo cual se verifica en la especie.
+XVII) Que, en virtud de lo expuesto, los agravios esgrimidos por el recurrente
+no son de recibo, no advirtiéndose razones de mérito ni de legitimidad que
+ameriten  la  revisión  de  la  sanción  aplicada  y,  en  consecuencia,
+corresponde mantener la resolución impugnada, desestimando el recurso
+de revocación y franqueando el recurso jerárquico.
+ATENTO  :   A lo dispuesto en el artículo 317 de la Constitución de la República,
+los artículos 4 a 7 y 10 de la Ley Nº 15.869 de 22 de junio de 1987, el literal L)
+del artículo 38 de la Ley Nº 16.696 de 30 de marzo de 1995, en la redacción
+dada por el artículo 11 de la Ley Nº 18.401 de 24 de octubre de 2008, el
+RR-SSF-2024-62     Fecha: 29/01/2024 14:39:14
+artículo 2 de la Ley 17.613 de 27 de diciembre de 2002, los artículos 118 a 120
+de la Ley N° 18.627 de 2 de diciembre de 2009, los artículos 67.1, 67.1.1,
+67.1.3,  147,  186,  189,  197,  205,  213,  300,  351,  367,  373  y  374.1  de  la
+Recopilación de Normas del Mercado de Valores en la redacción vigente al
+momento de la actuación inspectiva, las Comunicaciones 2019/323, 2019/326,
+2020/295  y  2021/033,  los  artículos  145  y  siguientes  del  Reglamento
+Administrativo del Banco Central del Uruguay, así como a lo informado por los
+servicios de la Superintendencia de Servicios Financieros, a los Dictámenes de
+la Asesoría Jurídica del Banco Central del Uruguay y demás antecedentes que
+lucen  incorporados  en  los  expedientes  administrativos  2022-50-1-02380  y
+2023-50-1-01781.
+SE RESUELVE:
+1. No hacer lugar al recurso de revocación interpuesto por GMC SECURITIES
+AGENTE DE VALORES S.A. (antes DEL ESTE AGENTE DE VALORES
+S.A.) contra la Resolución de la Superintendencia de Servicios Financieros
+Nº 2023 - 448 de 28 de agosto de 2023.
+2. Notificar al recurrente de la presente Resolución.
+3. Franquear  para  ante  el  Directorio  el  recurso  jerárquico  interpuesto  en
+subsidio.
+JUAN PEDRO CANTERA
+Superintendente de Servicios Financieros
+RR-SSF-2024-62     Fecha: 29/01/2024 14:39:14
+Exp. 2023-50-1-01781 
+ Publicable: Si - Firmante: Juan Pedro Cantera Sencion

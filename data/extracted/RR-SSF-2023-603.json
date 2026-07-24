@@ -12,7 +12,7 @@
 "resultado": "recurso rechazado",
 "resumen": "AZUTUR TRADING (EN LIQUIDACIÓN): recurso rechazado",
 "relevancia": "baja",
-"_motor": "heuristica",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdLvqCXoZSZJoWTpAY41S'})",
 "id": "RR-SSF-2023-603",
 "year": "2023",
 "month": "Noviembre",

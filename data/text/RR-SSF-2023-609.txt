@@ -1,0 +1,51 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: Que es necesario reglamentar la forma de envío de la información de
+tercerización  de  servicios  para  Entidades  otorgantes  de  crédito  de  mayor
+actividad. 
+RESULTANDO: 
+I) Que  de  acuerdo  con  lo  establecido  en  el  artículo  644.1.1  de  la
+Recopilación de Normas de Regulación y Control del Sistema Financiero
+(RNRCSF),  las  Entidades  otorgantes  de  crédito  de  mayor  actividad
+deben  proporcionar  a  la  Superintendencia  de  Servicios  Financieros
+información sobre las tercerizaciones de servicios contratadas, dentro de
+los diez días hábiles posteriores a la firma del contrato.
+II) Que en la actualidad la información de tercerizaciones de servicios de
+las instituciones supervisadas es recepcionada por la Superintendencia
+de Servicios Financieros con fines  de  supervisión y registrada  en el
+Sistema  de  Envío  Centralizado(IDI)  Módulo  its  (información  de
+tercerización  de  servicios)  a  través  de  la  carga  que  realizan  las
+instituciones completando formularios Web.
+CONSIDERANDO: 
+I) Que el Módulo its del Sistema de Envíos Centralizado (Portal IDI) es el
+aplicativo  informático  por  el  cual  al  día  de  hoy  las  instituciones
+supervisadas que la normativa determina, envían a la Superintendencia
+de Servicios Financieros la información sobre alta, baja y modificación
+de los contratos de tercerización de servicios firmados.
+II) Que  el  aplicativo  referido  en  el  numeral  anterior,  permite  que  la
+información  quede  registrada  automáticamente,  asegurando  su
+integridad,  disminuyendo  los  riesgos  operativos,  unificando  la  vía  de
+acceso  de  la  información  y  permitiendo  un  mayor  control  del
+cumplimiento  del  plazo  y  forma  a  la  que  están  obligadas  las
+instituciones.
+ATENTO  :   a lo dispuesto en los artículos 38 y 39 de la Carta Orgánica del
+Banco Central del Uruguay (aprobada por la ley N° 16.696 de 30 de marzo de
+1995, con las modificaciones introducidas por las Leyes N°18.401 de 24 de
+octubre de 2008 y N°18.670 de 20 de julio de 2010) ,  en los artículos 86.7,
+644.1.1  y  710  de  la Recopilación de  Normas  de  Regulación y Control  del
+Sistema Financiero, la Comunicación número 2020/030 de fecha 2 de marzo de
+2020 y en la Resolución de la Superintendencia de Servicios Financieros N°
+SSF-785-2015 de 24 de noviembre de 2015 numeral 5) literal a).
+RR-SSF-2023-609     Fecha: 29/11/2023 09:37:28
+EL GERENTE DE GESTIÓN ESTRATÉGICA Y OPERATIVA EN EJERCICIO DE
+ATRIBUCIONES DELEGADAS POR EL  SUPERINTENDENTE DE SERVICIOS
+FINANCIEROS RESUELVE:
+Emitir una comunicación al mercado con  las especificaciones técnicas para el
+envío  de  la  información  sobre  Tercerización  de  Servicios  por  parte  de  las
+Entidades otorgantes de crédito de mayor actividad, de acuerdo al texto que
+luce de folios 391 a 393 inclusive.
+CHRISTIAN SALVARREY
+GERENTE DE GESTIÓN ESTRATÉGICA Y OPERATIVA
+RR-SSF-2023-609     Fecha: 29/11/2023 09:37:28
+Exp. 2022-50-1-01848 
+ Publicable: Si - Firmante: ALBERTO CHRISTIAN SALVARREY MORO

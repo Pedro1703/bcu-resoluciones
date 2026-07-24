@@ -12,7 +12,7 @@
 "resultado": "sancionado",
 "resumen": "BBVA: sancionado (50%)",
 "relevancia": "media",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdK3y1r9M716cvrepVdqJ'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdLvhn5BwG76Wg4CqiUju'})",
 "id": "RR-SSF-2024-169",
 "year": "2024",
 "month": "Abril",
