@@ -12,7 +12,7 @@
 "resultado": "autorizado",
 "resumen": "CORPORACIÓN NACIONAL FINANCIERA ADMINISTRADORA DE : autorizado",
 "relevancia": "media",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cdc36VUSxxpJcFLQLwrM9'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cddw1wdEZ8WF8kCHe5cWy'})",
 "id": "RR-SSF-2024-66",
 "year": "2024",
 "month": "Enero",
