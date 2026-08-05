@@ -1,0 +1,74 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La denuncia presentada por un particular, con fecha 06 de febrero
+de 2026, contra Banco de la República Oriental del Uruguay (BROU)  por el
+desconocimiento de dos transferencias de fondos.
+RESULTANDO:
+I) Que la denunciante expresa en su denuncia que recibió una
+llamada del Banco para consultarle por un movimiento inusual de su tarjeta y
+verificar si efectivamente había sido ella quien lo realizó. Manifiesta que recibió
+en su correo dos notificaciones de movimientos en la tarjeta a lo que el Banco
+le comunica que le habrían “hackeado”;
+II) Que  consultado  BROU informa  que  las  transacciones  no
+tuvieron que ver con la tarjeta de débito de la denunciante, ya que los canales
+utilizados para realizar las transferencias fueron el servicio de banca móvil y
+web del Banco;
+III) Que  BROU  afirma  que  no  existe  registro  de  contacto
+mantenido por el Banco para consultar a la denunciante por una operativa
+inusual con tarjetas;
+IV) Que BROU expresa que las transferencias fueron realizadas
+utilizando las credenciales válidas de la denunciante (usuario, contraseña y
+llave digital);
+V) Que BROU informó que no existió una falla de seguridad
+interna y que gestionó el recupero de los fondos, sin éxito;
+VI) Que,  en  cuanto  a  las  notificaciones  de  las  transacciones
+vinculadas al instrumento electrónico, BROU informó que la denunciante recibió
+vía correo electrónico las notificaciones de las transferencias;
+CONSIDERANDO:
+I) Que el artículo 365 - Responsabilidades del Emisor de la
+Recopilación  de  Normas  de  Regulación  y  Control  del  Sistema  Financiero
+(RNRCSF)  establece  que  el  emisor  de  un  instrumento  electrónico  será
+responsable frente al usuario de: “c) Todos los importes imputados en la cuenta
+del cliente que se originen por el mal funcionamiento del sistema o por fallas en
+su seguridad, y no sean atribuibles a incumplimientos de las obligaciones del
+usuario”;
+II) Que de acuerdo con el artículo 366 (Obligaciones de los
+Usuarios)  de  la  RNRCSF,  el  usuario  del  instrumento  electrónico  deberá
+utilizarlo de acuerdo con las condiciones del contrato, no divulgar el código de
+identificación personal u otro código a terceros, tomar las medidas adecuadas
+RR-SSF-2026-486     Fecha: 28/07/2026 12:55:26
+para  garantizar  la  seguridad  del  instrumento,  no  responder  a  intentos  de
+comunicación por medios y formas no acordados con el emisor; entre otras
+obligaciones allí establecidas;
+III) Que a la fecha de realizada la operación – febrero de 2026 –
+se  encontraba  en  vigencia  el  literal  n)  del  art.  364  de  la  Recopilación  de
+Normas de Regulación y Control del Sistema Financiero (RNRCSF), que obliga
+al emisor a ofrecer al usuario la posibilidad de recibir notificaciones cada vez
+que se procesa una transacción vinculada al instrumento electrónico de su
+titularidad;
+IV) Que de los elementos aportados surge que las operaciones
+se realizaron con los elementos de seguridad dispuestos;
+V) Que la resolución del presente conflicto, en lo que refiere al
+reintegro de los fondos, se encuentra más allá de las competencias del Banco
+Central  del  Uruguay,  por  lo  que  el  caso  debe  ser  dilucidado  por  el  Poder
+Judicial;
+VI) Que se ha realizado y culminado el análisis correspondiente.
+ATENTO: A lo dispuesto en los artículos 37 y 38 de la Ley N°16.696 del 30 de
+marzo de 1995, en la redacción dada por el artículo 694 de la Ley Nº 20.446 de
+16 de diciembre de 2025, la Ley Nº 17.250 de fecha 11 de agosto de 2000, la
+Recopilación de Normas de Regulación y Control del Sistema Financiero, a la
+Resolución  R.  Nº:  SSF  785  -  2015  de  24  de  noviembre  de  2015,  a  la
+Resolución R. N°: D -19-2017 del 18 de enero de 2017 y a los antecedentes
+que lucen en el expediente N° 2026-50-1-00433.   
+                        
+LA JEFA DE DEPARTAMENTO DE CONDUCTAS DE MERCADO
+EN EJERCICIO DE ATRIBUCIONES DELEGADAS POR EL
+SUPERINTENDENTE DE SERVICIOS FINANCIEROS
+RESUELVE:
+1) Dar por concluidas las actuaciones, haciéndole saber a la denunciante
+que con relación a la devolución de los fondos que se reclaman compete
+al Poder Judicial dirimir su reclamo.
+2) Notificar a la denunciante y a BROU la resolución adoptada.
+RR-SSF-2026-486     Fecha: 28/07/2026 12:55:26
+Exp. 2026-50-1-00433 
+ Publicable: Si - Firmante: VERÓNICA VILLETE BAROFFIO

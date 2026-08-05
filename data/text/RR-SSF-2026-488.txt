@@ -1,0 +1,73 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La denuncia presentada por un particular, con fecha 13 de abril de
+2026, contra Banco Itaú Uruguay S.A. (Banco Itaú) por el desconocimiento de
+un préstamo y la sucesiva transferencia salientes de su cuenta.
+RESULTANDO:
+I) Que  el  denunciante  expresa  que  se  realizó  sin  su
+autorización un préstamo virtual como la posterior transferencia saliente;
+II) Que consultado Banco Itaú informó que el denunciante fue
+víctima  de  fraude  y  que  tanto  el  préstamo  como  la  transferencia  fueron
+realizados  mediante  canal  web  utilizando  credenciales  digitales  válidas  y
+autenticados mediante segundo factor de autenticación, en este caso iToken
+enviado al celular del denunciante;
+III) Que  Banco  Itaú  realizó  acciones  tendientes  a  la
+recuperación de los fondos reclamados, sin éxito;
+CONSIDERANDO:
+I) Que  el  artículo  364  de  la  Recopilación  de  Normas  de
+Regulación  y  Control  del  Sistema  Financiero  (RNRCSF)  en  su  literal  i),
+establece  que  el  emisor  del  instrumento  electrónico  deberá:  “Establecer
+medidas que permitan garantizar razonablemente la seguridad del sistema en
+que  opera  el  instrumento,  que  incluyan  metodologías  de  autenticación
+asociadas a los riesgos de los distintos tipos de transacciones y niveles de
+acceso para asegurar que las operaciones realizadas en el mismo sean las
+efectuadas  por  las  personas  autorizadas.  Sin  perjuicio  de  ello,  las
+transferencias o pagos a terceros realizados desde una cuenta bancaria y las
+solicitudes  de  préstamos  que  fueran  realizadas  en  forma  no  presencial
+requerirán como mínimo un doble factor de autenticación.”; 
+II) Que las operaciones fueron realizadas con las credenciales
+válidas de la denunciante (usuario y contraseña) y fueron validadas utilizando
+doble factor, mediante el uso de iToken;
+III) Que de acuerdo con el artículo 366 (Obligaciones de los
+Usuarios)  de  la  RNRCSF,  el  usuario  del  instrumento  electrónico  deberá
+utilizarlo de acuerdo con las condiciones del contrato, no divulgar el código de
+identificación personal u otro código a terceros, tomar las medidas adecuadas
+para  garantizar  la  seguridad  del  instrumento,  no  digitar  el  código  de
+identificación personal en presencia de otras personas, aun cuando pretendan
+ayudarlo, ni facilitar el instrumento electrónico a terceros, ya que el mismo es
+de uso personal, entre otras obligaciones allí establecidas;
+RR-SSF-2026-488     Fecha: 28/07/2026 13:05:04
+IV) Que el artículo 367 de la RNRCSF establece que el usuario
+será responsable de las operaciones no autorizadas por él, efectuadas con su
+instrumento electrónico, hasta el momento de la notificación al emisor, siempre
+que dichas operaciones no le hayan sido imputadas por una falla del sistema
+de seguridad del producto o servicio contratado;
+V) Que, por lo señalado en los considerandos anteriores, y de
+los elementos aportados, no surge evidencia de que haya existido una falla del
+sistema de seguridad del producto o servicio contratado ya que las operaciones
+se realizaron con los elementos de seguridad dispuestos;
+VI) Que la resolución de este conflicto, en lo que respecta a la
+devolución de los fondos reclamados y a la anulación del préstamo otorgado,
+excede la competencia del Banco Central del Uruguay, debiendo ser resuelto
+por la vía judicial;
+VII) Que se ha realizado y culminado el análisis correspondiente.
+ATENTO: A lo dispuesto en los artículos 37 y 38 de la Ley N°16.696 del 30 de
+marzo de 1995, en la redacción dada por el artículo 694 de la Ley Nº 20.446 de
+16 de diciembre de 2025 la Ley Nº 17.250 de fecha 11 de agosto de 2000, la
+Recopilación de Normas de Regulación y Control del Sistema Financiero, a la
+Resolución  R.  Nº:  SSF  785  -  2015  de  24  de  noviembre  de  2015,  a  la
+Resolución R. N°: D -19-2017 del 18 de enero de 2017 y a los antecedentes
+que lucen en el expediente N° 2026-50-1-00773.   
+                        
+LA JEFA DE DEPARTAMENTO DE CONDUCTAS DE MERCADO
+EN EJERCICIO DE ATRIBUCIONES DELEGADAS POR EL
+SUPERINTENDENTE DE SERVICIOS FINANCIEROS
+RESUELVE:
+1) Dar por concluidas las actuaciones, haciéndole saber al denunciante que
+con  relación  a  la  devolución  de  los  fondos  que  se  reclaman  y  a la
+anulación del préstamo otorgado compete al Poder Judicial dirimir su
+reclamo.
+2) Notificar al denunciante y a Banco Itaú la resolución adoptada.
+RR-SSF-2026-488     Fecha: 28/07/2026 13:05:04
+Exp. 2026-50-1-00773 
+ Publicable: Si - Firmante: VERÓNICA VILLETE BAROFFIO

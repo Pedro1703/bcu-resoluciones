@@ -1,0 +1,120 @@
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS – RESOLUCIÓN
+SUPERINTENDENCIA DE SERVICIOS FINANCIEROS
+VISTO: La  reglamentación  en  materia  de  posición  de  operaciones  activas  y
+pasivas  a  plazos  mayores  a  tres  años  establecida  en  el  artículo  203  de  la
+Recopilación de Normas de Regulación y Control del Sistema Financiero.
+RESULTANDO: 
+I) Que el artículo referido en el VISTO establece que las instituciones no podrán
+mantener una posición activa a plazos residuales mayores a tres años, que
+supere 1.5 veces su patrimonio contable ajustado.  
+II) Que en el marco de las tareas definidas en el Plan de Regulaciones para el año
+2026,  se  elaboró  un  proyecto  cuyo  objetivo  es  agregar  al  elenco  de
+instrumentos  compensatorios  admitidos  a  efectos  de  operar  con  topes
+superiores a los definidos en el artículo 203, a los instrumentos financieros
+derivados de cobertura. 
+III) Que la propuesta, que incluye el anexo correspondiente para el envío de la
+información,  fue  puesta  a  consulta  de  las  instituciones  supervisadas  y  del
+público en general con fecha 26 de junio de 2026, venciendo el plazo para la
+recepción de comentarios el 9 de julio de 2026.
+IV) Que se recibió un único comentario del Banco de la República Oriental del
+Uruguay.
+V) Que el citado comentario refiere a la posibilidad de explicitar en la norma qué
+tipo de instrumentos derivados  serán considerados elegibles  y si requieren
+algún plazo específico u otra característica relevante que deban cumplir.
+CONSIDERANDO: 
+I) Que  se  considera  adecuado  permitir  el  uso  de  instrumentos  financieros
+derivados de cobertura, acotando las contrapartes de los citados instrumentos
+a bancos  del  exterior  u  organismos  multilaterales  comprendidos  en  las
+categorías  de  mayor  calidad  para  inversión  (“investment  grade”)  según
+calificación otorgada por agencias internacionales calificadoras de riesgo, lo
+que  requiere  ajustar  la Comunicación  reglamentaria  para  incorporarlos  al
+elenco de instrumentos compensatorios admitidos.
+II) Que no se ha entendido conveniente identificar taxativamente los instrumentos
+derivados  admisibles,  como  sugiere  el  Banco  de  la  República  Oriental  del
+Uruguay,  ya  que  su  consideración  como  instrumentos  compensatorios
+dependerá  de  su  efectividad  para  mitigar  el  descalce.  Este  objetivo  podrá
+alcanzarse mediante diversas estrategias e instrumentos de cobertura.
+ATENTO  :   A lo dispuesto en el literal A) y H) del artículo 38 de la Ley Nro. 16.696
+del 30 de marzo de 1995 en la redacción dada por el artículo 694 de la Ley Nro.
+20.446  del  16  de  diciembre  de  2025  y  a  los  informes  emitidos  por  esta
+Superintendencia de Servicios Financieros en el expediente Nro. 2025-50-1-02246.
+RR-SSF-2026-483     Fecha: 27/07/2026 15:37:24
+EL SUPERINTENDENTE DE SERVICIOS FINANCIEROS
+RESUELVE:
+1. Comunicar a las instituciones de intermediación financiera que, a efectos de
+dar  cumplimiento  a  lo  establecido  en  los  artículos  203,  545  y  546  de  la
+Recopilación de Normas de Regulación y Control del Sistema Financiero, se ha
+resuelto sustituir las instrucciones impartidas por la Comunicación N°2022/0003
+a efectos de admitir como instrumentos compensatorios, la contratación de
+instrumentos  financieros  derivados  de  cobertura  cuyas  contrapartes  sean
+bancos del exterior u  organismos multilaterales.
+En consecuencia, deberán ceñirse a lo siguiente:
+I. Instrumentos compensatorios
+Con la finalidad de atender situaciones de exceso de posición de operaciones
+activas  y  pasivas  a  plazos  mayores  a  tres  años,  se  admitirán  como
+instrumentos compensatorios los siguientes:
+a. Obtención de líneas de financiamiento a plazos mayores a tres años de
+la casa matriz o de bancos del exterior.
+b. Contratación de instrumentos financieros derivados de cobertura cuyas
+contrapartes sean bancos del exterior u organismos multilaterales.
+A estos efectos, sólo se admitirá a instituciones comprendidas en las categorías
+de  mayor  calidad  para  inversión  (“investment  grade”)  según  calificación
+otorgada  por  agencias  internacionales  calificadoras  de  riesgo.  Dichas
+calificaciones no podrán tener una antigüedad mayor a dieciocho meses.
+II. Elaboración de la información
+La información requerida por el artículo 545 de la Recopilación de Normas de
+Regulación y Control del Sistema Financiero se elaborará al último día de cada
+mes de conformidad con el archivo anexo a esta Comunicación. Su entrega se
+hará en la Superintendencia de Servicios Financieros dentro de los ocho días
+hábiles siguientes al fin del periodo informado, a través del Sistema de Envío
+Centralizado utilizando el tipo de dato “Posición Oper. Activas Pasivas” (39).
+Para su elaboración deberán tenerse en cuenta las siguientes consideraciones:
+a. La  posición  de  operaciones  activas  y  pasivas  se  presentará  con  la
+siguiente apertura:
+ créditos y obligaciones que venzan en plazos menores a un año;
+ créditos y obligaciones que venzan en plazos de entre uno y hasta
+tres años;
+ créditos y obligaciones que venzan en plazos mayores a tres años.
+b. Los saldos de créditos por intermediación financiera se considerarán
+netos de provisiones.
+c. Los  importes  de  las  operaciones  activas  y  pasivas  se  informarán
+únicamente por su capital.
+d. El rubro 2.7.3 Provisiones estadísticas y generales se computará como
+obligaciones a plazos “Mayores a tres años”.
+RR-SSF-2026-483     Fecha: 27/07/2026 15:37:24
+e. Los  rubros  de  colocación  vencida,  créditos  en  gestión  y  créditos
+morosos se informarán en el plazo “Menores a un año”.
+f. En el caso de operaciones activas y pasivas que contemplen servicio en
+cuotas, en que una o más de ellas venza después de un año contado
+desde su fecha de otorgamiento, se computará como plazo total de las
+mismas el plazo promedio resultante de considerar cada una de dichas
+cuotas  de  pago  por  los  importes  de  capital  implícito  y  plazos
+respectivos.
+Para  determinar  dicho  plazo  se  multiplicará  el  importe  implícito  de
+capital  correspondiente  a  cada  cuota  de  amortización  por  su  plazo
+expresado en días. Luego se sumarán los productos obtenidos de esas
+multiplicaciones. El resultado de esta suma se dividirá por el importe del
+capital total de la operación y el cociente así obtenido indicará el plazo
+promedio ponderado de la operación expresado en días.
+De  acuerdo  con  este  criterio,  las  referidas  operaciones  deberán
+exponerse en plazos “Menores a un año”, “Entre uno y hasta tres años”
+o “Mayores a tres años”, según corresponda.
+III. Plan de regularización de situaciones de exceso en la posición de
+operaciones activas y pasivas a plazos residuales mayores a tres
+años
+El  plan  de  regularización  de  situaciones  de  exceso  en  la  posición  de
+operaciones activas y pasivas a plazos mayores a tres años a que refiere el
+artículo 546 de la Recopilación de Normas de Regulación y Control del Sistema
+Financiero,  deberá  presentarse  en  la  Superintendencia  de  Servicios
+Financieros conjuntamente con la información correspondiente al mes en que
+se determina la situación de exceso.
+2. VIGENCIA: Lo dispuesto precedentemente regirá a partir del 1 de setiembre de
+2026. A partir de dicha fecha se deja sin efecto la Comunicación N°2022/0003
+de 12 de enero de 2022.
+3. Poner en conocimiento la resolución mediante Comunicación, adjuntando como
+Anexo el archivo expuesto a fs. 29 del expediente 2025-50-1-02246.
+JUAN PEDRO CANTERA
+Superintendente de Servicios Financieros
+RR-SSF-2026-483     Fecha: 27/07/2026 15:37:24
+Exp. 2025-50-1-02246 
+ Publicable: Si - Firmante: JUAN PEDRO CANTERA SENCIÓN
