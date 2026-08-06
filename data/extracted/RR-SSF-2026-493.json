@@ -12,7 +12,7 @@
 "resultado": "inscripción aprobada",
 "resumen": "REGISTRO DE LAS COOPERATIVAS DE CONSUMO E INSTITUC: inscripción aprobada",
 "relevancia": "media",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdjfGK8qgyeQuJsbjsaZW'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdmYxVKaPvx8oPTgaJoHu'})",
 "id": "RR-SSF-2026-493",
 "year": "2026",
 "month": "Julio",
