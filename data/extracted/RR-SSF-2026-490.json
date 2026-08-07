@@ -12,7 +12,7 @@
 "resultado": "autorizado",
 "resumen": "ADMINISTRADORA DE SOLUCIONES INTEGRALES: autorizado",
 "relevancia": "media",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdmYxX4kG7Pjef5tKqnts'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdoNAULrD4YoDaYLYmFUT'})",
 "id": "RR-SSF-2026-490",
 "year": "2026",
 "month": "Julio",
