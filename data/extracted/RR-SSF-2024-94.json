@@ -12,7 +12,7 @@
 "resultado": "inscripción aprobada",
 "resumen": "CORPORACIÓN NACIONAL FINANCIERA ADMINISTRADORA DE : inscripción aprobada (99.8%)",
 "relevancia": "media",
-"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdoNBbAeKTKQLaeD6bEBK'})",
+"_motor": "heuristica (claude falló: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdqEpthwac5hTv3Q85GnQ'})",
 "id": "RR-SSF-2024-94",
 "year": "2024",
 "month": "Febrero",
